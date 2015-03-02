@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"portable",
+				"Portable"
+			],
+			[
+				"Sto",
+				"storz-bickel"
+			],
+			[
+				"Vapor",
+				"Vaporizer"
+			],
+			[
+				"chord",
+				"chordGroup"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"productList",
+				"ProductListCtrl"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"chart",
+				"chartDataAmount"
+			],
+			[
+				"Price",
+				"PriceAnalyticsCtrl"
+			],
+			[
+				"fil",
+				"filteredProductAmount"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"P",
+				"PriceAnalyticsCtrl"
+			],
+			[
+				"prod",
+				"productResource"
+			],
+			[
+				"price",
+				"priceAnalytics"
+			],
+			[
+				"ca",
+				"calculatePrice"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"product",
+				"productService"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"in",
+				"Input"
+			],
+			[
+				"produ",
+				"productUrl"
+			],
+			[
+				"http",
+				"httpBackend"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"tab",
+				"tab-panels"
+			],
+			[
+				"pane",
+				"panelToShow"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"sh",
+				"shippingCost"
+			],
+			[
+				"tax",
+				"taxFactor"
+			],
+			[
+				"shipping",
+				"shippingMethod"
+			],
+			[
+				"usps",
+				"r-method-usps"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"para1",
+				"para1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common"
+	],
+	"file_history":
+	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/tempz.sublime-project",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView_before.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/improv/improv1ViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/devnotes/Uke-2.18.txt",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/improv/improv1View.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/progressions/progView.html",
+		"/C/inetpub/wwwroot/UKE/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/productListView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv2ViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/devnotes/Uke-2.17.txt",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv1View.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/progressions/progView.html",
+		"/C/inetpub/wwwroot/UKE/app/progressions/progView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv1ViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv2View.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/improv2Resource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/improv1Resource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/progressions/progViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progView_newApproach.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progViewCtrl2.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/progressionResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/tipResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/devnotes/DevNotes - Tempz 1.07",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/demo.css",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/snap.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/progressions/progView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/progressions/progViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progView_old.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/devnotes/DevNotes - Tempz 1.06",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/devnotes/Uke-2.13-S.txt",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/css/app.css",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/common/services/progressionResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/app template/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/archives/UKE_A1_old.zip",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/chords/chordViewA.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/products/productListView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/productDetailCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/chordViewA.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/productListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/products/productListView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/chordViewSvc.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productService.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/itemsController.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/ItemsController.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/data/mockItems.json",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/UKE_A1/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/chordViewA9.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/StrangePunch/ng-bootstrap.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index_inlcdes link to StrangePunch.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/tips/tipListCtrl.js",
+		"/C/inetpub/wwwroot/UKE/common/services/tipResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/tipResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewA.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productResource.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/app.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productListView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewAmaj.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/productListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewAmaj7.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productService.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/productDetailCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productDetailCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productEditCtrl.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewA9.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeListCtrl.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pattern 5",
+			"Pattern 4",
+			"Pattern 3",
+			"Pattern 2",
+			"Pattern 1",
+			"products",
+			"B Major",
+			"progTitle",
+			"pattern1Resource",
+			"currentChords",
+			"Major",
+			"\"weight\": \"\",\n			 \"construction\": \"\",",
+			"#progTitle",
+			"progTitle",
+			"Ukulele_Empty",
+			"Ukelele_Empty",
+			"\"imageUrl4\": \"\"",
+			"\"imageUrl\": \"\"",
+			"margin-bottom: 20px",
+			"margin-left:10%",
+			"margin-left:15%",
+			"margin-left:25%",
+			"margin-bottom: 10px;",
+			"width:50%",
+			"tipText",
+			"storz",
+			"chordNav",
+			"Folk",
+			"A",
+			"Folk & Western",
+			"Folk 1",
+			"Folk",
+			"50s Ballad",
+			"50s and 60s Soft Rock",
+			"Swing and Classic Jazz",
+			"Minor Blues",
+			"Heart of the Blues",
+			"Folk and Western",
+			"b",
+			"Separated link",
+			"s-state"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"5th Position",
+			"4th Position",
+			"3rd Position",
+			"2nd Position",
+			"1st Position",
+			"improv1Resource",
+			"currentPatterns",
+			"CurrentPatterns",
+			"Minor",
+			"\"weight\": \"\",\n			 \"type\": \"\",\n			 \"construction\": \"\",",
+			"Ukulele_Empty",
+			"\"imageUrl4\": \"images/chords/Ukelele_Empty.png\"",
+			"\"imageUrl\": \"images/chords/Ukelele_Empty.png\"",
+			"margin-bottom: 30px",
+			"margin-left:12%",
+			"margin-left:10%",
+			"margin-left:15%",
+			"margin-bottom: 20px;",
+			"width:75%",
+			"Folk 1",
+			"Folk",
+			"Folk & Western",
+			"Folk 1",
+			"Ballad 2",
+			"Ballad 1",
+			"Jazz 1",
+			"Blues 2",
+			"Blues 1",
+			"Folk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tempz.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,7 @@
+DevNotes - Tempz
+v1.06 - 
+-added new vape images-scm
+-updated vapeView to use 7 images and 7 paragraphs - scm
+-updated app.css to make tipText 16px for readability on phone-scm
+-updated vapes jSON in productMock to include 7 text descriptions and 7 images for each vape - scm
+-updated vapes jSON in productMock to include added vapes

@@ -1,0 +1,25 @@
+<div class="panel panel-primary" id="tips">
+	<div class="panel-heading"
+		 style="font-size:large"> 
+		 Dial in Your Desired Effect
+	</div>
+	<div class="panel-body">
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<td><strong>Effect</strong></td>
+					<td><strong>Temperature</strong></td>
+					<!-- <td><strong>Component</strong></td> -->
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="product in vm.products">
+					<td>{{ product.Property }}</td>
+					<td>{{ product.temp }}</td>
+					<!-- <td>{{ product.productName }} -->
+						<!--<a ui-sref="productDetail({productId: product.productId})">{{ product.productName }}</a> </td> -->
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

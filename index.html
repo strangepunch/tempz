@@ -1,0 +1,98 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <title>Tempz 1.07</title>
+        <meta http-equiv="x-ua-compatible" content="IE=edge" />
+        <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-touch-fullscreen" content="yes">
+        
+        <!-- Style Sheets-->
+        <link href="css/app.css" rel="stylesheet">
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link href="css/toastr.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/snap.css" />
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+
+        <!-- Libraries Scripts -->
+        <script src="js/jquery.js"></script>
+        <script src="js/angular.js"></script>
+        <script src="js/angular-resource.js"></script>
+        <script src="js/angular-mocks.js"></script>
+        <script src="js/angular-ui-router.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/ui-utils.js"></script>
+        <script src="js/ui-bootstrap-tpls-0.12.0.min.js"></script>
+        <script src="js/toastr.js"></script>
+        <script src="js/angular-charts.js"></script>
+        <script src="js/d3.min.js"></script>
+
+      <!-- Application Scripts-->
+      <script src="StrangePunch/ng-bootstrap.js"></script>
+      <script src="app/app.js"></script>
+
+      <!-- Services -->
+      <script src="common/services/common.services.js"></script>
+      <script src="common/services/productResource.js"></script>
+      <script src="common/services/vapeResource.js"></script>
+      <script src="common/services/productResourceMock.js"></script>
+      <script src="common/services/productService.js"></script>
+      <!-- <script src="common/services/vapeService.js"></script> -->  
+
+      <!-- Product Controllers-->
+      <script src="app/products/productListCtrl.js"></script>
+      <script src="app/products/productDetailCtrl.js"></script>
+      <script src="app/products/productEditCtrl.js"></script>
+      <script src="app/tips/tipListCtrl.js"></script>
+      <script src="app/vapes/vapeListCtrl.js"></script>
+
+      <!-- Price Controllers-->
+      <script src="app/prices/priceAnalyticsCtrl.js"></script>        
+    </head>
+    <body ng-app = "productManagement">
+        <div class="snap-drawers">
+            <div class="snap-drawer snap-drawer-left">
+                <div>
+                    <h3>Tempz</h3>
+                    <div class="demo-social">
+                        
+                    </div>
+                    <h4>Tap Below</h4>
+                    <ul>
+                        <li><a ui-sref="home">Tempz Home</a></li>
+                        <li><a ui-sref="productList">Temperature Guide</a></li>
+                        <li><a ui-sref="tips">Cannabinoids</a></li>
+                        <li><a ui-sref="vapes">Popular Vaporizers</a></li>
+                        <li><a href="#"></a></li>
+                    </ul>
+                    <div>
+                        <p>(c)2015 424all</p>
+                        <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non erat ac leo ultrices blandit sed vel risus. Pellentesque facilisis blandit auctor. Maecenas vestibulum vulputate tincidunt. Mauris nec quam libero. Fusce eget ligula non leo varius condimentum quis ac elit. Donec id urna ut neque semper ultrices. Proin ut suscipit felis. Nullam neque felis, ullamcorper scelerisque volutpat vel, vehicula vehicula neque. Aenean scelerisque elit ac erat sagittis ullamcorper.</p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="snap-drawer snap-drawer-right"></div>
+        </div>
+        
+        <div id="content" class="snap-content">
+            <div id="toolbar">
+                <a href="#" id="open-left"></a>
+                <h1></h1>
+            </div>
+            <div class="paddingBottom">
+            </div>
+            <div data-ui-view></div>         
+        </div>
+        <script type="text/javascript" src="js/snap.js"></script>
+        <script type="text/javascript">
+            var snapper = new Snap({
+                element: document.getElementById('content'),
+                disable: 'right'
+            });
+            
+        </script>
+        <script type="text/javascript" src="js/demo.js"></script>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>       
+    </body>
+</html>

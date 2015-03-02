@@ -1,0 +1,9 @@
+Medical Properties of CBD	Effects
+
+Antiemetic	Reduces nausea and vomiting
+Anticonvulsant	Suppresses seizure activity
+Antipsychotic	Combats psychosis disorders
+Anti-inflammatory	Combats inflammatory disorders
+Anti-oxidant	Combats neurodegenerative disorders
+Anti-tumoral/Anti-cancer	Combats tumor and cancer cells
+Anxiolytic/Anti-depressant	Combats anxiety and depression disorders

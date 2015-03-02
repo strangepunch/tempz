@@ -1,0 +1,212 @@
+html, body {
+	#E4E1D6); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #0000CC , #E4E1D6); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #0000CC , #E4E1D6); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #0000CC , #E4E1D6); /* Standard syntax */
+    background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+   /** background-color: #F4F2EB;**/
+   	width: auto !important;
+   	height: 100%;
+  	overflow-x: hidden !important;
+}
+
+#tipText {
+	  font-size: 18px;
+}
+
+.fill { 
+    min-height: 100%;
+}
+.navbar{
+	margin-right: none;
+}
+.panel, .route-blurb-container {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.table > thead > tr > th, .table > thead > tr > td {
+    border: 0;
+}
+#altChords {
+	background: transparent;
+	text-decoration: none;
+	border: none;
+	margin-top: -10px;
+}
+#altChords td{
+	padding: 0px;
+	margin:2px;
+	border-top: none;
+}
+#altChords a {
+	border-radius: 10px 10px 0px 0px;
+	display: inline-block;
+	margin-right: 5px;
+	min-width: 50px;
+	outline: none;
+	position: relative;
+	text-decoration: none;
+}
+
+#altChords .active{
+	background: #DA9223;
+	color: #fff;	
+}
+
+#altChords ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+#altChords li a {
+	background: #F4E0CB;
+	color: #CF6314;
+	border-radius: 30px;
+	min-width: 55px;
+	max-width: 65px;
+	padding: 8px;
+	margin: 2px;
+	text-align: center;
+	position: relative;
+}
+
+#altChords img {
+ 	width: 100%; /*this makes the image size responsive*/
+ 	margin:10px;
+ 	/*vertical-align: center;
+ 	position: relative;*/
+}
+
+#chordNav{
+	vertical-align: bottom;
+	margin-left: 15%;
+	/*margin-right: 25%;*/
+	min-width: 400px;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+}
+
+#chordNav a{
+	background: #F4E0CB;
+	color: #CF6314;
+	min-width: 30px;
+	text-align: center;
+	padding: 5px 65% 5px 65%;
+}
+
+#sharpFlatNav{
+	/*don't put anything in here or risk 
+	overiding image size and position too*/
+
+}
+
+#sharpFlatNav a{
+	background: #F4E0CB;
+	color: #CF6314;
+	text-align: center;
+	border-radius: 30px;
+}
+
+/**--------------MAIN VIEW------------------**/
+#mainView {
+	
+	/**
+	background: url('../images/BeachShell.png');
+	background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;**/
+	background-color: transparent;
+	background-position:center;
+	border: none;
+	overflow: hidden;
+	min-height: 100%;
+}
+#mainView ul{
+	list-style-type: none;
+	vertical-align: bottom;
+	padding-top: 250%;
+}
+#mainView li a {
+	background: #000;
+	box-shadow: 0 3px 0 rgba(255,255,255,0.1);
+	color: #00A300;
+	line-height: 50px;
+	border-radius: 30px;
+	padding: 10px 400px 10px 10px;
+	margin: 10px;
+	text-align: center;
+	position: relative;
+	text-decoration: none;
+}
+#mainView .active{
+	background: #DA9223;
+	color: #fff;	
+}
+#mainView .logo{
+	/**background: #DA9223;**/
+	color: #000;
+	font-size: 60px;
+	font-family: 'Cookie', cursive;
+	font-weight: normal;
+	line-height: 10px;
+	text-shadow: 0 3px 0 rgba(0,0,0,0.1);
+	border-radius: 30px;
+	padding: 10px 50px 20px 30px;
+	margin: 0px 0px 0px 40px;
+	text-align: left;
+	position: relative;
+	top: 70px;
+	text-decoration: none;	
+}
+#mainView .tagline{
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Cookie', cursive;
+	font-weight: normal;
+	text-shadow: 0 3px 0 rgba(0,0,0,0.1);
+	padding: 1px 1px 1px 1px;
+	margin: 0px 0px 0px 22px;
+	min-width:200px;
+	text-align: left;
+	position: relative;
+	top: 70px;	
+}
+/**--------------------------------**/
+#tips .panel-heading{
+	background-color: #000;
+	border-color: #DA9223;
+}
+#tips .panel, .route-blurb-container {
+    border-color: #DA9223;
+
+}
+#tips .btn-primary{
+	background-color: #DA9223;
+	border-color: #DA9223;
+}
+/*----------------------------------**/
+#themes .panel-heading{
+	background-color: #000;
+	border-color: #DA9223;
+}
+/*#themes .panel, .thumbnail{
+    border-color: #DA9223;
+    background-color: transparent;
+}*/
+#themes .btn-primary{
+	background-color: #DA9223;
+	border-color: #DA9223;
+}
+#themes .btn-default{
+	/**not sure what color to change to yet**/
+}
+/*----------------------------------**/
+.paddingBottom{
+	padding-bottom: 10%;
+}
