@@ -8,6 +8,25 @@
 	
 	app.run(function ($httpBackend){
 
+		var conditions = [
+			{"conditionId": 1,
+			 "conditionName": "Insomnia", 
+			 "treatment": "Indica at higher temps will typically result in an increased sedative effect which can assist with Insomnia.",
+			 "strainType": "Indica",
+			 "descriptionDetailed": "When you're having trouble sleeping on a regular basis the condition is referred to as insomnia. If it continues for a period of time the lack of REM sleep will cause problems with memory and the ability to focus. Both physical and emotional stress also accompanies prplonged sleep depravation.",
+			 "descriptionAbbrev":  "Insomnia patients have trouble falling asleep at night.",
+			 "tags": ["Insomnia","Sleep","Indica", "Sedative"],
+			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			},
+			{"conditionId": 1,
+			 "conditionName": "Insomnia", 
+			 "descriptionDetailed": "When you're having trouble sleeping on a regular basis the condition is referred to as insomnia. If it continues for a period of time the lack of REM sleep will cause problems with memory and the ability to focus. Both physical and emotional stress also accompanies prplonged sleep depravation.",
+			 "descriptionAbbrev":  "Insomnia patients have trouble falling asleep at night.",
+			 "tags": ["Insomnia","Sleep","Indica", "Sedative"],
+			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			}
+		]		
+
 		var products = [
 			{"productId": 1,
 			 "productName": "Pulegone", //compName
@@ -755,9 +774,11 @@
 		];
 
 		var productUrl = "/api/products";
+		var conditionsUrl = "/api/conditions";
 		var vapeUrl = "/api/vapes";
 
 		$httpBackend.whenGET(productUrl).respond(products);
+		$httpBackend.whenGET(conditionsUrl).respond(conditions);
 		$httpBackend.whenGET(vapeUrl).respond(vapes);
 
 		var editingRegex = new RegExp(productUrl + "/[0-9][0-9]*", '');
