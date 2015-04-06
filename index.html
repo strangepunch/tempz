@@ -28,7 +28,7 @@
         <script src="js/angular-charts.js"></script>
         <script src="js/d3.min.js"></script>
 
-      <!-- Application Scripts-->
+      <!-- Nav and Application Scripts-->
       <script src="StrangePunch/ng-bootstrap.js"></script>
       <script src="app/app.js"></script>
 
@@ -40,7 +40,8 @@
       <script src="common/services/productService.js"></script>
       <!-- <script src="common/services/vapeService.js"></script> -->  
 
-      <!-- Product Controllers-->
+      <!-- Controllers-->
+      <script src="app/tips/tempViewCtrl.js"></script>
       <script src="app/products/productListCtrl.js"></script>
       <script src="app/products/productDetailCtrl.js"></script>
       <script src="app/products/productEditCtrl.js"></script>
@@ -58,17 +59,23 @@
                     <div class="demo-social">
                         
                     </div>
-                    <h4>Tap Below</h4>
+                    
                     <ul>
-                        <li><a ui-sref="home">Tempz Home</a></li>
-                        <li><a ui-sref="productList">Temperature Guide</a></li>
-                        <li><a ui-sref="tips">Cannabinoids</a></li>
-                        <li><a ui-sref="vapes">Popular Vaporizers</a></li>
-                        <li><a href="#"></a></li>
+                        <li><a ui-sref="home">Home</a></li>
+                        <li><a ui-sref="temps">Temperature</a></li>
+                        <li><a ui-sref="tips">Condition</a></li>
+                        <li><a ui-sref="tips">Effect</a></li>
+                        <li><a ui-sref="tips">Strain</a></li>
+                        <li><a ui-sref="vapes">Vaporizers</a></li>
+                    </ul>
+                    <h4>Themes</h4>
+                    <ul>
+                      <li><a ui-sref="vapes">Day</a></li>
+                      <li><a ui-sref="vapes">Night</a></li>
                     </ul>
                     <div>
-                        <p>(c)2015 424all</p>
-                        <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non erat ac leo ultrices blandit sed vel risus. Pellentesque facilisis blandit auctor. Maecenas vestibulum vulputate tincidunt. Mauris nec quam libero. Fusce eget ligula non leo varius condimentum quis ac elit. Donec id urna ut neque semper ultrices. Proin ut suscipit felis. Nullam neque felis, ullamcorper scelerisque volutpat vel, vehicula vehicula neque. Aenean scelerisque elit ac erat sagittis ullamcorper.</p> -->
+                        
+                        <p>Legal disclaimer</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +99,6 @@
             });
             
         </script>
-        <script type="text/javascript" src="js/demo.js"></script>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>       
+        <script type="text/javascript" src="js/demo.js"></script>     
     </body>
 </html>
