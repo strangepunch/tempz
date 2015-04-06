@@ -1,15 +1,15 @@
 (function () {
 	angular
 			.module("productManagement")
-			.controller("ProductListCtrl",
+			.controller("EffectsViewCtrl",
 						["productResource",
-							ProductListCtrl]);
+							EffectsViewCtrl]);
 	
-	function ProductListCtrl(productResource){
+	function EffectsViewCtrl(productResource){
 		var vm = this;
 
 		productResource.query(function(data){
-			vm.chords = data;
+			vm.products = data;
 		});
 
 		vm.showImage = false;
