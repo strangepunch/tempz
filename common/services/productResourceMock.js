@@ -773,8 +773,8 @@
 			}			
 		];
 
-		var productUrl = "/api/products";
 		var conditionsUrl = "/api/conditions";
+		var productUrl = "/api/effects";
 		var vapeUrl = "/api/vapes";
 
 		$httpBackend.whenGET(productUrl).respond(products);
