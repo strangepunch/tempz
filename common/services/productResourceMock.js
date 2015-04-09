@@ -17,13 +17,14 @@
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
-			 	}, 
+			 	},
+		 	 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Trainwreck", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 2,
 			 "strainName": "White Widow", 
@@ -35,12 +36,13 @@
 			 	"CBG": 0.35,
 			 	"THCV": 0.0
 			 	}, 
+		 	"conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "White Widow"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 3,
 			 "strainName": "Sage", 
@@ -52,12 +54,13 @@
 			 	"CBG": 0.40,
 			 	"THCV": 0.0
 			 	}, 
+			"conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Sage"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 4,
 			 "strainName": "Skywalker OG", 
@@ -69,12 +72,13 @@
 			 	"CBG": 0.40,
 			 	"THCV": 0.0
 			 	}, 
+		 	"conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Skywalker OG", "OG"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 5,
 			 "strainName": "Permafrost", 
@@ -86,12 +90,13 @@
 			 	"CBG": 0.44,
 			 	"THCV": 0.0
 			 	}, 
+			"conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Permafrost"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 6,
 			 "strainName": "Querkle", 
@@ -103,12 +108,13 @@
 			 	"CBG": 0.28,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Querkle", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 7,
 			 "strainName": "Papaya", 
@@ -120,29 +126,31 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Papaya"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 8,
 			 "strainName": "Pennywise", 
 			 "strainType": "Indica",
 			 "components": {
-			 	"THC": 18.05,
-			 	"CBD": 0.05,
-			 	"CBN": 0.07,
-			 	"CBG": 0.95,
+			 	"THC": 8.12,
+			 	"CBD": 7.23,
+			 	"CBN": 0.03,
+			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache", "Hypertension"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Pennywise", "Migraines", "Headache", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 9,
 			 "strainName": "OG #18", 
@@ -154,12 +162,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "OG #18", "OG"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 10,
 			 "strainName": "OG Kush", 
@@ -171,12 +180,13 @@
 			 	"CBG": 0.36,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "OG Kush", "OG", "Kush"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
@@ -188,12 +198,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Nausea", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Canna-Tsu", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 12,
 			 "strainName": "Nebula", 
@@ -205,12 +216,13 @@
 			 	"CBG": 0.08,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Nebula"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 13,
 			 "strainName": "XJ-13", 
@@ -222,12 +234,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "XJ-13"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 14,
 			 "strainName": "Yumbodlt", 
@@ -239,12 +252,13 @@
 			 	"CBG": 0.94,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Yumbodlt"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 15,
 			 "strainName": "Vortex", 
@@ -256,12 +270,13 @@
 			 	"CBG": 0.26,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Vortex"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 16,
 			 "strainName": "Warlock", 
@@ -273,12 +288,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Warlock"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 17,
 			 "strainName": "Strawberry Cough", 
@@ -290,12 +306,13 @@
 			 	"CBG": 0.27,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Strawberry Cough"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 18,
 			 "strainName": "Stardawg", 
@@ -307,12 +324,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Stardawg"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 19,
 			 "strainName": "Strawberry", 
@@ -324,12 +342,13 @@
 			 	"CBG": 4.15,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Strawberry"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 20,
 			 "strainName": "Sour Diesel", 
@@ -341,12 +360,13 @@
 			 	"CBG": 0.76,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sour Diesel"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 21,
 			 "strainName": "Shipwreck", 
@@ -358,12 +378,13 @@
 			 	"CBG": 0.90,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Shipwreck"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 22,
 			 "strainName": "Skywalker", 
@@ -375,12 +396,13 @@
 			 	"CBG": 0.68,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Skywalker"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 23,
 			 "strainName": "Romulan", 
@@ -392,12 +414,13 @@
 			 	"CBG": 0.32,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Romulan"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 24,
 			 "strainName": "Purple Wreck", 
@@ -409,12 +432,13 @@
 			 	"CBG": 0.51,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Purple Wreck"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 25,
 			 "strainName": "Pineapple", 
@@ -426,12 +450,13 @@
 			 	"CBG": 0.63,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": [""],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Pineapple"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 26,
 			 "strainName": "Purple Cheese", 
@@ -443,12 +468,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": [""],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Cheese", "Purple", "Purple Cheese"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 27,
 			 "strainName": "ACDC", 
@@ -460,29 +486,31 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 28,
 			 "strainName": "Shark Shock", 
 			 "strainType": "Indica",
 			 "components": {
-			 	"THC": 21.10,
+			 	"THC": 22.10,
 			 	"CBD": 0.35,
 			 	"CBN": 0.07,
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Asthma", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Shark Shock", "Asthma"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Shark Shock", "Asthma", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 29,
 			 "strainName": "Superman OG", 
@@ -494,12 +522,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Asthma"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "OG", "Superman OG", "Asthma"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 30,
 			 "strainName": "Thin Mint", 
@@ -511,12 +540,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Asthma", "Bipolar", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Thin MInt", "Asthma", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Thin Mint", "Asthma", "Bipolar", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 31,
 			 "strainName": "Banana Diesel", 
@@ -528,12 +558,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Diesel", "Bipolar", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 32,
 			 "strainName": "Candy OG", 
@@ -545,12 +576,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Depression", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 33,
 			 "strainName": "Chem Valley Kush", 
@@ -562,12 +594,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Chem Valley Kush", "Kush", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 34,
 			 "strainName": "Confidential Cheese", 
@@ -579,12 +612,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 35,
 			 "strainName": "Deadhead OG", 
@@ -596,12 +630,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Depression", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar", "Depression", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 36,
 			 "strainName": "Diablo", 
@@ -613,12 +648,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Diablo", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Diablo", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 37,
 			 "strainName": "Dutch Passion", 
@@ -630,12 +666,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Dutch Passion", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
@@ -647,12 +684,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 39,
 			 "strainName": "Euphoria", 
@@ -664,12 +702,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Euphoria", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 40,
 			 "strainName": "Fire Bomb", 
@@ -681,12 +720,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Fire Bomb", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Fire Bomb", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 41,
 			 "strainName": "Forum Cookies/GSC", 
@@ -698,12 +738,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 42,
 			 "strainName": "Gooey Wreck", 
@@ -715,12 +756,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Gooey Wreck", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Gooey Wreck", "Wreck", "Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 43,
 			 "strainName": "Grapefruit Haze", 
@@ -732,12 +774,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Grapefruit Haze", "Haze", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Grapefruit Haze", "Haze", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 44,
 			 "strainName": "Green Crack", 
@@ -749,12 +792,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Green Crack", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 45,
 			 "strainName": "Green Dream", 
@@ -766,12 +810,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Green Dream", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 46,
 			 "strainName": "Green Thailand", 
@@ -783,12 +828,13 @@
 			 	"CBG": 0.0,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Green Thailand", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Green Thailand", "Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 47,
 			 "strainName": "H-Train Wreck", 
@@ -800,12 +846,13 @@
 			 	"CBG": 0.62,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "H-Train Wreck", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "H-Train Wreck", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 48,
 			 "strainName": "Hawaiian Hulk", 
@@ -817,12 +864,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Hawaiian Hulk", "Hawaiian","Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Hawaiian Hulk", "Hawaiian","Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 49,
 			 "strainName": "Jack Chemdawg", 
@@ -834,12 +882,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Jack Chemdawg", "Chemdawg","Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Jack Chemdawg", "Chemdawg", "Jack", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 50,
 			 "strainName": "Jack Herer", 
@@ -851,12 +900,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 51,
 			 "strainName": "Jillybean", 
@@ -868,12 +918,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Jillybean", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 52,
 			 "strainName": "Lamb's Bread", 
@@ -885,12 +936,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Lamb's Bread", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 53,
 			 "strainName": "Lemon Haze", 
@@ -902,12 +954,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Lemon Haze", "Haze",  "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 54,
 			 "strainName": "Lemon Head OG", 
@@ -919,12 +972,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 55,
 			 "strainName": "Lulu", 
@@ -936,12 +990,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lulu", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Lulu", "Bipolar", "Migraines", "Headache", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 56,
 			 "strainName": "Magic Jack", 
@@ -953,12 +1008,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Magic Jack", "Jack", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Magic Jack", "Jack", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 57,
 			 "strainName": "Mike Tyson", 
@@ -970,12 +1026,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Hypertension"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Mike Tyson", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Mike Tyson", "Bipolar", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 58,
 			 "strainName": "Moon Candy", 
@@ -987,12 +1044,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Moon Candy", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 59,
 			 "strainName": "Moonshine Diesel", 
@@ -1004,12 +1062,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Moonshine Diesel", "Diesel", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Moonshine Diesel", "Diesel", "Bipolar", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 60,
 			 "strainName": "Northern Lights", 
@@ -1021,12 +1080,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Northern Lights", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Northern Lights", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 61,
 			 "strainName": "Pineapple Express", 
@@ -1038,12 +1098,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Pineapple Express", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 62,
 			 "strainName": "Platnum Trinity Kush", 
@@ -1055,12 +1116,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Platnum Trinity Kush", "Kush", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Platnum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 63,
 			 "strainName": "Private Reserve OG", 
@@ -1072,12 +1134,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Private Reserve OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 64,
 			 "strainName": "Purple Haze", 
@@ -1089,12 +1152,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Purple Haze", "Haze", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 65,
 			 "strainName": "Purple Urkle", 
@@ -1106,12 +1170,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 66,
 			 "strainName": "Raskal OG", 
@@ -1123,12 +1188,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
@@ -1140,12 +1206,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 68,
 			 "strainName": "Saturn OG", 
@@ -1157,12 +1224,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Hypertension"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Saturn OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Saturn OG", "OG", "Bipolar", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 69,
 			 "strainName": "Sherbet Cookies", 
@@ -1174,12 +1242,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sherbet Cookies", "Cookies", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Sherbet Cookies", "Cookies", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 70,
 			 "strainName": "Sour Cherry", 
@@ -1191,12 +1260,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Sour Cherry", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
@@ -1208,12 +1278,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Stratosphere", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 72,
 			 "strainName": "Super Grandaddy", 
@@ -1225,12 +1296,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar", "Hypertension"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Super Grandaddy", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Super Grandaddy", "Bipolar", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 73,
 			 "strainName": "Tangerine", 
@@ -1242,12 +1314,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Tangerine", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 74,
 			 "strainName": "Tangelope", 
@@ -1259,12 +1332,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Tangelope", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 75,
 			 "strainName": "Tropical OG", 
@@ -1276,12 +1350,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Bipolar"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Tropical OG", "OG", "Bipolar"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 76,
 			 "strainName": "ACDC Super CBD Oil", 
@@ -1293,12 +1368,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "ACDC Super CBD Oil", "CBD", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "ACDC Super CBD Oil", "CBD", "Cancer", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 77,
 			 "strainName": "Afghani", 
@@ -1310,12 +1386,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Afghani", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Afghani", "Cancer", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 78,
 			 "strainName": "Avi-Dekel", 
@@ -1327,12 +1404,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Avi-Dekel", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Avi-Dekel", "Cancer", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 79,
 			 "strainName": "Bull Rider", 
@@ -1344,12 +1422,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Bull Rider", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 80,
 			 "strainName": "Cannatonic", 
@@ -1361,12 +1440,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Depression", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic", "Cancer", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Cannatonic", "Cancer", "Depression", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 81,
 			 "strainName": "Charlotte's Web", 
@@ -1378,12 +1458,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Charlotte's Web", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Charlotte's Web", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 82,
 			 "strainName": "G13 Haze", 
@@ -1395,12 +1476,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "G13 Haze", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "G13 Haze", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 83,
 			 "strainName": "Great White Shark", 
@@ -1412,12 +1494,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Great White Shark", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
@@ -1429,12 +1512,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Harle-Tsu", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 85,
 			 "strainName": "Harlequin", 
@@ -1446,12 +1530,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Nausea", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Harlequin", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Harlequin", "Cancer", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 86,
 			 "strainName": "Hog", 
@@ -1463,12 +1548,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Hog", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "Hog", "Cancer", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 87,
 			 "strainName": "King's Kush", 
@@ -1480,12 +1566,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "King's Kush", "Kush","Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 88,
 			 "strainName": "Kosher Kush", 
@@ -1497,12 +1584,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Kosher Kush", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 89,
 			 "strainName": "Lemon Larry OG", 
@@ -1514,12 +1602,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 90,
 			 "strainName": "Master Bubba", 
@@ -1531,12 +1620,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 91,
 			 "strainName": "Pineapple Thai", 
@@ -1548,12 +1638,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Pineapple Thai", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 92,
 			 "strainName": "Sour Tsunami", 
@@ -1565,12 +1656,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sour Tsunami", "Sour",  "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Sour Tsunami", "Sour", "Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 93,
 			 "strainName": "The White", 
@@ -1582,12 +1674,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "The White", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 94,
 			 "strainName": "Valentine X", 
@@ -1599,12 +1692,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer", "Epilepsy"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "The White", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "The White", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 95,
 			 "strainName": "White Fire Alien OG", 
@@ -1616,12 +1710,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "White Fire Alien OG", "OG", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
@@ -1633,12 +1728,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Cancer"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 96,
 			 "strainName": "707 Headband", 
@@ -1650,12 +1746,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "707 Headband", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 97,
 			 "strainName": "Acapulco Gold", 
@@ -1667,12 +1764,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Acapulco Gold", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 98,
 			 "strainName": "Alien OG", 
@@ -1684,12 +1782,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Alien OG", "OG", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Alien OG", "OG", "Migraines", "Headache", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 99,
 			 "strainName": "Alien Rock Candy", 
@@ -1701,12 +1800,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Alien Rock Candy", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 100,
 			 "strainName": "Amnesia Haze", 
@@ -1718,12 +1818,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Amnesia Haze", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 101,
 			 "strainName": "ATF", 
@@ -1735,12 +1836,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "ATF", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "ATF", "Depression", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 102,
 			 "strainName": "Bay Cookies", 
@@ -1752,12 +1854,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Nausea", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Bay Cookies", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 103,
 			 "strainName": "Berry Queen", 
@@ -1769,12 +1872,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Nausea", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 104,
 			 "strainName": "Berry White", 
@@ -1786,12 +1890,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Berry White", "Berry", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Berry White", "Berry", "Depression", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 105,
 			 "strainName": "Black Cherry Soda", 
@@ -1803,12 +1908,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression", "Pain"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Black Cherry Soda", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 106,
 			 "strainName": "Blue Dream", 
@@ -1820,12 +1926,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blue Dream", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Hybrid", "Blue Dream", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 107,
 			 "strainName": "Blue Moonshine", 
@@ -1837,12 +1944,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Blue Moonshine", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 108,
 			 "strainName": "Blueberry Trainwreck", 
@@ -1854,12 +1962,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 109,
 			 "strainName": "Canatonic #4", 
@@ -1871,12 +1980,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Canatonic #4", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 110,
 			 "strainName": "Candy Jack", 
@@ -1888,12 +1998,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Candy Jack", "Jack", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 111,
 			 "strainName": "CandyLand", 
@@ -1905,12 +2016,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "CandyLand", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "CandyLand", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 112,
 			 "strainName": "Cannalope Haze", 
@@ -1922,12 +2034,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 113,
 			 "strainName": "Cataract Kush", 
@@ -1939,12 +2052,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Cataract Kush", "Kush", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 114,
 			 "strainName": "Chemdawg", 
@@ -1956,12 +2070,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Chemdawg", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 115,
 			 "strainName": "Cherry Pie", 
@@ -1973,12 +2088,13 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Depression"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Cherry Pie", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 116,
 			 "strainName": "Chocolate Thai", 
@@ -1990,29 +2106,859 @@
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Chocolate Thai", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Sativa", "Chocolate Thai", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 117,
-			 "strainName": "", 
-			 "strainType": "Sativa",
+			 "strainName": "Clear Lake", 
+			 "strainType": "Hybrid",
 			 "components": {
-			 	"THC": 20.50,
-			 	"CBD": 0.31,
+			 	"THC": 22.10,
+			 	"CBD": 0.23,
+			 	"CBN": 0.05,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 118,
+			 "strainName": "Dubtech", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 22.40,
+			 	"CBD": 0.30,
+			 	"CBN": 0.28,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 119,
+			 "strainName": "Ghost OG", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 22.00,
+			 	"CBD": 0.33,
+			 	"CBN": 0.14,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Ghost OG", "OG", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 120,
+			 "strainName": "Grape Cookies", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 17.10,
+			 	"CBD": 0.21,
+			 	"CBN": 0.09,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 121,
+			 "strainName": "Grape Kool Aid", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 19.58,
+			 	"CBD": 0.37,
+			 	"CBN": 0.10,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Grape Kool Aid", "Grape", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 122,
+			 "strainName": "Jupiter Kush", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 19.79,
+			 	"CBD": 0.24,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Epilepsy"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Jupiter Kush", "Kush", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 123,
+			 "strainName": "L.A. Confidential", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 20.74,
+			 	"CBD": 0.32,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
 			 	"THCV": 0.0
 			 	}, 
+			 "conditions": ["Migraines", "Headache"],
 			 "PositiveEffects": [""],
 			 "NegativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Chocolate Thai", "Depression"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "tags": ["Indica", "L.A. Confidential", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 124,
+			 "strainName": "Lemon Jack", 
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 22.10,
+			 	"CBD": 0.33,
+			 	"CBN": 0.06,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 125,
+			 "strainName": "Lemon OG Kush", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 25.10,
+			 	"CBD": 0.45,
+			 	"CBN": 0.06,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 126,
+			 "strainName": "Mad Max", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 18.80,
+			 	"CBD": 0.31,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 127,
+			 "strainName": "Mafia OG", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 30.30,
+			 	"CBD": 0.40,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 128,
+			 "strainName": "Mango Maui", 
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 18.80,
+			 	"CBD": 0.30,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Mango Maui", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 130,
+			 "strainName": "May Weather Kush", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 29.50,
+			 	"CBD": 0.33,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "May Weather Kush", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 131,
+			 "strainName": "Phantom OG", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 25.60,
+			 	"CBD": 0.49,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Hypertension"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 132,
+			 "strainName": "Pineapple Hogsbreath", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 19.80,
+			 	"CBD": 0.32,
+			 	"CBN": 0.04,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pineapple", "Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Pineapple Hogsbreath", "Pineapple", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 133,
+			 "strainName": "Silverback Gorilla", 
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 18.20,
+			 	"CBD": 0.25,
+			 	"CBN": 0.08,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Silverback Gorilla", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 134,
+			 "strainName": "Sugar Plum", 
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 23.80,
+			 	"CBD": 0.46,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Headache", "Nausea", "Glaucoma"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Sugar Plum", "Migraines", "Headache", "Nausea", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 135,
+			 "strainName": "Super Lemon Haze", 
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 24.60,
+			 	"CBD": 0.40,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 136,
+			 "strainName": "The White", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 24.50,
+			 	"CBD": 0.43,
+			 	"CBN": 0.05,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "The White", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 137,
+			 "strainName": "White Fire OG", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 23.20,
+			 	"CBD": 0.36,
+			 	"CBN": 0.06,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "White Fire OG", "OG", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 138,
+			 "strainName": "White Walker OG", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 16.20,
+			 	"CBD": 0.30,
+			 	"CBN": 0.04,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 139,
+			 "strainName": "Cherry Bomb", 
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 19.00,
+			 	"CBD": 0.30,
+			 	"CBN": 0.06,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cherry Bomb", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 140,
+			 "strainName": "DJ Short Blueberry",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 13.50,
+			 	"CBD": 0.26,
+			 	"CBN": 0.05,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cherry Bomb", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 141,
+			 "strainName": "El Alquimista",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 24.40,
+			 	"CBD": 0.27,
+			 	"CBN": 0.05,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "El Alquimista", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 142,
+			 "strainName": "Harlequin",
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 6.98,
+			 	"CBD": 14.00,
+			 	"CBN": 0.01,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea", "Epilepsy"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Harlequin", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 143,
+			 "strainName": "Herojuana",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 17.30,
+			 	"CBD": 0.27,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Herojuana", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 144,
+			 "strainName": "Lavender",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 25.40,
+			 	"CBD": 0.46,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Lavender", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 145,
+			 "strainName": "Purple Coma",
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 15.60,
+			 	"CBD": 0.25,
+			 	"CBN": 0.04,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Purple Coma", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 146,
+			 "strainName": "Purple Passion",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 21.00,
+			 	"CBD": 0.35,
+			 	"CBN": 0.12,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Purple Passion", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 147,
+			 "strainName": "Sour Bubble",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 27.13,
+			 	"CBD": 0.52,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Sour Bubble", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 148,
+			 "strainName": "Sour Dub",
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 21.20,
+			 	"CBD": 0.22,
+			 	"CBN": 0.12,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Sour Dub", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 149,
+			 "strainName": "Strawberry Mist",
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 16.00,
+			 	"CBD": 0.38,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Strawberry Mist", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 150,
+			 "strainName": "Strawberry Mist",
+			 "strainType": "Sativa",
+			 "components": {
+			 	"THC": 16.00,
+			 	"CBD": 0.38,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Nausea"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Strawberry Mist", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 151,
+			 "strainName": "Afghani Bullrider",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 23.40,
+			 	"CBD": 0.23,
+			 	"CBN": 0.02,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afghani Bullrider", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 152,
+			 "strainName": "Afgoo",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 25.10,
+			 	"CBD": 0.76,
+			 	"CBN": 0.39,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afgoo", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 153,
+			 "strainName": "Afgooey",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 25.00,
+			 	"CBD": 0.85,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afgooey", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 154,
+			 "strainName": "AK-47",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 23.63,
+			 	"CBD": 0.36,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "AK-47", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 155,
+			 "strainName": "AK-48",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 19.90,
+			 	"CBD": 0.54,
+			 	"CBN": 0.05,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "AK-48", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 156,
+			 "strainName": "Alien Rock Candy",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 23.80,
+			 	"CBD": 0.35,
+			 	"CBN": 0.24,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Alien Rock Candy", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 157,
+			 "strainName": "Black Buddah",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 20.90,
+			 	"CBD": 0.47,
+			 	"CBN": 0.12,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Pain"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Black Buddah", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 158,
+			 "strainName": "OG Cheese",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 24.10,
+			 	"CBD": 0.36,
+			 	"CBN": 0.04,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Hypertension"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 159,
+			 "strainName": "Mercury OG",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 27.00,
+			 	"CBD": 0.35,
+			 	"CBN": 0.03,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Hypertension"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mercury OG", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 160,
+			 "strainName": "Silver Surfer",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 24.86,
+			 	"CBD": 0.52,
+			 	"CBN": 0.15,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Glaucoma"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Silver Surfer", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 161,
+			 "strainName": "Sour OG",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 19.30,
+			 	"CBD": 0.25,
+			 	"CBN": 0.04,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Epilepsy"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Sour OG", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 162,
+			 "strainName": "Mars OG",
+			 "strainType": "Indica",
+			 "components": {
+			 	"THC": 22.90,
+			 	"CBD": 0.46,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Epilepsy"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mars OG", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 163,
+			 "strainName": "Cannatonic #4",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 0.50,
+			 	"CBD": 15.00,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": ["Epilepsy"],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 164,
+			 "strainName": "",
+			 "strainType": "Hybrid",
+			 "components": {
+			 	"THC": 0.50,
+			 	"CBD": 15.00,
+			 	"CBN": 0.07,
+			 	"CBG": 0.00,
+			 	"THCV": 0.0
+			 	}, 
+			 "conditions": [""],
+			 "PositiveEffects": [""],
+			 "NegativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		]
 		
@@ -2024,7 +2970,7 @@
 			 "descriptionDetailed": "When you're having trouble sleeping on a regular basis the condition is referred to as insomnia. If it continues for a period of time the lack of REM sleep will cause problems with memory and the ability to focus. Both physical and emotional stress also accompanies prplonged sleep depravation.",
 			 "descriptionAbbrev":  "Insomnia patients have trouble falling asleep at night.",
 			 "tags": ["Insomnia","Sleep","Indica", "Sedative", "Trainwreck", "White Widow", "Sage", "Skywalker OG", "Permafrost", "Querkle", "Papaya", "Pennywise", "OG #18", "OG Kush", "Canna-Tsu", "Nebula"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 2,
 			 "conditionName": "Arthritis", 
@@ -2033,7 +2979,7 @@
 			 "descriptionDetailed": "Arthritis Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Arthritis Short description here.",
 			 "tags": ["Arthritis","Pain","Indica", "Sedative", "Trainwreck", "White Widow", "Sage", "Skywalker OG", "Permafrost", "Querkle", "Papaya", "Pennywise", "OG #18", "OG Kush", "Canna-Tsu", "Nebula"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 3,
 			 "conditionName": "Anxiety", 
@@ -2042,7 +2988,7 @@
 			 "descriptionDetailed": "Anxiety Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anxiety Short description here.",
 			 "tags": ["Anxiety","Stress", "Relaxation", "XJ-13", "Yumbodlt", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Stardawg", "Strawberry", "Skywalker OG", "Sour Dielsel", "Shipwreck", "Skywalker", "Romulan", "Sage", "Purple Wreck", "Querkle", "Pennywise", "Permafrost", "Pineapple", "Papaya", "OGiesel", "Ogre", "OG #18", "OG Kush", "Nebula", "Nothern Lights", "Killing Fields", "LVPK", "God's Gift", "Grapefruit", "Double Purple Doja", "El-Jeffe", "Church OG", "Critical Mass", "Canna-Tsu", "Chiesel", "ACDC", "Blue Dream"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 4,
 			 "conditionName": "Anorexia", 
@@ -2051,7 +2997,7 @@
 			 "descriptionDetailed": "Anorexia Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anorexia Short description here.",
 			 "tags": ["Anorexia","Appetite","Munchies", "Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 5,
 			 "conditionName": "ADD/ADHD", 
@@ -2060,7 +3006,7 @@
 			 "descriptionDetailed": "ADD/ADHD Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "ADD/ADHD Short description here.",
 			 "tags": ["ADD","ADHD","Relaxing", "Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 6,
 			 "conditionName": "Pain", 
@@ -2069,7 +3015,7 @@
 			 "descriptionDetailed": "Pain Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Pain Short description here.",
 			 "tags": ["Pain","Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "ACDC Super CBD Oil", "Afghani", "707 Headband", "Acapulco Gold" ],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 7,
 			 "conditionName": "Nausea", 
@@ -2078,7 +3024,7 @@
 			 "descriptionDetailed": "Nausea Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Nausea Short description here.",
 			 "tags": ["Nausea", "White Fire OG", "White Walker OG", "Sugar Plum", "Thin Mint", "Sour Dub", "Strawberry Mist", "Shark Shock", "Sour Bubble", "Querkle", "Raskal OG", "Purple Coma", "Puple Passion", "Moonshine Diesel", "Pineapple Hogsbreath", "Mango Maui", "Moon Candy", "Lavender", "Mafia OG", "Harlequin", "Herojuana", "Grape Kool Aid", "Green Thailand", "El Alquimista", "Grape Cookies", "Dubtech", "Eden OG", "Confidential Cheese", "DJ Shortberry", "Canna-Tsu", "Cherry Bomb", "Blue Dream", "Candy OG", "Berry Queen", "ACDC", "Bay Cookies"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 8,
 			 "conditionName": "Migraines", 
@@ -2087,7 +3033,7 @@
 			 "descriptionDetailed": "Migraines Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Migraines Short description here.",
 			 "tags": ["Migraines", "Headache", "White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocloate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 9,
 			 "conditionName": "Hypertension", 
@@ -2096,7 +3042,7 @@
 			 "descriptionDetailed": "Hypertension Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Hypertension Short description here.",
 			 "tags": ["Hypertension", "Saturn OG", "Super Grandaddy", "Pennywise", "Phantom OG", "Mike Tyson", "OG Cheese", "Lulu", "Mercury OG", "ACDC", "Gooey Wreck"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 10,
 			 "conditionName": "HIV/AIDS", 
@@ -2105,7 +3051,7 @@
 			 "descriptionDetailed": "HIV/AIDS Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "HIV/AIDS Short description here.",
 			 "tags": ["HIV", "AIDS", "ACDC"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 11,
 			 "conditionName": "Glaucoma", 
@@ -2114,7 +3060,7 @@
 			 "descriptionDetailed": "Glaucoma Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Glaucoma Short description here.",
 			 "tags": ["Glaucoma", "Silver Surfer", "Sugar Plum", "Mafia OG", "Grape Cookies", "Green Thailand", "ACDC", "Gooey Wreck" ],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 12,
 			 "conditionName": "Epilepsy", 
@@ -2123,7 +3069,7 @@
 			 "descriptionDetailed": "Epilepsy Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Epilepsy Short description here.",
 			 "tags": ["Epilepsy", "Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "ACDC Super CBD Oil", "Avi-Dekel" ],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 13,
 			 "conditionName": "Depression", 
@@ -2132,7 +3078,7 @@
 			 "descriptionDetailed": "Depression Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Depression Short description here.",
 			 "tags": ["Depression", "WiFi OG", "Willy's Wonder", "XJ-13", "White Walker OG", "White Widow", "White Fire OG", "White Skunk", "Tropical OG", "True OG", "Trainwreck", "Trinity OG", "The Flav", "Thin Mint", "Tahoe OG", "Tangilope", "Super Silver Haze", "Superman OG", "Super Grandaddy", "Super Lemon Haze", "Sugar Plum", "Sour OG", "Stratosphere", "Strawberry Mist", "Sour Cherry", "Sour Diesel", "Skywalker", "Snowcap", "Sherbet Cookies", "Skunk #1", "SFV OG", "Shark Shock", "Raskal OG", "Regulator OG", "Querkle", "Ramona OG", "Purple Nepal", "Purple Passion", "Purple Haze", "Purple Kush", "Private Reserve OG", "Purple Cheese", "Pineapple Thai", "Platnum Trinity Kush", "Pineapple Express", "Pineapple Hogsbreath", "Phantom OG", "Pineapple", "Paris OG", "Pennywise", "OG Cheese", "Organic OG", "Northern Lights", "NY Sour Diesel", "Moonshine Diesel", "Mr. Nice", "Mike Tyson", "Moon Candy", "May Weather Kush", "Mercury OG", "Master Bubba", "Magic Jack", "Mango Maui", "Lulu", "Mad Max", "Lemon Kush", "Lemon Larry OG", "Lemon Head OG", "Lemon Jack", "Lemon Diesel", "Lemon Haze", "Larry OG", "Kosher Kush", "Lamb's Bread", "Jupiter Kush", "Kali Mist", "Jack Herer", "Jillybean", "Jack Chemdawg", "Jack Frost", "Headband", "J1", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Train Wreck", "Green Cross", "Green Dream", "Great White Shark", "Green Crack", "Grape Kool Aid", "Grapefruit Haze", "Gorilla Glue #4", "Grape Cookies", "Gooey Wreck", "Gorilla Glue", "Girl Scout Cookies", "God's Gift", "G13 Haze", "Ghost OG", "Fire OG", "Forum Cookies/GSC", "Euphoria", "Fire Bomb", "Eden OG", "El Alquimista", "Euphoria", "Dubtech", "Dutch Passion", "Deadhead OG", "Diamond OG", "Cinderella 99", "Confidential Cheese", "Cherry Pie", "Chocolate Thai", "Cataract Kush", "Chemdawg", "Cannalope Haze", "Cannatonic", "Candy OG", "Candyland", "Cannatonic #4", "Blue Moonshine", "Blueberry Trainwreck", "Blue Dream", "Berry White", "Black Cherry Soda", "Bay Cookies", "Berry Queen", "Amnesia Haze", "ATF", "Alien OG", "Alien Rock Candy", "ACDC", "AK-48", "707 Headband", "Acapulco Gold"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 14,
 			 "conditionName": "Cancer", 
@@ -2141,7 +3087,7 @@
 			 "descriptionDetailed": "Cancer Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Cancer Short description here.",
 			 "tags": ["Cancer", "White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "ACDC Super CBD Oil", "Afghani"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 15,
 			 "conditionName": "Bipolar Disorder", 
@@ -2150,7 +3096,7 @@
 			 "descriptionDetailed": "Bipolar Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Bipolar Short description here.",
 			 "tags": ["Bipolar", "Disorder", "Trainwreck", "Tropical OG", "Tangilope", "Thin Mint", "Super Grandaddy", "Tangerine", "Sour Cherry", "Stratosphere", "Saturn OG", "Sherbet Cookies", "Regulator OG", "Purple Urkle", "Raskal OG", "Private Reserve OG", "Purple Haze", "Platnum Trinity Kush", "Northern Lights", "Pineapple Express", "Moon Candy", "Moonshine Diesel", "Magic Jack", "Mike Tyson", "Lemon Head OG", "Lulu", "Lamb's Bread", "Lemon Haze", "Jack Herer", "Jillybean", "Hawaiian Hulk", "Jack Chemdawg", "Green Thailand", "H-Train Wreck", "Green Crack", "Green Dream", "Gooey Wreck", "Grapefruit Haze", "Fire Bomb", "Forum Cookies/GSC", "Eden OG", "Euphoria", "Diablo", "Dutch Passion", "Confidential Cheese", "Deadhead OG", "Candy OG", "Chem Valley Kush", "ACDC", "Banana Diesel"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 16,
 			 "conditionName": "Asthma", 
@@ -2159,7 +3105,7 @@
 			 "descriptionDetailed": "Asthma Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Asthma Short description here.",
 			 "tags": ["Asthma", "Bronchodilator", "Breathing", "Superman OG", "Thin Mint", "Purple Cheese", "Shark Shock", " NY Sour Diesel", "Lemon Haze", "Lemon Head OG", "Green Dream", "Harle-Tsu", "Jack Frost", "Clear Lake", "Euphoria"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}   	
 		];
 
@@ -2172,11 +3118,11 @@
 			 "descriptionDetailed": "Pulegone is a naturally occurring organic compound obtained from the essential oils of a variety of plants such as catnip, Mentha piperita, and pennyroyal. It is classified as a monoterpene. Pulegone is a clear colorless oily liquid and has a pleasant odor similar to pennyroyal, peppermint and camphor. It is used in flavoring agents, in perfumery, and in aromatherapy.",
 			 "descriptionAbbrev":  "Pulegone has a pleasant odor similar to peppermint.",
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": "images/220px-Pulegone_Structural_Formulae.png"
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"productId": 2,
 			 "productName": "Delta9-THC", //compName
-			 "Property": "Euphoriant, Analgesic, Antiinflammatory, Antioxidant, Antiemetic, Neuroprotective, Reduces Neuroinflammation, Stimulates neurogenesis  ",
+			 "Property": "Euphoriant, Analgesic, Antiinflammatory, Antioxidant, Antiemetic, Neuroprotective, Reduces Neuroinflammation, Stimulates neurogenesis",
 			 "temp": "315",
 			 "tempC": "157",
 			 "descriptionDetailed": "THC is the principal psychoactive constituent or cannabinoid of the Cannabis plant. THC appears to ease moderate pain (analgesic) and to be neuroprotective, while also offering the potential to reduce neuroinflammation and to stimulate neurogenesis. First isolated in 1964 by Israeli scientists Raphael Mechoulam and Yechiel Gaoni at the Weizmann Institute of Science. It is a water-clear glassy solid when cold, which becomes viscous and sticky if warmed.",
