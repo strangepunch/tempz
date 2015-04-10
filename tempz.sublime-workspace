@@ -4,6 +4,290 @@
 		"selected_items":
 		[
 			[
+				"Tan",
+				"Tangelope"
+			],
+			[
+				"Super",
+				"Superman"
+			],
+			[
+				"Hy",
+				"Hybrid"
+			],
+			[
+				"Pa",
+				"Papaya"
+			],
+			[
+				"G",
+				"Gooey"
+			],
+			[
+				"AK",
+				"AK-47"
+			],
+			[
+				"Afg",
+				"Afgooey"
+			],
+			[
+				"Bul",
+				"Bullrider"
+			],
+			[
+				"Bub",
+				"Bubble"
+			],
+			[
+				"Mon",
+				"Moonshine"
+			],
+			[
+				"H-",
+				"H-Trainwreck"
+			],
+			[
+				"head",
+				"Headache"
+			],
+			[
+				"GRape",
+				"Grapefruit"
+			],
+			[
+				"Head",
+				"Headache"
+			],
+			[
+				"Chem",
+				"Chemdawg"
+			],
+			[
+				"Ko",
+				"Kosher"
+			],
+			[
+				"Sat",
+				"Sativa"
+			],
+			[
+				"HAr",
+				"Harlequin"
+			],
+			[
+				"Su",
+				"Super"
+			],
+			[
+				"Stra",
+				"Stratosphere"
+			],
+			[
+				"Ha",
+				"Haze"
+			],
+			[
+				"Tr",
+				"Trinity"
+			],
+			[
+				"Lab",
+				"Lamb"
+			],
+			[
+				"He",
+				"Herer"
+			],
+			[
+				"Thai",
+				"Thailand"
+			],
+			[
+				"eu",
+				"Euphoria"
+			],
+			[
+				"Sup",
+				"Superman"
+			],
+			[
+				"AC",
+				"ACDC"
+			],
+			[
+				"Di",
+				"Diablo"
+			],
+			[
+				"Eu",
+				"Euphoria"
+			],
+			[
+				"Grap",
+				"Grapefruit"
+			],
+			[
+				"Moon",
+				"Moonshine"
+			],
+			[
+				"Gra",
+				"Grandaddy"
+			],
+			[
+				"Har",
+				"Harle-Tsu"
+			],
+			[
+				"Che",
+				"Chemdawg"
+			],
+			[
+				"Tha",
+				"Thailand"
+			],
+			[
+				"HArl",
+				"Harle-Tsu"
+			],
+			[
+				"Hog",
+				"Hogsbreath"
+			],
+			[
+				"P",
+				"Purple"
+			],
+			[
+				"Pass",
+				"Passion"
+			],
+			[
+				"H",
+				"Haze"
+			],
+			[
+				"Goo",
+				"Gooey"
+			],
+			[
+				"Dub",
+				"Dubtech"
+			],
+			[
+				"D",
+				"Diesel"
+			],
+			[
+				"Sa",
+				"Sativa"
+			],
+			[
+				"In",
+				"Indica"
+			],
+			[
+				"Harle",
+				"Harle-Tsu"
+			],
+			[
+				"Canna",
+				"Canna-Tsu"
+			],
+			[
+				"Ukulele_G",
+				"Ukulele_Gsus"
+			],
+			[
+				"Ukulele_F",
+				"Ukulele_Fsus"
+			],
+			[
+				"Ukulele_E",
+				"Ukulele_E9"
+			],
+			[
+				"Ukulele_D",
+				"Ukulele_D9sharpE9flat"
+			],
+			[
+				"Hwa",
+				"Hawaiian"
+			],
+			[
+				"Hawa",
+				"Hawaiian"
+			],
+			[
+				"Ukulele_Fsh",
+				"Ukulele_F7sharpG7flat"
+			],
+			[
+				"Ukulele_Cshar",
+				"Ukulele_C7sharpD7flat"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"Uke",
+				"Ukelele"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"tab",
+				"tablature"
+			],
+			[
+				"Ukulele_gsharp",
+				"Ukulele_GmsharpAmflat"
+			],
+			[
+				"Ukulele_fsharp",
+				"Ukulele_FmsharpGmflat"
+			],
+			[
+				"Ukulele_Fm",
+				"Ukulele_FmsharpGmflat"
+			],
+			[
+				"Ukulele_Dm",
+				"Ukulele_DmsharpEmflat"
+			],
+			[
+				"Ukulele_Csharp",
+				"Ukulele_CmsharpDmflat"
+			],
+			[
+				"Ukulele_Gsharp",
+				"Ukulele_GmsharpAmflat"
+			],
+			[
+				"Ukulele_Fsharp",
+				"Ukulele_FmsharpGmflat"
+			],
+			[
+				"Ukulele_Aflat",
+				"Ukulele_GsharpAflat"
+			],
+			[
+				"ukele",
+				"ukuleles"
+			],
+			[
+				"uk",
+				"ukulele"
+			],
+			[
 				"portable",
 				"Portable"
 			],
@@ -50,10 +334,6 @@
 			[
 				"pr",
 				"products"
-			],
-			[
-				"P",
-				"PriceAnalyticsCtrl"
 			],
 			[
 				"prod",
@@ -120,10 +400,6 @@
 				"thead	Tag"
 			],
 			[
-				"tab",
-				"tab-panels"
-			],
-			[
 				"pane",
 				"panelToShow"
 			],
@@ -161,9 +437,14 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 490.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -203,10 +484,102 @@
 	],
 	"file_history":
 	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock_before.js",
+		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/strains/strainsView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/tempViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/chords/chordListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/vapeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/tempResource.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/index.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/archives/Uke_archives/Uke-2.06/Uke-2.06/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/welcomeView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/tools/toolViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/tips/tipViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/tips/tipListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/themes/themeListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/progressions/progViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/improv/improv2ViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/improv/improv1ViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/chords/chordViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/beats/beatViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/toolResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/productResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/chordResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/beatResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/productService.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.31.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/beats/beatView.html",
+		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/products/productListView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/chords/chordView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.30.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/beats/beatViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipList.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/blackLight.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/puebloClay.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/progressions/progView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/stageRight.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app_new.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/sunSet.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/app.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.29.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.min.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/beachVacation.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/js/ng-audio.min.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/blackLight_before.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.28.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/improv/improv1View.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/beatResource.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/productResource.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/chordService.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/puebloClay.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/welcomeView.html",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Inflator.Native.VST.v1.5.1-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Limiter.Native.VST.v1.1.1-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.R3.Dynamics.Native.VST.v1.3.1-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.R3.EQ.Native.VST.v1.6.1-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Reverb.Native.VST.v1.0-AiR/air.nfo",
+		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.TransMod.Native.VST.v1.3.1-AiR/air.nfo",
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/blackLight.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/appZhenSky.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/app_ZhenSky.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/app.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/welcomeView_before.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.24.1.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/buttons.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app_ZhenSky.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.24.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/themes/themeView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/themes/themeListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/themeResource.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.23.txt",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/demo.css",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.22.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.21.txt",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.20.txt",
+		"/C/Users/shane/Documents/strange punch/admin/uke github credentials",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.19.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/tempz.sublime-project",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView_before.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/improv/improv1ViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/index.html",
@@ -217,7 +590,6 @@
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/chords/chordView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/progressions/progView.html",
 		"/C/inetpub/wwwroot/UKE/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/productListView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResource.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/app.js",
@@ -238,99 +610,8 @@
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/progressions/progViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/common.services.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeView.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/css/app.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/tips/tipView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progView_newApproach.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/progressions/progViewCtrl2.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/progressionResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/common/services/tipResource.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/devnotes/DevNotes - Tempz 1.07",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/demo.css",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/snap.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/progressions/progView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/css/app.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/progressions/progViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.13/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progView_old.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/css/app.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/devnotes/DevNotes - Tempz 1.06",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/progressions/progViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/devnotes/Uke-2.13-S.txt",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/css/app.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/app.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/app/chords/chordViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.12/common/services/progressionResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/app/app.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.11/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/tips/tipView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/chords/chordViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/app template/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/archives/UKE_A1_old.zip",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.10/Uke-2.10/app/chords/chordViewA.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/products/productListView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/productDetailCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/chordViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/chordViewA.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/app.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/productListCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/products/productListView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/chordViewSvc.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/productService.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/itemsController.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/app/chords/ItemsController.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/data/mockItems.json",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.08/Uke-2.08/common/services/common.services.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/tips/tipView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/UKE_A1/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/chordViewA9.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/StrangePunch/ng-bootstrap.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index_inlcdes link to StrangePunch.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productResourceMock.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/tips/tipListCtrl.js",
-		"/C/inetpub/wwwroot/UKE/common/services/tipResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/tipResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/app.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewA.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productResource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productListCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/app.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productListView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewAmaj.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/productListCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewAmaj7.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/common.services.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/common/services/productService.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/productDetailCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/index.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productDetailCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/products/productEditCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.07/app/chords/chordViewA9.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeListCtrl.js"
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordView.html"
 	],
 	"find":
 	{
@@ -348,47 +629,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Pattern 5",
-			"Pattern 4",
-			"Pattern 3",
-			"Pattern 2",
-			"Pattern 1",
+			"Space Queen",
+			"\"Beta-sitosterol\": 0.00\n			 	}",
+			"linalool",
+			"\"THCV\": 0.0\n			 	},",
 			"products",
-			"B Major",
-			"progTitle",
-			"pattern1Resource",
-			"currentChords",
-			"Major",
-			"\"weight\": \"\",\n			 \"construction\": \"\",",
-			"#progTitle",
-			"progTitle",
-			"Ukulele_Empty",
-			"Ukelele_Empty",
-			"\"imageUrl4\": \"\"",
-			"\"imageUrl\": \"\"",
-			"margin-bottom: 20px",
-			"margin-left:10%",
-			"margin-left:15%",
-			"margin-left:25%",
-			"margin-bottom: 10px;",
-			"width:50%",
-			"tipText",
-			"storz",
-			"chordNav",
-			"Folk",
-			"A",
-			"Folk & Western",
-			"Folk 1",
-			"Folk",
-			"50s Ballad",
-			"50s and 60s Soft Rock",
-			"Swing and Classic Jazz",
-			"Minor Blues",
-			"Heart of the Blues",
-			"Folk and Western",
-			"b",
-			"Separated link",
-			"s-state"
+			"prod",
+			"Chemdawg",
+			"Cheese",
+			"conditions",
+			"Alien OG",
+			"Afghani",
+			"ACDC Super CBD Oil",
+			"ACDC",
+			"Acapulco Gold",
+			"707 Headband",
+			"ACDC",
+			"Tropical OG",
+			"Thin Mint",
+			"Tangelope",
+			"Tangerine",
+			"Superman OG",
+			"Super Grandaddy",
+			"Sugar Plum",
+			"Strawberry Mist",
+			"Stratosphere",
+			"Saturn OG",
+			"Raskal OG",
+			"Purple Urkle",
+			"Purple Cheese",
+			"Trinity Kush",
+			"Pineapple Hogsbreath",
+			"Pineapple Express",
+			"Pineapple",
+			"OG Cheese",
+			"Moonshine Diesel",
+			"Mike Tyson",
+			"Mercury OG",
+			"May Weather Kush",
+			"Magic Jack",
+			"Mafia OG",
+			"Lulu",
+			"Jillybean",
+			"Jack Chemdawg",
+			"Green Dynamite",
+			"Grapefruit Haze",
+			"Grape Cookies",
+			"Canna-Tsu",
+			"conditions",
+			"}, \"conditions\": [\"\"],",
+			"}, \n			 \"PositiveEffects\": [\"\"],",
+			"Cannatonic #4",
+			"Charlotte's Web",
+			"Cannatonic",
+			"Harle-Tsu",
+			"G13 Haze",
+			"Lemon Larry OG",
+			"Jupiter Kush",
+			"Harlequin",
+			"Lemon Larry OG",
+			"Sour Tsunami",
+			"Sour OG",
+			"Valentine X",
+			"Sour Tsunami",
+			"Grape Cookies",
+			"Gooey Wreck",
+			"ACDC",
+			"Green Thailand",
+			"Grape Cookies",
+			"Mafia OG",
+			"Sugar Plum",
+			"ACDC",
+			"Gooey Wreck",
+			"ACDC",
+			"Lulu",
+			"Mike Tyson",
+			"Phantom OG",
+			"Pennywise",
+			"Super Grandaddy",
+			"Saturn OG",
+			"Black Cherry Soda",
+			"Berry White",
+			"Berry Queen",
+			"Bay Cookies",
+			"Banana Diesel",
+			"Avi-Dekel",
+			"ATF",
+			"Alien OG",
+			"Afghani",
+			"ACDC Super CBD Oil",
+			"Acapulco Gold",
+			"707 Headband",
+			"White Walker OG",
+			"White Fire OG",
+			"Thin Mint",
+			"Sugar Plum",
+			"Shark Shock",
+			"Raskal OG",
+			"Querkle",
+			"Pineapple Hogsbreath",
+			"Moonshine Diesel",
+			"Mango Maui",
+			"Mafia OG",
+			"Harlequin",
+			"Green Thailand",
+			"Grape Kool Aid",
+			"Grape Cookies",
+			"Eden OG",
+			"Dubtech",
+			"Confidential Cheese",
+			"Cherry Bomb",
+			"Canna-Tsu",
+			"Candy OG",
+			"Blue Dream",
+			"Berry Queen",
+			"Bay Cookies",
+			"ACDC",
+			"Super Lemon Haze",
+			"Stratosphere",
+			"Sour Tsunami",
+			"Sherbet Cookies",
+			"Regulator OG",
+			"Purple Urkle",
+			"Platnum Trinity Kush",
+			"Pennywise",
+			"Northern Lights",
+			"Moonshine Diesel",
+			"images/220px-Pulegone_Structural_Formulae.png",
+			"Mango Maui"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -396,6 +764,18 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"Beta-sitosterol\": 0.00,\n			 	\"CBC\": 0.00,\n			 	\"CBL\": 0.00\n			 	}",
+			"Linalool",
+			"\"THCV\": 0.00,\n			 	\"THCA\": 0.00,\n			 	\"THC8\": 0.00,\n			 	\"Pulegone\": 0.00,\n			 	\"Myrcene\": 0.00,\n			 	\"Caryophyllene\": 0.00,\n			 	\"Limonene\": 0.00,\n			 	\"linalool\": 0.00,\n			 	\"Eucalyptol\": 0.00,\n			 	\"Pinene\": 0.00,\n			 	\"Terpineol\": 0.00,\n			 	\"Terpineol-4\": 0.00,\n			 	\"Cymene\": 0.00,\n			 	\"Apigenin\": 0.00,\n			 	\"Quercetin\": 0.00,\n			 	\"Cannflavin A\": 0.00,\n			 	\"Beta-sitosterol\": 0.00\n			 	},",
+			"}, \n			 \"conditions\": [\"\"],",
+			"}, \"conditions\": [\"\"],\n			 \"PositiveEffects\": [\"\"],",
+			"images/strains/acapulcoGold.jpg",
+			"0.5",
+			"0.3",
+			"currentTheme",
+			"theme",
+			"Pentatonic_EMin",
+			"Rhythm",
 			"5th Position",
 			"4th Position",
 			"3rd Position",
@@ -442,7 +822,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 43.0
+		"height": 40.0
 	},
 	"input":
 	{
@@ -479,15 +859,17 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "tempz.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 206.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -496,6 +878,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -504,6 +887,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
