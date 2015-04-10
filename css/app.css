@@ -38,12 +38,11 @@ html, body {
 	background-position:center;
 	border: none;
 	overflow: hidden;
-	
+	padding-top: 60%;
 }
 #mainView ul{
 	list-style-type: none;
 	vertical-align: bottom;
-	padding-top: 250%;
 }
 #mainView li a {
 	background: #000;
@@ -65,17 +64,14 @@ html, body {
 	/**background: #DA9223;**/
 	color: #000;
 	font-size: 60px;
-	font-family: 'Cookie', cursive;
+	font-family: 'Cookie';
 	font-weight: normal;
 	line-height: 10px;
 	text-shadow: 0 3px 0 rgba(0,0,0,0.1);
 	border-radius: 30px;
-	padding: 10px 50px 20px 30px;
+	padding: 10px 50px 20% 30px;
 	margin: 0px 0px 0px 40px;
 	text-align: left;
-	position: relative;
-	top: 70px;
-	text-decoration: none;	
 }
 #mainView .tagline{
 	color: #fff;
@@ -102,14 +98,15 @@ html, body {
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
-	margin-top: 20px;
-	margin-bottom: -15px;
+	margin-top: 35px;
+	margin-bottom: -30px;
 	padding: 5px;
 }
 
 #tempsView .panel-body {
 	padding-left: 0px;
 	margin-left: -10px;
+	padding: 5px;
 }
 
 #tempsView .panel-heading {
@@ -135,18 +132,13 @@ html, body {
 #tempsView ul li{
 	display: inline;
 	list-style-type: none;
-	margin-left: none;
+	margin-left: -5px;
 }
 
 #tempsView .btn{
 	margin-left: none;
 	background-color: rgba(0,0,0,0.2);
 	margin-left: 15px;
-}
-
-#tempsView .rightBtn{
-	margin-left: 80%;
-	margin-right: 5px;
 }
 
 #tempsView .tCircle {
@@ -170,17 +162,24 @@ html, body {
     background: linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* Standard syntax */
     border-width: 3px;
 	width: 100%;
-	height: 45px;
+	height: 35px;
 	font-size: 1.2em;
 	padding: 5px;
+	color: white;
 }
-
+#tempsView .imgStrains {
+	margin-left: 90px;
+	margin-right: 20px;
+}
 #tempsView .imgStrains a img {
 	vertical-align: center;
 }
 #tempsView .imgStrains h6 {
 	text-align: left;
 	padding-left: 10px;
+}
+#tempsView .pushDown{
+	padding-top: 10px;
 }
 
 /**----------Conditions View---------------**/
@@ -200,14 +199,15 @@ html, body {
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
-	margin-top: 20px;
-	margin-bottom: -15px;
+	margin-top: 35px;
+	margin-bottom: -30px;
 	padding: 5px;
 }
 
 #condView .panel-body {
 	padding-left: 0px;
 	margin-left: -10px;
+	padding: 5px;
 }
 
 #condView .panel-heading {
@@ -229,14 +229,17 @@ html, body {
 	margin-right: 10px;
 	margin-bottom: -5px;
 	padding: 5px;
-	padding-left: 55%;
+	font-size: .7em;
 }
-
 
 #condView .panel-primary{
 	background-color: rgba(0,0,0,0.3);
 	border-style: none;
 	box-shadow: none;
+}
+
+#condView .primaryInfo{
+	font-size: 1.2em;
 }
 
 #condView table{
@@ -251,21 +254,24 @@ html, body {
 #condView ul li{
 	display: inline;
 	list-style-type: none;
-	margin-left: none;
+	margin-left: -15px;
+}
+
+#condView .active{
+	color: white;
+	font-size: .9em;
 }
 
 #condView .btn{
 	margin-left: none;
 	background-color: rgba(0,0,0,0.2);
-	margin-left: 15px;
+	margin-left: 5px;
 }
 
 #condView .btn-primary{
 	background-color: rgba(0,0,0,0.2);
 	border-style: solid;
 	border-color: white;
-	margin-left: 30%;
-	margin-right: 5%;
 }
 
 #condView .bottomBtn{
@@ -293,12 +299,15 @@ html, body {
 	font-size: 0.9em;
 }
 
-
 /**----------Strains View---------------**/
 #strainsView{
 	width: 100%;
 	float:left;
 	padding: 10px; 
+}
+#strainsView a{
+	 text-decoration: none;
+	 color: white;
 }
 
 #strainsView .panel {
@@ -306,15 +315,15 @@ html, body {
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
-	margin-top: 20px;
-	margin-bottom: -15px;
+	margin-top: 35px;
+	margin-bottom: -30px;
 	padding: 5px;
 }
 
 #strainsView .panel-body {
-	margin-right: 5px;
+	padding-left: 0px;
 	margin-left: -10px;
-	margin-top: -5px;
+	padding: 5px;
 }
 
 #strainsView .panel-heading {
@@ -327,67 +336,191 @@ html, body {
 	padding: 5px;
 }
 
+#strainsView .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	padding: 5px;
+	font-size: .7em;
+}
+
 #strainsView .panel-primary{
 	background-color: rgba(0,0,0,0.3);
 	border-style: none;
 	box-shadow: none;
-	padding: 5px;
 }
 
-#strainsView table{
-	border: none;
+#strainsView .primaryInfo{
+	margin-left: 20px;
+}
+#strainsView .list-panel {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
 }
 
 #strainsView ul li{
 	display: inline;
 	list-style-type: none;
-	margin-left: none;
+	margin-left: -15px;
+}
+
+#strainsView .active{
+	color: white;
+	font-size: .9em;
 }
 
 #strainsView .btn{
+	margin-left: none;
 	background-color: rgba(0,0,0,0.2);
-	padding: 5px;
-	margin-left:10px;
-	margin-bottom: 5px;
+	margin-left: 5px;
 }
-#strainsView .something{
-	padding-left: 15%;
+
+#strainsView .btn-primary{
+	background-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-color: white;
 }
-#strainsView .imgStrains a img {
+
+#strainsView .imgStrains {
+	margin-left: 90px;
+	margin-right: 20px;
+}
+#strainsView  .imgStrains a img {
 	vertical-align: center;
 }
 #strainsView .imgStrains h6 {
 	text-align: left;
 	padding-left: 10px;
 }
-
-#strainsView .tCircle {
-	border-style: solid;
-	border-color: white;
-	background-color:rgba(0,0,0,0.2);
-    border-width: 3.5px;
-    border-radius: 50%;
-	padding: 12px;
-	width: 45px;
-	height: 45px;
-	font-size: 0.7em;
-	color: white;
-	margin-left: 15px;
-	text-align: center;
+#strainsView  .pushDown{
+	padding-top: 10px;
 }
 
-#strainsView .tBox {
+/**----------Effects View---------------**/
+#effView{
+	width: 100%;
+	float:left;
+	padding: 10px; 
+}
+
+#effView a{
+	 text-decoration: none;
+	 color: white;
+}
+
+#effView .panel {
+	border-style: dotted;
+    border-width: 1px;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+	margin-top: 35px;
+	margin-bottom: -30px;
+	padding: 5px;
+}
+
+#effView .panel-body {
+	padding-left: 0px;
+	margin-left: 20px;
+	padding: 5px;
+}
+
+#effView .panel-heading {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -5px;
+	padding: 5px;
+}
+
+#effView .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	padding: 5px;
+	font-size: .7em;
+}
+
+#effView .panel-primary{
+	background-color: rgba(0,0,0,0.3);
+	border-style: none;
+	box-shadow: none;
+}
+
+#effView .primaryInfo{
+	font-size: 1.1em;
+}
+
+#effView table{
+	border: none;
+	margin-left: 20px;
+}
+#effView .temp{
+	background-color: rgba(0,0,0,0.2);
+	height: 100px;
+	padding-left: 20px;
+}
+
+#effView ul li{
+	display: inline;
+	list-style-type: none;
+	margin-left: -35px;
+}
+#effView .row-padding {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#effView .active{
+	color: white;
+	font-size: .9em;
+}
+
+#effView .btn{
+	margin-left: none;
+	background-color: rgba(0,0,0,0.2);
+	margin-left: 5px;
+}
+
+#effView .btn-primary{
+	background-color: rgba(0,0,0,0.2);
 	border-style: solid;
 	border-color: white;
-	background: -webkit-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Safari 5.1 to 6.0 */
-	background: -o-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* Standard syntax */
-    border-width: 3px;
-	width: 100%;
-	height: 45px;
-	font-size: 1.2em;
-	padding: 5px;
+}
+
+#effView .bottomBtn{
+	margin-left: 40%;
+	margin-right: 5%;
+}
+
+#effView .imgStrains a img {
+	vertical-align: center;
+}
+#effView.imgStrains h6 {
+	text-align: left;
+	padding-left: 10px;
+}
+
+#effView .tCircle {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(255,105,10,0.5);
+    border-width: 4px;
+    border-radius: 50%;
+	padding: 13px;
+	width: 60px;
+	height: 65px;
+	font-size: 0.9em;
 }
 
 /*----------------------------------**/

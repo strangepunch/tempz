@@ -1,25 +1,96 @@
-<div class="panel panel-primary" id="tips">
-	<div class="panel-heading"
-		 style="font-size:large"> 
-		 Dial in Your Desired Effect
+<div id="effView">
+	<div class = "panel panel-primary">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	Effects:
+			</div>
+			<div class="panel-body primaryInfo">
+				<ul ng-repeat="product in vm.products">
+					<li class="col-xs-6" ng-click="selectEffect(product.productName)"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{product.productName}}</li>
+				</ul>
+			</div>
+			<div class="panel-footer"> 
+			 	<div class="btn btn-primary"> A-D </div> 
+			 	<div class="btn btn-primary"> E-H </div> 
+			 	<div class="btn btn-primary"> I-L </div>
+			 	<div class="btn btn-primary"> M-P </div> 
+			 	<div class="btn btn-primary"> Q-T </div> 
+			 	<div class="btn btn-primary"> U-Z </div>
+			</div>
+		</div>
 	</div>
-	<div class="panel-body">
-		<table class="table table-striped">
-			<thead>
-				<tr>
-					<td><strong>Effect</strong></td>
-					<td><strong>Temperature</strong></td>
-					<!-- <td><strong>Component</strong></td> -->
-				</tr>
-			</thead>
-			<tbody>
-				<tr ng-repeat="product in vm.products">
-					<td>{{ product.Property }}</td>
-					<td>{{ product.temp }}</td>
-					<!-- <td>{{ product.productName }} -->
-						<!--<a ui-sref="productDetail({productId: product.productId})">{{ product.productName }}</a> </td> -->
-				</tr>
-			</tbody>
-		</table>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	Selected Effect - Property 
+			</div>
+			<div class="panel-body">
+				<div class = "row row-padding">
+					<div class="col-xs-2" >
+				
+				        <a href="#">
+				         	<div class="tCircle">
+					  			Temp 1 F
+					  		</div>
+				        </a>
+					</div>
+					<div class="col-xs-10" >
+						<ul >
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
+						</ul>
+					</div>
+				</div>
+				<div class = "row row-padding">
+					<div class="col-xs-2" >
+				
+				        <a href="#">
+				         	<div class="tCircle">
+					  			Temp 2 F
+					  		</div>
+				        </a>
+					</div>
+					<div class="col-xs-10" >
+						<ul >
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
+						</ul>
+					</div>
+				</div>
+				<div class = "row row-paddingrow-padding">
+					<div class="col-xs-2" >
+
+				        <a href="#">
+				         	<div class="tCircle">
+					  			Temp 3 F
+					  		</div>
+				        </a>
+					</div>
+					<div class="col-xs-10" >
+						<ul >
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
+							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
+						</ul>
+					</div>
+				</div>
+						
+			</div>
+		</div>
+	</div>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	Selected Effect - Discription
+			</div>
+			<div class="panel-body">
+				Short discriptions		
+			</div>
+		</div>
 	</div>
 </div>
