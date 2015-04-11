@@ -1,20 +1,12 @@
 <div id="tempsView">
 	<div class = "panel panel-primary">
-		<div class="row">
-			<table>
-					<tr>
-						<td class="col-xs-2">
-							<div class="tCircle">
-								200 *F
-							</div>
-						</td>
-						<td class="col-xs-10">
-							<div class="tBox">
-								some thing in here
-							</div>
-						</td>
-					</tr>
-			</table>
+		<div class="tCircle">
+			{{vm.temp}} <span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
+		</div>
+	</div>
+	<div class = "panel panel-primary">			
+		<div class="tBox">
+	        <slider floor="45" ceiling="490" step="1" precision="1" ng-model="vm.temp" ng-model-low="vm.minTemp" ng-model-high="vm.maxTemp" ng-click="catching(vm.temp)"></slider>
 		</div>
 	</div>
 
@@ -24,12 +16,8 @@
 			 	Effects:
 			</div>
 			<div class="panel-body">
-				<ul>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> yo!</li>
+				<ul ng-repeat = "effects in vm.effectProperty track by $index">
+					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{effects}}</li>
 				</ul>
 			</div>
 		</div>

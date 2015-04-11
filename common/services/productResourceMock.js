@@ -34,7 +34,6 @@
 			 	"Quercetin": 0.00,
 			 	"Cannflavin A": 0.00,
 			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
 			 	"CBL": 0.00
 			 	},
 		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache"],

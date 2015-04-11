@@ -5,6 +5,7 @@
 							 "ui.router",
 							 "ui.mask",
 							 "ui.bootstrap",
+							 "ui.slider",
 							 "angularCharts",
 							 "productResourceMock"]);
 	//error handling
@@ -44,6 +45,7 @@
 						.state("temps", {
 							url: "/temps",
 							templateUrl: "app/temps/tempsView.html",
+							controller: "TempsViewCtrl as vm"
 						})
 
 						//Conditions
