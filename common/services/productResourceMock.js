@@ -7304,6 +7304,46 @@ var effects = [
 			 "descriptionAbbrev":  "constricting of the blood vessels",
 			 "tags": ["Vasoconstriction", "blood vessels"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 23,
+			 "effectName": "Memory booster", //compName
+			 "conditionsTreated": ["Memory"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "helps memory conditions",
+			 "tags": ["Memory booster", "memory"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 24,
+			 "effectName": "AChE inhibitor", //compName
+			 "conditionsTreated": ["glaucoma", "postural tachycardia syndrome", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "schizophrenia", "autism"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "typically used to increase neuromuscular transmission",
+			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 25,
+			 "effectName": "Sedative", //compName
+			 "conditionsTreated": ["Insomnia"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "helps you sleep",
+			 "tags": ["Sedative", "Insomnia"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 26,
+			 "effectName": "Antipyretic", //compName
+			 "conditionsTreated": ["Fever"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces fever",
+			 "tags": ["Antipyretic", "fever"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 27,
+			 "effectName": "Euphoriant", //compName
+			 "conditionsTreated": ["Depression"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "produces a sense of well-being",
+			 "tags": ["Euphoriant", "Depression", "Anti-Depression"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
 
