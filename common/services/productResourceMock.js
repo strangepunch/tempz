@@ -7872,10 +7872,12 @@ var effects = [
 		];
 
 		var conditionsUrl = "/api/conditions";
-		var productUrl = "/api/effects";
+		var productUrl = "/api/products";
+		var effectUrl = "/api/effects";
 		var vapeUrl = "/api/vapes";
 
 		$httpBackend.whenGET(productUrl).respond(products);
+		$httpBackend.whenGET(effectUrl).respond(effects);
 		$httpBackend.whenGET(conditionsUrl).respond(conditions);
 		$httpBackend.whenGET(vapeUrl).respond(vapes);
 
