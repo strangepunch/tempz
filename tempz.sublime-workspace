@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"Di",
+				"Dizzy"
+			],
+			[
+				"Depe",
+				"Depression"
+			],
+			[
+				"Eu",
+				"Euphoric"
+			],
+			[
 				"Tan",
 				"Tangelope"
 			],
@@ -114,14 +126,6 @@
 			[
 				"AC",
 				"ACDC"
-			],
-			[
-				"Di",
-				"Diablo"
-			],
-			[
-				"Eu",
-				"Euphoria"
 			],
 			[
 				"Grap",
@@ -435,6 +439,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "common/services/productResourceMock.js",
+			"settings":
+			{
+				"buffer_size": 297632,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -629,6 +641,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"NegativeEffects",
+			"PositiveEffects",
+			"Pineapple",
+			"Sour Dies",
+			"Headband",
+			"Fire OG",
+			"Cherry",
+			"Chemdawg",
+			"Ban",
+			"Banna",
+			"Alien OG",
 			"Space Queen",
 			"\"Beta-sitosterol\": 0.00\n			 	}",
 			"linalool",
@@ -745,18 +768,7 @@
 			"Berry Queen",
 			"Bay Cookies",
 			"ACDC",
-			"Super Lemon Haze",
-			"Stratosphere",
-			"Sour Tsunami",
-			"Sherbet Cookies",
-			"Regulator OG",
-			"Purple Urkle",
-			"Platnum Trinity Kush",
-			"Pennywise",
-			"Northern Lights",
-			"Moonshine Diesel",
-			"images/220px-Pulegone_Structural_Formulae.png",
-			"Mango Maui"
+			"Super Lemon Haze"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -764,6 +776,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"negativeEffects",
+			"positiveEffects",
 			"\"Beta-sitosterol\": 0.00,\n			 	\"CBC\": 0.00,\n			 	\"CBL\": 0.00\n			 	}",
 			"Linalool",
 			"\"THCV\": 0.00,\n			 	\"THCA\": 0.00,\n			 	\"THC8\": 0.00,\n			 	\"Pulegone\": 0.00,\n			 	\"Myrcene\": 0.00,\n			 	\"Caryophyllene\": 0.00,\n			 	\"Limonene\": 0.00,\n			 	\"linalool\": 0.00,\n			 	\"Eucalyptol\": 0.00,\n			 	\"Pinene\": 0.00,\n			 	\"Terpineol\": 0.00,\n			 	\"Terpineol-4\": 0.00,\n			 	\"Cymene\": 0.00,\n			 	\"Apigenin\": 0.00,\n			 	\"Quercetin\": 0.00,\n			 	\"Cannflavin A\": 0.00,\n			 	\"Beta-sitosterol\": 0.00\n			 	},",
@@ -815,8 +829,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "common/services/productResourceMock.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237990,
+								237990
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 156193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -863,7 +907,7 @@
 	"project": "tempz.sublime-project",
 	"replace":
 	{
-		"height": 206.0
+		"height": 80.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -7128,6 +7128,90 @@
 			}			
 		];
 
+var effects = [
+			{"effectId": 1,
+			 "effectName": "Neuroprotective", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "protects against nerve damage",
+			 "tags": ["Neuroprotective", "nerves"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 2,
+			 "effectName": "Antispasmodic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "relieves spasms and convulsions",
+			 "tags": ["Antispasmodic", "spasms", "convulsions"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 3,
+			 "effectName": "Antiemetic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces vomiting and nausea",
+			 "tags": ["Antiemetic", "vomiting", "nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 4,
+			 "effectName": "Analgesic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
+			 "descriptionAbbrev":  "reduces pain",
+			 "tags": ["Analgesic", "pain", "painkiller" ],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 5,
+			 "effectName": "Antioxidant", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness.",
+			 "descriptionAbbrev":  "fights free radicals in the bloodstream",
+			 "tags": ["Antioxidant"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 6,
+			 "effectName": "Neuropathic analgesic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces pain from nerve damage",
+			 "tags": ["nerve damage", "Neuropathic analgesic", "Neuropathic", "analgesic"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 7,
+			 "effectName": "Antiproliferative anticancer", //compName
+			 "conditionsTreated": ["Cancer"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces spread of certain cancers",
+			 "tags": ["Antiproliferative anticancer", "Antiproliferative", "anticancer", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 8,
+			 "effectName": "Anti-inflammatory", //compName
+			 "conditionsTreated": ["inflammation", "chronic inflammation"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces inflammation",
+			 "tags": [""],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 9,
+			 "effectName": "Neurogenesis", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "promotes growth of new nerve tissue",
+			 "tags": ["Neurogenesis", "nerve tissue growth"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 10,
+			 "effectName": "Anxiolytic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces the symptoms of anxiety",
+			 "tags": ["Anxiolytic", "anxiety"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}
+		];
+
+
 		var vapes = [
 			{"productId": 1,
 			 "productName": "The Crafty", 
