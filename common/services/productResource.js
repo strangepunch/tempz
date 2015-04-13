@@ -8,7 +8,7 @@
 			 productResource]);
 
 	function productResource($resource){
-		return $resource("/api/effects/:productId")
+		return $resource("/api/products/:productId")
 	}
 
 }());

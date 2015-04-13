@@ -1,95 +1,65 @@
 <div id="effView">
-	<div class = "panel panel-primary">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Effects:
-			</div>
-			<div class="panel-body primaryInfo">
-				<ul ng-repeat="product in vm.products">
-					<li class="col-xs-6" ng-click="selectEffect(product.productName)"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{product.productName}}</li>
-				</ul>
-			</div>
-			<div class="panel-footer"> 
-			 	<div class="btn btn-primary"> A-D </div> 
-			 	<div class="btn btn-primary"> E-H </div> 
-			 	<div class="btn btn-primary"> I-L </div>
-			 	<div class="btn btn-primary"> M-P </div> 
-			 	<div class="btn btn-primary"> Q-T </div> 
-			 	<div class="btn btn-primary"> U-Z </div>
-			</div>
+	<div class="panel panel-default"> 
+		<div class="panel-heading" role="tab" id="{{effect.effectName}}">
+		      <h4 class="panel-title">Effects</h4> 
 		</div>
+	 	<div class="btn btn-primary"> A-D </div> 
+	 	<div class="btn btn-primary"> E-H </div> 
+	 	<div class="btn btn-primary"> I-L </div>
+	 	<div class="btn btn-primary"> M-P </div> 
+	 	<div class="btn btn-primary"> Q-T </div> 
+	 	<div class="btn btn-primary"> U-Z </div>
 	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Selected Effect - Property 
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+	  	<div class="panel panel-default" ng-repeat="effect in vm.effects">
+		    <div class="panel-heading" role="tab" id="{{effect.effectName}}">
+		      <h4 class="panel-title">
+		        <button class="btn btn-heading" type="button" data-toggle="collapse" data-parent="#accordion" href="#{{effect.effectId}}" aria-expanded="false" aria-controls="collapseTwo" ng-click="selectEffect(effect.effectName)">
+		        	<span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> 
+			          {{effect.descriptionAbbrev}}
+			        </a>
+			    </h4>
 			</div>
-			<div class="panel-body">
-				<div class = "row row-padding">
-					<div class="col-xs-2" >
-				
-				        <a href="#">
-				         	<div class="tCircle">
-					  			Temp 1 F
-					  		</div>
-				        </a>
+			<div id="{{effect.effectId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{effect.effectName}}">
+			    <div class="panel-body">
+			    	 <div class = "row">
+				        <div class = "col-xs-11">
+				        	<span class="primaryInfo"> Medical Name: </span> 
+				        	{{effect.effectName}}
+				    	</div>
+				        <div class = "col-xs-11">
+				        	<span class="primaryInfo"> Detailed Discription: </span> 
+				        	{{effect.descriptionDetailed}}
+				        </div>
+				        <div class = "col-xs-11">
+				        	<span class="primaryInfo"> Condition Treated: </span>
+				        	<ul ng-repeat="condition in effect.conditionsTreated track by $index">
+								<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{condition}}</li>
+							</ul> 
+				        </div>
+				    </div>
+			        <div class = "row">
+				        <table ng-repeat="effect in vm.selectedProducts">
+					        <tr>		
+								<td class="col-xs-2" >
+							        <a href="#">
+							         	<div class="tCircle">
+								  			{{effect.temp}} F
+								  		</div>
+							        </a>
+								</td>
+								<td class="col-xs-9 col-padding" >
+									<span class="primaryInfo">
+										{{effect.productName}} - </span>
+									{{effect.descriptionAbbrev}} 		
+									<ul ng-repeat="property in effect.Property track by $index">
+										<li class="col-xs-10"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{property}}</li>
+									</ul>
+								</td>
+							</tr>
+						</table>
 					</div>
-					<div class="col-xs-10" >
-						<ul >
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-						</ul>
-					</div>
-				</div>
-				<div class = "row row-padding">
-					<div class="col-xs-2" >
-				
-				        <a href="#">
-				         	<div class="tCircle">
-					  			Temp 2 F
-					  		</div>
-				        </a>
-					</div>
-					<div class="col-xs-10" >
-						<ul >
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-						</ul>
-					</div>
-				</div>
-				<div class = "row row-paddingrow-padding">
-					<div class="col-xs-2" >
-
-				        <a href="#">
-				         	<div class="tCircle">
-					  			Temp 3 F
-					  		</div>
-				        </a>
-					</div>
-					<div class="col-xs-10" >
-						<ul >
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-							<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-						</ul>
-					</div>
-				</div>
-						
-			</div>
-		</div>
-	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Selected Effect - Discription
-			</div>
-			<div class="panel-body">
-				Short discriptions		
+			    </div>
 			</div>
 		</div>
 	</div>
