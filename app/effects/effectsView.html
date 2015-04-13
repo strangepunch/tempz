@@ -44,9 +44,12 @@
 								<td class="col-xs-2" >
 							        <a href="#">
 							         	<div class="tCircle">
-								  			{{effect.temp}} F
+								  			<div ng-Hide="vm.F">{{effect.highTemp}}</div>
+								  			<div ng-Hide="vm.C">{{effect.highTempC}}</div>
+								  			<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
 								  		</div>
 							        </a>
+							        Range:<div ng-Hide="vm.F">{{effect.temp}}</div><div ng-Hide="vm.C">{{effect.tempC}}</div>
 								</td>
 								<td class="col-xs-9 col-padding" >
 									<span class="primaryInfo">

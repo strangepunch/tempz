@@ -10,6 +10,28 @@
 	function EffectsViewCtrl($scope, effectResource, productResource){
 		var vm = this;
 
+		vm.F = false;
+		vm.C = true;
+		vm.styleF={"color":"Red","font-size": "1.2em"};
+		vm.styleC={"color":"white","font-size": "0.8em"};
+
+		$scope.selectTemp = function(name){
+			vm.currentTemp = name;
+
+			if(name === 'C'){
+				vm.F = true;
+				vm.C = false;
+				vm.styleF={"color":"white","font-size": "0.8em"};
+				vm.styleC={"color":"Red","font-size": "1.2em"};
+
+			}else if(name === 'F'){
+				vm.F = false;
+				vm.C = true;
+				vm.styleF={"color":"Red","font-size": "1.2em"};
+				vm.styleC={"color":"white","font-size": "0.8em"};
+			}
+		}
+
 		effectResource.query(function(data){
 			vm.effects = data;
 		});
