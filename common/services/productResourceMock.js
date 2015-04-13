@@ -7186,7 +7186,7 @@ var effects = [
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 8,
-			 "effectName": "Anti-inflammatory", //compName
+			 "effectName": "Antiinflammatory", //compName
 			 "conditionsTreated": ["inflammation", "chronic inflammation"],
  			 "descriptionDetailed": "reduces inflammation",
 			 "descriptionAbbrev":  "reduces inflammation",
