@@ -6890,7 +6890,7 @@
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
-			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Stimulates Brain Cell Growth"],
+			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis"],
 			 "lowTemp": 0,
 			 "highTemp": 125,
 			 "lowTempC": 0,
@@ -6918,7 +6918,7 @@
 			},
 			{"productId": 8,
 			 "productName": "THCA", //compName
-			 "Property": ["Anti-inflammatory", "Encourages appetite", "Anti-tumor", "Sedative", "Antispasmodic", "Anti-prostate cancer"],
+			 "Property": ["Antiinflammatory", "Encourages appetite", "Anti-tumor", "Sedative", "Antispasmodic", "Anti-prostate cancer"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -6946,7 +6946,7 @@
 			},
 			{"productId": 10,
 			 "productName": "Beta-myrcene", //compName
-			 "Property": ["Analgesic", "Anti inflammatory", "Antibiotic", "Antimutagenic"],
+			 "Property": ["Analgesic", "Antiinflammatory", "Antibiotic", "Antimutagenic"],
 			 "lowTemp": 0,
 			 "highTemp": 334,
 			 "lowTempC": 0,
@@ -7002,7 +7002,7 @@
 			},
 			{"productId": 14,
 			 "productName": "Eucalyptol", //compName
-			 "Property": ["AChE inhibitor", "Increases cerebral", "blood flow", "Stimulant", "Antibiotic", "Antiviral", "Antiinflammatory", "Antinociceptive"],
+			 "Property": ["AChE inhibitor", "Increases cerebral blood flow", "Stimulant", "Antibiotic", "Antiviral", "Antiinflammatory", "Antinociceptive"],
 			 "lowTemp": 0,
 			 "highTemp": 349,
 			 "lowTempC": 0,
@@ -7011,7 +7011,7 @@
 			 "tempC": "176",
 			 "descriptionDetailed": "Eucalyptol has a fresh camphor-like smell and a spicy, cooling taste. It is an ingredient in many brands of mouthwash and cough suppressant. Eucalyptol is also used as an insecticide and insect repellent.",
 			 "descriptionAbbrev":  "Eucalyptol has a fresh camphor-like smell and a spicy, cooling taste.",
-			 "tags": ["Terpene","Terpinoid","AChE inhibitor", "Increases cerebral", "Blood flow", "Stimulant", "Antibiotic", "Antiviral", "Antiinflammatory", "Antinociceptive"],
+			 "tags": ["Terpene","Terpinoid","AChE inhibitor", "Increases cerebral blood flow", "Stimulant", "Antibiotic", "Antiviral", "Antiinflammatory", "Antinociceptive"],
 			 "imageUrl": "images/200px-Eucalyptol.png"
 			},
 			{"productId": 15,
@@ -7132,24 +7132,24 @@ var effects = [
 			{"effectId": 1,
 			 "effectName": "Neuroprotective", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "protects against nerve damage",
+ 			 "descriptionDetailed": "protects against nerve damage",
+			 "descriptionAbbrev":  "prevents nerve damage",
 			 "tags": ["Neuroprotective", "nerves"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 2,
 			 "effectName": "Antispasmodic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "relieves spasms and convulsions",
+ 			 "descriptionDetailed": "relieves spasms and convulsions",
+			 "descriptionAbbrev":  "relieves spasms",
 			 "tags": ["Antispasmodic", "spasms", "convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 3,
 			 "effectName": "Antiemetic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces vomiting and nausea",
+ 			 "descriptionDetailed": "reduces vomiting and nausea",
+			 "descriptionAbbrev":  "anti-nausea",
 			 "tags": ["Antiemetic", "vomiting", "nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -7165,30 +7165,30 @@ var effects = [
 			 "effectName": "Antioxidant", //compName
 			 "conditionsTreated": [""],
  			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness.",
-			 "descriptionAbbrev":  "fights free radicals in the bloodstream",
+			 "descriptionAbbrev":  "fights free radicals",
 			 "tags": ["Antioxidant"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 6,
 			 "effectName": "Neuropathic analgesic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces pain from nerve damage",
+ 			 "descriptionDetailed": "reduces pain associated with  nerve damage",
+			 "descriptionAbbrev":  "reduces nerve pain",
 			 "tags": ["nerve damage", "Neuropathic analgesic", "Neuropathic", "analgesic"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 7,
 			 "effectName": "Antiproliferative anticancer", //compName
 			 "conditionsTreated": ["Cancer"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces spread of certain cancers",
+ 			 "descriptionDetailed": "reduces spread of certain cancers",
+			 "descriptionAbbrev":  "stops certain cancers",
 			 "tags": ["Antiproliferative anticancer", "Antiproliferative", "anticancer", "Cancer"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 8,
 			 "effectName": "Anti-inflammatory", //compName
 			 "conditionsTreated": ["inflammation", "chronic inflammation"],
- 			 "descriptionDetailed": "",
+ 			 "descriptionDetailed": "reduces inflammation",
 			 "descriptionAbbrev":  "reduces inflammation",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
@@ -7196,143 +7196,143 @@ var effects = [
 			{"effectId": 9,
 			 "effectName": "Neurogenesis", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "promotes growth of new nerve tissue",
+ 			 "descriptionDetailed": "promotes growth of new nerve tissue",
+			 "descriptionAbbrev":  "grows new nerves",
 			 "tags": ["Neurogenesis", "nerve tissue growth"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 10,
 			 "effectName": "Anxiolytic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces the symptoms of anxiety",
+ 			 "descriptionDetailed": "reduces the symptoms of anxiety",
+			 "descriptionAbbrev":  "reduces anxiety",
 			 "tags": ["Anxiolytic", "anxiety"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 11,
 			 "effectName": "Antiepileptic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces seizures and convulsions",
+ 			 "descriptionDetailed": "reduces seizures and convulsions",
+			 "descriptionAbbrev":  "anti-seizure",
 			 "tags": ["Antiepileptic", "seizures", "convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 12,
 			 "effectName": "Vasorelaxant", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces tension in blood vessel walls",
+ 			 "descriptionDetailed": "reduces tension in blood vessel walls",
+			 "descriptionAbbrev":  "restores bloodflow",
 			 "tags": ["Vasorelaxant", "blood vessel"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 13,
 			 "effectName": "Anti-ischemic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces risk of artery blockage",
+ 			 "descriptionDetailed": "reduces risk of artery blockage",
+			 "descriptionAbbrev":  "unblocks arteries",
 			 "tags": ["Anti-ischemic", "artery blockage", "coronary", "heart", "stroke"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 14,
 			 "effectName": "Antibacterial", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "kills surface bacteria",
+ 			 "descriptionDetailed": "kills surface bacteria",
+			 "descriptionAbbrev":  "kills bacteria",
 			 "tags": ["Antibacterial", "bacteria"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 15,
 			 "effectName": "Antidiabetic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces blood sugar levels",
+ 			 "descriptionDetailed": "reduces blood sugar levels",
+			 "descriptionAbbrev":  "lowers blood sugar",
 			 "tags": ["Antidiabetic", "blood sugar", "diabetes"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 16,
 			 "effectName": "Antipsoriatic", //compName
 			 "conditionsTreated": ["psoriasis"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces effects of psoriasis",
+ 			 "descriptionDetailed": "reduces effects of psoriasis",
+			 "descriptionAbbrev":  "helps psoriasis",
 			 "tags": ["Antipsoriatic", "psoriasis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 17,
 			 "effectName": "Antipsychotic", //compName
 			 "conditionsTreated": ["psychosis"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces psychosis including delusions or hallucinations",
+ 			 "descriptionDetailed": "reduces psychosis including delusions or hallucinations",
+			 "descriptionAbbrev":  "reduces psychosis",
 			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 18,
 			 "effectName": "Bone-stimulant", //compName
 			 "conditionsTreated": ["Ostiopererosis"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "promotes bone growth",
+ 			 "descriptionDetailed": "promotes bone growth",
+			 "descriptionAbbrev":  "grows bone cells",
 			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 19,
 			 "effectName": "Intestinal anti-prokinetic", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces contractions in the small intestine",
+ 			 "descriptionDetailed": "reduces contractions in the small intestine",
+			 "descriptionAbbrev":  "helps intestinal contractions",
 			 "tags": ["Intestinal anti-prokinetic", "contractions", "Intestinal"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 20,
 			 "effectName": "Immunosuppressant", //compName
-			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "reduces function in immune system",
+			 "conditionsTreated": ["psoriasis", "rheumatoid arthritis", "crohns disease", "cancer"],
+ 			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
+			 "descriptionAbbrev":  "suppresses immune system",
 			 "tags": ["Immunosuppressant", "immune system"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
 			{"effectId": 21,
 			 "effectName": "Antiproliferative", //compName
-			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "inhibits cell growth ",
-			 "tags": ["Antiproliferative", "cell growth"],
+			 "conditionsTreated": ["cancer"],
+ 			 "descriptionDetailed": "inhibits cell growth",
+			 "descriptionAbbrev":  "slows cancer",
+			 "tags": ["Antiproliferative", "cell growth", "cancer"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 22,
 			 "effectName": "Vasoconstriction", //compName
 			 "conditionsTreated": [""],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "constricting of the blood vessels",
+ 			 "descriptionDetailed": "Vasoconstriction is the narrowing of the blood vessels resulting from contraction of the muscular wall of the vessels, in particular the large arteries and small arterioles. The process is particularly important in staunching hemorrhage and acute blood loss.",
+			 "descriptionAbbrev":  "constricts blood vessels",
 			 "tags": ["Vasoconstriction", "blood vessels"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 23,
 			 "effectName": "Memory booster", //compName
-			 "conditionsTreated": ["Memory"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "helps memory conditions",
-			 "tags": ["Memory booster", "memory"],
+			 "conditionsTreated": ["Memory", "Alzheimers"],
+ 			 "descriptionDetailed": "helps memory conditions",
+			 "descriptionAbbrev":  "helps memory",
+			 "tags": ["Memory booster", "memory", "Memory booster", "Alzheimers"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
 			{"effectId": 24,
 			 "effectName": "AChE inhibitor", //compName
 			 "conditionsTreated": ["glaucoma", "postural tachycardia syndrome", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "schizophrenia", "autism"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "typically used to increase neuromuscular transmission",
+ 			 "descriptionDetailed": "typically used to increase neuromuscular transmission",
+			 "descriptionAbbrev":  "helps nerves",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
 			{"effectId": 25,
 			 "effectName": "Sedative", //compName
 			 "conditionsTreated": ["Insomnia"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "helps you sleep",
+ 			 "descriptionDetailed": "helps you sleep",
+			 "descriptionAbbrev":  "sleep aid",
 			 "tags": ["Sedative", "Insomnia"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
 			{"effectId": 26,
 			 "effectName": "Antipyretic", //compName
 			 "conditionsTreated": ["Fever"],
- 			 "descriptionDetailed": "",
+ 			 "descriptionDetailed": "Most antipyretic medications have other purposes. The most common antipyretics in the United States are ibuprofen and aspirin, which are used primarily as pain relievers. Non-steroidal anti-inflammatory drugs or NSAIDs, are antipyretic, anti-inflammatory, and pain relievers.",
 			 "descriptionAbbrev":  "reduces fever",
 			 "tags": ["Antipyretic", "fever"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
@@ -7340,9 +7340,89 @@ var effects = [
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
 			 "conditionsTreated": ["Depression"],
- 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "produces a sense of well-being",
+ 			 "descriptionDetailed": "produces a sense of well-being",
+			 "descriptionAbbrev":  "Anti-depression",
 			 "tags": ["Euphoriant", "Depression", "Anti-Depression"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 28,
+			 "effectName": "Antimalarial", //compName
+			 "conditionsTreated": ["Malaria"],
+ 			 "descriptionDetailed": "used to prevent and treat malaria",
+			 "descriptionAbbrev":  "treats Malaria",
+			 "tags": ["Antimalarial", "Malaria"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 29,
+			 "effectName": "Antifungal", //compName
+			 "conditionsTreated": ["athletes foot", "ringworm", "thrush", "cryptococcal meningitis"],
+ 			 "descriptionDetailed": "used to treat and prevent fungal mycoses",
+			 "descriptionAbbrev":  "prevents fungus",
+			 "tags": ["Antifungal", "athletes foot", "ringworm", "thrush", "meningitis"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 30,
+			 "effectName": "Anti-tumor", //compName
+			 "conditionsTreated": ["cancer"],
+ 			 "descriptionDetailed": "used to stop abnormal cell growth",
+			 "descriptionAbbrev":  "stops tumors",
+			 "tags": ["Anti-tumor", "cancer", "chemo"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 31,
+			 "effectName": "Stimulates brain cell growth", //compName
+			 "conditionsTreated": ["Alzheimers"],
+ 			 "descriptionDetailed": "helps stimulate brain cell growth and memory functions",
+			 "descriptionAbbrev":  "treats Alzheimers",
+			 "tags": ["Alzheimers", "cancer", "chemo"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 32,
+			 "effectName": "Anti-prostate cancer", //compName
+			 "conditionsTreated": ["Prostate Cancer"],
+ 			 "descriptionDetailed": "helps treat and prevent prostate cancer",
+			 "descriptionAbbrev":  "treats prostate cancer",
+			 "tags": ["Anti-tumor", "Prostate cancer", "Prostate"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 33,
+			 "effectName": "Antinociceptive", //compName
+			 "conditionsTreated": ["Pain", "Chronic Pain"],
+ 			 "descriptionDetailed": "helps prevent the sensation of pain",
+			 "descriptionAbbrev":  "pain relief",
+			 "tags": ["Chronic Pain", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 34,
+			 "effectName": "Antibiotic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "destroys or slow down the growth of bacteria",
+			 "descriptionAbbrev":  "destroys bacteria",
+			 "tags": ["Antibiotic", "Infection"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 35,
+			 "effectName": "Antimutagenic", //compName
+			 "conditionsTreated": ["cancer"],
+ 			 "descriptionDetailed": "reduces or inhibits the rate of cell mutation",
+			 "descriptionAbbrev":  "reduces cell mutation",
+			 "tags": ["Antimutagenic", "cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 36,
+			 "effectName": "Bronchodilator", //compName
+			 "conditionsTreated": ["Asthma", "COPD"],
+ 			 "descriptionDetailed": "decreases resistance in the respiratory airway and increases airflow to the lungs",
+			 "descriptionAbbrev":  "helps you breath",
+			 "tags": ["Bronchodilator", "Asthma", "COPD"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 37,
+			 "effectName": "Antineoplastic", //compName
+			 "conditionsTreated": ["cancer"],
+ 			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
+			 "descriptionAbbrev":  "inhibits tumors",
+			 "tags": ["Antineoplastic", "cancer", "tumors"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
