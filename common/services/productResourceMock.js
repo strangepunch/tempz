@@ -7208,6 +7208,102 @@ var effects = [
 			 "descriptionAbbrev":  "reduces the symptoms of anxiety",
 			 "tags": ["Anxiolytic", "anxiety"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 11,
+			 "effectName": "Antiepileptic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces seizures and convulsions",
+			 "tags": ["Antiepileptic", "seizures", "convulsions"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 12,
+			 "effectName": "Vasorelaxant", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces tension in blood vessel walls",
+			 "tags": ["Vasorelaxant", "blood vessel"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 13,
+			 "effectName": "Anti-ischemic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces risk of artery blockage",
+			 "tags": ["Anti-ischemic", "artery blockage", "coronary", "heart", "stroke"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 14,
+			 "effectName": "Antibacterial", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "kills surface bacteria",
+			 "tags": ["Antibacterial", "bacteria"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 15,
+			 "effectName": "Antidiabetic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces blood sugar levels",
+			 "tags": ["Antidiabetic", "blood sugar", "diabetes"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 16,
+			 "effectName": "Antipsoriatic", //compName
+			 "conditionsTreated": ["psoriasis"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces effects of psoriasis",
+			 "tags": ["Antipsoriatic", "psoriasis"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 17,
+			 "effectName": "Antipsychotic", //compName
+			 "conditionsTreated": ["psychosis"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces psychosis including delusions or hallucinations",
+			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 18,
+			 "effectName": "Bone-stimulant", //compName
+			 "conditionsTreated": ["Ostiopererosis"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "promotes bone growth",
+			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 19,
+			 "effectName": "Intestinal anti-prokinetic", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces contractions in the small intestine",
+			 "tags": ["Intestinal anti-prokinetic", "contractions", "Intestinal"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 20,
+			 "effectName": "Immunosuppressant", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "reduces function in immune system",
+			 "tags": ["Immunosuppressant", "immune system"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 21,
+			 "effectName": "Antiproliferative", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "inhibits cell growth ",
+			 "tags": ["Antiproliferative", "cell growth"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 22,
+			 "effectName": "Vasoconstriction", //compName
+			 "conditionsTreated": [""],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "constricting of the blood vessels",
+			 "tags": ["Vasoconstriction", "blood vessels"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
 
