@@ -514,8 +514,21 @@ html, body {
 #effView .btn-heading{
 	background-color: rgba(0,0,0,0.0);
 	border: none;
+	width: 100%;
 	padding-right: 85%;
 	padding-left: 0px;
+	outline-style: none;
+	box-shadow: none;
+}
+
+#effView .btn-heading:hover {
+  color:#009900;
+}
+#effView .btn-heading:active {
+  color:#006B00;
+}
+#effView .btn-heading:focus {
+  color:#00FF00;
 }
 
 #effView .bottomBtn{
