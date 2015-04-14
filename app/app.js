@@ -6,7 +6,6 @@
 							 "ui.mask",
 							 "ui.bootstrap",
 							 "ui.slider",
-							 "angularCharts",
 							 "productResourceMock"]);
 	//error handling
 	app.config(function($provide){
@@ -68,16 +67,34 @@
 						})
 
 						//Cannabinoids
-						.state("tips", {
-							url: "/tips", 
+						.state("tipsView", {
+							url: "/tips",
 							templateUrl: "app/tips/tipView.html",
-							controller: "TipListCtrl as vm"
+							controller: "TipViewCtrl as vm"
+						})
+
+						.state("tipsList", {
+							url: "/tips/:tipId",
+							templateUrl: "app/tips/tipList.html",
+							controller: "TipListCtrl as vm",
+							
+							resolve:{
+								tipResource: "tipResource",
+
+								tip: function (tipResource, $stateParams){
+									var tipId = $stateParams.tipId;
+									console.log($stateParams);
+									return tipResource.get(
+										{ tipId: tipId }).$promise;
+								}
+							}
+							
 						})
 						//Vapes
 						.state("vapes", {
 							url: "/vapes", 
-							templateUrl: "app/vapes/vapeView.html", 
-							controller: "VapeListCtrl as vm"
+							templateUrl: "app/vapes/tipView.html", 
+							controller: "TipListCtrl as vm"
 						})
 
 						//Theme
