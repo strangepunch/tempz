@@ -1,49 +1,15 @@
-<div id="tipsView">
-	<div class="panel panel-primary" id="tipView">
-		<div class="panel-body">
-			<table class="table">
-				<td class="col-xs-2">
-					<ul >
-						<li >
-							 <a ng-class="active('Care')" ng-click="selectCatagory('Care')">Portable</a>
-						</li>
-						<li >
-							 <a ng-class="active('History')" ng-click="selectCatagory('History')">Desktop</a>
-						</li>
-						<li >
-							 <a ng-class="active('Lessons')" ng-click="selectCatagory('Lessons')">Pen</a>
-						</li>
-					</ul>
-				</td>
-				<td class="col-xs-10 col-sm-8 col-md-8 col-lg-8">
-					<div class="panel panel-primary" 
-						 ng-repeat="tip in vm.filteredTips">
-						<div class="panel-heading"
-							 ng-click = "select(tip)"
-							 ui-sref="tipsList({tipId: tip.tipId})">
-							 	{{tip.tipName}} 
-							 	<span class="glyphicon glyphicon-chevron-right"></span> 
-						</div>
-						<div class="panel-body discription">
-							<!--some temparary tip discription--> 
-							{{tip.tipDescription}}
-						</div>
-					</div>
-				</td>
-			</table>
-		</div>
-	</div>
-</div>
-<!--
 <div id="tips">
 	<div id="tipTitle"> 
 		{{vm.currentTip.tipName}}
+		{{vm.tipsPass.tipName}}
 	</div>
 	<div id="tipText">
-		<div class="row">
+		<div class="row"> 
 			<img ng-src="{{vm.currentTip.imageUrl}}"
 			     title="{{tip.tipName}}">
-			{{vm.currentTip.tipInfo}}
+			
+				{{vm.currentTip.tipInfo}}
+			
 		</div>
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 				<div class="panel panel-default">
@@ -93,6 +59,7 @@
 	<div class="row" id="NextBackBtn"> 
 		<button ng-hide="vm.noPrev" class="btn btn-primary-nextBack"  ng-click="prevPage()">Prev</button>
 		<button ng-hide="vm.noNext" class="btn btn-primary-nextBack"  ng-click="nextPage()">Next</button>
+		<button class="btn btn-primary-nextBack" ui-sref="tipsView">Main</button>
 	</div>
 </div>
--->	
+	
