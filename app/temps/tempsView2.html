@@ -5,33 +5,14 @@
 		</div>
 	</div>
 	<div class = "panel panel-primary">
-		<div class="tBox" ng-hide="vm.F"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTemp'">
-				<label class="col-xs-1" ng-click="catching(temp.highTemp)"> {{temp.highTemp}} </label>
-			</div>
-		</div>
-		<div class="tBox" ng-hide="vm.C"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTempC'">
-				<label class="col-xs-1" ng-click="catching(temp.highTempC)"> {{temp.highTempC}} </label>
-			</div>
+		<div class="tBox" ng-hide="vm.F">
+	        <slider floor="1" ceiling="490" step="1" precision="1" ng-model="vm.temp" ng-model-low="vm.minTemp" ng-model-high="vm.maxTemp" ng-click="catching(vm.temp)"></slider>
+		</div>			
+		<div class="tBox" ng-hide="vm.C">
+	        <slider floor="45" ceiling="300" step="1" precision="1" ng-model="vm.temp" ng-model-low="vm.minTemp" ng-model-high="vm.maxTemp" ng-click="catching(vm.temp)"></slider>
 		</div>
 	</div>
-<!--
-	<div class = "panel panel-primary">
-		<div class="tBox" ng-hide="vm.F"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTemp'" >
-				<input class="col-xs-1" id="option{{temp.productId}}" name="options" value="{{temp.highTemp}}" type="radio" ng-model="vm.temp" ng-click="catching(temp.highTemp)">
-				<label class="col-xs-1" for="option{{temp.productId}}" > {{temp.highTemp}} </label>
-			</div>
-		</div>
-		<div class="tBox" ng-hide="vm.C"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTempC'" >
-				<input class="col-xs-1" id="option{{temp.productId}}" name="options" value="{{temp.highTempC}}" type="radio" ng-model="vm.temp" ng-click="catching(temp.highTempC)">
-				<label class="col-xs-1" for="option{{temp.productId}}" > {{temp.highTempC}} </label>
-			</div>
-		</div>
-	</div>
--->
+
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
@@ -39,7 +20,7 @@
 			</div>
 			<div class="panel-body">
 				<ul ng-repeat = "effects in vm.effectProperty track by $index">
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{effects|unique:'Property'}}</li>
+					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{effects}}</li>
 				</ul>
 			</div>
 		</div>

@@ -6,6 +6,7 @@
 							 "ui.mask",
 							 "ui.bootstrap",
 							 "ui.slider",
+							 "ui.unique",
 							 "angularCharts",
 							 "productResourceMock"]);
 	//error handling

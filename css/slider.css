@@ -64,6 +64,7 @@ slider div.bubble, [slider] div.bubble {
   padding: 1px 3px 1px 3px;
   font-size: 0.7em;
   font-family: sans-serif;
+  color: transparent;
 }
 /* line 66, slider.scss */
 slider div.bubble.active, [slider] div.bubble.active {

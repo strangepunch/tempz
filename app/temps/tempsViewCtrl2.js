@@ -9,8 +9,6 @@
 	function TempsViewCtrl($scope, productResource){
 		var vm = this;
 
-		$scope.sortOrder = 'highTemp';
-
 		vm.currentTemp = 'F';
 		vm.temp = 125;
 		vm.styleF={"color":"Red","font-size": "1.2em"};
@@ -20,20 +18,19 @@
 		vm.C = true;
 		vm.F = false;
 		vm.effectProperty = [];
-
 		productResource.query(function(data){
 			vm.products = data;
 			var tempArray=[];
-
 			for(var i=0; i<vm.products.length; i++){
+
 				if(vm.temp === vm.products[i].highTemp){
 					for(var x=0; x<vm.products[i].Property.length; x++){
 					  tempArray[x] = vm.products[i].Property[x];
 					}
 				}
+				console.log("tempArray[x]", tempArray[x])
 			}
 			vm.effectProperty = tempArray;
-
 		});
 
 		$scope.selectTemp = function(name){
@@ -47,7 +44,6 @@
 				vm.maxTemp = 250;
 				vm.C = false;
 				vm.F = true;
-				$scope.sortOrder = 'highTemp';
 
 			}else if(name === 'F'){
 				vm.temp = 125;
@@ -57,7 +53,6 @@
 				vm.maxTemp = 482;
 				vm.C = true;
 				vm.F = false;
-				$scope.sortOrder = 'highTempC';
 
 			}
 		}
@@ -65,18 +60,20 @@
 		$scope.catching = function(value){
 
 			var tempArray=[];
-			var num = 0;
+
 			if (vm.currentTemp === 'F'){
 
-				for(var i=0; i<vm.products.length; i++){
-					if(value === vm.products[i].highTemp){
-						for(var x=0; x<vm.products[i].Property.length; x++){
-							tempArray[num] = vm.products[i].Property[x];
-							num++;
-						}
-					}
+				switch(value) {
+					case 120:
+				    case 125:
+				        console.log("here A", value);
+				        break;
+				    case 320< value < 356:
+				       	console.log("here B", value);
+				        break;
+				    default:
+				        console.log("here default", value);
 				}
-				vm.effectProperty = tempArray;
 
 			} else if (vm.currentTemp === 'C'){
 
@@ -84,10 +81,10 @@
 
 					if( value === vm.products[i].highTempC){
 						for(var x=0; x<vm.products[i].Property.length; x++){
-						  tempArray[num] = vm.products[i].Property[x];
-						  num++;
+						  tempArray[x] = vm.products[i].Property[x];
 						}
 					}
+
 				}
 				vm.effectProperty = tempArray;
 
