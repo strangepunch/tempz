@@ -5,18 +5,18 @@
 				<td class="col-xs-2">
 					<ul >
 						<li >
-							 <a ng-class="active('Care')" ng-click="selectCatagory('Care')">Portable</a>
+							 <a ng-class="active('Portable')" ng-click="selectCatagory('Portable')">Portable</a>
 						</li>
 						<li >
-							 <a ng-class="active('History')" ng-click="selectCatagory('History')">Desktop</a>
+							 <a ng-class="active('Desktop')" ng-click="selectCatagory('Desktop')">Desktop</a>
 						</li>
 						<li >
-							 <a ng-class="active('Lessons')" ng-click="selectCatagory('Lessons')">Pen</a>
+							 <a ng-class="active('Pen')" ng-click="selectCatagory('Pen')">Pen</a>
 						</li>
 					</ul>
 				</td>
 				<td class="col-xs-10 col-sm-8 col-md-8 col-lg-8">
-					<div class="panel panel-primary" 
+					<div class="panel" 
 						 ng-repeat="tip in vm.filteredTips">
 						<div class="panel-heading"
 							 ng-click = "select(tip)"
@@ -25,8 +25,16 @@
 							 	<span class="glyphicon glyphicon-chevron-right"></span> 
 						</div>
 						<div class="panel-body discription">
+							 <div class="media-left">
+								<img class="media-object"
+									 ng-src="{{tip.imageUrl[0]}}"
+		     				         title="{{tip.tipName}}">
+			     			 </div>
 							<!--some temparary tip discription--> 
-							{{tip.tipDescription}}
+							<div class="media-body">
+								<h4 class="media-heading">Price: ${{tip.price}}</h4>
+								{{tip.tipDescriptionAbbrev}}
+							</div>
 						</div>
 					</div>
 				</td>
@@ -34,65 +42,3 @@
 		</div>
 	</div>
 </div>
-<!--
-<div id="tips">
-	<div id="tipTitle"> 
-		{{vm.currentTip.tipName}}
-	</div>
-	<div id="tipText">
-		<div class="row">
-			<img ng-src="{{vm.currentTip.imageUrl}}"
-			     title="{{tip.tipName}}">
-			{{vm.currentTip.tipInfo}}
-		</div>
-		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-				<div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingOne{{vm.currentTip.tipId}}">
-				      <h4 class="panel-title">
-				        <button data-toggle="collapse" class="btn btn-primary title" type="button" data-parent="#accordion" href="#collapseOne{{vm.currentTip.tipId}}" aria-expanded="true" aria-controls="collapseOne{{vm.currentTip.tipId}}">
-				          Tip #1
-				        </button>
-				      </h4>
-				    </div>
-				    <div id="collapseOne{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne{{vm.currentTip.tipId}}">
-				      <div class="panel-body">
-				        <p>{{vm.currentTip.tipInfo1}}</p>
-				      </div>
-				    </div>
-			  	</div>
-			  	<div class="panel panel-default">
-			   		<div class="panel-heading" role="tab" id="headingTwo{{vm.currentTip.tipId}}">
-			      	<h4 class="panel-title">
-			        <button data-toggle="collapse" class="btn btn-primary title" type="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo{{vm.currentTip.tipId}}" aria-expanded="false" aria-controls="collapseTwo{{vm.currentTip.tipId}}">
-			          Tip #2
-			        </button>
-			      	</h4>
-			    	</div>
-			    	<div id="collapseTwo{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo{{vm.currentTip.tipId}}">
-				      	<div class="panel-body">
-				        	<p>{{vm.currentTip.tipInfo2}}</p>
-				      	</div>
-			    	</div>
-			  	</div>
-			  	<div class="panel panel-default">
-			    	<div class="panel-heading" role="tab" id="headingThree{{vm.currentTip.tipId}}">
-			      	<h4 class="panel-title">
-			        <button data-toggle="collapse" class="btn btn-primary title" type="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree{{vm.currentTip.tipId}}" aria-expanded="false" aria-controls="collapseThree{{vm.currentTip.tipId}}">
-			          Tip #3
-			        </button>
-			      	</h4>
-			    	</div>
-			    	<div id="collapseThree{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree{{vm.currentTip.tipId}}">
-				      	<div class="panel-body">
-				        	<p>{{vm.currentTip.tipInfo3}}</p>
-				      	</div>
-			    	</div>
-			  </div>
-		</div>
-	</div>
-	<div class="row" id="NextBackBtn"> 
-		<button ng-hide="vm.noPrev" class="btn btn-primary-nextBack"  ng-click="prevPage()">Prev</button>
-		<button ng-hide="vm.noNext" class="btn btn-primary-nextBack"  ng-click="nextPage()">Next</button>
-	</div>
-</div>
--->	

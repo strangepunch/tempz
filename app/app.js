@@ -7,7 +7,6 @@
 							 "ui.bootstrap",
 							 "ui.slider",
 							 "ui.unique",
-							 "angularCharts",
 							 "productResourceMock"]);
 	//error handling
 	app.config(function($provide){

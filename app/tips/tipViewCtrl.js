@@ -7,6 +7,9 @@
 							TipViewCtrl]);
 	
 	function TipViewCtrl($scope,tipResource){
+
+    console.log("here TipViewCtrl");
+
 		var vm = this;
 
     vm.currentTip = [];
@@ -23,7 +26,7 @@
 
         for(var i=0; i<data.length; i++){
 
-            if(data[i].tipCatagory === 'Care'){ //can some day replace this string with what's cookied on user's phone to return to old view?
+            if(data[i].tipCatagory === 'Portable'){ //can some day replace this string with what's cookied on user's phone to return to old view?
               tipsArray[num] = data[i];
               num++;
             };

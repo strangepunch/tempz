@@ -457,7 +457,6 @@ html, body {
 #effView .panel-heading {
 	background-color: rgba(0,0,0,0.5);
 	color: white;
-	width: 100;
 	margin-top: -5px;
 	padding: 5px;
 }
@@ -579,18 +578,21 @@ html, body {
 #tipsView{
 	width: 100%;
 	float:left;
-	padding: 10px; 
-	margin-top: 55px;
+	margin-top: 35px;
+	padding-top: 10px;
 }
 
-#tips .panel {
+#tipsView img{
+	width: 100%;
+	max-width: 300px;
+	float: left;
+}
+
+#tipsView .panel {
 	border-style: dotted;
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
-	margin-top: 55px;
-	margin-bottom: -30px;
-	padding: 5px;
 }
 
 #tipsView .panel-primary{
@@ -604,6 +606,7 @@ html, body {
 #tipView .panel-heading {
 	background-color: rgba(0,0,0,0.5);
 	width: 100%;
+	color: white;
 }
 #tipView .panel-heading span{
 	float: right;
@@ -650,10 +653,20 @@ html, body {
 }
 
 /**--------------TIP List------------------**/
-#tipsView{
+#tips{
 	width: 100%;
 	float:left;
 	padding: 10px; 
+}
+
+#tips a{
+	 text-decoration: none;
+	 color: white;
+}
+
+#tips img{
+	width:100%;
+	max-width: 300px; 
 }
 
 #tips .panel {
@@ -666,66 +679,111 @@ html, body {
 	padding: 5px;
 }
 
-#tips .panel-heading{
-	background-color: #DA9223;
-	border-color: #DA9223;
+#tips .panel-body {
+	padding: 15px;
+	margin: 5px;
+	border-top: none;
 }
 
-#tips .panel, .panel-primary, .route-blurb-container {
-	border-color: #DA9223;
-
+#tips .panel-heading {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -5px;
+	padding: 5px;
 }
+
+#tips .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	padding: 5px;
+	font-size: .7em;
+}
+
+#tips .panel-primary{
+	background-color: rgba(0,0,0,0.3);
+	border-style: none;
+	box-shadow: none;
+}
+
+#tips .panel-default {
+	margin-left: -5px;
+	margin-right: -5px;
+	margin-bottom: -5px;
+	padding: 0px;
+}
+
+#tips .panel-buttons {
+	padding: 0px;
+	height: 50px;
+}
+
+#tips .primaryInfo{
+	font-size: 1.2em;
+}
+
+#tips ul{
+	margin-left: -25px;
+}
+#tips li{
+	font-size: 0.9em;
+	display: inline;
+	list-style-type: none;
+	padding: 0px;
+}
+
+#tips .active{
+	color: white;
+	font-size: .9em;
+}
+
+#tips .btn{
+	margin-left: none;
+	background-color: rgba(0,0,0,0.2);
+	margin-left: 5px;
+}
+
 #tips .btn-primary{
-	background-color: #DA9223;
-	border-color: #DA9223;
-	margin: 0px 0px 0px 0px;
+	background-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-color: white;
+}
+
+#tips .bottomBtn{
+	margin-top: 10px;
+	margin-left: 60%;
+	margin-right: 5%;
 }
 
 #tips .btn-primary-nextBack{
-	background-color: #DA9223;
-	border-color: #DA9223;
-	margin: -20px 0px 10px 0px;
+	margin-top:-20px;
+	margin-bottom:-30px;
 	color: #fff;
 }
 
-#tips .row{
-	padding: 10px;
-	margin: 0px 0px 0px 0px;
+#tips .btn-heading{
+	background-color: rgba(0,0,0,0.0);
+	border: none;
+	width: 100%;
+	padding-right: 85%;
+	padding-left: 0px;
+	outline-style: none;
+	box-shadow: none;
 }
-
-#tips img{
-	float: right;
-	width:50%; 
-	margin: 10px;
-	padding: 0px;
-	max-width: 200px;
+#tips .btn-heading:hover {
+  color:#009900;
 }
-
-#tips .title{
-	margin: 0px;
-	padding: 0px;
-	text-align: left;
-	width:100%;
+#tips .btn-heading:active {
+  color:#006B00;
 }
-
-#tipTitle {
-	color: #fff;
-	font-size: 30px;
-	font-family: 'Verdana', Sans;
-	font-weight: bold;
-	line-height: 40px;
-	/*float: right; */
-	text-align: center;
-	padding: 0px;
-	margin:5px;
-}
-
-#tipText {
-	font-size: Medium;
-	color: #222;
-	float: left;
-	text-align: left;
-	margin:5px 5px 0px 5px;
+#tips .btn-heading:focus {
+  color:#00FF00;
 }
 
 /*----------------------------------**/

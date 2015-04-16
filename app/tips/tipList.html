@@ -1,65 +1,96 @@
 <div id="tips">
-	<div id="tipTitle"> 
-		{{vm.currentTip.tipName}}
-		{{vm.tipsPass.tipName}}
-	</div>
-	<div id="tipText">
-		<div class="row"> 
-			<img ng-src="{{vm.currentTip.imageUrl}}"
-			     title="{{tip.tipName}}">
-			
-				{{vm.currentTip.tipInfo}}
-			
-		</div>
-		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-				<div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingOne{{vm.currentTip.tipId}}">
-				      <h4 class="panel-title">
-				        <button data-toggle="collapse" class="btn btn-primary title" type="button" data-parent="#accordion" href="#collapseOne{{vm.currentTip.tipId}}" aria-expanded="true" aria-controls="collapseOne{{vm.currentTip.tipId}}">
-				          Tip #1
-				        </button>
-				      </h4>
-				    </div>
-				    <div id="collapseOne{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne{{vm.currentTip.tipId}}">
-				      <div class="panel-body">
-				        <p>{{vm.currentTip.tipInfo1}}</p>
-				      </div>
-				    </div>
-			  	</div>
-			  	<div class="panel panel-default">
-			   		<div class="panel-heading" role="tab" id="headingTwo{{vm.currentTip.tipId}}">
-			      	<h4 class="panel-title">
-			        <button data-toggle="collapse" class="btn btn-primary title" type="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo{{vm.currentTip.tipId}}" aria-expanded="false" aria-controls="collapseTwo{{vm.currentTip.tipId}}">
-			          Tip #2
-			        </button>
-			      	</h4>
-			    	</div>
-			    	<div id="collapseTwo{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo{{vm.currentTip.tipId}}">
-				      	<div class="panel-body">
-				        	<p>{{vm.currentTip.tipInfo2}}</p>
-				      	</div>
-			    	</div>
-			  	</div>
-			  	<div class="panel panel-default">
-			    	<div class="panel-heading" role="tab" id="headingThree{{vm.currentTip.tipId}}">
-			      	<h4 class="panel-title">
-			        <button data-toggle="collapse" class="btn btn-primary title" type="button" class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree{{vm.currentTip.tipId}}" aria-expanded="false" aria-controls="collapseThree{{vm.currentTip.tipId}}">
-			          Tip #3
-			        </button>
-			      	</h4>
-			    	</div>
-			    	<div id="collapseThree{{vm.currentTip.tipId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree{{vm.currentTip.tipId}}">
-				      	<div class="panel-body">
-				        	<p>{{vm.currentTip.tipInfo3}}</p>
-				      	</div>
-			    	</div>
-			  </div>
+	<div class = "panel panel-primary">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	{{vm.currentTip.tipName}}
+			</div>
+			<div class="panel-body">
+				 <div class="media-left">
+					<img class="media-object" 
+						 ng-src="{{vm.currentTip.imageUrl[0]}}"
+			     		 title="{{vm.currentTip.tipName}}">
+			     </div>
+			     <div class="media-body">
+			     	<h4 class="media-heading"> </h4>
+			     	<ul>
+						<li class="col-xs-6 active">Price: <span class="primaryInfo"> ${{vm.currentTip.price}} </span></li>
+						<li class="col-xs-6 active">Manufacturer: <span class="primaryInfo"> {{vm.currentTip.manufacturer}} </span></li>
+						<li class="col-xs-6 active">Weight: <span class="primaryInfo"> {{vm.currentTip.weight}}g </span></li>
+						<li class="col-xs-6 active">Manufacturer: <span class="primaryInfo"> {{vm.currentTip.tipCatagory}} </span></li>
+					</ul>
+					
+				</div>
+					
+			</div>
+			<div class="panel-footer">
+				<div class="media-left" ng-repeat="image in vm.currentTip.imageUrl track by $index">
+					<img class="media-object" 
+						 ng-src="{{image}}"
+			     		 title="{{vm.currentTip.tipName}}">
+			     </div> 
+				{{vm.currentTip.tipDescriptionAbbrev}}
+			</div>
 		</div>
 	</div>
-	<div class="row" id="NextBackBtn"> 
-		<button ng-hide="vm.noPrev" class="btn btn-primary-nextBack"  ng-click="prevPage()">Prev</button>
-		<button ng-hide="vm.noNext" class="btn btn-primary-nextBack"  ng-click="nextPage()">Next</button>
-		<button class="btn btn-primary-nextBack" ui-sref="tipsView">Main</button>
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	Included:
+			</div>
+			<div class="panel-body">
+				<ul>
+					<li class="col-xs-6" ng-repeat="include in vm.currentTip.included"> 
+						<span class="glyphicon glyphicon-gift" aria-hidden="true"></span> 
+						{{include}} 
+					</li>
+				</ul>
+			</div>	
+			<div class="panel-footer"> 
+				Warranty: {{vm.currentTip.manufacturersWarranty}}
+			</div>	
+		</div>
+	</div>
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	Temperature Settings:
+			</div>
+			<div class="panel-body">
+			    <ul>
+					<li class="col-xs-4" ng-repeat="temp in vm.currentTip.temps"> <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> {{temp}} </li>
+				</ul>	
+			</div>
+		</div>
+	</div>
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+		<div class="panel" ng-repeat="tip in vm.currentTip.tipDescriptionDetailed">
+
+		    <div class="panel-heading panel-default" role="tab" id="heading{{$index+1}}">
+		      <h4 class="panel-title">
+		        <button data-toggle="collapse" class="btn btn-heading title" type="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{$index}}" aria-expanded="false" aria-controls="collapse{{$index}}">
+		          Discription #{{$index+1}}
+		        </button>
+		      </h4>
+		    </div>
+
+		    <div id="collapse{{$index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{$index}}">
+		     	<div class="panel-body ">
+		        	<p>{{tip}}</p>
+		     	</div>
+		    </div>
+
+	  	</div>
+
+	</div>
+
+	<div class="panel panel-buttons">
+		<div class="row">
+			<div class="bottomBtn">
+			    <button ng-hide="vm.noPrev" class="btn btn-primary-nextBack"  ng-click="prevPage()">Prev</button>
+				<button ng-hide="vm.noNext" class="btn btn-primary-nextBack"  ng-click="nextPage()">Next</button>
+				<button class="btn btn-primary-nextBack" ui-sref="tipsView">Main</button>	
+			</div>		
+		</div>
 	</div>
 </div>
-	
