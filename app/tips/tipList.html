@@ -6,8 +6,13 @@
 			</div>
 			<div class="panel-body">
 				 <div class="media-left">
-					<img class="media-object" 
+				 	<img class="media-object"
+				 		 ng-hide="vm.clicked" 
 						 ng-src="{{vm.currentTip.imageUrl[0]}}"
+			     		 title="{{vm.currentTip.tipName}}">
+					<img class="media-object" 
+						 ng-hide="!vm.clicked" 
+						 ng-src="{{vm.currentImage}}"
 			     		 title="{{vm.currentTip.tipName}}">
 			     </div>
 			     <div class="media-body">
@@ -16,7 +21,7 @@
 						<li class="col-xs-6 active">Price: <span class="primaryInfo"> ${{vm.currentTip.price}} </span></li>
 						<li class="col-xs-6 active">Manufacturer: <span class="primaryInfo"> {{vm.currentTip.manufacturer}} </span></li>
 						<li class="col-xs-6 active">Weight: <span class="primaryInfo"> {{vm.currentTip.weight}}g </span></li>
-						<li class="col-xs-6 active">Manufacturer: <span class="primaryInfo"> {{vm.currentTip.tipCatagory}} </span></li>
+						<li class="col-xs-6 active">Type: <span class="primaryInfo"> {{vm.currentTip.tipCatagory}} </span></li>
 					</ul>
 					
 				</div>
@@ -26,6 +31,7 @@
 				<div class="media-left" ng-repeat="image in vm.currentTip.imageUrl track by $index">
 					<img class="media-object" 
 						 ng-src="{{image}}"
+						 ng-click="selectImage(image)"
 			     		 title="{{vm.currentTip.tipName}}">
 			     </div> 
 				{{vm.currentTip.tipDescriptionAbbrev}}
@@ -57,11 +63,27 @@
 			</div>
 			<div class="panel-body">
 			    <ul>
-					<li class="col-xs-4" ng-repeat="temp in vm.currentTip.temps"> <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> {{temp}} </li>
+					<li class="col-xs-4" ng-repeat="temp in vm.currentTip.temps track by $index"> <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> {{temp}} </li>
 				</ul>	
 			</div>
 		</div>
 	</div>
+	<div class ="panel">
+		<div class ="row">
+			<div class="panel-heading"> 
+			 	Descriptions
+			</div>
+			<div class="panel-body">
+				<div class ="col-xs-11" ng-repeat="tip in vm.currentTip.tipDescriptionDetailed|limitTo:limitDisplay">
+					<p>{{tip}}</p>
+				</div>
+			</div>
+			<div class="panel-footer"> 
+			 	<a ng-click="setDisplay()"> {{displaySetting}}</a>
+			</div>
+		</div>
+	</div>
+	<!--
 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 
 		<div class="panel" ng-repeat="tip in vm.currentTip.tipDescriptionDetailed">
@@ -83,7 +105,7 @@
 	  	</div>
 
 	</div>
-
+-->
 	<div class="panel panel-buttons">
 		<div class="row">
 			<div class="bottomBtn">

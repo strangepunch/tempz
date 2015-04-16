@@ -39,35 +39,61 @@
 
 			vm.collectedTips = tempArray; //keeps all the tips from the same catagory in this array to parse through
       vm.currentTip = vm.collectedTips[vm.currentPage]; //display the current tip you selected in catagory
-
+      vm.currentImage = vm.currentTip.imageUrl[0];
       //turn off both button when there is no page before or after this page
       //only one tip in this array
       if(vm.collectedTips.length === 1){
-        console.log("vm.collectedTips.length", vm.collectedTips.length)
+        //console.log("vm.collectedTips.length", vm.collectedTips.length)
         vm.noPrev = true;
         vm.noNext = true;
+        vm.clicked = false;
       }
       //when there is more than one item in this array
       //turn off Prev button when there is no page before this page
       else if(vm.collectedTips.length > 1 && vm.currentPage === 0){
         vm.noPrev = true;
         vm.noNext = false;
+        vm.clicked = false;
       }
       //when there is more than one item in this array
       //turn off Next button when there is no page after this page
       else if(vm.collectedTips.length > 1 && vm.currentPage === vm.collectedTips.length-1){
         vm.noPrev = false;
         vm.noNext = true;
+        vm.clicked = false;
       }
 
 		});
+  
+    //sets the more or less button
+    vm.clicked = true;
+    $scope.limitDisplay = 2;
+    $scope.displaySetting = "More..."
+    $scope.setDisplay = function(){
+      if(!vm.clicked){
+         $scope.limitDisplay = 2;
+          $scope.displaySetting = "More..."
+           vm.clicked = true;
+      }else{
+        $scope.limitDisplay = vm.currentTip.tipDescriptionDetailed.length;
+        $scope.displaySetting = "Less..."
+        vm.clicked = false;
+      }
+
+    }
+
+    //sets the image display at the top
+    $scope.selectImage = function(image){
+      vm.clicked = true;
+      vm.currentImage = image;
+    }
 
 		//go to next array of data
 		$scope.nextPage = function(){
-
       //turn on both button when there is pages before or after this page
       vm.noPrev = false;
       vm.noNext = false;
+      vm.clicked = false;
 
 			//as long as current page number is less than length of array of data
   		if (vm.currentPage < vm.collectedTips.length-1) {
@@ -94,6 +120,7 @@
   		//turn on both button when there is pages before or after this page
   		vm.noNext = false;
       vm.noPrev = false;
+      vm.clicked = false;
 
   		//as long as current page number not less than 0
   		if (vm.currentPage > 0) {
