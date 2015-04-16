@@ -8,9 +8,6 @@
 							TipListCtrl]);
 	
 	function TipListCtrl($scope,tip,tipResource){
-
-    console.log("here TipListCtrl");
-
 		var vm = this;
     vm.currentTip = tip;
 

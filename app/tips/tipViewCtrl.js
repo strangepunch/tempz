@@ -7,9 +7,6 @@
 							TipViewCtrl]);
 	
 	function TipViewCtrl($scope,tipResource){
-
-    console.log("here TipViewCtrl");
-
 		var vm = this;
 
     vm.currentTip = [];
