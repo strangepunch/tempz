@@ -1,37 +1,21 @@
 <div id="tempsView">
 	<div class = "panel panel-primary">
 		<div class="tCircle">
-			{{vm.temp}} <span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
+			{{vm.tempDisplay}} <span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
 		</div>
 	</div>
 	<div class = "panel panel-primary">
-		<div class="tBox" ng-hide="vm.F"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTemp'">
-				<label class="col-xs-1" ng-click="catching(temp.highTemp)"> {{temp.highTemp}} </label>
+		<div class="tBox"> 
+			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.selectedTemps |limitTo:numLimit track by $index">
+				<label class="col-xs-2" ng-click="catching(temp)"> {{temp}} </label>		
 			</div>
 		</div>
-		<div class="tBox" ng-hide="vm.C"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTempC'">
-				<label class="col-xs-1" ng-click="catching(temp.highTempC)"> {{temp.highTempC}} </label>
-			</div>
-		</div>
-	</div>
-<!--
-	<div class = "panel panel-primary">
-		<div class="tBox" ng-hide="vm.F"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTemp'" >
-				<input class="col-xs-1" id="option{{temp.productId}}" name="options" value="{{temp.highTemp}}" type="radio" ng-model="vm.temp" ng-click="catching(temp.highTemp)">
-				<label class="col-xs-1" for="option{{temp.productId}}" > {{temp.highTemp}} </label>
-			</div>
-		</div>
-		<div class="tBox" ng-hide="vm.C"> 
-			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.products|orderBy:sortOrder|unique:'highTempC'" >
-				<input class="col-xs-1" id="option{{temp.productId}}" name="options" value="{{temp.highTempC}}" type="radio" ng-model="vm.temp" ng-click="catching(temp.highTempC)">
-				<label class="col-xs-1" for="option{{temp.productId}}" > {{temp.highTempC}} </label>
+		<div class="tBox"> 
+			<div class="col-xs-1" id="radios" ng-repeat="temp in vm.selectedTemps |limitTo:-numLimit track by $index">	
+				<label class="col-xs-2" ng-click="catching(temp)"> {{temp}} </label>
 			</div>
 		</div>
 	</div>
--->
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 

@@ -88,6 +88,26 @@
       vm.currentImage = image;
     }
 
+    vm.currentTemp = 'F';
+    $scope.sortOrder = 'F';
+    vm.styleF={"color":"Red","font-size": "1.2em"};
+    vm.styleC={"color":"white","font-size": "0.8em"};
+    $scope.selectTemp = function(name){
+      vm.currentTemp = name;
+
+      if(name === 'C'){
+        vm.styleF={"color":"white","font-size": "0.8em"};
+        vm.styleC={"color":"Red","font-size": "1.2em"};
+        $scope.sortOrder = 'C';
+
+      }else if(name === 'F'){
+        vm.styleF={"color":"Red","font-size": "1.2em"};
+        vm.styleC={"color":"white","font-size": "0.8em"};
+        $scope.sortOrder = 'F';
+
+      }
+    }
+
 		//go to next array of data
 		$scope.nextPage = function(){
       //turn on both button when there is pages before or after this page

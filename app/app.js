@@ -84,7 +84,7 @@
 
 								tip: function (tipResource, $stateParams){
 									var tipId = $stateParams.tipId;
-									console.log($stateParams);
+									//console.log($stateParams);
 									return tipResource.get(
 										{ tipId: tipId }).$promise;
 								}
@@ -92,12 +92,13 @@
 							
 						})
 						//Vapes
+						/**
 						.state("vapes", {
 							url: "/vapes", 
 							templateUrl: "app/vapes/tipView.html", 
 							controller: "TipListCtrl as vm"
 						})
-
+						**/
 						//Theme
 						.state("themes", {
 							url: "/themes",

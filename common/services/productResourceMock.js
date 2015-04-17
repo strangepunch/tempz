@@ -7,6 +7,8 @@
 						["ngMockE2E"]);
 	
 	app.run(function ($httpBackend){
+		var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]
+		
 		var strains = [
 			{"strainId": 1,
 			 "strainName": "Trainwreck", 
@@ -6892,7 +6894,7 @@
 			 "productName": "CBG", //compName
 			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS"],
 			 "lowTemp": 0,
-			 "highTemp": 125,
+			 "highTemp": 126,
 			 "lowTempC": 0,
 			 "highTempC": 52,
 			 "temp": "125",
@@ -6950,7 +6952,7 @@
 			 "lowTemp": 0,
 			 "highTemp": 334,
 			 "lowTempC": 0,
-			 "highTempC": 167,
+			 "highTempC": 168,
 			 "temp": "334",
 			 "tempC": "167",
 			 "descriptionDetailed": "Beta-Myrcene is found fresh mango fruit, hops, bay leaves, eucalyptus, lemongrass and many other plants. Beta-Myrcene is known to be anti-tumor, anti-inflammatory, and used in the treatment of spasms. It is also used to treat insomnia, and pain. High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
@@ -7018,7 +7020,7 @@
 			 "productName": "a-pinene", //compName
 			 "Property": ["Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor"],
 			 "lowTemp": 0,
-			 "highTemp": 312,
+			 "highTemp": 313,
 			 "lowTempC": 0,
 			 "highTempC": 156,
 			 "temp": "312",
@@ -7968,7 +7970,8 @@ var effects = [
 			 "price": 399.00,
 			 "weight": "N.A.",
 			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
+			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F",
+			 		   "370 C", "395 C", "420 C", "445 C", "470 C"],
 			 "included":["1 x Crafty Vaporizer", 
 			 			  "1 x Storz & Bickel Custom Grinder", 
 			 			  "1 x Storz & Bickel Custom Filling Tool", 
@@ -8001,7 +8004,8 @@ var effects = [
 			 "price": 469.00,
 			 "weight": "",
 			 "manufacturersWarranty": "2 year warranty restricted to normal use, with a lifetime warranty on the heater.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
+			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F",
+			 		   "370 C", "395 C", "420 C", "445 C", "470 C"],
 			 "included":["1 x Mighty Vaporizer", 
 			 			  "1 x Storz & Bickel Custom Grinder", 
 			 			  "1 x Storz & Bickel Custom Filling Tool", 
@@ -8472,8 +8476,10 @@ var effects = [
 		var effectUrl = "/api/effects";
 		var vapeUrl = "/api/vapes";
 		var tipUrl = "/api/tips";
-
+		var temperatureUrl = "/api/temperatures";
+						
 		$httpBackend.whenGET(productUrl).respond(products);
+		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
 		$httpBackend.whenGET(effectUrl).respond(effects);
 		$httpBackend.whenGET(conditionsUrl).respond(conditions);
 		$httpBackend.whenGET(vapeUrl).respond(vapes);

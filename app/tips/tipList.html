@@ -3,6 +3,7 @@
 		<div class="row">
 			<div class="panel-heading"> 
 			 	{{vm.currentTip.tipName}}
+			 	{{vm.tipsPass.tipName}}
 			</div>
 			<div class="panel-body">
 				 <div class="media-left">
@@ -62,11 +63,12 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Temperature Settings:
+			 	Temperature Settings (<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>):
 			</div>
 			<div class="panel-body">
 			    <ul>
-					<li class="col-xs-4" ng-repeat="temp in vm.currentTip.temps track by $index"> <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> {{temp}} </li>
+					<li class="col-xs-4" ng-repeat="temp in vm.currentTip.temps|filter:sortOrder"> <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> {{temp}} </li>
+
 				</ul>	
 			</div>
 		</div>
@@ -86,29 +88,6 @@
 			</div>
 		</div>
 	</div>
-	<!--
-	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-		<div class="panel" ng-repeat="tip in vm.currentTip.tipDescriptionDetailed">
-
-		    <div class="panel-heading panel-default" role="tab" id="heading{{$index+1}}">
-		      <h4 class="panel-title">
-		        <button data-toggle="collapse" class="btn btn-heading title" type="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{$index}}" aria-expanded="false" aria-controls="collapse{{$index}}">
-		          Discription #{{$index+1}}
-		        </button>
-		      </h4>
-		    </div>
-
-		    <div id="collapse{{$index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{$index}}">
-		     	<div class="panel-body ">
-		        	<p>{{tip}}</p>
-		     	</div>
-		    </div>
-
-	  	</div>
-
-	</div>
--->
 	<div class="panel panel-buttons">
 		<div class="row">
 			<div class="bottomBtn">
