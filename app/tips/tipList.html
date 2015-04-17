@@ -34,7 +34,10 @@
 						 ng-click="selectImage(image)"
 			     		 title="{{vm.currentTip.tipName}}">
 			     </div> 
-				{{vm.currentTip.tipDescriptionAbbrev}}
+			     <div>
+			     	{{vm.currentTip.tipDescriptionAbbrev}}
+			     </div>
+				
 			</div>
 		</div>
 	</div>
@@ -71,7 +74,7 @@
 	<div class ="panel">
 		<div class ="row">
 			<div class="panel-heading"> 
-			 	Descriptions
+			 	Description
 			</div>
 			<div class="panel-body">
 				<div class ="col-xs-11" ng-repeat="tip in vm.currentTip.tipDescriptionDetailed|limitTo:limitDisplay">

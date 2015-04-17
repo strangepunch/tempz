@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"Vap",
+				"Vaporizers"
+			],
+			[
+				"FFF",
+				"fff"
+			],
+			[
+				"desktop",
+				"Desktop"
+			],
+			[
+				"Irra",
+				"irritability"
+			],
+			[
+				"cancer",
+				"cancers"
+			],
+			[
+				"antiDe",
+				"Anti-depression"
+			],
+			[
+				"in",
+				"intestine"
+			],
+			[
+				"Neuro",
+				"Neurogenesis"
+			],
+			[
+				"i",
+				"inflammation"
+			],
+			[
+				"Anti",
+				"Antiinflammatory"
+			],
+			[
+				"Condition",
+				"conditions"
+			],
+			[
 				"Di",
 				"Dizzy"
 			],
@@ -384,10 +428,6 @@
 				"stateParams"
 			],
 			[
-				"in",
-				"Input"
-			],
-			[
 				"produ",
 				"productUrl"
 			],
@@ -439,14 +479,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "common/services/productResourceMock.js",
-			"settings":
-			{
-				"buffer_size": 297632,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -499,12 +531,26 @@
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/tempsView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/tipResource.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipView.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipList.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipListCtrl.js",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app.css",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeView.html",
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/tipResource.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock_before.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/strains/strainsView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/tempViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipListCtrl.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/chords/chordListCtrl.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/vapeView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/tempResource.js",
@@ -530,22 +576,18 @@
 		"/C/Users/shane/Documents/strange punch/424all/apps/cure/app/app.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/cure/common/services/productService.js",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.31.txt",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/beats/beatView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/productManagement/app/products/productListView.html",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.30.txt",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/beats/beatViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipList.html",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/blackLight.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/puebloClay.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipView.html",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/progressions/progView.html",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/stageRight.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app_new.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/sunSet.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/app.js",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.29.txt",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.min.css",
@@ -583,14 +625,12 @@
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/themeResource.js",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.23.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/demo.css",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.22.txt",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.21.txt",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.20.txt",
 		"/C/Users/shane/Documents/strange punch/admin/uke github credentials",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.19.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/tempz.sublime-project",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/tipView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView_before.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/improv/improv1ViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/app/tips/tipView.html",
@@ -615,15 +655,7 @@
 		"/C/inetpub/wwwroot/UKE/app/progressions/progView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv1ViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv2View.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/welcomeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/improv2Resource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/improv1Resource.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/progressions/progViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/common/services/common.services.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/vapes/vapeView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/css/app.css",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.15/app/chords/chordView.html"
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv2View.html"
 	],
 	"find":
 	{
@@ -641,6 +673,43 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Silver Surfer",
+			"panel",
+			"tips",
+			"tip",
+			"tips",
+			"tipsPass",
+			"charts",
+			"api",
+			"\"construction\"",
+			"neurogenesis",
+			"delta 9 THC",
+			"effects=",
+			"effects",
+			"Memory booster",
+			"brain",
+			"Stimulates brain cell growth",
+			"Bronchodilator",
+			"Antiinflammatory",
+			"Antimutagenic",
+			"products",
+			"Immunosuppressant",
+			"memory",
+			"Antibiotic",
+			"Antiinflammatory",
+			"Antibiotic",
+			"memory",
+			"Stimulates Brain cell growth",
+			"products",
+			"Oxidation",
+			"memory",
+			"memory booster",
+			"effect =",
+			"products",
+			"effects",
+			"Neurogenesis",
+			"Neuroprotective",
+			"Neuroprotectant",
 			"NegativeEffects",
 			"PositiveEffects",
 			"Pineapple",
@@ -731,44 +800,7 @@
 			"Pennywise",
 			"Super Grandaddy",
 			"Saturn OG",
-			"Black Cherry Soda",
-			"Berry White",
-			"Berry Queen",
-			"Bay Cookies",
-			"Banana Diesel",
-			"Avi-Dekel",
-			"ATF",
-			"Alien OG",
-			"Afghani",
-			"ACDC Super CBD Oil",
-			"Acapulco Gold",
-			"707 Headband",
-			"White Walker OG",
-			"White Fire OG",
-			"Thin Mint",
-			"Sugar Plum",
-			"Shark Shock",
-			"Raskal OG",
-			"Querkle",
-			"Pineapple Hogsbreath",
-			"Moonshine Diesel",
-			"Mango Maui",
-			"Mafia OG",
-			"Harlequin",
-			"Green Thailand",
-			"Grape Kool Aid",
-			"Grape Cookies",
-			"Eden OG",
-			"Dubtech",
-			"Confidential Cheese",
-			"Cherry Bomb",
-			"Canna-Tsu",
-			"Candy OG",
-			"Blue Dream",
-			"Berry Queen",
-			"Bay Cookies",
-			"ACDC",
-			"Super Lemon Haze"
+			"Black Cherry Soda"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -776,6 +808,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"\"type\"",
 			"negativeEffects",
 			"positiveEffects",
 			"\"Beta-sitosterol\": 0.00,\n			 	\"CBC\": 0.00,\n			 	\"CBL\": 0.00\n			 	}",
@@ -829,38 +863,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "common/services/productResourceMock.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 297632,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								237990,
-								237990
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 156193.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
