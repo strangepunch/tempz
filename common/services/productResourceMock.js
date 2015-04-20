@@ -6819,6 +6819,124 @@
 			}   	
 		];
 
+var taste = [
+	{
+		"tasteId": 1,
+		"tasteName": "Pulegone",
+		"tasteDescription": "Peppermint"
+	},
+	{
+		"tasteId": 2,
+		"tasteName": "Delta9-THC",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 3,
+		"tasteName": "CBD",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 4,
+		"tasteName": "CBN",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 5,
+		"tasteName": "CBC",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 6,
+		"tasteName": "CBG",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 7,
+		"tasteName": "Delta8-THC",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 8,
+		"tasteName": "THCA",
+		"tasteDescription": "None"
+	},	
+	{
+		"tasteId": 9,
+		"tasteName": "THCV",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 10,
+		"tasteName": "Beta-myrcene",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 11,
+		"tasteName": "Beta-caryophyllene",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 12,
+		"tasteName": "d-limonene",
+		"tasteDescription": "Citrus"
+	},
+	{
+		"tasteId": 13,
+		"tasteName": "Linalool",
+		"tasteDescription": "Floral"
+	},
+	{
+		"tasteId": 14,
+		"tasteName": "Eucalyptol",
+		"tasteDescription": "Spicy camphor"
+	},
+	{
+		"tasteId": 15,
+		"tasteName": "a-pinene",
+		"tasteDescription": "Pine"
+	},
+	{
+		"tasteId": 16,
+		"tasteName": "a-terpineol",
+		"tasteDescription": "Lilac"
+	},
+	{
+		"tasteId": 17,
+		"tasteName": "terpineol-4-ol",
+		"tasteDescription": "Tea Tree"
+	},
+	{
+		"tasteId": 18,
+		"tasteName": "p-cymene",
+		"tasteDescription": "Cumin, Thyme"
+	},
+	{
+		"tasteId": 19,
+		"tasteName": "apigenin",
+		"tasteDescription": "Chamomile, Celery"
+	},
+	{
+		"tasteId": 20,
+		"tasteName": "quercetin",
+		"tasteDescription": "Earthy, Forest"
+	},
+	{
+		"tasteId": 21,
+		"tasteName": "cannflavin A",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 22,
+		"tasteName": "Beta-sitosterol",
+		"tasteDescription": "None"
+	},
+	{
+		"tasteId": 23,
+		"tasteName": "",
+		"tasteDescription": "None"
+	}
+];
+
 		var products = [
 			{"productId": 1,
 			 "productName": "Pulegone", //compName
@@ -7433,6 +7551,14 @@ var effects = [
  			 "descriptionDetailed": "Left untreated, high eye pressure can cause glaucoma and permanent vision loss in some individuals.",
 			 "descriptionAbbrev":  "Treat Glaucoma",
 			 "tags": ["Antineoplastic", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 39,
+			 "effectName": "Antileishmanial", //compName
+			 "conditionsTreated": ["leishmaniasis", "tropical leishmaniasis", "Sand flea bite infection"],
+ 			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
+			 "descriptionAbbrev":  "Treat Sand Flea Infection",
+			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
