@@ -8603,6 +8603,7 @@ var effects = [
 		var vapeUrl = "/api/vapes";
 		var tipUrl = "/api/tips";
 		var temperatureUrl = "/api/temperatures";
+		var strainUrl = "/api/strains";
 						
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
@@ -8610,6 +8611,7 @@ var effects = [
 		$httpBackend.whenGET(conditionsUrl).respond(conditions);
 		$httpBackend.whenGET(vapeUrl).respond(vapes);
 		$httpBackend.whenGET(tipUrl).respond(tips);
+		$httpBackend.whenGET(strainUrl).respond(strains);
 
 		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
 
