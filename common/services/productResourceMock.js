@@ -13,31 +13,100 @@
 			{"strainId": 1,
 			 "strainName": "Trainwreck", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC9": 21.30,
-			 	"CBD": 1.81,
-			 	"CBN": 0.03,
-			 	"CBG": 0.30,
-			 	"CBC": 0.30,
-			 	"THCV": 0.03,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.40,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.50,
-			 	"Linalool": 0.01,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.20,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBL": 0.00
-			 	},
+			 "components": [
+				 	{ 
+				 		"name": "THC9", 
+				 		"value": 21.30
+				 	},
+				 	{ 
+				 		"name": "CBD", 
+				 		"value": 1.81
+				 	},
+				 	{ 
+				 		"name": "CBN", 
+				 		"value": 0.03
+				 	},
+				 	{ 
+				 		"name": "CBG", 
+				 		"value": 0.30
+				 	},
+				 	{ 
+				 		"name": "CBC", 
+				 		"value": 0.30
+				 	},
+				 	{ 
+				 		"name": "THCV", 
+				 		"value": 0.03
+				 	},
+				 	{ 
+				 		"name": "THCA", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "THC8", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Pulegone", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Myrcene", 
+				 		"value": 0.40
+				 	},
+				 	{ 
+				 		"name": "Caryophyllene", 
+				 		"value": 0.40
+				 	},
+				 	{ 
+				 		"name": "Limonene", 
+				 		"value": 0.50
+				 	},
+				 	{ 
+				 		"name": "Linalool", 
+				 		"value": 0.01
+				 	},
+				 	{ 
+				 		"name": "Eucalyptol", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Pinene", 
+				 		"value": 0.20
+				 	},
+				 	{ 
+				 		"name": "Terpineol", 
+				 		"value": 0.00
+				 	},
+				 	{ 
+				 		"name": "Terpineol-4", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Cymene", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Apigenin", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Quercetin", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Cannflavin A", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Beta-sitosterol", 
+				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "CBL", 
+				 		"value": 0.0
+				 	} 	
+		 	],
 		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
@@ -49,31 +118,100 @@
 			{"strainId": 2,
 			 "strainName": "White Widow", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.68,
-			 	"CBD": 0.17,
-			 	"CBN": 0.51,
-			 	"CBG": 0.35,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	}, 
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.68
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.51
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	}
+			 ],	 	
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -85,8 +223,100 @@
 			{"strainId": 3,
 			 "strainName": "Sage", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 18.36,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.36,
 			 	"CBD": 0.22,
 			 	"CBN": 0.44,
 			 	"CBG": 0.40,
@@ -109,8 +339,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -121,8 +351,100 @@
 			{"strainId": 4,
 			 "strainName": "Skywalker OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 18.17,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.17,
 			 	"CBD": 0.22,
 			 	"CBN": 0.44,
 			 	"CBG": 0.40,
@@ -145,8 +467,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-		 	"conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -157,8 +479,100 @@
 			{"strainId": 5,
 			 "strainName": "Permafrost", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 15.54,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.54,
 			 	"CBD": 0.30,
 			 	"CBN": 0.81,
 			 	"CBG": 0.44,
@@ -181,7 +595,7 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
+			 	, 
 			"conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -193,8 +607,100 @@
 			{"strainId": 6,
 			 "strainName": "Querkle", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 15.38,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.38,
 			 	"CBD": 0.20,
 			 	"CBN": 0.68,
 			 	"CBG": 0.28,
@@ -217,8 +723,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -229,8 +735,100 @@
 			{"strainId": 7,
 			 "strainName": "Papaya", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.21,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.21,
 			 	"CBD": 0.41,
 			 	"CBN": 0.13,
 			 	"CBG": 0.0,
@@ -253,8 +851,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -265,8 +863,100 @@
 			{"strainId": 8,
 			 "strainName": "Pennywise", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 8.12,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 8.12,
 			 	"CBD": 7.23,
 			 	"CBN": 0.03,
 			 	"CBG": 0.0,
@@ -289,8 +979,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Hypertension"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -301,8 +991,100 @@
 			{"strainId": 9,
 			 "strainName": "OG #18", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.84,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.84,
 			 	"CBD": 0.76,
 			 	"CBN": 0.04,
 			 	"CBG": 0.0,
@@ -325,8 +1107,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -337,8 +1119,100 @@
 			{"strainId": 10,
 			 "strainName": "OG Kush", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.02,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.02,
 			 	"CBD": 0.36,
 			 	"CBN": 0.54,
 			 	"CBG": 0.36,
@@ -361,8 +1235,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -373,8 +1247,100 @@
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 8.02,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 8.02,
 			 	"CBD": 9.70,
 			 	"CBN": 0.08,
 			 	"CBG": 0.0,
@@ -397,8 +1363,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -409,8 +1375,100 @@
 			{"strainId": 12,
 			 "strainName": "Nebula", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.02,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.02,
 			 	"CBD": 0.34,
 			 	"CBN": 0.73,
 			 	"CBG": 0.08,
@@ -433,8 +1491,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -445,8 +1503,100 @@
 			{"strainId": 13,
 			 "strainName": "XJ-13", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.10,
 			 	"CBD": 0.18,
 			 	"CBN": 0.0,
 			 	"CBG": 0.0,
@@ -469,8 +1619,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -481,8 +1631,100 @@
 			{"strainId": 14,
 			 "strainName": "Yumbodlt", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 18.77,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.77,
 			 	"CBD": 0.22,
 			 	"CBN": 0.04,
 			 	"CBG": 0.94,
@@ -505,8 +1747,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -517,8 +1759,100 @@
 			{"strainId": 15,
 			 "strainName": "Vortex", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 15.87,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.87,
 			 	"CBD": 0.24,
 			 	"CBN": 0.67,
 			 	"CBG": 0.26,
@@ -541,8 +1875,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -553,8 +1887,100 @@
 			{"strainId": 16,
 			 "strainName": "Warlock", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.31,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.31,
 			 	"CBD": 0.56,
 			 	"CBN": 1.25,
 			 	"CBG": 0.0,
@@ -577,8 +2003,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -589,8 +2015,100 @@
 			{"strainId": 17,
 			 "strainName": "Strawberry Cough", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.89,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.89,
 			 	"CBD": 0.22,
 			 	"CBN": 1.14,
 			 	"CBG": 0.27,
@@ -613,8 +2131,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -625,8 +2143,100 @@
 			{"strainId": 18,
 			 "strainName": "Stardawg", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 11.45,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 11.45,
 			 	"CBD": 0.03,
 			 	"CBN": 0.67,
 			 	"CBG": 0.0,
@@ -649,8 +2259,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -661,8 +2271,100 @@
 			{"strainId": 19,
 			 "strainName": "Strawberry", 
 			 "strainType": "",
-			 "components": {
-			 	"THC": 18.61,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.61,
 			 	"CBD": 0.40,
 			 	"CBN": 0.18,
 			 	"CBG": 4.15,
@@ -685,8 +2387,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -697,8 +2399,100 @@
 			{"strainId": 20,
 			 "strainName": "Sour Diesel", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 22.86,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.86,
 			 	"CBD": 0.20,
 			 	"CBN": 0.02,
 			 	"CBG": 0.50,
@@ -721,8 +2515,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.20,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
+			 	, 
+		 	 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -733,8 +2527,100 @@
 			{"strainId": 21,
 			 "strainName": "Shipwreck", 
 			 "strainType": "",
-			 "components": {
-			 	"THC": 17.38,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.38,
 			 	"CBD": 0.11,
 			 	"CBN": 0.04,
 			 	"CBG": 0.90,
@@ -757,8 +2643,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -769,8 +2655,100 @@
 			{"strainId": 22,
 			 "strainName": "Skywalker", 
 			 "strainType": "",
-			 "components": {
-			 	"THC": 16.38,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.38,
 			 	"CBD": 0.28,
 			 	"CBN": 0.35,
 			 	"CBG": 0.68,
@@ -793,8 +2771,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -805,8 +2783,100 @@
 			{"strainId": 23,
 			 "strainName": "Romulan", 
 			 "strainType": "",
-			 "components": {
-			 	"THC": 16.22,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.22,
 			 	"CBD": 0.28,
 			 	"CBN": 0.33,
 			 	"CBG": 0.32,
@@ -829,8 +2899,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -841,8 +2911,100 @@
 			{"strainId": 24,
 			 "strainName": "Purple Wreck", 
 			 "strainType": "",
-			 "components": {
-			 	"THC": 15.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.20,
 			 	"CBD": 0.16,
 			 	"CBN": 0.24,
 			 	"CBG": 0.51,
@@ -865,8 +3027,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -877,8 +3039,100 @@
 			{"strainId": 25,
 			 "strainName": "Pineapple", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 16.72,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.72,
 			 	"CBD": 0.35,
 			 	"CBN": 0.73,
 			 	"CBG": 0.63,
@@ -901,8 +3155,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -913,8 +3167,100 @@
 			{"strainId": 26,
 			 "strainName": "Purple Cheese", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.40,
 			 	"CBD": 0.64,
 			 	"CBN": 0.13,
 			 	"CBG": 0.0,
@@ -937,8 +3283,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -949,8 +3295,100 @@
 			{"strainId": 27,
 			 "strainName": "ACDC", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 0.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 0.80,
 			 	"CBD": 20.00,
 			 	"CBN": 0.05,
 			 	"CBG": 0.30,
@@ -973,8 +3411,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.30,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -985,8 +3423,100 @@
 			{"strainId": 28,
 			 "strainName": "Shark Shock", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.10,
 			 	"CBD": 0.35,
 			 	"CBN": 0.07,
 			 	"CBG": 0.0,
@@ -1009,8 +3539,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Asthma", "Nausea"],
+			 	, 
+		 	 "conditions": ["Asthma", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1021,8 +3551,100 @@
 			{"strainId": 29,
 			 "strainName": "Superman OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 17.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.50,
 			 	"CBD": 0.24,
 			 	"CBN": 0.06,
 			 	"CBG": 0.0,
@@ -1045,8 +3667,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Asthma", "PMS"],
+			 	, 
+		 	 "conditions": ["Asthma", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1057,8 +3679,100 @@
 			{"strainId": 30,
 			 "strainName": "Thin Mint", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 21.0,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.0,
 			 	"CBD": 0.32,
 			 	"CBN": 0.07,
 			 	"CBG": 0.0,
@@ -1081,8 +3795,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1093,8 +3807,100 @@
 			{"strainId": 31,
 			 "strainName": "Banana Diesel", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.48,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.48,
 			 	"CBD": 0.33,
 			 	"CBN": 0.48,
 			 	"CBG": 0.0,
@@ -1117,8 +3923,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Diesel", "Bipolar", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Diesel", "Bipolar", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1129,8 +3935,100 @@
 			{"strainId": 32,
 			 "strainName": "Candy OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.50,
 			 	"CBD": 0.55,
 			 	"CBN": 0.04,
 			 	"CBG": 0.0,
@@ -1153,8 +4051,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Depression", "Nausea", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1165,8 +4063,100 @@
 			{"strainId": 33,
 			 "strainName": "Chem Valley Kush", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 21.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.80,
 			 	"CBD": 0.30,
 			 	"CBN": 0.10,
 			 	"CBG": 0.0,
@@ -1189,8 +4179,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1201,8 +4191,100 @@
 			{"strainId": 34,
 			 "strainName": "Confidential Cheese", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.90,
 			 	"CBD": 0.39,
 			 	"CBN": 0.05,
 			 	"CBG": 0.0,
@@ -1225,8 +4307,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Nausea", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Nausea", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1237,8 +4319,100 @@
 			{"strainId": 35,
 			 "strainName": "Deadhead OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.90,
 			 	"CBD": 0.39,
 			 	"CBN": 0.05,
 			 	"CBG": 0.0,
@@ -1261,8 +4435,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1273,8 +4447,100 @@
 			{"strainId": 36,
 			 "strainName": "Diablo", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 20.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.30,
 			 	"CBD": 0.23,
 			 	"CBN": 0.06,
 			 	"CBG": 0.0,
@@ -1297,8 +4563,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1309,8 +4575,100 @@
 			{"strainId": 37,
 			 "strainName": "Dutch Passion", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.78,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.78,
 			 	"CBD": 0.28,
 			 	"CBN": 0.16,
 			 	"CBG": 0.0,
@@ -1333,8 +4691,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1345,8 +4703,100 @@
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.70,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.70,
 			 	"CBD": 0.23,
 			 	"CBN": 0.09,
 			 	"CBG": 0.0,
@@ -1369,8 +4819,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1381,8 +4831,100 @@
 			{"strainId": 39,
 			 "strainName": "Euphoria", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.60,
 			 	"CBD": 0.37,
 			 	"CBN": 0.04,
 			 	"CBG": 0.0,
@@ -1405,8 +4947,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1417,8 +4959,100 @@
 			{"strainId": 40,
 			 "strainName": "Fire Bomb", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 16.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.60,
 			 	"CBD": 0.37,
 			 	"CBN": 0.04,
 			 	"CBG": 0.0,
@@ -1441,8 +5075,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1453,8 +5087,100 @@
 			{"strainId": 41,
 			 "strainName": "Forum Cookies/GSC", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.10,
 			 	"CBD": 0.42,
 			 	"CBN": 0.13,
 			 	"CBG": 0.0,
@@ -1477,8 +5203,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1489,8 +5215,100 @@
 			{"strainId": 42,
 			 "strainName": "Gooey Wreck", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 25.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.00,
 			 	"CBD": 0.85,
 			 	"CBN": 0.07,
 			 	"CBG": 0.0,
@@ -1513,8 +5331,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1525,8 +5343,100 @@
 			{"strainId": 43,
 			 "strainName": "Grapefruit Haze", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 16.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.90,
 			 	"CBD": 0.32,
 			 	"CBN": 0.07,
 			 	"CBG": 0.0,
@@ -1549,8 +5459,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1561,8 +5471,100 @@
 			{"strainId": 44,
 			 "strainName": "Green Crack", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 24.70,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.70,
 			 	"CBD": 0.50,
 			 	"CBN": 0.04,
 			 	"CBG": 1.7,
@@ -1585,8 +5587,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.12,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1597,8 +5599,100 @@
 			{"strainId": 45,
 			 "strainName": "Green Dream", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.10,
 			 	"CBD": 0.47,
 			 	"CBN": 0.11,
 			 	"CBG": 0.0,
@@ -1621,8 +5715,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1633,8 +5727,100 @@
 			{"strainId": 46,
 			 "strainName": "Green Thailand", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 21.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.00,
 			 	"CBD": 0.54,
 			 	"CBN": 0.09,
 			 	"CBG": 0.0,
@@ -1657,8 +5843,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1669,8 +5855,100 @@
 			{"strainId": 47,
 			 "strainName": "H-Train Wreck", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.10,
 			 	"CBD": 0.27,
 			 	"CBN": 0.06,
 			 	"CBG": 0.62,
@@ -1693,8 +5971,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1705,8 +5983,100 @@
 			{"strainId": 48,
 			 "strainName": "Hawaiian Hulk", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 19.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.10,
 			 	"CBD": 0.27,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -1729,8 +6099,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1741,8 +6111,100 @@
 			{"strainId": 49,
 			 "strainName": "Jack Chemdawg", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 25.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.40,
 			 	"CBD": 0.34,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -1765,8 +6227,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1777,8 +6239,100 @@
 			{"strainId": 50,
 			 "strainName": "Jack Herer", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 20.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.60,
 			 	"CBD": 0.12,
 			 	"CBN": 0.02,
 			 	"CBG": 1.40,
@@ -1801,8 +6355,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.07,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1813,8 +6367,100 @@
 			{"strainId": 51,
 			 "strainName": "Jillybean", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 18.70,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.70,
 			 	"CBD": 0.31,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -1837,8 +6483,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1849,8 +6495,100 @@
 			{"strainId": 52,
 			 "strainName": "Lamb's Bread", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 18.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.50,
 			 	"CBD": 0.35,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -1873,8 +6611,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1885,8 +6623,100 @@
 			{"strainId": 53,
 			 "strainName": "Lemon Haze", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 23.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.20,
 			 	"CBD": 0.63,
 			 	"CBN": 0.70,
 			 	"CBG": 0.00,
@@ -1909,8 +6739,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1921,8 +6751,100 @@
 			{"strainId": 54,
 			 "strainName": "Lemon Head OG", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 15.70,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.70,
 			 	"CBD": 0.39,
 			 	"CBN": 0.25,
 			 	"CBG": 0.00,
@@ -1945,8 +6867,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1957,8 +6879,100 @@
 			{"strainId": 55,
 			 "strainName": "Lulu", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 28.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 28.20,
 			 	"CBD": 0.29,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -1981,8 +6995,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -1993,8 +7007,100 @@
 			{"strainId": 56,
 			 "strainName": "Magic Jack", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 19.70,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.70,
 			 	"CBD": 0.36,
 			 	"CBN": 0.28,
 			 	"CBG": 0.00,
@@ -2017,8 +7123,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2029,8 +7135,100 @@
 			{"strainId": 57,
 			 "strainName": "Mike Tyson", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 24.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.90,
 			 	"CBD": 0.31,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -2053,8 +7251,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2065,8 +7263,100 @@
 			{"strainId": 58,
 			 "strainName": "Moon Candy", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 20.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.40,
 			 	"CBD": 0.51,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -2089,8 +7379,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2101,8 +7391,100 @@
 			{"strainId": 59,
 			 "strainName": "Moonshine Diesel", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 22.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.90,
 			 	"CBD": 0.31,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -2125,8 +7507,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2137,8 +7519,100 @@
 			{"strainId": 60,
 			 "strainName": "Northern Lights", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 30.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 30.90,
 			 	"CBD": 0.34,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -2161,8 +7635,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2173,8 +7647,100 @@
 			{"strainId": 61,
 			 "strainName": "Pineapple Express", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 15.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.50,
 			 	"CBD": 0.24,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -2197,8 +7763,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2209,8 +7775,100 @@
 			{"strainId": 62,
 			 "strainName": "Platinum Trinity Kush", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 17.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.20,
 			 	"CBD": 0.52,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -2233,8 +7891,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2245,8 +7903,100 @@
 			{"strainId": 63,
 			 "strainName": "Private Reserve OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 27.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.00,
 			 	"CBD": 0.38,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -2269,8 +8019,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2281,8 +8031,100 @@
 			{"strainId": 64,
 			 "strainName": "Purple Haze", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.90,
 			 	"CBD": 0.38,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -2305,8 +8147,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2317,8 +8159,100 @@
 			{"strainId": 65,
 			 "strainName": "Purple Urkle", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 17.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.60,
 			 	"CBD": 0.43,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -2341,8 +8275,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2353,8 +8287,100 @@
 			{"strainId": 66,
 			 "strainName": "Raskal OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 9.67,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 9.67,
 			 	"CBD": 0.12,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -2377,8 +8403,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2389,8 +8415,100 @@
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 23.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.30,
 			 	"CBD": 0.31,
 			 	"CBN": 0.19,
 			 	"CBG": 0.00,
@@ -2413,8 +8531,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2425,8 +8543,100 @@
 			{"strainId": 68,
 			 "strainName": "Saturn OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.40,
 			 	"CBD": 0.37,
 			 	"CBN": 0.15,
 			 	"CBG": 0.00,
@@ -2449,8 +8659,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2461,8 +8671,100 @@
 			{"strainId": 69,
 			 "strainName": "Sherbet Cookies", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 15.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.20,
 			 	"CBD": 0.23,
 			 	"CBN": 0.25,
 			 	"CBG": 0.00,
@@ -2485,8 +8787,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2497,8 +8799,100 @@
 			{"strainId": 70,
 			 "strainName": "Sour Cherry", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.20,
 			 	"CBD": 9.28,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -2521,8 +8915,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar"],
+			 	, 
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2533,8 +8927,100 @@
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 20.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.00,
 			 	"CBD": 0.31,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -2557,8 +9043,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2569,8 +9055,100 @@
 			{"strainId": 72,
 			 "strainName": "Super Grandaddy", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 16.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.10,
 			 	"CBD": 0.38,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -2593,8 +9171,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2605,8 +9183,100 @@
 			{"strainId": 73,
 			 "strainName": "Tangerine", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.10,
 			 	"CBD": 0.49,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -2629,8 +9299,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2641,8 +9311,100 @@
 			{"strainId": 74,
 			 "strainName": "Tangilope", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 27.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.30,
 			 	"CBD": 0.39,
 			 	"CBN": 0.10,
 			 	"CBG": 0.00,
@@ -2665,8 +9427,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2677,8 +9439,100 @@
 			{"strainId": 75,
 			 "strainName": "Tropical OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 17.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.80,
 			 	"CBD": 0.35,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -2701,8 +9555,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Bipolar", "PMS"],
+			 	, 
+		 	 "conditions": ["Bipolar", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2713,8 +9567,100 @@
 			{"strainId": 76,
 			 "strainName": "ACDC Super CBD Oil", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 9.32,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 9.32,
 			 	"CBD": 61.45,
 			 	"CBN": 0.00,
 			 	"CBG": 0.00,
@@ -2737,8 +9683,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2749,8 +9695,100 @@
 			{"strainId": 77,
 			 "strainName": "Afghani", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 15.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.80,
 			 	"CBD": 0.40,
 			 	"CBN": 0.11,
 			 	"CBG": 0.00,
@@ -2773,8 +9811,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2785,8 +9823,100 @@
 			{"strainId": 78,
 			 "strainName": "Avi-Dekel", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 0.87,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 0.87,
 			 	"CBD": 15.36,
 			 	"CBN": 0.16,
 			 	"CBG": 0.00,
@@ -2809,8 +9939,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2821,8 +9951,100 @@
 			{"strainId": 79,
 			 "strainName": "Bull Rider", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 7.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 7.60,
 			 	"CBD": 16.42,
 			 	"CBN": 0.00,
 			 	"CBG": 0.00,
@@ -2845,8 +10067,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2857,8 +10079,100 @@
 			{"strainId": 80,
 			 "strainName": "Cannatonic", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 10.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 10.60,
 			 	"CBD": 10.24,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -2881,8 +10195,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2893,8 +10207,100 @@
 			{"strainId": 81,
 			 "strainName": "Charlotte's Web", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 10.46,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 10.46,
 			 	"CBD": 8.40,
 			 	"CBN": 0.10,
 			 	"CBG": 0.00,
@@ -2917,8 +10323,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Epilepsy", "Stress"],
+			 	, 
+		 	 "conditions": ["Cancer", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2929,8 +10335,100 @@
 			{"strainId": 82,
 			 "strainName": "G13 Haze", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 20.8,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.8,
 			 	"CBD": 0.37,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -2953,8 +10451,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -2965,8 +10463,100 @@
 			{"strainId": 83,
 			 "strainName": "Great White Shark", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 20.73,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.73,
 			 	"CBD": 0.28,
 			 	"CBN": 0.40,
 			 	"CBG": 0.00,
@@ -2989,8 +10579,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3001,8 +10591,100 @@
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 5.11,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 5.11,
 			 	"CBD": 9.85,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -3025,8 +10707,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3037,8 +10719,100 @@
 			{"strainId": 85,
 			 "strainName": "Harlequin", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 6.98,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 6.98,
 			 	"CBD": 14.00,
 			 	"CBN": 0.01,
 			 	"CBG": 0.50,
@@ -3061,8 +10835,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.20,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Nausea", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Nausea", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3073,8 +10847,100 @@
 			{"strainId": 86,
 			 "strainName": "Hog", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 14.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.80,
 			 	"CBD": 0.43,
 			 	"CBN": 0.19,
 			 	"CBG": 0.00,
@@ -3097,8 +10963,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Cancer", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3109,8 +10975,100 @@
 			{"strainId": 87,
 			 "strainName": "King's Kush", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 24.75,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.75,
 			 	"CBD": 0.84,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -3133,8 +11091,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3145,8 +11103,100 @@
 			{"strainId": 88,
 			 "strainName": "Kosher Kush", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 20.92,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.92,
 			 	"CBD": 0.36,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -3169,8 +11219,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3181,8 +11231,100 @@
 			{"strainId": 89,
 			 "strainName": "Lemon Larry OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 9.48,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 9.48,
 			 	"CBD": 9.70,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -3205,8 +11347,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3217,8 +11359,100 @@
 			{"strainId": 90,
 			 "strainName": "Master Bubba", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 9.48,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 9.48,
 			 	"CBD": 9.70,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -3241,8 +11475,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3253,8 +11487,100 @@
 			{"strainId": 91,
 			 "strainName": "Pineapple Thai", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.10,
 			 	"CBD": 5.46,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -3277,8 +11603,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3289,8 +11615,100 @@
 			{"strainId": 92,
 			 "strainName": "Sour Tsunami", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 4.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 4.20,
 			 	"CBD": 8.43,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -3313,8 +11731,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3325,8 +11743,100 @@
 			{"strainId": 93,
 			 "strainName": "The White", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.50,
 			 	"CBD": 0.09,
 			 	"CBN": 0.01,
 			 	"CBG": 1.10,
@@ -3349,8 +11859,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.03,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3361,8 +11871,100 @@
 			{"strainId": 94,
 			 "strainName": "Valentine X", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 1.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 1.80,
 			 	"CBD": 24.60,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -3385,8 +11987,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Cancer", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3397,8 +11999,100 @@
 			{"strainId": 95,
 			 "strainName": "White Fire Alien OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.80,
 			 	"CBD": 0.32,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -3421,8 +12115,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3433,8 +12127,100 @@
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.28,
 			 	"CBN": 0.24,
 			 	"CBG": 0.00,
@@ -3457,8 +12243,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Cancer"],
+			 	, 
+		 	 "conditions": ["Cancer"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3469,8 +12255,100 @@
 			{"strainId": 96,
 			 "strainName": "707 Headband", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.10,
 			 	"CBD": 0.39,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -3493,8 +12371,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3505,8 +12383,100 @@
 			{"strainId": 97,
 			 "strainName": "Acapulco Gold", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 23.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.10,
 			 	"CBD": 0.39,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -3529,8 +12499,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3541,8 +12511,100 @@
 			{"strainId": 98,
 			 "strainName": "Alien OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 25.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.60,
 			 	"CBD": 0.29,
 			 	"CBN": 0.07,
 			 	"CBG": 0.90,
@@ -3565,8 +12627,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.20,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3577,8 +12639,100 @@
 			{"strainId": 99,
 			 "strainName": "Alien Rock Candy", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.80,
 			 	"CBD": 0.35,
 			 	"CBN": 0.24,
 			 	"CBG": 0.00,
@@ -3601,8 +12755,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3613,8 +12767,100 @@
 			{"strainId": 100,
 			 "strainName": "Amnesia Haze", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 23.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.20,
 			 	"CBD": 0.44,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -3637,8 +12883,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3649,8 +12895,100 @@
 			{"strainId": 101,
 			 "strainName": "ATF", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 10.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 10.50,
 			 	"CBD": 0.23,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -3673,8 +13011,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3685,8 +13023,100 @@
 			{"strainId": 102,
 			 "strainName": "Bay Cookies", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 21.04,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.04,
 			 	"CBD": 0.39,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -3709,8 +13139,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3721,8 +13151,100 @@
 			{"strainId": 103,
 			 "strainName": "Berry Queen", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 27.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.10,
 			 	"CBD": 0.36,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -3745,8 +13267,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3757,8 +13279,100 @@
 			{"strainId": 104,
 			 "strainName": "Berry White", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.10,
 			 	"CBD": 0.11,
 			 	"CBN": 0.04,
 			 	"CBG": 1.10,
@@ -3781,8 +13395,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.20,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3793,8 +13407,100 @@
 			{"strainId": 105,
 			 "strainName": "Black Cherry Soda", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 12.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 12.00,
 			 	"CBD": 0.34,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -3817,8 +13523,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3829,8 +13535,100 @@
 			{"strainId": 106,
 			 "strainName": "Blue Dream", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 21.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.00,
 			 	"CBD": 0.16,
 			 	"CBN": 0.03,
 			 	"CBG": 0.40,
@@ -3853,8 +13651,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.11,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3865,8 +13663,100 @@
 			{"strainId": 107,
 			 "strainName": "Blue Moonshine", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 28.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 28.10,
 			 	"CBD": 0.42,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -3889,8 +13779,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3901,8 +13791,100 @@
 			{"strainId": 108,
 			 "strainName": "Blueberry Trainwreck", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 15.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.50,
 			 	"CBD": 0.18,
 			 	"CBN": 0.13,
 			 	"CBG": 0.00,
@@ -3925,8 +13907,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3937,8 +13919,100 @@
 			{"strainId": 109,
 			 "strainName": "Canatonic #4", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 0.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 0.50,
 			 	"CBD": 15.00,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -3961,8 +14035,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression"],
+			 	, 
+		 	 "conditions": ["Depression"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -3973,8 +14047,100 @@
 			{"strainId": 110,
 			 "strainName": "Candy Jack", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 23.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.40,
 			 	"CBD": 0.25,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -3997,8 +14163,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4009,8 +14175,100 @@
 			{"strainId": 111,
 			 "strainName": "CandyLand", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 27.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.30,
 			 	"CBD": 0.44,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -4033,8 +14291,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4045,8 +14303,100 @@
 			{"strainId": 112,
 			 "strainName": "Cannalope Haze", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 20.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.80,
 			 	"CBD": 0.25,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -4069,8 +14419,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4081,8 +14431,100 @@
 			{"strainId": 113,
 			 "strainName": "Cataract Kush", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 15.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.10,
 			 	"CBD": 0.35,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -4105,8 +14547,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4117,8 +14559,100 @@
 			{"strainId": 114,
 			 "strainName": "Chemdawg", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.60,
 			 	"CBD": 0.07,
 			 	"CBN": 0.02,
 			 	"CBG": 0.70,
@@ -4141,8 +14675,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.03,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4153,8 +14687,100 @@
 			{"strainId": 115,
 			 "strainName": "Cherry Pie", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 26.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 26.90,
 			 	"CBD": 0.11,
 			 	"CBN": 0.03,
 			 	"CBG": 0.60,
@@ -4177,8 +14803,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.14,
 			 	"CBL": 0.07
-			 	}, 
-			 "conditions": ["Depression", "Stress"],
+			 	, 
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4189,8 +14815,100 @@
 			{"strainId": 116,
 			 "strainName": "Chocolate Thai", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 20.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.50,
 			 	"CBD": 0.31,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -4213,8 +14931,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4225,8 +14943,100 @@
 			{"strainId": 117,
 			 "strainName": "Clear Lake", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.10,
 			 	"CBD": 0.23,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -4249,8 +15059,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Stress"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4261,8 +15071,100 @@
 			{"strainId": 118,
 			 "strainName": "Dubtech", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.40,
 			 	"CBD": 0.30,
 			 	"CBN": 0.28,
 			 	"CBG": 0.00,
@@ -4285,8 +15187,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4297,8 +15199,100 @@
 			{"strainId": 119,
 			 "strainName": "Ghost OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.33,
 			 	"CBN": 0.14,
 			 	"CBG": 0.00,
@@ -4321,8 +15315,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4333,8 +15327,100 @@
 			{"strainId": 120,
 			 "strainName": "Grape Cookies", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 17.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.10,
 			 	"CBD": 0.21,
 			 	"CBN": 0.09,
 			 	"CBG": 0.00,
@@ -4357,8 +15443,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4369,8 +15455,100 @@
 			{"strainId": 121,
 			 "strainName": "Grape Kool Aid", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 19.58,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.58,
 			 	"CBD": 0.37,
 			 	"CBN": 0.10,
 			 	"CBG": 0.00,
@@ -4393,8 +15571,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4405,8 +15583,100 @@
 			{"strainId": 122,
 			 "strainName": "Jupiter Kush", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 19.79,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.79,
 			 	"CBD": 0.24,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -4429,8 +15699,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4441,8 +15711,100 @@
 			{"strainId": 123,
 			 "strainName": "L.A. Confidential", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.11,
 			 	"CBN": 0.02,
 			 	"CBG": 0.06,
@@ -4465,8 +15827,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.13,
 			 	"CBL": 0.05
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4477,8 +15839,100 @@
 			{"strainId": 124,
 			 "strainName": "Lemon Jack", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 22.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.10,
 			 	"CBD": 0.33,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -4501,8 +15955,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4513,8 +15967,100 @@
 			{"strainId": 125,
 			 "strainName": "Lemon OG Kush", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 25.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.10,
 			 	"CBD": 0.45,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -4537,8 +16083,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4549,8 +16095,100 @@
 			{"strainId": 126,
 			 "strainName": "Mad Max", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 18.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.80,
 			 	"CBD": 0.31,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -4573,8 +16211,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4585,8 +16223,100 @@
 			{"strainId": 127,
 			 "strainName": "Mafia OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 30.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 30.30,
 			 	"CBD": 0.40,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -4609,8 +16339,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4621,8 +16351,100 @@
 			{"strainId": 128,
 			 "strainName": "Mango Maui", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 18.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.80,
 			 	"CBD": 0.30,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -4645,8 +16467,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4657,8 +16479,100 @@
 			{"strainId": 130,
 			 "strainName": "May Weather Kush", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 29.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 29.50,
 			 	"CBD": 0.33,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -4681,8 +16595,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "PMS"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4693,8 +16607,100 @@
 			{"strainId": 131,
 			 "strainName": "Phantom OG", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 25.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.60,
 			 	"CBD": 0.49,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -4717,8 +16723,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Hypertension"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4729,8 +16735,100 @@
 			{"strainId": 132,
 			 "strainName": "Pineapple Hogsbreath", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.80,
 			 	"CBD": 0.32,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -4753,8 +16851,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4765,8 +16863,100 @@
 			{"strainId": 133,
 			 "strainName": "Silverback Gorilla", 
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 18.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.20,
 			 	"CBD": 0.25,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -4789,8 +16979,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4801,8 +16991,100 @@
 			{"strainId": 134,
 			 "strainName": "Sugar Plum", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 23.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.80,
 			 	"CBD": 0.46,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -4825,8 +17107,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Headache", "Nausea", "Glaucoma", "PMS"],
+			 	, 
+		 	 "conditions": ["Headache", "Nausea", "Glaucoma", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4837,8 +17119,100 @@
 			{"strainId": 135,
 			 "strainName": "Super Lemon Haze", 
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 24.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.60,
 			 	"CBD": 0.40,
 			 	"CBN": 0.01,
 			 	"CBG": 1.20,
@@ -4861,8 +17235,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.02,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4873,8 +17247,100 @@
 			{"strainId": 136,
 			 "strainName": "The White", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.50,
 			 	"CBD": 0.43,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -4897,8 +17363,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4909,8 +17375,100 @@
 			{"strainId": 137,
 			 "strainName": "White Fire OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.20,
 			 	"CBD": 0.36,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -4933,8 +17491,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4945,8 +17503,100 @@
 			{"strainId": 138,
 			 "strainName": "White Walker OG", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 16.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.20,
 			 	"CBD": 0.30,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -4969,8 +17619,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Migraines", "Headache", "Nausea"],
+			 	, 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -4981,8 +17631,100 @@
 			{"strainId": 139,
 			 "strainName": "Cherry Bomb", 
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.00,
 			 	"CBD": 0.30,
 			 	"CBN": 0.06,
 			 	"CBG": 0.00,
@@ -5005,8 +17747,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea", "Stress"],
+			 	, 
+		 	 "conditions": ["Nausea", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5017,8 +17759,100 @@
 			{"strainId": 140,
 			 "strainName": "DJ Short Blueberry",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 13.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 13.50,
 			 	"CBD": 0.26,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -5041,8 +17875,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5053,8 +17887,100 @@
 			{"strainId": 141,
 			 "strainName": "El Alquimista",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.40,
 			 	"CBD": 0.27,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -5077,8 +18003,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5089,8 +18015,100 @@
 			{"strainId": 142,
 			 "strainName": "Harlequin",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 6.98,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 6.98,
 			 	"CBD": 14.00,
 			 	"CBN": 0.01,
 			 	"CBG": 0.00,
@@ -5113,8 +18131,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea", "Epilepsy"],
+			 	, 
+		 	 "conditions": ["Nausea", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5125,8 +18143,100 @@
 			{"strainId": 143,
 			 "strainName": "Herojuana",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 17.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.30,
 			 	"CBD": 0.27,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5149,8 +18259,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5161,8 +18271,100 @@
 			{"strainId": 144,
 			 "strainName": "Lavender",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 25.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.40,
 			 	"CBD": 0.46,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -5185,8 +18387,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5197,8 +18399,100 @@
 			{"strainId": 145,
 			 "strainName": "Purple Coma",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 15.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 15.60,
 			 	"CBD": 0.25,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -5221,8 +18515,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5233,8 +18527,100 @@
 			{"strainId": 146,
 			 "strainName": "Purple Passion",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 21.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.00,
 			 	"CBD": 0.35,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -5257,8 +18643,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5269,8 +18655,100 @@
 			{"strainId": 147,
 			 "strainName": "Sour Bubble",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 27.13,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.13,
 			 	"CBD": 0.52,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -5293,8 +18771,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5305,8 +18783,100 @@
 			{"strainId": 148,
 			 "strainName": "Sour Dub",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 21.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.20,
 			 	"CBD": 0.22,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -5329,8 +18899,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea"],
+			 	, 
+		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5341,8 +18911,100 @@
 			{"strainId": 149,
 			 "strainName": "Strawberry Mist",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.00,
 			 	"CBD": 0.38,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -5365,8 +19027,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5377,8 +19039,100 @@
 			{"strainId": 150,
 			 "strainName": "Strawberry Mist",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 16.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 16.00,
 			 	"CBD": 0.38,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -5401,8 +19155,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Nausea", "PMS"],
+			 	, 
+		 	 "conditions": ["Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5413,8 +19167,100 @@
 			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 23.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.40,
 			 	"CBD": 0.23,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -5437,8 +19283,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5449,8 +19295,100 @@
 			{"strainId": 152,
 			 "strainName": "Afgoo",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 25.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.10,
 			 	"CBD": 0.76,
 			 	"CBN": 0.39,
 			 	"CBG": 0.00,
@@ -5473,8 +19411,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5485,8 +19423,100 @@
 			{"strainId": 153,
 			 "strainName": "Afgooey",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 25.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.00,
 			 	"CBD": 0.85,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5509,8 +19539,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5521,8 +19551,100 @@
 			{"strainId": 154,
 			 "strainName": "AK-47",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.63,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.63,
 			 	"CBD": 0.36,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5545,8 +19667,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5557,8 +19679,100 @@
 			{"strainId": 155,
 			 "strainName": "AK-48",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.90,
 			 	"CBD": 0.54,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -5581,8 +19795,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5593,8 +19807,100 @@
 			{"strainId": 156,
 			 "strainName": "Alien Rock Candy",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.80,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.80,
 			 	"CBD": 0.35,
 			 	"CBN": 0.24,
 			 	"CBG": 0.00,
@@ -5617,8 +19923,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain"],
+			 	, 
+		 	 "conditions": ["Pain"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5629,8 +19935,100 @@
 			{"strainId": 157,
 			 "strainName": "Black Buddah",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 20.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.90,
 			 	"CBD": 0.47,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -5653,8 +20051,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Pain", "Stress"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5665,8 +20063,100 @@
 			{"strainId": 158,
 			 "strainName": "OG Cheese",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.10,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.10,
 			 	"CBD": 0.36,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -5689,8 +20179,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5701,8 +20191,100 @@
 			{"strainId": 159,
 			 "strainName": "Mercury OG",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 27.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.00,
 			 	"CBD": 0.35,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -5725,8 +20307,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Hypertension", "PMS"],
+			 	, 
+		 	 "conditions": ["Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5737,8 +20319,100 @@
 			{"strainId": 160,
 			 "strainName": "Silver Surfer",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 24.86,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.86,
 			 	"CBD": 0.52,
 			 	"CBN": 0.15,
 			 	"CBG": 0.00,
@@ -5761,8 +20435,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Glaucoma"],
+			 	, 
+		 	 "conditions": ["Glaucoma"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5773,8 +20447,100 @@
 			{"strainId": 161,
 			 "strainName": "Sour OG",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 19.30,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 19.30,
 			 	"CBD": 0.25,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -5797,8 +20563,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Epilepsy"],
+			 	, 
+		 	 "conditions": ["Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5809,8 +20575,100 @@
 			{"strainId": 162,
 			 "strainName": "Mars OG",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.90,
 			 	"CBD": 0.46,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5833,8 +20691,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Epilepsy"],
+			 	, 
+		 	 "conditions": ["Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5845,8 +20703,100 @@
 			{"strainId": 163,
 			 "strainName": "Cannatonic #4",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 0.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 0.50,
 			 	"CBD": 15.00,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5869,8 +20819,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Epilepsy", "Stress"],
+			 	, 
+		 	 "conditions": ["Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5881,8 +20831,100 @@
 			{"strainId": 164,
 			 "strainName": "Green Dream",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 0.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 0.50,
 			 	"CBD": 15.00,
 			 	"CBN": 0.07,
 			 	"CBG": 0.00,
@@ -5905,8 +20947,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": [""],
+			 	, 
+		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5917,8 +20959,100 @@
 			{"strainId": 165,
 			 "strainName": "Green Dynamite",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 24.66,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 24.66,
 			 	"CBD": 0.43,
 			 	"CBN": 0.11,
 			 	"CBG": 0.00,
@@ -5941,8 +21075,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5953,8 +21087,100 @@
 			{"strainId": 166,
 			 "strainName": "J1",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 14.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 14.00,
 			 	"CBD": 0.19,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -5977,8 +21203,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -5989,8 +21215,100 @@
 			{"strainId": 167,
 			 "strainName": "Krytonite",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 18.60,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.60,
 			 	"CBD": 0.47,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -6013,8 +21331,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6025,8 +21343,100 @@
 			{"strainId": 168,
 			 "strainName": "Master Kush",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 21.20,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.20,
 			 	"CBD": 0.27,
 			 	"CBN": 0.04,
 			 	"CBG": 0.08,
@@ -6049,8 +21459,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["PMS"],
+			 	, 
+		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6061,8 +21471,100 @@
 			{"strainId": 169,
 			 "strainName": "Black Magic Kush",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 26.73,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 26.73,
 			 	"CBD": 0.10,
 			 	"CBN": 0.01,
 			 	"CBG": 0.00,
@@ -6085,8 +21587,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6097,8 +21599,100 @@
 			{"strainId": 170,
 			 "strainName": "Blackberry Kush",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.90,
 			 	"CBD": 0.27,
 			 	"CBN": 0.19,
 			 	"CBG": 0.00,
@@ -6121,8 +21715,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6133,8 +21727,100 @@
 			{"strainId": 171,
 			 "strainName": "Blue Diesel",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.14,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.14,
 			 	"CBD": 0.41,
 			 	"CBN": 0.03,
 			 	"CBG": 0.00,
@@ -6157,8 +21843,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6169,8 +21855,100 @@
 			{"strainId": 172,
 			 "strainName": "Blue Haze",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 23.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 23.90,
 			 	"CBD": 0.37,
 			 	"CBN": 0.12,
 			 	"CBG": 0.00,
@@ -6193,8 +21971,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6205,8 +21983,100 @@
 			{"strainId": 173,
 			 "strainName": "Brutus OG",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 25.50,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 25.50,
 			 	"CBD": 0.32,
 			 	"CBN": 0.04,
 			 	"CBG": 0.00,
@@ -6229,8 +22099,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6241,8 +22111,100 @@
 			{"strainId": 174,
 			 "strainName": "Bubba Kush",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 21.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.90,
 			 	"CBD": 0.09,
 			 	"CBN": 0.02,
 			 	"CBG": 0.50,
@@ -6265,8 +22227,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.05,
 			 	"CBL": 0.01
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6277,8 +22239,100 @@
 			{"strainId": 175,
 			 "strainName": "Cheese",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 18.40,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.40,
 			 	"CBD": 0.25,
 			 	"CBN": 0.08,
 			 	"CBG": 0.00,
@@ -6301,8 +22355,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6313,8 +22367,100 @@
 			{"strainId": 176,
 			 "strainName": "Cinderella 99",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 17.90,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 17.90,
 			 	"CBD": 0.25,
 			 	"CBN": 0.05,
 			 	"CBG": 0.00,
@@ -6337,8 +22483,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6349,8 +22495,100 @@
 			{"strainId": 177,
 			 "strainName": "Diablo Haze",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 27.29,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 27.29,
 			 	"CBD": 0.43,
 			 	"CBN": 0.02,
 			 	"CBG": 0.00,
@@ -6373,8 +22611,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6385,8 +22623,100 @@
 			{"strainId": 177,
 			 "strainName": "Diamond OG",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.95,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.95,
 			 	"CBD": 0.39,
 			 	"CBN": 0.11,
 			 	"CBG": 0.00,
@@ -6409,8 +22739,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.00
-			 	}, 
-			 "conditions": ["Stress"],
+			 	, 
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6421,8 +22751,100 @@
 			{"strainId": 178,
 			 "strainName": "Grandaddy Purple",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 20.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 20.00,
 			 	"CBD": 0.11,
 			 	"CBN": 0.03,
 			 	"CBG": 0.50,
@@ -6445,8 +22867,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.16,
 			 	"CBL": 0.10
-			 	}, 
-			 "conditions": ["Stress", "Pain", "Insomnia", "Depression"],
+			 	, 
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6457,8 +22879,100 @@
 			{"strainId": 179,
 			 "strainName": "Fire OG",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 21.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.00,
 			 	"CBD": 0.17,
 			 	"CBN": 0.02,
 			 	"CBG": 0.60,
@@ -6481,8 +22995,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.10,
 			 	"CBL": 0.20
-			 	}, 
-			 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite"],
+			 	, 
+		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6493,8 +23007,100 @@
 			{"strainId": 180,
 			 "strainName": "Girl Scout Cookies",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.12,
 			 	"CBN": 0.03,
 			 	"CBG": 1.30,
@@ -6517,8 +23123,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.30,
 			 	"CBL": 0.13
-			 	}, 
-			 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
+			 	, 
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6529,8 +23135,100 @@
 			{"strainId": 181,
 			 "strainName": "Grape Ape",
 			 "strainType": "Indica",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.03,
 			 	"CBN": 0.01,
 			 	"CBG": 0.50,
@@ -6553,8 +23251,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.05,
 			 	"CBL": 0.16
-			 	}, 
-			 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
+			 	, 
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6565,8 +23263,100 @@
 			{"strainId": 182,
 			 "strainName": "Headband",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 22.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 22.00,
 			 	"CBD": 0.03,
 			 	"CBN": 0.01,
 			 	"CBG": 0.50,
@@ -6589,8 +23379,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.05,
 			 	"CBL": 0.16
-			 	}, 
-			 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
+			 	, 
+		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy",  "Headache",  "Paranoid"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6601,8 +23391,100 @@
 			{"strainId": 183,
 			 "strainName": "Island Sweet Skunk",
 			 "strainType": "Sativa",
-			 "components": {
-			 	"THC": 18.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 18.00,
 			 	"CBD": 0.05,
 			 	"CBN": 0.01,
 			 	"CBG": 0.70,
@@ -6625,8 +23507,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.04,
 			 	"CBL": 0.12
-			 	}, 
-			 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Nausea"],
+			 	, 
+		 	 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy",  "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -6637,8 +23519,100 @@
 			{"strainId": 184,
 			 "strainName": "L.A. Kush",
 			 "strainType": "Hybrid",
-			 "components": {
-			 	"THC": 21.00,
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.0
+			 	} 	
+		 	], "THC": 21.00,
 			 	"CBD": 0.04,
 			 	"CBN": 0.00,
 			 	"CBG": 0.80,
@@ -6661,8 +23635,8 @@
 			 	"Beta-sitosterol": 0.00,
 			 	"CBC": 0.00,
 			 	"CBL": 0.16
-			 	}, 
-			 "conditions": ["Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain"],
+			 	, 
+		 	 "conditions": ["Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "negativeEffects": ["Anxious", "Dry Mouth"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
