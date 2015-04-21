@@ -33,15 +33,11 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Health Conditions:
+			 	Health Conditions: ({{filterName}})
 			</div>
 			<div class="panel-body">
-				<ul>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> yo!</li>
+				<ul ng-repeat="condition in vm.Container|filter:filterName">
+					<li class="col-xs-6" ng-repeat="cond in condition.conditions"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{cond}}</li>
 				</ul>
 			</div>
 		</div>
@@ -59,25 +55,11 @@
 					</div>
 				</div>
 				<div class="imgStrains">
-					<div class="col-xs-3">
-		                <a href="#">
+					<div class="col-xs-3" ng-repeat="strain in vm.Container|orderBy:orderName|limitTo:3">
+		                <a ng-click="filterStrainName(strain.strainName)">
 		                   <img src="http://placehold.it/50x50" class="img-circle">
-		                </a>
-		                <h6>Strain Name</h6>
-		            </div>
-				
-					<div class="col-xs-3">
-		                <a href="#">
-		                   <img src="http://placehold.it/50x50" class="img-circle">
-		                </a>
-		                <h6>Strain Name</h6>
-		            </div>
-				
-					<div class="col-xs-3">
-		                <a href="#">
-		                   <img src="http://placehold.it/50x50" class="img-circle">
-		                </a>
-		                <h6>Strain Name</h6>
+		                 </a>
+		                  <h6>{{strain.strainName}}</h6>
 		            </div>
 				</div>
 				<div class="col-xs-1">
