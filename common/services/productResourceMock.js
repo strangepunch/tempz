@@ -226,27 +226,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.36
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.44
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -262,19 +262,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -282,7 +282,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -316,30 +316,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 18.36,
-			 	"CBD": 0.22,
-			 	"CBN": 0.44,
-			 	"CBG": 0.40,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -354,27 +331,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.17
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.44
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -390,19 +367,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -410,7 +387,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -444,30 +421,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 18.17,
-			 	"CBD": 0.22,
-			 	"CBN": 0.44,
-			 	"CBG": 0.40,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -482,27 +436,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 15.54
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.44
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -518,19 +472,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -538,7 +492,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -572,30 +526,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 15.54,
-			 	"CBD": 0.30,
-			 	"CBN": 0.81,
-			 	"CBG": 0.44,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 			"conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -610,27 +541,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 15.38
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.68
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -646,19 +577,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -666,7 +597,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -700,30 +631,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 15.38,
-			 	"CBD": 0.20,
-			 	"CBN": 0.68,
-			 	"CBG": 0.28,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -738,15 +646,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 14.21
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.41
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -754,11 +662,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -774,19 +682,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -794,7 +702,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -828,30 +736,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 14.21,
-			 	"CBD": 0.41,
-			 	"CBN": 0.13,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -866,11 +751,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 8.12
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -878,15 +763,15 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -902,19 +787,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -922,7 +807,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -956,30 +841,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 8.12,
-			 	"CBD": 7.23,
-			 	"CBN": 0.03,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -994,15 +856,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 19.84
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.76
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -1010,11 +872,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1030,19 +892,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1050,7 +912,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1084,30 +946,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 19.84,
-			 	"CBD": 0.76,
-			 	"CBN": 0.04,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1122,27 +961,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.02
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.36
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.54
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.36
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1158,19 +997,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1178,7 +1017,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1212,30 +1051,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 17.02,
-			 	"CBD": 0.36,
-			 	"CBN": 0.54,
-			 	"CBG": 0.36,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1250,15 +1066,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 8.02
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 9.70
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -1270,7 +1086,7 @@
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1286,19 +1102,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1306,7 +1122,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1340,30 +1156,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 8.02,
-			 	"CBD": 9.70,
-			 	"CBN": 0.08,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1378,27 +1171,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.02
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.73
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1414,19 +1207,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1434,7 +1227,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1468,30 +1261,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 17.02,
-			 	"CBD": 0.34,
-			 	"CBN": 0.73,
-			 	"CBG": 0.08,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1506,11 +1276,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -1522,11 +1292,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1542,19 +1312,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1562,7 +1332,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1596,30 +1366,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 17.10,
-			 	"CBD": 0.18,
-			 	"CBN": 0.0,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1634,27 +1381,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.77
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.94
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1670,19 +1417,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1690,7 +1437,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1724,30 +1471,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 18.77,
-			 	"CBD": 0.22,
-			 	"CBN": 0.04,
-			 	"CBG": 0.94,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1762,27 +1486,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 15.87
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.67
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.26
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1798,19 +1522,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -1818,7 +1542,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -1852,30 +1576,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 15.87,
-			 	"CBD": 0.24,
-			 	"CBN": 0.67,
-			 	"CBG": 0.26,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -1890,15 +1591,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 14.31
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 1.25
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -1980,30 +1681,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 14.31,
-			 	"CBD": 0.56,
-			 	"CBN": 1.25,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2018,27 +1696,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 16.89
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 1.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2054,19 +1732,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2074,7 +1752,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2108,30 +1786,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 16.89,
-			 	"CBD": 0.22,
-			 	"CBN": 1.14,
-			 	"CBG": 0.27,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2146,27 +1801,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 11.45
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.67
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2182,11 +1837,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -2194,7 +1849,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2202,7 +1857,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2236,30 +1891,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 11.45,
-			 	"CBD": 0.03,
-			 	"CBN": 0.67,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2274,19 +1906,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.61
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 4.15
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -2364,30 +1996,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 18.61,
-			 	"CBD": 0.40,
-			 	"CBN": 0.18,
-			 	"CBG": 4.15,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2402,27 +2011,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.86
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2438,19 +2047,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2458,7 +2067,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2490,32 +2099,9 @@
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.20
 			 	} 	
-		 	], "THC": 22.86,
-			 	"CBD": 0.20,
-			 	"CBN": 0.02,
-			 	"CBG": 0.50,
-			 	"THCV": 0.10,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.20,
-			 	"Limonene": 0.30,
-			 	"Linalool": 0.06,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.17,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.20,
-			 	"CBL": 0.20
-			 	, 
+		 	], 
 		 	 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
@@ -2530,27 +2116,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.38
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.90
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2566,19 +2152,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2586,7 +2172,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2620,30 +2206,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 17.38,
-			 	"CBD": 0.11,
-			 	"CBN": 0.04,
-			 	"CBG": 0.90,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2658,27 +2221,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 16.38
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.68
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2694,19 +2257,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2714,7 +2277,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2748,30 +2311,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 16.38,
-			 	"CBD": 0.28,
-			 	"CBN": 0.35,
-			 	"CBG": 0.68,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2786,27 +2326,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 16.22
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.33
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.32
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2822,19 +2362,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2842,7 +2382,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -2876,30 +2416,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 16.22,
-			 	"CBD": 0.28,
-			 	"CBN": 0.33,
-			 	"CBG": 0.32,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2914,27 +2431,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 15.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.51
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -2950,7 +2467,7 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
@@ -2958,11 +2475,11 @@
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -2970,7 +2487,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3004,30 +2521,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 15.20,
-			 	"CBD": 0.16,
-			 	"CBN": 0.24,
-			 	"CBG": 0.51,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3042,27 +2536,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 16.72
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.73
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.63
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -3078,19 +2572,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3098,7 +2592,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3132,30 +2626,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 16.72,
-			 	"CBD": 0.35,
-			 	"CBN": 0.73,
-			 	"CBG": 0.63,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3170,27 +2641,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 24.40
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.64
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -3206,19 +2677,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3226,7 +2697,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3260,30 +2731,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 24.40,
-			 	"CBD": 0.64,
-			 	"CBN": 0.13,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3298,15 +2746,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 0.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 20.00
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -3318,7 +2766,7 @@
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -3334,19 +2782,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 1.10
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3388,30 +2836,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 0.80,
-			 	"CBD": 20.00,
-			 	"CBN": 0.05,
-			 	"CBG": 0.30,
-			 	"THCV": 0.01,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 1.10,
-			 	"Caryophyllene": 0.06,
-			 	"Limonene": 0.13,
-			 	"Linalool": 0.03,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.08,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.30,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3426,15 +2851,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -3442,11 +2867,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -3462,19 +2887,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3482,7 +2907,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3516,30 +2941,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 22.10,
-			 	"CBD": 0.35,
-			 	"CBN": 0.07,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": ["Asthma", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3554,15 +2956,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -3644,30 +3046,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 17.50,
-			 	"CBD": 0.24,
-			 	"CBN": 0.06,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": ["Asthma", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3682,15 +3061,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 21.0
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.32
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -3698,11 +3077,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -3718,19 +3097,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.0
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3738,7 +3117,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3772,30 +3151,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	], "THC": 21.0,
-			 	"CBD": 0.32,
-			 	"CBN": 0.07,
-			 	"CBG": 0.0,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	], 
 		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -23927,7 +23283,7 @@ var taste = [
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"productId": 2,
-			 "productName": "Delta9-THC", //compName
+			 "productName": "THC9", //compName
 			 "Property": ["Euphoriant", "Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Reduces Neuroinflammation", "Neurogenesis"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
@@ -23997,7 +23353,7 @@ var taste = [
 			 "imageUrl": "images/220px-Cannabigerol-skeletal.svg.png"
 			},
 			{"productId": 7,
-			 "productName": "Delta8-THC", //compName
+			 "productName": "THC8", //compName
 			 "Property": ["antiemetic", "anxiolytic", "appetite-stimulating", "analgesic", "neuroprotective"],
 			 "lowTemp": 347,
 			 "highTemp": 352,
@@ -24039,7 +23395,7 @@ var taste = [
 			 "imageUrl": "images/220px-Thcv.svg.png"
 			},
 			{"productId": 10,
-			 "productName": "Beta-myrcene", //compName
+			 "productName": "Myrcene", //compName
 			 "Property": ["Analgesic", "Antiinflammatory", "Antibiotic", "Antimutagenic"],
 			 "lowTemp": 0,
 			 "highTemp": 334,
@@ -24053,7 +23409,7 @@ var taste = [
 			 "imageUrl": "images/220px-Myrcene_beta_straight_acsv.svg.png"
 			},
 			{"productId": 11,
-			 "productName": "Beta-caryophyllene", //compName
+			 "productName": "Caryophyllene", //compName
 			 "Property": ["Antiinflammatory", "Cytoprotective", "Antimalarial"],
 			 "lowTemp": 0,
 			 "highTemp": 246,
@@ -24067,7 +23423,7 @@ var taste = [
 			 "imageUrl": "images/200px-Beta-Caryophyllen.svg.png"
 			},
 			{"productId": 12,
-			 "productName": "d-limonene", //compName
+			 "productName": "Limonene", //compName
 			 "Property": ["Anti gastric reflux", "Anti-fungal", "Anti-depression", "Anti-anxiety", "Anti-tumor", "Immunostimulant"],
 			 "lowTemp": 0,
 			 "highTemp": 351,
@@ -24109,7 +23465,7 @@ var taste = [
 			 "imageUrl": "images/200px-Eucalyptol.png"
 			},
 			{"productId": 15,
-			 "productName": "a-pinene", //compName
+			 "productName": "Pinene", //compName
 			 "Property": ["Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor"],
 			 "lowTemp": 0,
 			 "highTemp": 313,
@@ -24123,7 +23479,7 @@ var taste = [
 			 "imageUrl": "images/220px-Alpha-Pinene_Isomers.svg.png"
 			},
 			{"productId": 16,
-			 "productName": "a-terpineol", //compName
+			 "productName": "Terpineol", //compName
 			 "Property": ["Sedative", "Antibiotic", "AChE inhibitor", "Antioxidant", "Antimalarial"],
 			 "lowTemp": 0,
 			 "highTemp": 423,
@@ -24137,7 +23493,7 @@ var taste = [
 			 "imageUrl": "images/100px-Terpineol_alpha.svg.png"
 			},
 			{"productId": 17,
-			 "productName": "terpineol-4-ol", //compName
+			 "productName": "Terpineol-4", //compName
 			 "Property": ["AChE inhibitor", "Antibiotic"],
 			 "lowTemp": 0,
 			 "highTemp": 408,
@@ -24151,7 +23507,7 @@ var taste = [
 			 "imageUrl": "images/100px-Terpinen-4-ol.svg.png"
 			},
 			{"productId": 18,
-			 "productName": "p-cymene", //compName
+			 "productName": "Cymene", //compName
 			 "Property": ["Antibiotic", "Anticandidal", "AChE inhibitor"],
 			 "lowTemp": 0,
 			 "highTemp": 351,
@@ -24165,7 +23521,7 @@ var taste = [
 			 "imageUrl": "images/100px-P-Cymol.svg.png"
 			}, 
 			{"productId": 19,
-			 "productName": "apigenin", //compName
+			 "productName": "Apigenin", //compName
 			 "Property": ["Anxiolytic", "Antiinflammatory", "Estrogenic"],
 			 "lowTemp": 0,
 			 "highTemp": 352,
@@ -24179,7 +23535,7 @@ var taste = [
 			 "imageUrl": "images/200px-Apigenin.svg.png"
 			},
 			{"productId": 20,
-			 "productName": "quercetin", //compName
+			 "productName": "Quercetin", //compName
 			 "Property": ["Antioxidant", "Antimutagenic", "Antiviral", "Antineoplastic"],
 			 "lowTemp": 0,
 			 "highTemp": 482,
@@ -24193,7 +23549,7 @@ var taste = [
 			 "imageUrl": "images/250px-Quercetin.svg.png"
 			},
 			{"productId": 21,
-			 "productName": "cannflavin A", //compName
+			 "productName": "Cannflavin A", //compName
 			 "Property": ["COX inhibitor", "LO inhibitor"],
 			 "lowTemp": 0,
 			 "highTemp": 360,
