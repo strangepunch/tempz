@@ -6,15 +6,23 @@
 	</div>
 	<div class = "panel panel-primary">
 		<div class ="row">
-			<div class="col-xs-12">
-			<div class="glyphicon glyphicon-chevron-left col-xs-1" aria-hidden="true" ng-style="vm.leftT" ng-click="tempSlider('left')"></div> 
-			<div class="tBox col-xs-10">
-				<div class="col-xs-2" id="radios" ng-repeat="temp in vm.selectedTemps track by $index">	
-					<span ng-click="catching(temp)"> {{temp}} </span>	
-				</div>
-			</div>
-			<div class="glyphicon glyphicon-chevron-right col-xs-1" aria-hidden="true" ng-style="vm.rightT" ng-click="tempSlider('right')"></div>
-		</div>
+			<table>
+				<tr>
+					<td class="col-xs-1">
+						<div class="glyphicon glyphicon-chevron-left" aria-hidden="true" ng-style="vm.leftT" ng-click="tempSlider('left')"></div>
+					</td>
+					<td class="col-xs-10">
+						<div class="tBox">
+							<div class="col-xs-2" ng-repeat="temp in vm.selectedTemps track by $index">	
+								<span ng-click="catching(temp)"> {{temp}} </span>	
+							</div>
+						</div>
+					</td>
+					<td class="col-xs-1">
+						<div class="glyphicon glyphicon-chevron-right" aria-hidden="true" ng-style="vm.rightT" ng-click="tempSlider('right')"></div>
+					</td>
+				</tr>
+			</table>
 		</div>
 	</div>
 	<div class = "panel">
@@ -23,9 +31,12 @@
 			 	Effects:
 			</div>
 			<div class="panel-body">
-				<ul ng-repeat = "effects in vm.effectProperty track by $index">
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{effects|unique:'Property'}}</li>
-				</ul>
+				<div class ="col-xs-8" ng-repeat = "effects in vm.effectProperty|limitTo:limitDisplay1 track by $index">
+					<span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{effects|unique:'Property'}}
+				</div>
+			</div>
+			<div class="panel-footer"> 
+			 	<a ng-click="setDisplay('effect')"> {{displaySetting1}}</a>
 			</div>
 		</div>
 	</div>
@@ -36,9 +47,12 @@
 			 	Health Conditions: ({{filterName}})
 			</div>
 			<div class="panel-body">
-				<ul ng-repeat="condition in vm.Container|filter:filterName">
-					<li class="col-xs-6" ng-repeat="cond in condition.conditions"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{cond}}</li>
-				</ul>
+				<div class ="col-xs-8" ng-repeat="condition in vm.Container|filter:filterName |unique:'Property'">
+					<div ng-repeat="cond in condition.conditions |limitTo:limitDisplay2 "><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{cond}}</div>
+				</div>
+			</div>
+			<div class="panel-footer"> 
+			 	<a ng-click="setDisplay('cond')"> {{displaySetting2}}</a>
 			</div>
 		</div>
 	</div>
@@ -46,28 +60,22 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Suggested Strains:
+			 	Suggested Strain: {{vm.Suggest.strain}} ({{vm.Suggest.effect}}: {{vm.Suggest.value}})
 			</div>
 			<div class="panel-body pushDown">
-				<div class="col-xs-2">
-					<div class="btn btn-lg">
-						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-					</div>
-				</div>
 				<div class="imgStrains">
-					<div class="col-xs-3" ng-repeat="strain in vm.Container|orderBy:orderName|limitTo:3">
+					<div class ="row">
+					<div class="col-xs-3" ng-repeat="strain in vm.Container|orderBy:orderName|limitTo:limitDisplay3">
 		                <a ng-click="filterStrainName(strain.strainName)">
 		                   <img src="http://placehold.it/50x50" class="img-circle">
 		                 </a>
-		                  <h6>{{strain.strainName}}</h6>
+		                 <h6>{{strain.strainName}} ({{strain.comp.name}}: {{strain.comp.value}})</h6>
+		            </div>
 		            </div>
 				</div>
-				<div class="col-xs-1">
-					<div class="btn btn-lg">
-						<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-					</div>
-				</div>
-		
+			</div>
+			<div class="panel-footer"> 
+			 	<a ng-click="setDisplay('strain')"> {{displaySetting3}}</a>
 			</div>
 		</div>
 	</div>

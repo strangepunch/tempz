@@ -10,13 +10,7 @@
 	
 	function TempsViewCtrl($scope, tempResource, productResource, strainResource){
 		var vm = this;
-		$scope.orderName = '-value';
-		$scope.filterName = 'Trainwreck';
-		$scope.filterStrainName = function(name){
-			console.log(name);
-			$scope.filterName = name;
-				
-		}
+
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
 		vm.tempDisplay = 126;
@@ -123,7 +117,25 @@
 					
 				}
 				console.log(vm.Container);
+
+				//calculate the highest
+				var highStrain = "";
+				var highEffect = "";
+				var highValue = 0;
+				var tempValue = 0;
+				for(var i=0; i<vm.Container.length; i++){
+					tempValue = vm.Container[i].comp.value;
+					if(highValue < tempValue){
+						highStrain = vm.Container[i].strainName;
+						highEffect = vm.Container[i].comp.name;
+						highValue = vm.Container[i].comp.value;
+					}
+				}
+				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
+				console.log(vm.Suggest);
+				$scope.filterName = vm.Suggest.strain;
 			});
+
 		});
 
 		//change between F and C
@@ -237,8 +249,87 @@
 					console.log("num", num);
 				}
 				console.log(vm.Container);
+
+
+				//calculate the highest
+				var highStrain = "";
+				var highEffect = "";
+				var highValue = 0;
+				var tempValue = 0;
+				for(var i=0; i<vm.Container.length; i++){
+					tempValue = vm.Container[i].comp.value;
+					if(highValue < tempValue){
+						highStrain = vm.Container[i].strainName;
+						highEffect = vm.Container[i].comp.name;
+						highValue = vm.Container[i].comp.value;
+					}
+				}
+				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
+				console.log(vm.Suggest);
+				$scope.filterName = vm.Suggest.strain;
+
 			});
 		}
+
+		//sets the strain display
+		$scope.orderName = '-comp.value';
+		$scope.filterName = 'Trainwreck';
+		$scope.filterStrainName = function(name){
+			console.log(name);
+			$scope.filterName = name;		
+		}
+
+		//sets the more or less button
+		//effect
+	    vm.clicked1 = true;
+	    $scope.limitDisplay1 = 2;
+	    $scope.displaySetting1 = "More...";
+	    //cond
+	    vm.clicked2 = true;
+	    $scope.limitDisplay2 = 2;
+	    $scope.displaySetting2 = "More...";
+	    //strain
+	    vm.clicked3 = true;
+	    $scope.limitDisplay3 = 4;
+	    $scope.displaySetting3 = "More...";
+	    $scope.setDisplay = function(name){
+	    	switch(name){
+	    		case 'effect':
+	    			if(!vm.clicked1){
+				        $scope.limitDisplay1 = 2;
+				        $scope.displaySetting1 = "More...";
+				        vm.clicked1 = true;
+				    }else{
+				        $scope.limitDisplay1 = vm.effectProperty.length;
+				        $scope.displaySetting1 = "Less...";
+				        vm.clicked1 = false;
+				    }
+	    		break;
+	    		case 'cond':
+	    			if(!vm.clicked2){
+				        $scope.limitDisplay2 = 2;
+				        $scope.displaySetting2 = "More...";
+				        vm.clicked2 = true;
+				    }else{
+				        $scope.limitDisplay2 = 100;
+				        $scope.displaySetting2 = "Less...";
+				        vm.clicked2 = false;
+				    }
+	    		break;
+	    		case 'strain':
+	    			if(!vm.clicked3){
+				        $scope.limitDisplay3 = 4;
+				        $scope.displaySetting3 = "More...";
+				        vm.clicked3 = true;
+				    }else{
+				        $scope.limitDisplay3 = vm.Container.length;
+				        $scope.displaySetting3 = "Less...";
+				        vm.clicked3 = false;
+				    }
+	    		break;
+	    	}
+
+	    }
 		
 	}
 

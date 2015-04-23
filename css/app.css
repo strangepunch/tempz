@@ -105,7 +105,8 @@ html, body {
 
 #tempsView .panel-body {
 	padding-left: 0px;
-	margin-left: -10px;
+	margin-right: 20px;
+	margin-left: 20px;
 	padding: 5px;
 }
 
@@ -119,6 +120,18 @@ html, body {
 	padding: 5px;
 }
 
+#tempsView .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	padding: 5px;
+	font-size: .7em;
+}
+
 #tempsView .panel-primary{
 	background-color: transparent;
 	border-style: none;
@@ -129,10 +142,10 @@ html, body {
 	border: none;
 }
 
-#tempsView ul li{
-	display: inline;
-	list-style-type: none;
-	margin-left: -5px;
+#tempsView a{
+	font-style: none;
+	color: white;
+	text-decoration: none;
 }
 
 #radios{
@@ -176,16 +189,14 @@ html, body {
 	height: 35px;
 	color: white;
 }
-#tempsView .imgStrains {
-	margin-left: 90px;
-	margin-right: 20px;
-}
+
 #tempsView .imgStrains a img {
 	vertical-align: center;
 }
+
 #tempsView .imgStrains h6 {
 	text-align: left;
-	padding-left: 10px;
+	padding-left: 0px;
 }
 #tempsView .pushDown{
 	padding-top: 10px;
