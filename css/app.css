@@ -201,6 +201,31 @@ html, body {
 #tempsView .pushDown{
 	padding-top: 10px;
 }
+#tempsView .tCircle2 {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 2px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 60px;
+	height: 65px;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	padding: 0px;
+	padding-top: 20px;
+	background-repeat: no-repeat;
+	/*background:url('images/strains/acapulcoGold.jpg') center ;*/
+
+}
+#tempsView .active{
+	border-color: green;
+	border-width: 5px;
+	width: 70px;
+	height: 75px;
+}
 
 /**----------Conditions View---------------**/
 #condView{

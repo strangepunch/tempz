@@ -107,13 +107,15 @@
 								vm.Container[num] = {strainId: vm.Strains[i].strainId,
 										           	 strainName: vm.Strains[i].strainName,
 										             conditions: vm.Strains[i].conditions,
-										             comp:vm.Strains[i].components[j]};
+										             comp:vm.Strains[i].components[j],
+										             imageUrl:vm.Strains[i].imageUrl};
 								num++;
 							}
 						}				
 					}
 					console.log("test", test++);
 					console.log("num", num);
+					console.log("imageUrl", vm.Container[0].imageUrl);
 					
 				}
 				console.log(vm.Container);
@@ -134,6 +136,7 @@
 				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
 				console.log(vm.Suggest);
 				$scope.filterName = vm.Suggest.strain;
+				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
 			});
 
 		});
@@ -240,7 +243,8 @@
 								vm.Container[num] = {strainId: vm.Strains[i].strainId,
 										           	 strainName: vm.Strains[i].strainName,
 										             conditions: vm.Strains[i].conditions,
-										             comp:vm.Strains[i].components[j]};
+										             comp:vm.Strains[i].components[j],
+										             imageUrl:vm.Strains[i].imageUrl};
 								num++;
 							}
 						}				
@@ -267,17 +271,31 @@
 				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
 				console.log(vm.Suggest);
 				$scope.filterName = vm.Suggest.strain;
-
+				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
 			});
 		}
 
 		//sets the strain display
 		$scope.orderName = '-comp.value';
 		$scope.filterName = 'Trainwreck';
-		$scope.filterStrainName = function(name){
+		$scope.effectNameValue = '';
+		$scope.filterStrainName = function(name,value){
 			console.log(name);
-			$scope.filterName = name;		
+			$scope.filterName = name;
+			$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + value + ")";		
 		}
+		//this sets the ng-class to active
+		$scope.active = function(item){
+
+    		switch(item) {
+			    case $scope.filterName:
+			        return "active";
+			        break;
+			    default:
+			        return "!active";
+			}
+			
+    	};
 
 		//sets the more or less button
 		//effect

@@ -113,7 +113,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Trainwreck", "Bipolar", "Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 2,
 			 "strainName": "White Widow", 
@@ -218,7 +218,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "White Widow"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 3,
 			 "strainName": "Sage", 
@@ -323,7 +323,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Sage"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 4,
 			 "strainName": "Skywalker OG", 
@@ -428,7 +428,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Skywalker OG", "OG"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 5,
 			 "strainName": "Permafrost", 
@@ -533,7 +533,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Permafrost"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 6,
 			 "strainName": "Querkle", 
@@ -2003,7 +2003,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Strawberry"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 20,
 			 "strainName": "Sour Diesel", 
@@ -4628,7 +4628,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Green Crack", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
 			},
 			{"strainId": 45,
 			 "strainName": "Green Dream", 
