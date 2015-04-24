@@ -1,27 +1,23 @@
 <div id="effView">
 	<div class="panel panel-default"> 
 		<div class="panel-heading" role="tab" id="{{effect.effectName}}">
-		      <h4 class="panel-title">Effects</h4> 
+		      <h4 class="panel-title">Medical Effects</h4> 
 		</div>
-	 	<div class="btn btn-primary"> A-D </div> 
-	 	<div class="btn btn-primary"> E-H </div> 
-	 	<div class="btn btn-primary"> I-L </div>
-	 	<div class="btn btn-primary"> M-P </div> 
-	 	<div class="btn btn-primary"> Q-T </div> 
-	 	<div class="btn btn-primary"> U-Z </div>
+	 	<label class="btn btn-primary">Search Med Name: <input ng-model="search.effectName"></label>
+	 	<label class="btn btn-primary">Search Condition: <input ng-model="search.$"></label>  
+	 	<div class="btn btn-primary" ng-click="searchEffect('Cancer')"> Cancer </div> 
+	 	<div class="btn btn-primary" ng-click="searchEffect('Seizures')"> Seizures </div> 
+	 	<div class="btn btn-primary"> Munchie </div>
+	 	<div class="btn btn-primary"> Couchlock </div>
 	</div>
 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-	  	<div class="panel panel-default" ng-repeat="effect in vm.effects">
+	  	<div class="panel panel-default" ng-repeat="effect in vm.effects | filter:search:strict">
 		    <div class="panel-heading" role="tab" id="{{effect.effectName}}">
 		      <h4 class="panel-title">
-		        <button class="btn btn-heading" type="button" data-toggle="collapse" data-parent="#accordion" href="#{{effect.effectId}}" aria-expanded="false" aria-controls="collapseTwo" ng-click="selectEffect(effect.effectName)">
-		        	<span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> 
-			          {{effect.descriptionAbbrev}}
-			        </a>
-			    </h4>
+			        {{effect.descriptionAbbrev}}
+			  </h4>
 			</div>
-			<div id="{{effect.effectId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{effect.effectName}}">
-			    <div class="panel-body">
+			<div class="panel-body">
 			    	 <div class = "row">
 				        <div class = "col-xs-11">
 				        	<span class="primaryInfo"> Medical Name: </span> 
@@ -33,11 +29,12 @@
 				        </div>
 				        <div class = "col-xs-11">
 				        	<span class="primaryInfo"> Condition Treated: </span>
-				        	<ul ng-repeat="condition in effect.conditionsTreated track by $index">
-								<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{condition}}</li>
-							</ul> 
+				        	<div ng-repeat="condition in effect.conditionsTreated track by $index">
+								<span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{condition}}
+							</div> 
 				        </div>
 				    </div>
+			<div id="{{effect.effectId}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{effect.effectName}}">
 			        <div class = "row">
 				        <table ng-repeat="effect in vm.selectedProducts">
 					        <tr>		
@@ -63,6 +60,9 @@
 						</table>
 					</div>
 			    </div>
+			    <div class="panel-footer">
+				    <button class="btn btn-heading" type="button" data-toggle="collapse" data-parent="#accordion" href="#{{effect.effectId}}" aria-expanded="false" aria-controls="collapseTwo" ng-click="selectEffect(effect.effectName)"> ... </button>
+				</div>
 			</div>
 		</div>
 	</div>

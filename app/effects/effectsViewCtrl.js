@@ -57,7 +57,24 @@
 				}
 				vm.selectedProducts = tempArray;
 			});
+
 		};
+
+		$scope.searchEffect = function(name){
+			var tempArray=[];
+			var num=0;
+			effectResource.query(function(data){
+				for(var i=0; i<data.length; i++){
+					for(var x=0; x<data[i].conditionsTreated.length; x++){
+						if(name === data[i].conditionsTreated[x]){
+							tempArray[num] = data[i];
+							num++;
+						}
+					}
+				}
+				vm.effects = tempArray;
+			});
+		}
 	}
 
 }());
