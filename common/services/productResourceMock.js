@@ -10,1067 +10,18 @@
 		var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]
 		
 		var strains = [
-			{"strainId": 1,
-			 "strainName": "Trainwreck", 
-			 "strainType": "Hybrid",
-			 "components": [
-				 	{ 
-				 		"name": "THC9", 
-				 		"value": 21.30
-				 	},
-				 	{ 
-				 		"name": "CBD", 
-				 		"value": 1.81
-				 	},
-				 	{ 
-				 		"name": "CBN", 
-				 		"value": 0.03
-				 	},
-				 	{ 
-				 		"name": "CBG", 
-				 		"value": 0.30
-				 	},
-				 	{ 
-				 		"name": "CBC", 
-				 		"value": 0.30
-				 	},
-				 	{ 
-				 		"name": "THCV", 
-				 		"value": 0.03
-				 	},
-				 	{ 
-				 		"name": "THCA", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "THC8", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Pulegone", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Myrcene", 
-				 		"value": 0.40
-				 	},
-				 	{ 
-				 		"name": "Caryophyllene", 
-				 		"value": 0.40
-				 	},
-				 	{ 
-				 		"name": "Limonene", 
-				 		"value": 0.50
-				 	},
-				 	{ 
-				 		"name": "Linalool", 
-				 		"value": 0.01
-				 	},
-				 	{ 
-				 		"name": "Eucalyptol", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Pinene", 
-				 		"value": 0.20
-				 	},
-				 	{ 
-				 		"name": "Terpineol", 
-				 		"value": 0.00
-				 	},
-				 	{ 
-				 		"name": "Terpineol-4", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Cymene", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Apigenin", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Quercetin", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Cannflavin A", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "Beta-sitosterol", 
-				 		"value": 0.0
-				 	},
-				 	{ 
-				 		"name": "CBL", 
-				 		"value": 0.0
-				 	} 	
-		 	],
-		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Trainwreck", "Bipolar", "Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 2,
-			 "strainName": "White Widow", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 14.68
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.17
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.51
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.35
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	}
-			 ],	 	
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "White Widow"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 3,
-			 "strainName": "Sage", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 18.36
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.22
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.44
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sage"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 4,
-			 "strainName": "Skywalker OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 18.36
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.22
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.10
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 1.10
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 1.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.60
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.7
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Skywalker OG", "OG"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 5,
-			 "strainName": "Permafrost", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 15.54
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.81
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.44
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-			"conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Permafrost"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 6,
-			 "strainName": "Querkle", 
+			
+			{"strainId": 65,
+			 "strainName": "Purple Urkle", 
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.38
+			 		"value": 17.60
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.68
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.28
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Querkle", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 7,
-			 "strainName": "Papaya", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 14.21
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.41
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.13
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Papaya"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 8,
-			 "strainName": "Pennywise", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 8.12
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],
-		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Pennywise", "Migraines", "Headache", "Hypertension"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 9,
-			 "strainName": "OG #18", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 19.84
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.76
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "OG #18", "OG"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 10,
-			 "strainName": "OG Kush", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.02
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.36
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.54
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.36
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "OG Kush", "OG", "Kush"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 11,
-			 "strainName": "Canna-Tsu", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 8.02
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 9.70
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -1078,112 +29,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
 			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 12,
-			 "strainName": "Nebula", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.02
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.34
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.73
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -1192,426 +38,6 @@
 			 	{ 
 			 		"name": "THCV", 
 			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Nebula"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 13,
-			 "strainName": "XJ-13", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.18
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "XJ-13"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 14,
-			 "strainName": "Yumbodlt", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 18.77
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.22
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.94
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Yumbodlt"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 15,
-			 "strainName": "Vortex", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 15.87
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.24
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.67
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.26
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Vortex"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 16,
-			 "strainName": "Warlock", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 14.31
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.56
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 1.25
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -1681,3487 +107,22 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Warlock"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 17,
-			 "strainName": "Strawberry Cough", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.89
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.22
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 1.14
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.27
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
 		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Strawberry Cough"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 18,
-			 "strainName": "Stardawg", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 11.45
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.67
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Stardawg"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 19,
-			 "strainName": "Strawberry", 
-			 "strainType": "",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 18.61
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.18
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 4.15
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Strawberry"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 20,
-			 "strainName": "Sour Diesel", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.86
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.02
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.10
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.17
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.20
-			 	} 	
-		 	], 
-		 	 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Sour Diesel", "Stress", "Depression", "Pain", "Lack of Appetite", "Headache", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 21,
-			 "strainName": "Shipwreck", 
-			 "strainType": "",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.38
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.11
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.90
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Shipwreck"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 22,
-			 "strainName": "Skywalker", 
-			 "strainType": "",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.38
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.28
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.35
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.68
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Skywalker"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 23,
-			 "strainName": "Romulan", 
-			 "strainType": "",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.22
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.28
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.33
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.32
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Romulan"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 24,
-			 "strainName": "Purple Wreck", 
-			 "strainType": "",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 15.20
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.16
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.24
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.51
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Purple Wreck"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 25,
-			 "strainName": "Pineapple", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.72
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.35
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.73
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.63
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Pineapple", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 26,
-			 "strainName": "Purple Cheese", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 24.40
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.64
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.13
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cheese", "Purple", "Purple Cheese", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 27,
-			 "strainName": "ACDC", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 0.80
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 20.00
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.05
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 1.10
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.13
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 28,
-			 "strainName": "Shark Shock", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.35
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.07
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Asthma", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Shark Shock", "Asthma", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 29,
-			 "strainName": "Superman OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.50
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.24
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Asthma", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "OG", "Superman OG", "Asthma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 30,
-			 "strainName": "Thin Mint", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.0
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.32
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.07
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], 
-		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Thin Mint", "Asthma", "Bipolar", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 31,
-			 "strainName": "Banana Diesel", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.48
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.33
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.48
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Diesel", "Bipolar", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 32,
-			 "strainName": "Candy OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.50
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.55
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 33,
-			 "strainName": "Chem Valley Kush", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.80
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.10
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Chem Valley Kush", "Kush", "Bipolar", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 34,
-			 "strainName": "Confidential Cheese", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.90
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.39
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.05
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 35,
-			 "strainName": "Deadhead OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.90
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.39
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.05
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar", "Depression", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 36,
-			 "strainName": "Diablo", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 20.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.23
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Diablo", "Bipolar", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 37,
-			 "strainName": "Dutch Passion", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 14.78
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.28
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.16
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Dutch Passion", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 38,
-			 "strainName": "Eden OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 17.70
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.23
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.09
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 39,
-			 "strainName": "Euphoria", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.60
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.37
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Euphoria", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 40,
-			 "strainName": "Fire Bomb", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.60
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.37
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Fire Bomb", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 41,
-			 "strainName": "Forum Cookies/GSC", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 22.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.42
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.13
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 42,
-			 "strainName": "Gooey Wreck", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 25.00
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.85
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.07
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Gooey Wreck", "Wreck", "Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 43,
-			 "strainName": "Grapefruit Haze", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.90
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.32
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.07
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
 		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Grapefruit Haze", "Haze", "Bipolar", "Migraines", "Headache", "PMS"],
+			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 44,
-			 "strainName": "Green Crack", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 24.70
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 1.7
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.12
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.70
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.04
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.09
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.20
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Green Crack", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
-			},
-			{"strainId": 45,
-			 "strainName": "Green Dream", 
+			{"strainId": 66,
+			 "strainName": "Raskal OG", 
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.47
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.11
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Green Dream", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 46,
-			 "strainName": "Green Thailand", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.00
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.54
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.09
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Green Thailand", "Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 47,
-			 "strainName": "H-Train Wreck", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 19.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.27
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.62
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "H-Train Wreck", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 48,
-			 "strainName": "Hawaiian Hulk", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 19.10
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.27
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.06
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Hawaiian Hulk", "Hawaiian","Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 49,
-			 "strainName": "Jack Chemdawg", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 25.40
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.34
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.05
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Jack Chemdawg", "Chemdawg", "Jack", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 50,
-			 "strainName": "Jack Herer", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 20.60
+			 		"value": 9.67
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5169,55 +130,55 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 1.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.07
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.15
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5225,48 +186,48 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+		 	], 
+		 	 "conditions": ["Bipolar", "Nausea", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
+			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar", "Nausea", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 51,
-			 "strainName": "Jillybean", 
-			 "strainType": "Hybrid",
+			{"strainId": 67,
+			 "strainName": "Regulator OG", 
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.70
+			 		"value": 23.30
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5274,55 +235,55 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5330,161 +291,56 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
+		 	],
+		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Jillybean", "Bipolar", "PMS"],
+			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 52,
-			 "strainName": "Lamb's Bread", 
-			 "strainType": "Sativa",
+			{"strainId": 68,
+			 "strainName": "Saturn OG", 
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.40
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.37
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lamb's Bread", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 53,
-			 "strainName": "Lemon Haze", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 23.20
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.63
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.70
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5566,26 +422,26 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], 
-		 	 "conditions": ["Bipolar"],
+		 	],
+		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lemon Haze", "Haze",  "Bipolar"],
+			 "tags": ["Hybrid", "Saturn OG", "OG", "Bipolar", "Hypertension", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 54,
-			 "strainName": "Lemon Head OG", 
-			 "strainType": "Sativa",
+			{"strainId": 69,
+			 "strainName": "Sherbet Cookies", 
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.70
+			 		"value": 15.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.39
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -5671,30 +527,30 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	], 
 		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar", "Migraines", "Headache"],
+			 "tags": ["Hybrid", "Sherbet Cookies", "Cookies", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 55,
-			 "strainName": "Lulu", 
-			 "strainType": "Sativa",
+			{"strainId": 70,
+			 "strainName": "Sour Cherry", 
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 28.20
+			 		"value": 14.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.29
+			 		"value": 9.28
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5777,126 +633,21 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
+		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lulu", "Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
+			 "tags": ["Hybrid", "Sour Cherry", "Bipolar"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 56,
-			 "strainName": "Magic Jack", 
-			 "strainType": "Sativa",
+			{"strainId": 71,
+			 "strainName": "Stratosphere", 
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.70
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.36
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.28
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.00
-			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Magic Jack", "Jack", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 57,
-			 "strainName": "Mike Tyson", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 24.90
+			 		"value": 20.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5986,30 +737,30 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
+		 	], 
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Mike Tyson", "Bipolar", "Hypertension", "PMS"],
+			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 58,
-			 "strainName": "Moon Candy", 
-			 "strainType": "Sativa",
+			{"strainId": 72,
+			 "strainName": "Super Grandaddy", 
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.40
+			 		"value": 16.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.51
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.04
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -6091,20 +842,4535 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], "THC": 20.40,
-			 	"CBD": 0.51,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
+		 	],
+		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Super Grandaddy", "Bipolar", "Hypertension", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 73,
+			 "strainName": "Tangerine", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.49
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Bipolar", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Tangerine", "Bipolar", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 74,
+			 "strainName": "Tangilope", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Bipolar", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Tangelope", "Bipolar", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 75,
+			 "strainName": "Tropical OG", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 17.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Bipolar", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Tropical OG", "OG", "Bipolar", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 76,
+			 "strainName": "ACDC Super CBD Oil", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 9.32
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 61.45
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "ACDC Super CBD Oil", "CBD", "Cancer", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 77,
+			 "strainName": "Afghani", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afghani", "Cancer", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 78,
+			 "strainName": "Avi-Dekel", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.87
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 15.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Avi-Dekel", "Cancer", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 79,
+			 "strainName": "Bull Rider", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 7.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 16.42
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Bull Rider", "Cancer", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 80,
+			 "strainName": "Cannatonic", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 10.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 10.24
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cannatonic", "Cancer", "Depression", "Epilepsy", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 81,
+			 "strainName": "Charlotte's Web", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 10.46
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 8.40
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Epilepsy", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Charlotte's Web", "Cancer", "Epilepsy", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 82,
+			 "strainName": "G13 Haze", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.8
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "G13 Haze", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 83,
+			 "strainName": "Great White Shark", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Great White Shark", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 84,
+			 "strainName": "Harle-Tsu", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 5.11
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 9.85
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 85,
+			 "strainName": "Harlequin", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 6.98
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer", "Nausea", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Harlequin", "Cancer", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 86,
+			 "strainName": "Hog", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Hog", "Cancer", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 87,
+			 "strainName": "King's Kush", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.75
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.84
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "King's Kush", "Kush","Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 88,
+			 "strainName": "Kosher Kush", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.92
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Kosher Kush", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 89,
+			 "strainName": "Lemon Larry OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 9.48
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 9.70
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 90,
+			 "strainName": "Master Bubba", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 9.48
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 9.70
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 91,
+			 "strainName": "Pineapple Thai", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 5.46
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Pineapple Thai", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 92,
+			 "strainName": "Sour Tsunami", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 4.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 8.43
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Sour Tsunami", "Sour", "Cancer", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 93,
+			 "strainName": "The White", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.10
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.20
+			 	} 	
+		 	], 
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "The White", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 94,
+			 "strainName": "Valentine X", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 1.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 24.60
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "The White", "Cancer", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 95,
+			 "strainName": "White Fire Alien OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "White Fire Alien OG", "OG", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 96,
+			 "strainName": "Yoda OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Cancer"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 96,
+			 "strainName": "707 Headband", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 97,
+			 "strainName": "Acapulco Gold", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 98,
+			 "strainName": "Alien OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.90
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.20
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Alien OG", "OG", "Migraines", "Headache", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 99,
+			 "strainName": "Alien Rock Candy", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Alien Rock Candy", "Depression" ,"Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 100,
+			 "strainName": "Amnesia Haze", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 101,
+			 "strainName": "ATF", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 10.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "ATF", "Depression", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 102,
+			 "strainName": "Bay Cookies", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.04
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 103,
+			 "strainName": "Berry Queen", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 104,
+			 "strainName": "Berry White", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.10
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Depression", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Berry White", "Berry", "Depression", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 105,
+			 "strainName": "Black Cherry Soda", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 12.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 106,
+			 "strainName": "Blue Dream", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.70
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Blue Dream", "Migraines", "Headache", "Nausea", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 107,
+			 "strainName": "Blue Moonshine", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 28.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.42
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 108,
+			 "strainName": "Blueberry Trainwreck", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 109,
+			 "strainName": "Canatonic #4", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 15.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Canatonic #4", "Depression"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 110,
+			 "strainName": "Candy Jack", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Candy Jack", "Jack", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 111,
+			 "strainName": "CandyLand", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "CandyLand", "Migraines", "Headache", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 112,
+			 "strainName": "Cannalope Haze", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 113,
+			 "strainName": "Cataract Kush", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cataract Kush", "Kush", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 114,
+			 "strainName": "Chemdawg", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.70
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], "THC": 23.60,
+			 	"CBD": 0.07,
+			 	"CBN": 0.02,
+			 	"CBG": 0.70,
+			 	"THCV": 0.20,
 			 	"THCA": 0.00,
 			 	"THC8": 0.00,
 			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
+			 	"Myrcene": 0.30,
+			 	"Caryophyllene": 0.40,
+			 	"Limonene": 0.14,
+			 	"Linalool": 0.06,
 			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
+			 	"Pinene": 0.11,
 			 	"Terpineol": 0.00,
 			 	"Terpineol-4": 0.00,
 			 	"Cymene": 0.00,
@@ -6112,24 +5378,129 @@
 			 	"Quercetin": 0.00,
 			 	"Cannflavin A": 0.00,
 			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
+			 	"CBC": 0.03,
+			 	"CBL": 0.20
 			 	, 
-		 	 "conditions": ["Bipolar"],
+		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Moon Candy", "Bipolar"],
+			 "tags": ["Hybrid", "Chemdawg", "Depression", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 59,
-			 "strainName": "Moonshine Diesel", 
+			{"strainId": 115,
+			 "strainName": "Cherry Pie", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 26.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.60
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.60
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.0
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.07
+			 	} 	
+		 	],  
+		 	 "conditions": ["Depression", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cherry Pie", "Depression", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 116,
+			 "strainName": "Chocolate Thai", 
 			 "strainType": "Sativa",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.90
+			 		"value": 20.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -6219,30 +5590,30 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Moonshine Diesel", "Diesel", "Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
+			 "tags": ["Sativa", "Chocolate Thai", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 60,
-			 "strainName": "Northern Lights", 
-			 "strainType": "Indica",
+			{"strainId": 117,
+			 "strainName": "Clear Lake", 
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 30.90
+			 		"value": 22.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.34
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -6324,22 +5695,442 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Northern Lights", "Bipolar", "Migraines", "Headache"],
+			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 61,
-			 "strainName": "Pineapple Express", 
-			 "strainType": "Hybrid",
+			{"strainId": 118,
+			 "strainName": "Dubtech", 
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.50
+			 		"value": 22.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 119,
+			 "strainName": "Ghost OG", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Ghost OG", "OG", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 120,
+			 "strainName": "Grape Cookies", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 121,
+			 "strainName": "Grape Kool Aid", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.58
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Grape Kool Aid", "Grape", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 122,
+			 "strainName": "Jupiter Kush", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.79
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -6347,6 +6138,426 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Jupiter Kush", "Kush", "Migraines", "Headache", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 123,
+			 "strainName": "L.A. Confidential", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.05
+			 	} 	
+		 	],  
+		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "L.A. Confidential", "Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms", "Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted" ],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 124,
+			 "strainName": "Lemon Jack", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 125,
+			 "strainName": "Lemon OG Kush", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 126,
+			 "strainName": "Mad Max", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 18.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "CBN", 
 			 		"value": 0.02
 			 	},
 			 	{ 
@@ -6423,32 +6634,137 @@
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
+		 	],
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Pineapple Express", "Bipolar", "PMS"],
+			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 62,
-			 "strainName": "Platinum Trinity Kush", 
+			{"strainId": 127,
+			 "strainName": "Mafia OG", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 30.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 128,
+			 "strainName": "Mango Maui", 
 			 "strainType": "Sativa",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.20
+			 		"value": 18.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.52
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -6535,25 +6851,655 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Platnum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
+			 "tags": ["Sativa", "Mango Maui", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 63,
-			 "strainName": "Private Reserve OG", 
+			{"strainId": 130,
+			 "strainName": "May Weather Kush", 
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 27.00
+			 		"value": 29.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.38
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "May Weather Kush", "Migraines", "Headache", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 131,
+			 "strainName": "Phantom OG", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.49
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 132,
+			 "strainName": "Pineapple Hogsbreath", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "Nausea", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Pineapple Hogsbreath", "Pineapple", "Migraines", "Headache", "Nausea", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 133,
+			 "strainName": "Silverback Gorilla", 
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 18.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Silverback Gorilla", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 134,
+			 "strainName": "Sugar Plum", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Headache", "Nausea", "Glaucoma", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Sugar Plum", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 135,
+			 "strainName": "Super Lemon Haze", 
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.20
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 136,
+			 "strainName": "The White", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -6640,25 +7586,4015 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
+		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Private Reserve OG", "OG", "Bipolar"],
+			 "tags": ["Hybrid", "The White", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 64,
-			 "strainName": "Purple Haze", 
+			{"strainId": 137,
+			 "strainName": "White Fire OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "White Fire OG", "OG", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 138,
+			 "strainName": "White Walker OG", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Migraines", "Headache", "Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 139,
+			 "strainName": "Cherry Bomb", 
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Nausea", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cherry Bomb", "Nausea", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 140,
+			 "strainName": "DJ Short Blueberry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 13.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cherry Bomb", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 141,
+			 "strainName": "El Alquimista",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],  
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "El Alquimista", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 142,
+			 "strainName": "Harlequin",
 			 "strainType": "Sativa",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.90
+			 		"value": 6.98
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Nausea", "Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Harlequin", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 143,
+			 "strainName": "Herojuana",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 17.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Herojuana", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 144,
+			 "strainName": "Lavender",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Lavender", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 145,
+			 "strainName": "Purple Coma",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Purple Coma", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 146,
+			 "strainName": "Purple Passion",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Purple Passion", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 147,
+			 "strainName": "Sour Bubble",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.13
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.52
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Sour Bubble", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 148,
+			 "strainName": "Sour Dub",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Sour Dub", "Nausea"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 149,
+			 "strainName": "Strawberry Mist",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
 			 		"value": 0.38
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Nausea", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 150,
+			 "strainName": "Strawberry Mist",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.38
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Nausea", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 151,
+			 "strainName": "Afghani Bullrider",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afghani Bullrider", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 152,
+			 "strainName": "Afgoo",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.76
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afgoo", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 153,
+			 "strainName": "Afgooey",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.85
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Afgooey", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 154,
+			 "strainName": "AK-47",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.63
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.81
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "AK-47", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 155,
+			 "strainName": "AK-48",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "AK-48", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 156,
+			 "strainName": "Alien Rock Candy",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Pain"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Alien Rock Candy", "Pain"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 157,
+			 "strainName": "Black Buddah",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Black Buddah", "Pain", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 158,
+			 "strainName": "OG Cheese",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Hypertension", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 159,
+			 "strainName": "Mercury OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Hypertension", "PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mercury OG", "Hypertension", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 160,
+			 "strainName": "Silver Surfer",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.86
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.52
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Glaucoma"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Silver Surfer", "Glaucoma"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 161,
+			 "strainName": "Sour OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 19.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Sour OG", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 162,
+			 "strainName": "Mars OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Epilepsy"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Mars OG", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 163,
+			 "strainName": "Cannatonic #4",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 15.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Epilepsy", "Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 164,
+			 "strainName": "Green Dream",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 15.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": [""],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 165,
+			 "strainName": "Green Dynamite",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.66
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],  
+		 	 "conditions": ["PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Green Dynamite", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 166,
+			 "strainName": "J1",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "J1", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 167,
+			 "strainName": "Krytonite",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 18.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Krytonite", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 168,
+			 "strainName": "Master Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.20
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["PMS"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Master Kush", "Kush", "PMS"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 169,
+			 "strainName": "Black Magic Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 26.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Black Magic Kush", "Kush", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 170,
+			 "strainName": "Blackberry Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Blackberry Kush", "Kush", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 171,
+			 "strainName": "Blue Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 22.14
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.41
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Blue Diesel", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"strainId": 172,
+			 "strainName": "Blue Haze",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Hybrid", "Blue Haze", "Haze", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 173,
+			 "strainName": "Brutus OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 25.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	],
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Brutus OG", "OG", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 174,
+			 "strainName": "Bubba Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.01
+			 	} 	
+		 	],  
+		 	 "conditions": ["Stress"],
+			 "positiveEffects": [""],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionAbbrev":  "Short description here.",
+			 "tags": ["Indica", "Bubba Kush", "Kush", "Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 175,
+			 "strainName": "Cheese",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 18.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -6744,14215 +11680,7 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Purple Haze", "Haze", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 65,
-			 "strainName": "Purple Urkle", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 17.60,
-			 	"CBD": 0.43,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 66,
-			 "strainName": "Raskal OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 9.67,
-			 	"CBD": 0.12,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 67,
-			 "strainName": "Regulator OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.30,
-			 	"CBD": 0.31,
-			 	"CBN": 0.19,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 68,
-			 "strainName": "Saturn OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.40,
-			 	"CBD": 0.37,
-			 	"CBN": 0.15,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Saturn OG", "OG", "Bipolar", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 69,
-			 "strainName": "Sherbet Cookies", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 15.20,
-			 	"CBD": 0.23,
-			 	"CBN": 0.25,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sherbet Cookies", "Cookies", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 70,
-			 "strainName": "Sour Cherry", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 14.20,
-			 	"CBD": 9.28,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sour Cherry", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 71,
-			 "strainName": "Stratosphere", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.00,
-			 	"CBD": 0.31,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 72,
-			 "strainName": "Super Grandaddy", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 16.10,
-			 	"CBD": 0.38,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Super Grandaddy", "Bipolar", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 73,
-			 "strainName": "Tangerine", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.10,
-			 	"CBD": 0.49,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Tangerine", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 74,
-			 "strainName": "Tangilope", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 27.30,
-			 	"CBD": 0.39,
-			 	"CBN": 0.10,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Tangelope", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 75,
-			 "strainName": "Tropical OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 17.80,
-			 	"CBD": 0.35,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Tropical OG", "OG", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 76,
-			 "strainName": "ACDC Super CBD Oil", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 9.32,
-			 	"CBD": 61.45,
-			 	"CBN": 0.00,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "ACDC Super CBD Oil", "CBD", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 77,
-			 "strainName": "Afghani", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 15.80,
-			 	"CBD": 0.40,
-			 	"CBN": 0.11,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Afghani", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 78,
-			 "strainName": "Avi-Dekel", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 0.87,
-			 	"CBD": 15.36,
-			 	"CBN": 0.16,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Avi-Dekel", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 79,
-			 "strainName": "Bull Rider", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 7.60,
-			 	"CBD": 16.42,
-			 	"CBN": 0.00,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Bull Rider", "Cancer", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 80,
-			 "strainName": "Cannatonic", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 10.60,
-			 	"CBD": 10.24,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic", "Cancer", "Depression", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 81,
-			 "strainName": "Charlotte's Web", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 10.46,
-			 	"CBD": 8.40,
-			 	"CBN": 0.10,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Charlotte's Web", "Cancer", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 82,
-			 "strainName": "G13 Haze", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.8,
-			 	"CBD": 0.37,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "G13 Haze", "Cancer", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 83,
-			 "strainName": "Great White Shark", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.73,
-			 	"CBD": 0.28,
-			 	"CBN": 0.40,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Great White Shark", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 84,
-			 "strainName": "Harle-Tsu", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 5.11,
-			 	"CBD": 9.85,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 85,
-			 "strainName": "Harlequin", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 6.98,
-			 	"CBD": 14.00,
-			 	"CBN": 0.01,
-			 	"CBG": 0.50,
-			 	"THCV": 0.13,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.50,
-			 	"Caryophyllene": 0.06,
-			 	"Limonene": 0.08,
-			 	"Linalool": 0.01,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.07,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.20,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Nausea", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Harlequin", "Cancer", "Nausea", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 86,
-			 "strainName": "Hog", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 14.80,
-			 	"CBD": 0.43,
-			 	"CBN": 0.19,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Hog", "Cancer", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 87,
-			 "strainName": "King's Kush", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.75,
-			 	"CBD": 0.84,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "King's Kush", "Kush","Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 88,
-			 "strainName": "Kosher Kush", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.92,
-			 	"CBD": 0.36,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Kosher Kush", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 89,
-			 "strainName": "Lemon Larry OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 9.48,
-			 	"CBD": 9.70,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 90,
-			 "strainName": "Master Bubba", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 9.48,
-			 	"CBD": 9.70,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 91,
-			 "strainName": "Pineapple Thai", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 16.10,
-			 	"CBD": 5.46,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Pineapple Thai", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 92,
-			 "strainName": "Sour Tsunami", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 4.20,
-			 	"CBD": 8.43,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sour Tsunami", "Sour", "Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 93,
-			 "strainName": "The White", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.50,
-			 	"CBD": 0.09,
-			 	"CBN": 0.01,
-			 	"CBG": 1.10,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.30,
-			 	"Limonene": 0.50,
-			 	"Linalool": 0.09,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.09,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.03,
-			 	"CBL": 0.20
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "The White", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 94,
-			 "strainName": "Valentine X", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 1.80,
-			 	"CBD": 24.60,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "The White", "Cancer", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 95,
-			 "strainName": "White Fire Alien OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.80,
-			 	"CBD": 0.32,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "White Fire Alien OG", "OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 96,
-			 "strainName": "Yoda OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.28,
-			 	"CBN": 0.24,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 96,
-			 "strainName": "707 Headband", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.10,
-			 	"CBD": 0.39,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 97,
-			 "strainName": "Acapulco Gold", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.10,
-			 	"CBD": 0.39,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 98,
-			 "strainName": "Alien OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.60,
-			 	"CBD": 0.29,
-			 	"CBN": 0.07,
-			 	"CBG": 0.90,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.08,
-			 	"Limonene": 0.40,
-			 	"Linalool": 0.09,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.09,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.20,
-			 	"CBL": 0.20
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Alien OG", "OG", "Migraines", "Headache", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 99,
-			 "strainName": "Alien Rock Candy", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.80,
-			 	"CBD": 0.35,
-			 	"CBN": 0.24,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Alien Rock Candy", "Depression" ,"Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 100,
-			 "strainName": "Amnesia Haze", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.20,
-			 	"CBD": 0.44,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 101,
-			 "strainName": "ATF", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 10.50,
-			 	"CBD": 0.23,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "ATF", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 102,
-			 "strainName": "Bay Cookies", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.04,
-			 	"CBD": 0.39,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 103,
-			 "strainName": "Berry Queen", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 27.10,
-			 	"CBD": 0.36,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 104,
-			 "strainName": "Berry White", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.10,
-			 	"CBD": 0.11,
-			 	"CBN": 0.04,
-			 	"CBG": 1.10,
-			 	"THCV": 0.14,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.40,
-			 	"Caryophyllene": 0.11,
-			 	"Limonene": 0.30,
-			 	"Linalool": 0.08,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.20,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.20,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Berry White", "Berry", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 105,
-			 "strainName": "Black Cherry Soda", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 12.00,
-			 	"CBD": 0.34,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 106,
-			 "strainName": "Blue Dream", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.00,
-			 	"CBD": 0.16,
-			 	"CBN": 0.03,
-			 	"CBG": 0.40,
-			 	"THCV": 0.09,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.70,
-			 	"Caryophyllene": 0.11,
-			 	"Limonene": 0.13,
-			 	"Linalool": 0.06,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.30,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.11,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blue Dream", "Migraines", "Headache", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 107,
-			 "strainName": "Blue Moonshine", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 28.10,
-			 	"CBD": 0.42,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 108,
-			 "strainName": "Blueberry Trainwreck", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 15.50,
-			 	"CBD": 0.18,
-			 	"CBN": 0.13,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 109,
-			 "strainName": "Canatonic #4", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 0.50,
-			 	"CBD": 15.00,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Canatonic #4", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 110,
-			 "strainName": "Candy Jack", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.40,
-			 	"CBD": 0.25,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Candy Jack", "Jack", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 111,
-			 "strainName": "CandyLand", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 27.30,
-			 	"CBD": 0.44,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "CandyLand", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 112,
-			 "strainName": "Cannalope Haze", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.80,
-			 	"CBD": 0.25,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 113,
-			 "strainName": "Cataract Kush", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 15.10,
-			 	"CBD": 0.35,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cataract Kush", "Kush", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 114,
-			 "strainName": "Chemdawg", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.60,
-			 	"CBD": 0.07,
-			 	"CBN": 0.02,
-			 	"CBG": 0.70,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.14,
-			 	"Linalool": 0.06,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.11,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.03,
-			 	"CBL": 0.20
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Chemdawg", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 115,
-			 "strainName": "Cherry Pie", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 26.90,
-			 	"CBD": 0.11,
-			 	"CBN": 0.03,
-			 	"CBG": 0.60,
-			 	"THCV": 0.09,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.60,
-			 	"Caryophyllene": 0.20,
-			 	"Limonene": 0.16,
-			 	"Linalool": 0.15,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.08,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.14,
-			 	"CBL": 0.07
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cherry Pie", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 116,
-			 "strainName": "Chocolate Thai", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.50,
-			 	"CBD": 0.31,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Chocolate Thai", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 117,
-			 "strainName": "Clear Lake", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.10,
-			 	"CBD": 0.23,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 118,
-			 "strainName": "Dubtech", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.40,
-			 	"CBD": 0.30,
-			 	"CBN": 0.28,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 119,
-			 "strainName": "Ghost OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.33,
-			 	"CBN": 0.14,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Ghost OG", "OG", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 120,
-			 "strainName": "Grape Cookies", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 17.10,
-			 	"CBD": 0.21,
-			 	"CBN": 0.09,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 121,
-			 "strainName": "Grape Kool Aid", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.58,
-			 	"CBD": 0.37,
-			 	"CBN": 0.10,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Grape Kool Aid", "Grape", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 122,
-			 "strainName": "Jupiter Kush", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.79,
-			 	"CBD": 0.24,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Jupiter Kush", "Kush", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 123,
-			 "strainName": "L.A. Confidential", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.11,
-			 	"CBN": 0.02,
-			 	"CBG": 0.06,
-			 	"THCV": 0.07,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.12,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.14,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.13,
-			 	"CBL": 0.05
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "L.A. Confidential", "Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms", "Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 124,
-			 "strainName": "Lemon Jack", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.10,
-			 	"CBD": 0.33,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 125,
-			 "strainName": "Lemon OG Kush", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.10,
-			 	"CBD": 0.45,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 126,
-			 "strainName": "Mad Max", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 18.80,
-			 	"CBD": 0.31,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 127,
-			 "strainName": "Mafia OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 30.30,
-			 	"CBD": 0.40,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 128,
-			 "strainName": "Mango Maui", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 18.80,
-			 	"CBD": 0.30,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Mango Maui", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 130,
-			 "strainName": "May Weather Kush", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 29.50,
-			 	"CBD": 0.33,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "May Weather Kush", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 131,
-			 "strainName": "Phantom OG", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.60,
-			 	"CBD": 0.49,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 132,
-			 "strainName": "Pineapple Hogsbreath", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.80,
-			 	"CBD": 0.32,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Pineapple Hogsbreath", "Pineapple", "Migraines", "Headache", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 133,
-			 "strainName": "Silverback Gorilla", 
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 18.20,
-			 	"CBD": 0.25,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Silverback Gorilla", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 134,
-			 "strainName": "Sugar Plum", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.80,
-			 	"CBD": 0.46,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Sugar Plum", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 135,
-			 "strainName": "Super Lemon Haze", 
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.60,
-			 	"CBD": 0.40,
-			 	"CBN": 0.01,
-			 	"CBG": 1.20,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.20,
-			 	"Limonene": 0.40,
-			 	"Linalool": 0.01,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.02,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.02,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 136,
-			 "strainName": "The White", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.50,
-			 	"CBD": 0.43,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "The White", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 137,
-			 "strainName": "White Fire OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.20,
-			 	"CBD": 0.36,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "White Fire OG", "OG", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 138,
-			 "strainName": "White Walker OG", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 16.20,
-			 	"CBD": 0.30,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 139,
-			 "strainName": "Cherry Bomb", 
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.00,
-			 	"CBD": 0.30,
-			 	"CBN": 0.06,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cherry Bomb", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 140,
-			 "strainName": "DJ Short Blueberry",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 13.50,
-			 	"CBD": 0.26,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cherry Bomb", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 141,
-			 "strainName": "El Alquimista",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.40,
-			 	"CBD": 0.27,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "El Alquimista", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 142,
-			 "strainName": "Harlequin",
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 6.98,
-			 	"CBD": 14.00,
-			 	"CBN": 0.01,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Harlequin", "Nausea", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 143,
-			 "strainName": "Herojuana",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 17.30,
-			 	"CBD": 0.27,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Herojuana", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 144,
-			 "strainName": "Lavender",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.40,
-			 	"CBD": 0.46,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Lavender", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 145,
-			 "strainName": "Purple Coma",
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 15.60,
-			 	"CBD": 0.25,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Purple Coma", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 146,
-			 "strainName": "Purple Passion",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.00,
-			 	"CBD": 0.35,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Purple Passion", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 147,
-			 "strainName": "Sour Bubble",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 27.13,
-			 	"CBD": 0.52,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Sour Bubble", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 148,
-			 "strainName": "Sour Dub",
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.20,
-			 	"CBD": 0.22,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Sour Dub", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 149,
-			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 16.00,
-			 	"CBD": 0.38,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 150,
-			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 16.00,
-			 	"CBD": 0.38,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 151,
-			 "strainName": "Afghani Bullrider",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.40,
-			 	"CBD": 0.23,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Afghani Bullrider", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 152,
-			 "strainName": "Afgoo",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.10,
-			 	"CBD": 0.76,
-			 	"CBN": 0.39,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Afgoo", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 153,
-			 "strainName": "Afgooey",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.00,
-			 	"CBD": 0.85,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Afgooey", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 154,
-			 "strainName": "AK-47",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.63,
-			 	"CBD": 0.36,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "AK-47", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 155,
-			 "strainName": "AK-48",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.90,
-			 	"CBD": 0.54,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "AK-48", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 156,
-			 "strainName": "Alien Rock Candy",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.80,
-			 	"CBD": 0.35,
-			 	"CBN": 0.24,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Alien Rock Candy", "Pain"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 157,
-			 "strainName": "Black Buddah",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 20.90,
-			 	"CBD": 0.47,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Black Buddah", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 158,
-			 "strainName": "OG Cheese",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.10,
-			 	"CBD": 0.36,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 159,
-			 "strainName": "Mercury OG",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 27.00,
-			 	"CBD": 0.35,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Mercury OG", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 160,
-			 "strainName": "Silver Surfer",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.86,
-			 	"CBD": 0.52,
-			 	"CBN": 0.15,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Glaucoma"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Silver Surfer", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 161,
-			 "strainName": "Sour OG",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 19.30,
-			 	"CBD": 0.25,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Sour OG", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 162,
-			 "strainName": "Mars OG",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.90,
-			 	"CBD": 0.46,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Mars OG", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 163,
-			 "strainName": "Cannatonic #4",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 0.50,
-			 	"CBD": 15.00,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 164,
-			 "strainName": "Green Dream",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 0.50,
-			 	"CBD": 15.00,
-			 	"CBN": 0.07,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 165,
-			 "strainName": "Green Dynamite",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 24.66,
-			 	"CBD": 0.43,
-			 	"CBN": 0.11,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Green Dynamite", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 166,
-			 "strainName": "J1",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 14.00,
-			 	"CBD": 0.19,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "J1", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 167,
-			 "strainName": "Krytonite",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 18.60,
-			 	"CBD": 0.47,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Krytonite", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 168,
-			 "strainName": "Master Kush",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.20,
-			 	"CBD": 0.27,
-			 	"CBN": 0.04,
-			 	"CBG": 0.08,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Master Kush", "Kush", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 169,
-			 "strainName": "Black Magic Kush",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 26.73,
-			 	"CBD": 0.10,
-			 	"CBN": 0.01,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Black Magic Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 170,
-			 "strainName": "Blackberry Kush",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.90,
-			 	"CBD": 0.27,
-			 	"CBN": 0.19,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Blackberry Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 171,
-			 "strainName": "Blue Diesel",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 22.14,
-			 	"CBD": 0.41,
-			 	"CBN": 0.03,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blue Diesel", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			}, 
-			{"strainId": 172,
-			 "strainName": "Blue Haze",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 23.90,
-			 	"CBD": 0.37,
-			 	"CBN": 0.12,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blue Haze", "Haze", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 173,
-			 "strainName": "Brutus OG",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 25.50,
-			 	"CBD": 0.32,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Brutus OG", "OG", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 174,
-			 "strainName": "Bubba Kush",
-			 "strainType": "Indica",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 21.90,
-			 	"CBD": 0.09,
-			 	"CBN": 0.02,
-			 	"CBG": 0.50,
-			 	"THCV": 0.09,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.11,
-			 	"Caryophyllene": 0.17,
-			 	"Limonene": 0.20,
-			 	"Linalool": 0.13,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.13,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.05,
-			 	"CBL": 0.01
-			 	, 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Bubba Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 175,
-			 "strainName": "Cheese",
-			 "strainType": "Hybrid",
-			 "components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 21.30
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.81
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.01
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.20
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.0
-			 	} 	
-		 	], "THC": 18.40,
-			 	"CBD": 0.25,
-			 	"CBN": 0.08,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -20967,63 +11695,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21031,56 +11759,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	} 	
-		 	], "THC": 17.90,
-			 	"CBD": 0.25,
-			 	"CBN": 0.05,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],  
 		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -21095,63 +11800,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 27.29
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21159,56 +11864,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	} 	
-		 	], "THC": 27.29,
-			 	"CBD": 0.43,
-			 	"CBN": 0.02,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -21223,63 +11905,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.95
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21287,56 +11969,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	} 	
-		 	], "THC": 22.95,
-			 	"CBD": 0.39,
-			 	"CBN": 0.11,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
+		 	],
 		 	 "conditions": ["Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -21351,11 +12010,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 20.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -21363,43 +12022,43 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
 			 		"value": 0.50
 			 	},
 			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 1.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.12
+			 	},
+			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -21407,7 +12066,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21415,56 +12074,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.10
 			 	} 	
-		 	], "THC": 20.00,
-			 	"CBD": 0.11,
-			 	"CBN": 0.03,
-			 	"CBG": 0.50,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 1.00,
-			 	"Caryophyllene": 0.20,
-			 	"Limonene": 0.12,
-			 	"Linalool": 0.09,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.30,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.16,
-			 	"CBL": 0.10
-			 	, 
+		 	],  
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -21479,63 +12115,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 21.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.60
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.60
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21543,56 +12179,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.20
 			 	} 	
-		 	], "THC": 21.00,
-			 	"CBD": 0.17,
-			 	"CBN": 0.02,
-			 	"CBG": 0.60,
-			 	"THCV": 0.13,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.60,
-			 	"Caryophyllene": 0.14,
-			 	"Limonene": 0.20,
-			 	"Linalool": 0.20,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.14,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.10,
-			 	"CBL": 0.20
-			 	, 
+		 	],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
@@ -21607,11 +12220,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -21619,7 +12232,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 1.30
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -21627,23 +12240,23 @@
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
@@ -21651,19 +12264,19 @@
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21671,56 +12284,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.13
 			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.12,
-			 	"CBN": 0.03,
-			 	"CBG": 1.30,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.20,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.30,
-			 	"Linalool": 0.20,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.13,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.30,
-			 	"CBL": 0.13
-			 	, 
+		 	], 
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
@@ -21735,43 +12325,43 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 1.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
@@ -21779,15 +12369,15 @@
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
@@ -21799,56 +12389,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.16
 			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.03,
-			 	"CBN": 0.01,
-			 	"CBG": 0.50,
-			 	"THCV": 0.12,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 1.00,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.06,
-			 	"Linalool": 0.10,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.20,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.05,
-			 	"CBL": 0.16
-			 	, 
+		 	],  
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
@@ -21863,43 +12430,43 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 22.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 1.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
@@ -21907,15 +12474,15 @@
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
@@ -21927,56 +12494,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.16
 			 	} 	
-		 	], "THC": 22.00,
-			 	"CBD": 0.03,
-			 	"CBN": 0.01,
-			 	"CBG": 0.50,
-			 	"THCV": 0.12,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 1.00,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.06,
-			 	"Linalool": 0.10,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.20,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.05,
-			 	"CBL": 0.16
-			 	, 
+		 	],  
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy",  "Headache",  "Paranoid"],
@@ -21991,63 +12535,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.30
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.03
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.0
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.40
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
 			 		"value": 0.01
 			 	},
 			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.70
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.60
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.03
+			 	},
+			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -22055,56 +12599,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.12
 			 	} 	
-		 	], "THC": 18.00,
-			 	"CBD": 0.05,
-			 	"CBN": 0.01,
-			 	"CBG": 0.70,
-			 	"THCV": 0.15,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.60,
-			 	"Caryophyllene": 0.16,
-			 	"Limonene": 0.30,
-			 	"Linalool": 0.03,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.50,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.04,
-			 	"CBL": 0.12
-			 	, 
+		 	], 
 		 	 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy",  "Headache"],
@@ -22119,63 +12640,63 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 21.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.80
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.30
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.03
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pulegone", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -22183,56 +12704,33 @@
 			 	},
 			 	{ 
 			 		"name": "Terpineol-4", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cymene", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Cannflavin A", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Beta-sitosterol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.0
+			 		"value": 0.16
 			 	} 	
-		 	], "THC": 21.00,
-			 	"CBD": 0.04,
-			 	"CBN": 0.00,
-			 	"CBG": 0.80,
-			 	"THCV": 0.15,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.20,
-			 	"Limonene": 0.16,
-			 	"Linalool": 0.10,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.04,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.16
-			 	, 
+		 	], 
 		 	 "conditions": ["Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "negativeEffects": ["Anxious", "Dry Mouth"],
