@@ -354,6 +354,10 @@ html, body {
 	 text-decoration: none;
 	 color: white;
 }
+#strainsView input{
+	 text-decoration: none;
+	 color: black;
+}
 
 #strainsView .panel {
 	border-style: dotted;
@@ -432,11 +436,13 @@ html, body {
 }
 
 #strainsView .imgStrains {
-	margin-left: 90px;
-	margin-right: 20px;
+	margin-left: 20px;
+	margin-right: 10px;
 }
 #strainsView  .imgStrains a img {
 	vertical-align: center;
+	width: 50px;
+	height: 50px;
 }
 #strainsView .imgStrains h6 {
 	text-align: left;
@@ -444,6 +450,17 @@ html, body {
 }
 #strainsView  .pushDown{
 	padding-top: 10px;
+}
+#strainsView .tCircle {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(255,105,10,0.5);
+    border-width: 4px;
+    border-radius: 50%;
+	padding: 13px;
+	width: 60px;
+	height: 65px;
+	font-size: 0.9em;
 }
 
 /**----------Effects View---------------**/
@@ -523,7 +540,7 @@ html, body {
 	margin-left: -35px;
 }
 #effView .row-padding {
-	margin-left: 5px;
+	margin-left: 10px;
 }
 #effView .col-padding {
 	margin-left: 2px;

@@ -65,8 +65,9 @@
 						.state("strains", {
 							url: "/strains",
 							templateUrl: "app/strains/strainsView.html",
+							controller: "StrainsViewCtrl as vm"
 						})
-
+						
 						//Cannabinoids
 						.state("tipsView", {
 							url: "/tips",

@@ -1,110 +1,98 @@
 <div id = "strainsView">
 	<div class = "panel panel-primary">
 		<div class="row">
-			<div class="panel-heading"> 
-			 	Strains:
+			<div class="panel-heading" id="here"> 
+			 	Strains: <div class="btn btn-primary" ng-click="limitStrain()"> {{vm.buttonName}} </div>
 			</div>
 			<div class="panel-body pushDown">
-				<div class="col-xs-2">
-					<div class="btn btn-lg">
-						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-					</div>
-				</div>
-				<div class="imgStrains">
-					<div class="col-xs-3 active">
-		                <a href="#">
-		                   <img src="http://placehold.it/50x50" class="img-circle">
-		                </a>
-		                <h6>Strain Name</h6>
-		            </div>
-				
+				<div class="imgStrains" ng-hide="vm.showUp">
 					<div class="col-xs-3">
 		                <a href="#">
-		                   <img src="http://placehold.it/50x50" class="img-circle">
+		                   <img src="{{vm.selectedStrain.imageUrl}}" class="img-circle">
 		                </a>
-		                <h6>Strain Name</h6>
-		            </div>
-				
-					<div class="col-xs-3">
-		                <a href="#">
-		                   <img src="http://placehold.it/50x50" class="img-circle">
-		                </a>
-		                <h6>Strain Name</h6>
+		                <h6 class="active">{{vm.selectedStrain.strainName}}</h6>
 		            </div>
 				</div>
-				<div class="col-xs-1">
-					<div class="btn btn-lg">
-						<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-					</div>
+				<div class="imgStrains" ng-repeat="strain in vm.strains|orderBy:'strainName'| filter:search:strict|limitTo:vm.limits">
+					<div class="col-xs-3" ng-hide="activeStrain(strain.strainName)">
+		                <a href="#" ng-click="selectedStrain(strain)">
+		                   <img src="{{strain.imageUrl}}" class="img-circle">
+		                </a>
+		                <h6>{{strain.strainName}}</h6>
+		            </div>
 				</div>
 			</div>
 			<div class="panel-footer"> 
-				More Detail On:
-			 	<div class="btn btn-primary"> Selected Strain</div>
+				<label class="btn btn-primary">Search: <input ng-model="search.strainName"></label>
+				<div class="btn btn-primary" ng-click="limitStrain()"> {{vm.buttonName}} </div>
 			</div>
 		</div>
 	</div>
 
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Strain Name
-			</div>
-			<div class="panel-body primaryInfo">
-				Short description here.
-			</div>
-		</div>				
+	<div ng-hide="">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-heading"> 
+				 	{{vm.selectedStrain.strainName}}
+				</div>
+				<div class="panel-body primaryInfo">
+					<p>{{vm.selectedStrain.descriptionAbbrev}}</p>
+					<p> <span style="font-weight:bold"> Strain Type: </span> {{vm.selectedStrain.strainType}}</p>
+					<div class = "row" ng-hide="vm.showSnippit">
+						<div class="col-xs-4">
+							<span style="font-weight:bold"> Positives: </span><div ng-repeat="pos in vm.selectedStrain.positiveEffects"> {{pos}}</div> 
+						</div> 
+						<div class="col-xs-4">
+							<span style="font-weight:bold"> Negatives: </span><div ng-repeat="neg in vm.selectedStrain.negativeEffects"> {{neg}}</div> 
+						</div> 
+					</div>	
+				</div>
+				<div class="panel-footer"> 
+					<div ng-click="showHide()"> {{vm.hide}} </div>
+				</div>
+			</div>				
+		</div>
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-heading"> 
+				 	Conditions
+				</div>
+				<div class="panel-body">
+					<ul>
+					    <li class="col-xs-6" ng-repeat = "cond in vm.selectedStrain.conditions|limitTo:vm.condLimits"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{cond}}</li>
+					</ul>
+					
+				</div>
+				<div class="panel-footer"> 
+					<div ng-click="conditionLimit(vm.selectedStrain.conditions)"> {{vm.condName}} </div>
+				</div>
+			</div>				
+		</div>
+		<table>
+			<tr ng-repeat = "effect in vm.selectedTemps">
+				<td>
+		         	<div class="tCircle">
+			  			<div ng-Hide="vm.F">{{effect.highTemp}}</div>
+			  			<div ng-Hide="vm.C">{{effect.highTempC}}</div>
+			  			<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
+			  		</div>
+				</td>
+				<td>
+					<div class = "panel">
+						<div class="row">
+							<div class="panel-heading"> 
+							 	<!--{{effect.productName}}--> {{vm.selectedEffect[$index].name}}: {{vm.selectedEffect[$index].value}}
+							</div>
+							<div class="panel-body">
+								<ul>
+								    <li class="col-xs-12" ng-repeat="property in effect.Property"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{property}}</li>
+								</ul>
+								
+							</div>
+						</div>				
+					</div>
+				</td>
+			</tr>
+		</table>
 	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Strain Name - Effects
-			</div>
-			<div class="panel-body">
-				<ul>
-				    <li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-				</ul>
-				
-			</div>
-		</div>				
-	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Strain Name - Conditions
-			</div>
-			<div class="panel-body">
-				<ul>
-				    <li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-				</ul>
-				
-			</div>
-		</div>				
-	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Strain Name - Components
-			</div>
-			<div class="panel-body">
-				<ul>
-				    <li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-					<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-				</ul>
-				
-			</div>
-		</div>				
-	</div>
-
 </div>
