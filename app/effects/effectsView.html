@@ -3,12 +3,13 @@
 		<div class="panel-heading" role="tab" id="{{effect.effectName}}">
 		      <h4 class="panel-title">Medical Effects</h4> 
 		</div>
-	 	<label class="btn btn-primary">Search Med Name: <input ng-model="search.effectName"></label>
-	 	<label class="btn btn-primary">Search Condition: <input ng-model="search.$"></label>  
-	 	<div class="btn btn-primary" ng-click="searchEffect('Cancer')"> Cancer </div> 
-	 	<div class="btn btn-primary" ng-click="searchEffect('Seizures')"> Seizures </div> 
-	 	<div class="btn btn-primary"> Munchie </div>
-	 	<div class="btn btn-primary"> Couchlock </div>
+	 	<label class="btn btn-primary">Search Condition: <input ng-model="search.$"></label> 
+	 	<div class = "row row-padding">
+	 		<div class="btn btn-primary" ng-click="searchEffect('All')"> All </div>
+	 		<div class="btn btn-primary" ng-click="searchEffect('Anxiety')"> Anxiety </div>   
+	 		<div class="btn btn-primary" ng-click="searchEffect('Cancer')"> Cancer </div> 
+	 		<div class="btn btn-primary" ng-click="searchEffect('Seizures')"> Seizures </div> 
+	 	</div>
 	</div>
 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	  	<div class="panel panel-default" ng-repeat="effect in vm.effects | filter:search:strict">
