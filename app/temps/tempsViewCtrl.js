@@ -278,12 +278,13 @@
 
 		//sets the strain display
 		$scope.orderName = '-comp.value';
+		$scope.orderName2 = 'comp.name';
 		$scope.filterName = 'Trainwreck';
 		$scope.effectNameValue = '';
-		$scope.filterStrainName = function(name,value){
+		$scope.filterStrainName = function(name,effect,value){
 			console.log(name);
 			$scope.filterName = name;
-			$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + value + ")";		
+			$scope.effectNameValue = "(" + effect + ": " + value + ")";		
 		}
 		//this sets the ng-class to active
 		$scope.active = function(item){

@@ -14,7 +14,7 @@
 					<td class="col-xs-10">
 						<div class="tBox">
 							<div class="col-xs-2" ng-repeat="temp in vm.selectedTemps track by $index">	
-								<span ng-click="catching(temp)"> {{temp}} </span>	
+								<span ng-click="catching(temp)"> {{temp}}</span>	
 							</div>
 						</div>
 					</td>
@@ -28,7 +28,7 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Medical Effects: {{vm.EffectsProductName[0]}}
+			 	Medical Effects: <span ng-repeat ="name in vm.EffectsProductName"> {{name}}... </span>
 			</div>
 			<div class="panel-body">
 				<div class ="col-xs-8" ng-repeat = "effects in vm.effectProperty|limitTo:limitDisplay1 track by $index">
@@ -66,12 +66,12 @@
 				<div class="imgStrains">
 					<div class ="row">
 					<div class="col-xs-3" ng-repeat="strain in vm.Container|orderBy:orderName|limitTo:limitDisplay3">
-		                <a ng-click="filterStrainName(strain.strainName, strain.comp.value)">
+		                <a ng-click="filterStrainName(strain.strainName, strain.comp.name, strain.comp.value)">
 		                	<div ng-class="active(strain.strainName)" class="tCircle2" ng-style={"background":"url({{strain.imageUrl}})"}>
 								{{strain.comp.value}} %
 							</div>
 		                 </a>
-		                 <h6 >{{strain.strainName}} </h6>
+		                 <h6>{{strain.strainName}} ({{strain.comp.name}})</h6>
 		            </div>
 		            </div>
 				</div>
