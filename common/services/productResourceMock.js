@@ -1997,7 +1997,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": [""],
+		 	 "conditions": ["Anxiety", "Stress", "Depression", "Insomnia", "Pain", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Consumers prone to anxiety choose Strawberry for its stress-relieving qualities without the jarring paranoia common among high THC strains. ",
