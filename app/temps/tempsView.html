@@ -28,7 +28,7 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Medical Effects:
+			 	Medical Effects: {{vm.EffectsProductName[0]}}
 			</div>
 			<div class="panel-body">
 				<div class ="col-xs-8" ng-repeat = "effects in vm.effectProperty|limitTo:limitDisplay1 track by $index">
@@ -44,10 +44,10 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Health Conditions: {{filterName}}
+			 	Health Conditions:
 			</div>
 			<div class="panel-body">
-				<div class ="col-xs-8" ng-repeat="condition in vm.Container|filter:filterName |unique:'Property'">
+				<div class ="col-xs-8" ng-repeat="condition in vm.Container|filter:filterName|unique:'conditions'">
 					<div ng-repeat="cond in condition.conditions |limitTo:limitDisplay2 "><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> {{cond}}</div>
 				</div>
 			</div>

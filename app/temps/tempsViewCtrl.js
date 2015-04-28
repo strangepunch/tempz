@@ -115,7 +115,8 @@
 					}
 					console.log("test", test++);
 					console.log("num", num);
-					console.log("imageUrl", vm.Container[0].imageUrl);
+					console.log("conds", vm.Strains[0].conditions);
+					console.log("num", num);
 					
 				}
 				console.log(vm.Container);
