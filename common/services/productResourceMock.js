@@ -107,13 +107,13 @@
 				 		"value": 0.0
 				 	} 	
 		 	],
-		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache"],
+		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "PTSD", "Migraines", "Arthritis", "Anxiety", "ADD/ADHD"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Trainwreck begins its speedy hurtle through the mind with a surge of euphoria, awakening creativity and happiness. Migraines, pain, and arthritis are mowed down by Trainwreck’s high THC content, and many patients also use it for relief of anxiety, ADD/ADHD, and PTSD.",
+			 "descriptionAbbrev":  "Effects that hit like a freight train",
 			 "tags": ["Hybrid", "Trainwreck", "Bipolar", "Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"strainId": 2,
 			 "strainName": "White Widow", 
@@ -212,13 +212,13 @@
 			 		"value": 0.0
 			 	}
 			 ],	 	
-		 	 "conditions": [""],
+		 	 "conditions": ["Depression", "Stress", "Pain", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": " A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
+			 "descriptionAbbrev":  "Among the most famous strains worldwide.",
 			 "tags": ["Hybrid", "White Widow"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/white-widow_100x100.jpg"
 			},
 			{"strainId": 3,
 			 "strainName": "Sage", 
@@ -317,13 +317,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": [""],
+		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
+			 "descriptionAbbrev":  "A well balanced Haze crossed with a robust indica.",
 			 "tags": ["Hybrid", "Sage"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/sage_100x100.jpg"
 			},
 			{"strainId": 4,
 			 "strainName": "Skywalker OG", 
@@ -343,7 +343,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.40
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -422,13 +422,13 @@
 			 		"value": 0.7
 			 	} 	
 		 	],  
-		 	 "conditions": [""],
+		 	 "conditions": ["Tension", "Anxiety", "Stress", "Pain"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This strain makes relaxation your only mission, and some users report strong body effects that include mild tingling and numbness. If pain and physical limitations are the issue, Skywalker OG is here to rescue you.",
+			 "descriptionAbbrev":  "Makes relaxation your only mission.",
 			 "tags": ["Hybrid", "Skywalker OG", "OG"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/skywalker-og_100x100.jpg"
 			},
 			{"strainId": 5,
 			 "strainName": "Permafrost", 
@@ -527,13 +527,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-			"conditions": [""],
+			"conditions": ["Gastrointestinal Disorders", " ADD/ADHD", "Anxiety", "Arthritis", "Asthma", "Multiple Sclerosis"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Larger doses demonstrate the strain’s potency: as sensory detail peaks, attention becomes transfixed, and a full-body calm takes over. For this reason, Permafrost may help patients treating ADD/ADHD and anxiety symptoms, and others have reported its success in treating arthritis, asthma, multiple sclerosis, and gastrointestinal disorders. ",
+			 "descriptionAbbrev":  "Permafrost’s relaxing effects are balanced between mind and body.",
 			 "tags": ["Hybrid", "Permafrost"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/permafrost_100x100.jpg"
 			},
 			{"strainId": 6,
 			 "strainName": "Querkle", 
@@ -635,10 +635,10 @@
 		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Purple Urkle crossed with Space Queen produces this indica/sativa 80/20 marijuana variety. ",
+			 "descriptionAbbrev":  "Querkle has a fruity grape & berry scent",
 			 "tags": ["Indica", "Querkle", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/querkle_100x100.jpg"
 			},
 			{"strainId": 7,
 			 "strainName": "Papaya", 
@@ -740,10 +740,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The indica element of this strain does provide a mental calmness, but many consumers also find that this strain makes them energetic and productive.",
+			 "descriptionAbbrev":  "Effects that might be more in line with a traditional sativa.",
 			 "tags": ["Hybrid", "Papaya"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/papaya_100x100.jpg"
 			},
 			{"strainId": 8,
 			 "strainName": "Pennywise", 
@@ -842,13 +842,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
+		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
+			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD.",
 			 "tags": ["Indica", "Pennywise", "Migraines", "Headache", "Hypertension"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 			},
 			{"strainId": 9,
 			 "strainName": "OG #18", 
@@ -1052,13 +1052,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": [""],
+		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "With OG Kush, patients most commonly cite improvements in migraines, ADD/ADHD, and stress disorders.",
+			 "descriptionAbbrev":  "Euphoric and happy effects that combat stress and anxiety",
 			 "tags": ["Hybrid", "OG Kush", "OG", "Kush"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/og-kush_100x100.jpg"
 			},
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
@@ -1160,8 +1160,8 @@
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
+			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
 			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -1265,10 +1265,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Nebula has won many awards, including 3rd place in the sativa category at the High Times Cannabis Cup in 1999 and 2nd place in 2005.",
+			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic",
 			 "tags": ["Hybrid", "Nebula"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/nebula_100x100.jpg"
 			},
 			{"strainId": 13,
 			 "strainName": "XJ-13", 
@@ -1370,10 +1370,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This hybrid cross of Jack Herer and G13 Haze induces unencumbered cerebral effects perfect for stimulating creativity and conversation.",
+			 "descriptionAbbrev":  "Cherished for both its therapeutic potency and enjoyable euphoric buzz.",
 			 "tags": ["Hybrid", "XJ-13"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/xj-13_100x100.jpg"
 			},
 			{"strainId": 14,
 			 "strainName": "Yumbodlt", 
@@ -1580,10 +1580,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A sweet and sour lemon aroma accented by notes of tropical mango, while its inherited effects can range from racy and energetic to heavy and disorienting.",
+			 "descriptionAbbrev":  "Will pull you into a whirling mass of euphoria like a cosmic riptide",
 			 "tags": ["Sativa", "Vortex"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/vortex_100x100.jpg"
 			},
 			{"strainId": 16,
 			 "strainName": "Warlock", 
@@ -1685,10 +1685,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Its stimulating, focused buzz sharpens the mind against inattention and boredom, and may help those struggling with ADD/ADHD. With a sweet and sour aroma, Warlocks ushers in its mellow stress-relieving and engaged effects.",
+			 "descriptionAbbrev":  "Mellow stress-relieving and engaged effects",
 			 "tags": ["Hybrid", "Warlock"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/warlock_100x100.jpg"
 			},
 			{"strainId": 17,
 			 "strainName": "Strawberry Cough", 
@@ -1790,10 +1790,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
+			 "descriptionAbbrev":  "An aura of euphoria that is sure to leave a smile on your face.",
 			 "tags": ["Sativa", "Strawberry Cough"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/strawberry-cough_100x100.jpg"
 			},
 			{"strainId": 18,
 			 "strainName": "Stardawg", 
@@ -1892,13 +1892,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": [""],
+		 	 "conditions": ["Stress", "Anxiety", "Fatigue"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Stardawg, whose uplifting effects may help patients treating stress, fatigue, and anxiety disorders.",
+			 "descriptionAbbrev":  "Earthy pine with sour notes of diesel color.",
 			 "tags": ["Hybrid", "Stardawg"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/stardawg_100x100.jpg"
 			},
 			{"strainId": 19,
 			 "strainName": "Strawberry", 
@@ -2000,10 +2000,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Consumers prone to anxiety choose Strawberry for its stress-relieving qualities without the jarring paranoia common among high THC strains. ",
+			 "descriptionAbbrev":  "Comfortable and relaxing.",
 			 "tags": ["Strawberry"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/strawberry_100x100.jpg"
 			},
 			{"strainId": 20,
 			 "strainName": "Sour Diesel", 
@@ -2105,10 +2105,10 @@
 		 	 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
+			 "descriptionAbbrev":  "An invigorating sativa named after its pungent, diesel-like aroma.",
 			 "tags": ["Sativa", "Sour Diesel", "Stress", "Depression", "Pain", "Lack of Appetite", "Headache", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/sour-diesel_100x100.jpg"
 			},
 			{"strainId": 21,
 			 "strainName": "Shipwreck", 
@@ -2210,10 +2210,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A strong body buzz is also common, so Shipwreck can induce laziness and sleep later on depending on tolerance and dosage.",
+			 "descriptionAbbrev":  "Gives patients a mellow lift that’s great for getting things done.",
 			 "tags": ["Shipwreck"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Shipwreck_100x100.jpg"
 			},
 			{"strainId": 22,
 			 "strainName": "Skywalker", 
@@ -2315,14 +2315,14 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The sativa side of this strain allows for a nice head high as well, but it isn’t overly hazy or unfocused. Skywalker was created by Amsterdam’s Dutch Passion Seeds to combine the sweet fruity aroma of Blueberry with the growing strengths of the hardy, high-yielding Mazar.",
+			 "descriptionAbbrev":  "Helps patients knock out pain and relax into sleep ",
 			 "tags": ["Skywalker"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/skywalker_100x100.jpg"
 			},
 			{"strainId": 23,
 			 "strainName": "Romulan", 
-			 "strainType": "",
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
@@ -2420,10 +2420,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A deep, sedating relaxation makes Romulan a favorite strain for patients treating muscle spasms and nerve damage.",
+			 "descriptionAbbrev":  "A full body calm with heavily intoxicating properties.",
 			 "tags": ["Romulan"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/romulan_100x100.jpg"
 			},
 			{"strainId": 24,
 			 "strainName": "Purple Wreck", 
@@ -2525,10 +2525,10 @@
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "These flowers tend to smell both sweet and grassy and taste the same, with the sweet notes of the Purple Urkle dominating.",
+			 "descriptionAbbrev":  "Purple Wreck is the offspring of two very popular strains, Purple Urkle and Trainwreck.",
 			 "tags": ["Purple Wreck"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-wreck_100x100.jpg"
 			},
 			{"strainId": 25,
 			 "strainName": "Pineapple", 
@@ -2630,10 +2630,10 @@
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A perfect strain for stress relief, Pineapple will transport you to your happy place, leaving you uplifted and relaxed.",
+			 "descriptionAbbrev":  "Pronounced flavors of pineapple and diesel.",
 			 "tags": ["Hybrid", "Pineapple", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/pineapple_100x100.jpg"
 			},
 			{"strainId": 26,
 			 "strainName": "Purple Cheese", 
@@ -2735,10 +2735,10 @@
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "With a palatable fruit aroma, Purple Cheese delivers powerful full-body effects best suited for night owls or patients treating pain.",
+			 "descriptionAbbrev":  "Powerful full-body effects.",
 			 "tags": ["Hybrid", "Cheese", "Purple", "Purple Cheese", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-cheese_100x100.jpg"
 			},
 			{"strainId": 27,
 			 "strainName": "ACDC", 
@@ -2837,13 +2837,14 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
+		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD",
+		 	  "Stress", "Anxiety", "Multiple Sclerosis", "Pain", "Epilepsy"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Tests have put ACDC’s CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
+			 "descriptionAbbrev":  "This strain induces no psychoactive effects.",
 			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acdc_100x100.jpg"
 			},
 			{"strainId": 28,
 			 "strainName": "Shark Shock", 
@@ -2945,10 +2946,10 @@
 		 	 "conditions": ["Asthma", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Shark Shock's origin is White Widow crossed with Skunk #1.  Has a fruity taste and carries intense stoney effects. ",
+			 "descriptionAbbrev":  "Fruity taste and carries intense stoney effects.",
 			 "tags": ["Indica", "Shark Shock", "Asthma", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/shark-shock_100x100.jpg"
 			},
 			{"strainId": 29,
 			 "strainName": "Superman OG", 
@@ -3047,13 +3048,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Asthma", "PMS"],
+		 	 "conditions": ["Asthma", "PMS", "Pain", "Muscle Spasms", "Insomnia"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Superman OG provides a strong heavy body sensation and will put you to sleep in a hurry. While great for pain management, muscle spasms, and insomnia, Superman OG’s potent sedative effects make it a strictly nighttime strain. ",
+			 "descriptionAbbrev":  "Both incredibly potent and exceptionally well bred",
 			 "tags": ["Indica", "OG", "Superman OG", "Asthma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/superman-og_100x100.jpg"
 			},
 			{"strainId": 30,
 			 "strainName": "Thin Mint", 
@@ -3152,13 +3153,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS"],
+		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The high psychoactivity of this strain is not for novice consumers, but patients with a variety of symptoms are giving Thin Mint their seal of approval: severe pain, nausea, swelling, insomnia, and appetite loss are no match for the potency of Thin Mint.",
+			 "descriptionAbbrev":  "Powerful full-body effect that gives this strain its sterling reputation.",
 			 "tags": ["Hybrid", "Thin Mint", "Asthma", "Bipolar", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/thin-mint-girl-scout-cookies_100x100.jpg"
 			},
 			{"strainId": 31,
 			 "strainName": "Banana Diesel", 
@@ -3257,13 +3258,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Diesel", "Bipolar", "Pain", "Stress"],
+		 	 "conditions": ["Diesel", "Bipolar", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders.",
+			 "descriptionAbbrev":  "A perfect strain for daytime consumption.",
 			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/banana-diesel_100x100.jpg"
 			},
 			{"strainId": 32,
 			 "strainName": "Candy OG", 
@@ -18236,7 +18237,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -18248,7 +18249,7 @@
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.09
+			 		"value": 0.3
 			 	},
 			 	{ 
 			 		"name": "THCA", 
