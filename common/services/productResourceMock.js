@@ -10317,11 +10317,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Depression", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
+			 "descriptionAbbrev":  "Acapulco Gold has a reputation for being one of the best cannabis strains ever created.",
 			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
