@@ -3366,10 +3366,10 @@
 		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The Candy OG hits right away, simultaneously hitting the body and mind with a strong burst of euphoric relaxation.",
+			 "descriptionAbbrev":  "Killer flavor, smell, and effects that had Ldog rocked after a few bowls.",
 			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Candy-Og.jpg"
 			},
 			{"strainId": 33,
 			 "strainName": "Chem Valley Kush", 
@@ -3468,13 +3468,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Stress", "Pain", "Appetite Loss", "Insomnia", "Depression"],
+			 "positiveEffects": ["Happy", "Euphoric", "Creative", "Relaxed"],
+			 "negativeEffects": ["Dizzy", "Cotton Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "Chem Valley Kush is a sativa-leaning hybrid cross between Chemdawg and SFV OG bred by Cali Connection.",
+			 "descriptionAbbrev":  "The taste was citrusy and fruity with a comfortable and well balanced high, while not overwhelmingly potent.",
 			 "tags": ["Hybrid", "Chem Valley Kush", "Kush", "Bipolar", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/chem-valley-kush_100x100.jpg"
 			},
 			{"strainId": 34,
 			 "strainName": "Confidential Cheese", 
@@ -3573,13 +3573,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Pain", "Insomnia", "Appetite Loss", "Bipolar", "Nausea", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Talkative"],
+			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy"],
+			 "descriptionDetailed": "Medical patients have used the potent and heavy effects of Confidential Cheese to treat severe pain, insomnia, and lost appetite..",
+			 "descriptionAbbrev":  "This indica-dominant strain has pale green crystal-covered buds with a sour cheese aroma inherited from its parent.",
 			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/confidential-cheese_100x100.jpg"
 			},
 			{"strainId": 35,
 			 "strainName": "Deadhead OG", 
@@ -3678,13 +3678,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress", "Anxiety", "Insomnia", "Muscle Pain"],
+			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
+			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain ",
+			 "descriptionAbbrev":  "Chemdawg is considered The legend of legends, since it was said Chemdawg got seeds from a Grateful Dead concert, hence the name Dead Head OG.",
 			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar", "Depression", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 			},
 			{"strainId": 36,
 			 "strainName": "Diablo", 
@@ -3783,13 +3783,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Pain", "Insomnia", "Migraines", "Headache", "Nausea", "Stress", "Depression"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyess", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "With lineage from Grapefruit, Blueberry and South African Sativa, there is a sweet flavor to the Diablo cannabis strain.",
+			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors, and a THC content that tends to fall between 15-20 percent.",
 			 "tags": ["Indica", "Diablo", "Bipolar", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/diablo_100x100.jpg"
 			},
 			{"strainId": 37,
 			 "strainName": "Dutch Passion", 
@@ -3891,10 +3891,10 @@
 		 	 "conditions": ["Bipolar"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "after you grind it and a real sweet almost tropical fruit comes out in the high notes and those low earthy tones become much more pronounced.",
+			 "descriptionAbbrev":  "Deep green leaf and a nice nearly lime green buds that have a hit of the foxtail calyx form.",
 			 "tags": ["Hybrid", "Dutch Passion", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/dutch-passion.JPG"
 			},
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
@@ -4209,7 +4209,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Fire Bomb", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/fire_bomb.jpg"
 			},
 			{"strainId": 41,
 			 "strainName": "Forum Cookies/GSC", 
