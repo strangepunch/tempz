@@ -48,6 +48,7 @@
 						.state("conditions", {
 							url: "/conditions",
 							templateUrl: "app/conditions/conditionsView.html",
+							controller: "ConditionsViewCtrl as vm"
 						})
 
 						//Effects

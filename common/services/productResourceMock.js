@@ -19641,123 +19641,123 @@
 			}   	
 		];
 
-var taste = [
-	{
-		"tasteId": 1,
-		"tasteName": "Pulegone",
-		"tasteDescription": "Peppermint"
-	},
-	{
-		"tasteId": 2,
-		"tasteName": "Delta9-THC",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 3,
-		"tasteName": "CBD",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 4,
-		"tasteName": "CBN",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 5,
-		"tasteName": "CBC",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 6,
-		"tasteName": "CBG",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 7,
-		"tasteName": "Delta8-THC",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 8,
-		"tasteName": "THCA",
-		"tasteDescription": "None"
-	},	
-	{
-		"tasteId": 9,
-		"tasteName": "THCV",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 10,
-		"tasteName": "Beta-myrcene",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 11,
-		"tasteName": "Beta-caryophyllene",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 12,
-		"tasteName": "d-limonene",
-		"tasteDescription": "Citrus"
-	},
-	{
-		"tasteId": 13,
-		"tasteName": "Linalool",
-		"tasteDescription": "Floral"
-	},
-	{
-		"tasteId": 14,
-		"tasteName": "Eucalyptol",
-		"tasteDescription": "Spicy camphor"
-	},
-	{
-		"tasteId": 15,
-		"tasteName": "a-pinene",
-		"tasteDescription": "Pine"
-	},
-	{
-		"tasteId": 16,
-		"tasteName": "a-terpineol",
-		"tasteDescription": "Lilac"
-	},
-	{
-		"tasteId": 17,
-		"tasteName": "terpineol-4-ol",
-		"tasteDescription": "Tea Tree"
-	},
-	{
-		"tasteId": 18,
-		"tasteName": "p-cymene",
-		"tasteDescription": "Cumin, Thyme"
-	},
-	{
-		"tasteId": 19,
-		"tasteName": "apigenin",
-		"tasteDescription": "Chamomile, Celery"
-	},
-	{
-		"tasteId": 20,
-		"tasteName": "quercetin",
-		"tasteDescription": "Earthy, Forest"
-	},
-	{
-		"tasteId": 21,
-		"tasteName": "cannflavin A",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 22,
-		"tasteName": "Beta-sitosterol",
-		"tasteDescription": "None"
-	},
-	{
-		"tasteId": 23,
-		"tasteName": "",
-		"tasteDescription": "None"
-	}
-];
+		var taste = [
+			{
+				"tasteId": 1,
+				"tasteName": "Pulegone",
+				"tasteDescription": "Peppermint"
+			},
+			{
+				"tasteId": 2,
+				"tasteName": "Delta9-THC",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 3,
+				"tasteName": "CBD",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 4,
+				"tasteName": "CBN",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 5,
+				"tasteName": "CBC",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 6,
+				"tasteName": "CBG",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 7,
+				"tasteName": "Delta8-THC",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 8,
+				"tasteName": "THCA",
+				"tasteDescription": "None"
+			},	
+			{
+				"tasteId": 9,
+				"tasteName": "THCV",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 10,
+				"tasteName": "Beta-myrcene",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 11,
+				"tasteName": "Beta-caryophyllene",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 12,
+				"tasteName": "d-limonene",
+				"tasteDescription": "Citrus"
+			},
+			{
+				"tasteId": 13,
+				"tasteName": "Linalool",
+				"tasteDescription": "Floral"
+			},
+			{
+				"tasteId": 14,
+				"tasteName": "Eucalyptol",
+				"tasteDescription": "Spicy camphor"
+			},
+			{
+				"tasteId": 15,
+				"tasteName": "a-pinene",
+				"tasteDescription": "Pine"
+			},
+			{
+				"tasteId": 16,
+				"tasteName": "a-terpineol",
+				"tasteDescription": "Lilac"
+			},
+			{
+				"tasteId": 17,
+				"tasteName": "terpineol-4-ol",
+				"tasteDescription": "Tea Tree"
+			},
+			{
+				"tasteId": 18,
+				"tasteName": "p-cymene",
+				"tasteDescription": "Cumin, Thyme"
+			},
+			{
+				"tasteId": 19,
+				"tasteName": "apigenin",
+				"tasteDescription": "Chamomile, Celery"
+			},
+			{
+				"tasteId": 20,
+				"tasteName": "quercetin",
+				"tasteDescription": "Earthy, Forest"
+			},
+			{
+				"tasteId": 21,
+				"tasteName": "cannflavin A",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 22,
+				"tasteName": "Beta-sitosterol",
+				"tasteDescription": "None"
+			},
+			{
+				"tasteId": 23,
+				"tasteName": "",
+				"tasteDescription": "None"
+			}
+		];
 
 		var products = [
 			{"productId": 1,
@@ -20070,7 +20070,7 @@ var taste = [
 			}			
 		];
 
-var effects = [
+		var effects = [
 			{"effectId": 1,
 			 "effectName": "Neuroprotective", //compName
 			 "conditionsTreated": ["ADHD"],
@@ -21426,7 +21426,8 @@ var effects = [
 		var tipUrl = "/api/tips";
 		var temperatureUrl = "/api/temperatures";
 		var strainUrl = "/api/strains";
-						
+		var conditionUrl = "/api/conditions";
+
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
 		$httpBackend.whenGET(effectUrl).respond(effects);
@@ -21434,6 +21435,7 @@ var effects = [
 		$httpBackend.whenGET(vapeUrl).respond(vapes);
 		$httpBackend.whenGET(tipUrl).respond(tips);
 		$httpBackend.whenGET(strainUrl).respond(strains);
+		$httpBackend.whenGET(conditionUrl).respond(conditions);
 
 		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
 

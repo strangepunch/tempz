@@ -310,18 +310,32 @@ html, body {
 #condView .btn{
 	margin-left: none;
 	background-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-color: white;
 	margin-left: 5px;
+	margin-bottom:1px;
+	text-decoration: none;
 }
 
 #condView .btn-primary{
-	background-color: rgba(0,0,0,0.2);
 	border-style: solid;
 	border-color: white;
+	width: 100%;
+	color: white;
 }
 
-#condView .bottomBtn{
-	margin-left: 40%;
-	margin-right: 5%;
+#condView .btn input{
+	color:black;
+}
+
+#condView .btn-heading{
+	background-color: rgba(0,0,0,0.0);
+	border: none;
+	width: 100%;
+	padding-right: 85%;
+	padding-left: 0px;
+	outline-style: none;
+	box-shadow: none;
 }
 
 #condView .imgStrains a img {
@@ -343,6 +357,11 @@ html, body {
 	height: 65px;
 	font-size: 0.9em;
 }
+#condView .row-padding{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 
 /**----------Strains View---------------**/
 #strainsView{
