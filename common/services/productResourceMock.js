@@ -21386,7 +21386,7 @@ var effects = [
 			 "price": 249.99,
 			 "weight": "",
 			 "manufacturersWarranty": "10 year warranty",
-			 "temps": ["0-450 F", "0-450 F", "0-450 F", "0-450 F"],
+			 "temps": ["0-450 F", "0-232 C"],
 			 "included":[
 			 		"Haze Vaporizer", 
 			 		"Stainless Steel Mouthpiece", 

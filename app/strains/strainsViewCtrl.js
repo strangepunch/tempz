@@ -31,7 +31,7 @@
 				vm.styleC={"color":"white","font-size": "0.8em"};
 			}
 		}
-
+		
 		vm.showUp = false;
 		vm.selectedEffect = [];
 		vm.selectedTemps = [];

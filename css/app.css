@@ -38,7 +38,7 @@ html, body {
 	background-position:center;
 	border: none;
 	overflow: hidden;
-	padding-top: 60%;
+	padding-top: 45%;
 }
 #mainView ul{
 	list-style-type: none;
@@ -616,9 +616,12 @@ html, body {
 /**-------------TIP main VIEW--------------**/
 #tipsView{
 	width: 100%;
-	float:left;
-	margin-top: 35px;
-	padding-top: 10px;
+	padding: 10px; 
+}
+
+#tipView a{
+	text-decoration: none;
+	color: white;
 }
 
 #tipsView img{
@@ -632,65 +635,76 @@ html, body {
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
+	margin-top: 35px;
+	margin-bottom: -30px;
+	padding-top: 5px;
 }
 
 #tipsView .panel-primary{
 	background-color: transparent;
 	border-style: none;
 	box-shadow: none;
+	padding: 2px;
 }
-#tipView .discription{
-	padding-left: 15px;
+
+#tipsView .panel-body {
+	padding-left: 0px;
+	margin-left: 10px;
+	padding: 5px;
+	border: none;
 }
-#tipView .panel-heading {
+
+#tipsView .panel-heading {
 	background-color: rgba(0,0,0,0.5);
-	width: 100%;
 	color: white;
-}
-#tipView .panel-heading span{
-	float: right;
+	margin-top: -5px;
+	padding: 5px;
 }
 
-#tipView td{
+#tipsView .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	margin-left: -15px;
+	margin-right: -5px;
+	margin-bottom: -5px;
 	padding: 0px;
-	margin:2px;
-	border-top: none;
 }
 
-#tipView a {
-	border-radius: 10px 10px 0px 0px;
-	display: inline-block;
-	margin-right: 5px;
-	min-width: 50px;
-	outline: 1px;
-	position: relative;
-	text-decoration: none;
-	color: #00A300;
+#tipsView .active{
+	color: white;
+	font-size: .9em;
 }
 
-#tipView .active{
-	background: #00A300;
-	color: #fff;
-	border-color: #000;
-
+#tipsView .btn{
+	margin-left: none;
+	background-color: rgba(0,0,0,0.2);
+	margin-left: 5px;
 }
 
-#tipView ul{
-	list-style-type: none;
-	padding: 0px;
-	margin-right: 20px;
+#tipsView .btn-primary{
+	background-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-color: white;
+	margin: 5px;
+	color:white;
+}
+#tipsView .btn-primary input{
+	color:black;
 }
 
-#tipView li a {
-	background: #000000;
-	color: #00A300;
-	border-radius: 30px;
-	min-width: 100%;
-	padding: 8px;
-	margin: 2px;
-	text-align: center;
+#tipsView .btn-heading{
+	background-color: rgba(0,0,0,0.0);
+	border: none;
+	width: 100%;
+	padding-right: 85%;
+	padding-left: 0px;
+	outline-style: none;
+	box-shadow: none;
 }
-
+#tipsView .row-padding{
+	padding-left: 10px;
+}
 /**--------------TIP List------------------**/
 #tips{
 	width: 100%;

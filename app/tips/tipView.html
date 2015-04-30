@@ -1,44 +1,43 @@
 <div id="tipsView">
-	<div class="panel panel-primary" id="tipView">
-		<div class="panel-body">
-			<table class="table">
-				<td class="col-xs-2">
-					<ul >
-						<li >
-							 <a ng-class="active('Portable')" ng-click="selectCatagory('Portable')">Portable</a>
-						</li>
-						<li >
-							 <a ng-class="active('Desktop')" ng-click="selectCatagory('Desktop')">Desktop</a>
-						</li>
-						<li >
-							 <a ng-class="active('Pen')" ng-click="selectCatagory('Pen')">Pen</a>
-						</li>
-					</ul>
-				</td>
-				<td class="col-xs-10 col-sm-8 col-md-8 col-lg-8">
-					<div class="panel" 
-						 ng-repeat="tip in vm.filteredTips">
-						<div class="panel-heading"
-							 ng-click = "select(tip)"
-							 ui-sref="tipsList({tipId: tip.tipId})">
-							 	{{tip.tipName}} 
-							 	<span class="glyphicon glyphicon-chevron-right"></span> 
-						</div>
-						<div class="panel-body discription">
-							 <div class="media-left">
-								<img class="media-object"
-									 ng-src="{{tip.imageUrl[0]}}"
-		     				         title="{{tip.tipName}}">
-			     			 </div>
-							<!--some temparary tip discription--> 
-							<div class="media-body">
-								<h4 class="media-heading">Price: ${{tip.price}}</h4>
-								{{tip.tipDescriptionAbbrev}}
-							</div>
-						</div>
-					</div>
-				</td>
-			</table>
+	<div class = "panel">
+		<div class="panel-heading">
+	      	<h4 class="panel-title">Vapes</h4>  
 		</div>
+		<div class="panel-body">
+			<div class = "row row-padding">
+	 			<label class="btn btn-primary">Search: <input ng-model="search.tipName"></label> 
+	 		</div>
+ 			<div class = "row row-padding">
+ 				<div class="btn btn-primary" ng-click="selectCatagory('All')">All </div>
+ 				<div class="btn btn-primary" ng-click="selectCatagory('Portable')"> Portable</div>   
+ 				<div class="btn btn-primary" ng-click="selectCatagory('Desktop')">Desktop </div> 
+ 				<div class="btn btn-primary" ng-click="selectCatagory('Pen')">Pen </div> 
+ 			</div>
+		</div>
+	</div>
+	
+	<div class="panel" ng-repeat="tip in vm.tips|filter:search:strict">
+		<div class="panel-heading"
+			 ng-click = "select(tip)"
+			 ui-sref="tipsList({tipId: tip.tipId})">
+			 	{{tip.tipName}} 
+			 	<span class="glyphicon glyphicon-chevron-right"></span> 
+		</div>
+		<div class="panel-body">
+			 <div class="media-left">
+				<img class="media-object"
+					 ng-src="{{tip.imageUrl[0]}}"
+				         title="{{tip.tipName}}">
+ 			 </div>
+			<!--discription--> 
+			<div class="media-body">
+				<h4 class="media-heading">Price: ${{tip.price}}</h4>
+				{{tip.tipDescriptionAbbrev}}
+			</div>
+		</div>
+	</div>
+		
+	<div class="panel">
+		<div class="panel-body">Tempz © 2015</div>
 	</div>
 </div>
