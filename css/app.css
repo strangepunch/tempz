@@ -705,6 +705,13 @@ html, body {
 #tipsView .row-padding{
 	padding-left: 10px;
 }
+
+#tipsView .textPlace{
+	padding-top: 11px;
+	padding-left: 5px;
+	float: left;
+}
+
 /**--------------TIP List------------------**/
 #tips{
 	width: 100%;

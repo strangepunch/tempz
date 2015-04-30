@@ -42,7 +42,23 @@
   
       });
 
-    };  
+    }; 
+
+    $scope.Price = 'tipId';
+    $scope.orderPrice = function(name){
+      switch (name){
+         case 'Low':
+            $scope.Price = 'price';
+         break;
+         case 'High':
+            $scope.Price = '-price';
+         break;
+         default:
+            $scope.Price = 'tipId';
+
+      }
+    }
+
 	} 
 
 }());

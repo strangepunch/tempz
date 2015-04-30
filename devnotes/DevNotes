@@ -3,3 +3,39 @@ v1.09 -
 
 Jessica
 -temp is kinda
+
+-----------------
+v1.09 - v1.10
+Jessica
+
+Temperature
+-working temperature bar and display
+-use 'limitTo' filter to display more or less data
+-suggest strain based on % of components it contains
+-stran array is slowing down the displaying
+---need to look up loading circle or similar function to keep user engaged
+
+Effects
+-Using strict filter for search module
+-using custom coded filter for snippit of words
+-displaying all effects unless altered by funtions from above
+---need to change how more('...') data is displayed
+
+Conditions
+---need to work on this next to get the basics up
+
+Strains
+-Using strict filter for search module
+-displaying only a few strains unless changed by pressing 'more'
+-display initial strain unless changed by user
+-display conditions based on selected strain
+-display component name and value and effects related to that
+---need to work on way to combine the name and value and effects data in one array to allow user to sort by amount
+
+Vape (tipsView)
+- Change the way Vape page is displaying the data
+- now it will not be effected by the javascript code in the side bar
+-Using strict filter for search module
+-using custom coded filter for snippit of words
+- add a sort by price in ascending and descending order and cancel
+

@@ -13,10 +13,16 @@
  				<div class="btn btn-primary" ng-click="selectCatagory('Desktop')">Desktop </div> 
  				<div class="btn btn-primary" ng-click="selectCatagory('Pen')">Pen </div> 
  			</div>
+ 			<div class = "row row-padding">
+ 				<div class="textPlace"> Sort by Price: </div>
+ 				<div class="btn btn-primary" ng-click="orderPrice('Low')">Low </div>
+ 				<div class="btn btn-primary" ng-click="orderPrice('High')">High</div>
+ 				<div class="btn btn-primary" ng-click="orderPrice()"> X </div>   
+ 			</div>
 		</div>
 	</div>
 	
-	<div class="panel" ng-repeat="tip in vm.tips|filter:search:strict">
+	<div class="panel" ng-repeat="tip in vm.tips|filter:search:strict|orderBy:Price">
 		<div class="panel-heading"
 			 ng-click = "select(tip)"
 			 ui-sref="tipsList({tipId: tip.tipId})">

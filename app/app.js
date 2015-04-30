@@ -21,10 +21,6 @@
 					};
 				}]);
 	});
-// custom  buttons here
-//productManagement.directive("deleteButton", StrangePunch.Bootstrap.DeleteButton);
-//productManagement.directive("addButton", StrangePunch.Bootstrap.AddButton);
-
 
 	app.config(["$stateProvider", "$urlRouterProvider",
 				
@@ -68,13 +64,14 @@
 							controller: "StrainsViewCtrl as vm"
 						})
 						
-						//Cannabinoids
+						//Vapes - main
 						.state("tipsView", {
 							url: "/tips",
 							templateUrl: "app/tips/tipView.html",
 							controller: "TipViewCtrl as vm"
 						})
 
+						//Vapes - detailed
 						.state("tipsList", {
 							url: "/tips/:tipId",
 							templateUrl: "app/tips/tipList.html",
@@ -92,14 +89,7 @@
 							}
 							
 						})
-						//Vapes
-						/**
-						.state("vapes", {
-							url: "/vapes", 
-							templateUrl: "app/vapes/tipView.html", 
-							controller: "TipListCtrl as vm"
-						})
-						**/
+
 						//Theme
 						.state("themes", {
 							url: "/themes",
