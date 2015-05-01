@@ -52,6 +52,43 @@
 
 		}
 
+		$scope.selectCondition = function(cond){
+			vm.selectedCondition = cond;
+			vm.strainName = cond.strains;
+			console.log(vm.strainName);
+
+			strainResource.query(function(data){
+				
+				var tempArray =[];
+				var tempArray2 = [];
+				var num = 0;
+				var num2 = 0;
+
+				for(var i=0; i<vm.strainName.length; i++){
+					for(var x=0; x<data.length; x++){
+						if(vm.strainName[i] === data[x].strainName){
+							for(var y=0; y<data[x].components.length; y++){
+								if(data[x].components[y].value > 0){
+									tempArray[num] = data[x].components[y];
+									num++;
+								}
+							}
+							//console.log(tempArray);
+							tempArray2[num2] = {strainName:vm.strainName[i], components:tempArray, imageUrl:data[x].imageUrl};
+							num2++;
+							num = 0;
+							tempArray = [];
+						}
+					}
+				}
+
+				vm.selectedStrains = tempArray2;
+				console.log(vm.selectedStrains);
+
+			});
+
+		}
+
 	}
 
 }());

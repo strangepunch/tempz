@@ -239,6 +239,10 @@ html, body {
 	 color: white;
 }
 
+#condView label{
+	color:white;
+}
+
 #condView .panel {
 	border-style: dotted;
     border-width: 1px;
@@ -362,6 +366,45 @@ html, body {
 	padding-right: 20px;
 }
 
+#condView .imgStrains img {
+	margin-left: 10px;
+	vertical-align: center;
+	width: 100px;
+	height: 100px;
+}
+
+#condView .imgStrains span {
+	font-weight: bold;
+}
+
+#condView .pushDown{
+	padding-top: 10px;
+}
+#condView .tCircle2 {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 2px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 60px;
+	height: 65px;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	padding: 0px;
+	padding-top: 20px;
+	background-repeat: no-repeat;
+	/*background:url('images/strains/acapulcoGold.jpg') center ;*/
+
+}
+#condView .active{
+	border-color: rgba(3,22,5,0.8);
+	border-width: 5px;
+	width: 70px;
+	height: 75px;
+}
 
 /**----------Strains View---------------**/
 #strainsView{
@@ -647,6 +690,10 @@ html, body {
 	width: 100%;
 	max-width: 300px;
 	float: left;
+}
+
+#tipsView span{
+ 	float: right;
 }
 
 #tipsView .panel {

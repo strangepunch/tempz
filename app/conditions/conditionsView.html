@@ -2,88 +2,51 @@
 	<div class = "panel panel-primary">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	 <label class="btn"> Search Health Conditions: <input ng-model="search.strainName"></label>
+			 	 <label class="btn"> Search Health Conditions: <input ng-model="search.conditionName"></label>
 			</div>
 			<div class="panel-body primaryInfo">
 				<div class = "row row-padding"> 
-					<div class = "col-xs-12" ng-repeat = "cond in vm.conditions|orderBy:'conditionName'|limitTo:vm.limits">  
-						<div class = "btn btn-primary"> {{cond.conditionName}} </div> 
+					<div class = "col-xs-12" ng-repeat = "cond in vm.conditions|orderBy:'conditionName'|filter:search:strict |limitTo:vm.limits">  
+						<div class = "btn btn-primary" ng-click="selectCondition(cond)"> {{cond.conditionName}} </div> 
 					</div>
 				</div>
 			</div>	
 			<div class="panel-footer"> 
-			 	<div class="btn" ng-click="setLimits()">{{vm.buttonName}}</div>
+			 	<div class="" ng-click="setLimits()">{{vm.buttonName}}</div>
+			</div>
+		</div>
+	</div>
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-heading"> 
+			 	{{vm.selectedCondition.conditionName}}
+			</div>
+			<div class="panel-body">
+				<div class="row row-padding">
+					<div class = "col-xs-12">{{vm.selectedCondition.descriptionAbbrev}}</div>
+				</div>	
 			</div>
 		</div>
 	</div>
 
-	<div class = "panel">
+	<div class = "panel" ng-repeat="strain in vm.selectedStrains|orderBy:'strainName'">
 		<div class="row">
 			<div class="panel-heading"> 
-			 	Suggested Strain - Temp 1 F / Temp 1 C 
+			 	{{strain.strainName}}
 			</div>
 			<div class="panel-body">
-				<ul >
-					<!--
-			    	<div class="media-left">
-				        <a href="#">
-				         	<div class="tCircle">
-					  			Temp 1 F
-					  		</div>
-				        </a>
-				    </div> -->
-				    <div class="media-body">
-					    <li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> yo!</li>
-				    </div>
-				</ul>
-						
+				<div class="imgStrains" ng-hide="vm.showUp">
+					<div class="col-xs-4">
+		                <img src="{{strain.imageUrl}}" class="img-circle">
+		            </div>
+		            <div class="col-xs-8">
+		                <div ng-repeat="comp in strain.components|orderBy:'-value'">
+		                	<span class="col-xs-6">{{comp.name}}:</span> <div class="col-xs-6"> {{comp.value}}% </div>
+		                </div>
+		            </div>
+				</div>	
 			</div>
 		</div>
 	</div>
 
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-heading"> 
-			 	Suggested Strain - Temp 2 F / Temp 2 C 
-			</div>
-			<div class="panel-body">
-				<ul >
-					<!--
-			    	<div class="media-left">
-				        <a href="#">
-				         	<div class="tCircle">
-					  			Temp 2 F
-					  		</div>
-				        </a>
-				    </div>-->
-				    <div class="media-body">
-					    <li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> something</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> the other thing</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> nothing </li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> everything</li>
-						<li class="col-xs-6"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> yo!</li>
-				    </div>
-				</ul>
-						
-			</div>
-		</div>
-	</div>
-<!--
-	<div class = "panel panel-primary">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-5">
-					<div class="btn btn-primary bottomBtn"> Change Temperature</div>
-				</div>
-				<div class="col-xs-5">
-					<div class="btn btn-primary bottomBtn"> Change Strain</div>
-				</div>
-			</div>
-		</div>
-	</div>
--->
 </div>
