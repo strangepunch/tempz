@@ -3938,27 +3938,27 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.15
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4043,19 +4043,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.41
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.63
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4063,7 +4063,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 1.87
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4098,11 +4098,11 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Social Anxiety"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache"],
+			 "descriptionDetailed": "Effects of this strain are upbeat and social overall, so much so that it might be too energetic for some users, especially if sleep is the goal. Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
+			 "descriptionAbbrev":  "Effects of this strain are upbeat and social overall.",
 			 "tags": ["Sativa", "Euphoria", "Bipolar"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -4112,15 +4112,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.60
+			 		"value": 14.96
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.37
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.04
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -4148,19 +4148,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.23
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.60
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4168,7 +4168,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.90
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4203,8 +4203,8 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Migraines", "Headache", "Appetite Loss", "PMS", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -4253,19 +4253,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 3.11
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4273,7 +4273,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4308,13 +4308,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Nausea"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": " Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
+			 "descriptionAbbrev":  "Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
 			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/forum_cookies.jpg"
 			},
 			{"strainId": 42,
 			 "strainName": "Gooey Wreck", 
@@ -4358,19 +4358,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4378,7 +4378,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 1.25
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4413,13 +4413,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Bipolar", "Migraines", "Headache", "Hypertension", "Depression", "Glaucoma", "Appetite Loss", "Muscle Spasms", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "Gooey Wreck is a cross between Afgooey, a hybrid of an Afghan indica and a Maui Haze sativa, and Trainwreck.",
+			 "descriptionAbbrev":  "Gooey Wreck is a cross between Afgooey and Trainwreck.",
 			 "tags": ["Hybrid", "Gooey Wreck", "Wreck", "Bipolar", "Migraines", "Headache", "Hypertension", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/gooey-wreck.jpg"
 			},
 			{"strainId": 43,
 			 "strainName": "Grapefruit Haze", 
@@ -4463,19 +4463,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.79
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4483,7 +4483,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4518,13 +4518,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "PMS", "Stress", "Muscle Spasms"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes"],
+			 "descriptionDetailed": "The famous BC Grapefruit Indica strain and the Super Silver Haze come together for a very strong hybrid.",
+			 "descriptionAbbrev":  "A beautiful blend of fruity and spicy flavours with a very cerebral high.",
 			 "tags": ["Hybrid", "Grapefruit Haze", "Haze", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/grapefruit-haze_100x100.jpg"
 			},
 			{"strainId": 44,
 			 "strainName": "Green Crack", 
@@ -4532,19 +4532,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.70
+			 		"value": 15.83
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.50
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.04
+			 		"value": 0.84
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 1.7
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -4623,13 +4623,13 @@
 			 		"value": 0.20
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Few strains compare to Green Crack's sharp energy and focus as it induces an invigorating mental buzz that keeps you going throughout the day. With a tangy, fruity flavor redolent of mango, Green Crack is the perfect daytime medication for patients treating fatigue, stress, and depression.",
+			 "descriptionAbbrev":  "Don't let the name fool you: this is pure cannabis.",
 			 "tags": ["Sativa", "Green Crack", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGoldsmall.jpg"
+			 "imageUrl": "images/strains/green-crack_100x100.jpg"
 			},
 			{"strainId": 45,
 			 "strainName": "Green Dream", 
