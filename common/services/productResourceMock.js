@@ -16,19 +16,19 @@
 			 "components": [
 				 	{ 
 				 		"name": "THC9", 
-				 		"value": 21.30
+				 		"value": 15.15
 				 	},
 				 	{ 
 				 		"name": "CBD", 
-				 		"value": 1.81
+				 		"value": 0.25
 				 	},
 				 	{ 
 				 		"name": "CBN", 
-				 		"value": 0.03
+				 		"value": 0.57
 				 	},
 				 	{ 
 				 		"name": "CBG", 
-				 		"value": 0.30
+				 		"value": 0.62
 				 	},
 				 	{ 
 				 		"name": "CBC", 
@@ -20906,7 +20906,7 @@
 			 "imageUrl5": "images/vapes/pax1.jpg",
 			 "imageUrl6": "images/vapes/pax2.jpg",
 			 "imageUrl7": "images/vapes/pax3.jpg"
-			},			
+			}			
 		];
 
 		//temporary setup for vape list using tips array used by tipresource to be read by tipView and tipListView
@@ -21014,7 +21014,7 @@
 						  "images/vapes/plenty2.jpg"]
 			},
 			{"tipId": 4,
-			 "tipCatagory":"Pen", 
+			 "tipCatagory":"Portable", 
 			 "tipName": "Pinnacle Pro",
 			 "manufacturer" : "VaporBlunt",
 			 "price": 188.00,
@@ -21051,37 +21051,31 @@
 			},
 			{"tipId": 5,
 			 "tipCatagory":"Pen", 
-			 "tipName": "Pinnacle Pro",
-			 "manufacturer" : "VaporBlunt",
-			 "price": 188.00,
+			 "tipName": "V2Pro Series 3",
+			 "manufacturer" : "V2",
+			 "price": 59.99,
 			 "weight": "",
-			 "manufacturersWarranty": "The Pinnacle Pro DLX has a 1 year limited product warranty which covers your vaporizer against defects in manufacturing, parts and labor. 90 day limited warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "included" : ["1 x Pinnacle Pro Portable Vaporizer",
-			 			   "1 x Chamber Cap", 
-			 			   "1 x PonG Adapter w/ Glass Vapor Path", 
-			 			   "2 x Dry Herb Filling Chambers", 
-			 			   "1 x Wax/Oil Filling Chamber", 
-			 			   "1 x Charger, 1 x Cleaning Brush", 
-			 			   "1 x Wire Pipe Cleaner", 
-			 			   "1 x Bamboo Cleaning Stick", 
-			 			   "1 x Standard Mouthpiece", "1 x Quick Start Guide"],
-			 "tipDescriptionAbbrev": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike.",
-			 "tipDescriptionDetailed":["The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
-			 						   "The creators, VaporBLUNT, have now taken this tiny tower of power and made vast improvements that are taking the Pinnacle to the next level. ",
-			 						   "VaporBLUNT's Pinnacle Pro vaporizer is still the same small size, measuring about 5 inches tall and less than an inch wide, making it a great fit in the hand, pocket, purse or bag. ",
-			 						   "The Pinnacle Pro vaporizer even keeps the same 1 button design which turns the unit on, toggles between its temperature settings, and then turns the unit off. ",
-			 						   "What has changed with the upgraded Pinnacle, however, is that it now has 5 temperature settings, which is 3 more than the original version. These temperatures range from 370 degrees to 470 degrees F in 25 degree increments providing ultimate control over your personal vaporization settings. ",
-			 						   "The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
-			 						   "That's right, the Pinnacle Pro has the ability to vaporize dry herbs and concentrates right out of the box by simply changing the included bullet in the chamber. Another small, yet very efficient change is the Pro's new battery level indicator. By pressing the button just once the LED lights will light up to display how much battery level the Pinnacle has left. This pint size power house is an excellent choice as a first vaporizer or as an upgrade or addition to your current vaporizer collection. Reach the pinnacle of portable vaporization like a pro with VaporBLUNT's Pinnacle Pro vaporizer."],
+			 "manufacturersWarranty": "We warrant that your V2 Pro product will be free from defects in material and workmanship under normal use and service for six months.",
+			 "temps": ["350 F", "375 F"],
+			 "included" : ["E-Liquid cartridge",
+			 			   "V2Pro Vaporizer", 
+			 			   "USB Charger", 
+			 			   "User Manual" 
+			 			   ],
+			 "tipDescriptionAbbrev": "The first pen that can actually vape dry herbs.",
+			 "tipDescriptionDetailed":["If you want a small, easily portable vape with good battery life, and one that can do e-liquids and concentrates as well as dry herbs, this is the vaporizer for you.",
+			 						   "As far as the unit itself goes, there isn’t any other unit in this size that can actually vaporize herbs.",
+			 						   "The vapor is actually very flavorful, although it is not very dense. ",
+			 						   "The chamber holds roughly 0.1-0.2 grams, so it is highly efficient for how little it uses.",
+			 						   "A normal load is done after around four minutes, which is reactivating the heating function only one time.",
+			 						   "The herbs are a golden brown color once it is vaped, and we will have a picture of some vaped herbs in our video review of this unit."
+			 						   ],
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": ["images/vapes/pinnaclepro1.jpg",
-			  			  "images/vapes/pinnaclepro2.jpg",
-			  			  "images/vapes/pinnaclepro3.png",
-			  			  "images/vapes/pinnaclepro4.jpg",
-			  			  "images/vapes/pinnaclepro5.jpg",
-			  			  "images/vapes/pinnaclepro6.jpg",
-			  			  "images/vapes/pinnaclepro7.jpg"]
+			 "imageUrl": ["images/vapes/series-3-personal-vaporizer-300x207.jpg",
+			  			  "images/vapes/series-3-personal-vaporizer-usb-charger-300x202.jpg",
+			  			  "images/vapes/series-3-LED.png",
+			  			  "images/vapes/series-3-personal-vaporizer-liquid-cartridge-139x300.jpg",
+			  			  "images/vapes/series-3-personal-vaporizer-loose-leaf-cartridge-123x300.jpg"]
 			},
 			{"tipId": 6,
 			 "tipCatagory":"Portable", 
@@ -21415,6 +21409,100 @@
 				"images/vapes/haze5.jpg",
 				"images/vapes/haze6.jpg",
 				"images/vapes/haze7.jpg" 
+				]
+			},
+			{"tipId": 15,
+			 "tipCatagory":"Pen", 
+			 "tipName": "The SOURCE Orb V2",
+			 "manufacturer" : "Haze Vaporizers",
+			 "price": 79.95,
+			 "weight": "",
+			 "manufacturersWarranty": "Lifetime warranty",
+			 "temps": ["0-450 F", "0-232 C"],
+			 "included":[
+			 		"1x SOURCE orb Attachment v2 Model", 
+			 		"7x SOURCE orb Atomizers", 
+			 		"1x SOURCE 10cig Attachment", 
+			 		"1x SOURCE orb Variable Voltage eGo Twist Battery", 
+			 		"1x eGo Charging Cable", 
+			 		"1x USB Wall Charger", 
+			 		"1x Dabbing Tool", 
+			 		"1x ﻿SOURCE﻿vapes﻿﻿Silicone Container for Concentrates"
+			 		],
+			 "tipDescriptionAbbrev": "The SOURCE Orb is a great new concentrate pen from Source Vapes. It comes with a variable voltage battery, a charger, the SOURCE orb attachment, and 7 different atomizers.",
+			 "tipDescriptionDetailed":["Seven completely different atomizers, each of which allows you to customize your vape experience how you want it to be.",
+			 						   "SOURCE orb is the most advanced portable vaporizer with superior airflow, build, and multi-functional atomizers.",
+			 						   "Its indestructible solid steel body means you'll never have to worry about broken glass, while its open airflow chamber will give you the perfect hit, every time.",
+			 						   "SOURCE terra, developed exclusively by SOURCEvapes, is the most advanced way to enjoy concentrates and essential oils.",
+			 						   "SOURCE terra is a completely ceramic heating element that gives you the most flavorful and pure clouds of vapor, rather than heating through exposed coils."
+			 						   ],
+			 "tags": ["plenty","desktop","handheld","storz-bickel"],
+			 "imageUrl":[
+			 	"images/vapes/Source-3.jpg",
+				"images/vapes/Source-3-8-2137.jpg",
+				"images/vapes/Source-3-8-2278_grande.jpeg",
+				"images/vapes/Source-3-8-2167.jpg",
+				"images/vapes/Source-3-8-2298_small.jpg"
+				]
+			},
+			{"tipId": 16,
+			 "tipCatagory":"Pen", 
+			 "tipName": "The Ambassador Kit V4",
+			 "manufacturer" : "Gentleman's Brand",
+			 "price": 79.95,
+			 "weight": "",
+			 "manufacturersWarranty": "Lifetime warranty",
+			 "temps": ["0-450 F", "0-232 C"],
+			 "included":[
+			 		"Double Agent Pen", 
+			 		"V2 Cartridge", 
+			 		"Mega V2 Cartridge", 
+			 		"Stainless Steel Filling Tool",
+			 		"Non-stick Silicone Container for Concentrates",
+			 		"Rapid USB Charger",
+			 		"Wall Adapter",
+			 		"Silicone Mouth Tip",
+			 		"Stainless Steel Mouth Tip",
+			 		"User Guide"	
+			 		],
+			 "tipDescriptionAbbrev": "Includes everything you need to vape waxes, concentrates, shatter, and e-liquids with purchase of the Saboteur Tank add-on. ",
+			 "tipDescriptionDetailed":["The Ambassador Kit works with Waxes, Shatter, Crumble, Full melt concentrates, Dry Herbs - with dry herb attachment, E-liquids - with purchase of the Saboteur Tank add-on"
+			 						   ],
+			 "tags": ["plenty","desktop","handheld","storz-bickel"],
+			 "imageUrl":[
+			 	"images/vapes/ambassador_1024x1024.jpg",
+				"images/vapes/ambassador-maxresdefault.jpg",
+				"images/vapes/ambassador2.jpg",
+				"images/vapes/Source-3-8-2167.jpg",
+				"images/vapes/Source-3-8-2298_small.jpg"
+				]
+			},
+			{"tipId": 17,
+			 "tipCatagory":"Pen", 
+			 "tipName": "Dr. Dabber Ghost",
+			 "manufacturer" : "Dr. Dabber",
+			 "price": 84.95,
+			 "weight": "",
+			 "manufacturersWarranty": "Lifetime warranty",
+			 "temps": ["0-450 F", "0-232 C"],
+			 "included":[
+			 		"Dr. Dabber Ghost Vaporizer", 
+			 		"USB Charger", 
+			 		"silicone storage ball", 
+			 		"loading tool",
+			 		"extra replacement titanium atomizer"	
+			 		],
+			 "tipDescriptionAbbrev": "The Dr. Dabber Ghost is the original low-heat vaporizer pen for oils and waxes. ",
+			 "tipDescriptionDetailed":["Our Titanium Technology heats to the ideal temperature slowly, instead of burning red hot on contact.",
+			 							"This eliminates the burned, electric taste synonymous with vaporizer pens, ensuring you can enjoy the flavor of your oils or waxes."
+			 						   ],
+			 "tags": ["plenty","desktop","handheld","storz-bickel"],
+			 "imageUrl":[
+			 	"images/vapes/dr-dabber-ghost-all.jpg",
+				"images/vapes/drdabberNEWSLIDE5.jpg",
+				"images/vapes/dr-dabber-ghost-pen_1.png",
+				"images/vapes/dr-dabber-ghost-pen_1.png",
+				"images/vapes/drdabberghostsmlthumbpickeno_3_1024x1024.png"
 				]
 			}
 		];
