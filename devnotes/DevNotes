@@ -39,3 +39,8 @@ Vape (tipsView)
 -using custom coded filter for snippit of words
 - add a sort by price in ascending and descending order and cancel
 
+----------------
+v1.11
+
+ProductResourceMock
+-Tips array is updated with all the vape info from vapes array
