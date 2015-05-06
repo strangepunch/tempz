@@ -1787,9 +1787,9 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
 			 "descriptionAbbrev":  "An aura of euphoria that is sure to leave a smile on your face.",
 			 "tags": ["Sativa", "Strawberry Cough"],
