@@ -2746,19 +2746,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.80
+			 		"value": 0.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 20.00
+			 		"value": 19.00
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.30
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -2837,10 +2837,9 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD",
-		 	  "Stress", "Anxiety", "Multiple Sclerosis", "Pain", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Cancer", "Epilepsy", "Migraines", "Muscle Spasms", "Pain", "Stress", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Anxiety", "Multiple Sclerosis"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry eyes", "Paranoid"],
 			 "descriptionDetailed": "Tests have put ACDC’s CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
 			 "descriptionAbbrev":  "This strain induces no psychoactive effects.",
 			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
@@ -8007,8 +8006,8 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Cancer", "Epilepsy", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -8021,19 +8020,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.80
+			 		"value": 14.61
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.40
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.11
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -8112,13 +8111,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Cancer", "Insomnia", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Happy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "Afghani is a heavy indica strain named after its geographic origin, where the earliest varieties of cannabis are believed to have grown. Patients most commonly turn to this potent indica to treat insomnia, pain, and stress disorders.",
+			 "descriptionAbbrev":  "With a sweet, earthy aroma, Afghani delivers a deep, sedating relaxation and euphoria.",
 			 "tags": ["Indica", "Afghani", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/afghani_100x100_902b.jpg"
 			},
 			{"strainId": 78,
 			 "strainName": "Avi-Dekel", 
@@ -10157,19 +10156,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.69
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10177,7 +10176,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 1.89
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10212,13 +10211,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms" ],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Creative"],
+			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "An indica dominant hybrid, this strain is known to have high THC levels and can be strong, but it's balanced enough to leave most users feeling heady and creative rather than sleepy. Because of this, it's often used to treat tension and anxiety.",
+			 "descriptionAbbrev":  "An indica dominant hybrid, this strain is known to have high THC levels and can be strong.",
 			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/707-headband_100x100.jpg"
 			},
 			{"strainId": 97,
 			 "strainName": "Acapulco Gold", 
@@ -10226,19 +10225,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.10
+			 		"value": 13.52
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.39
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.08
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -10317,7 +10316,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
+		 	 "conditions": ["Anorexia", "Depression", "Appetite Loss", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
@@ -10331,19 +10330,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 25.60
+			 		"value": 14.55
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.29
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.90
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -10422,13 +10421,13 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Anxiety", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "Alien OG is a cross between Tahoe OG and Alien Kush.",
 			 "tags": ["Sativa", "Alien OG", "OG", "Migraines", "Headache", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/alien-og_100x100.jpg"
 			},
 			{"strainId": 99,
 			 "strainName": "Alien Rock Candy", 
@@ -10436,19 +10435,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.80
+			 		"value": 9.91
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.35
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.24
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 1.58
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -10527,13 +10526,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Insomnia", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid"],
+			 "descriptionDetailed": "Alien Rock Candy by Alien Genetics is an indica-dominant hybrid with an aroma as sweet as the name suggests. This Sour Dubble and Tahoe Alien cross captures a fruity, citrus aroma that carries through until the exhale.",
+			 "descriptionAbbrev":  "Full relaxation of the mind and body make this strain ideal for the end of an active or stressful day, with a heaviness that segueways nicely into sleep.",
 			 "tags": ["Sativa", "Alien Rock Candy", "Depression" ,"Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/alien-rock-candy_100x100.jpg"
 			},
 			{"strainId": 100,
 			 "strainName": "Amnesia Haze", 
@@ -15814,7 +15813,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.40
+			 		"value": 23.49
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -15850,19 +15849,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.26
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.15
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 2.55
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.57
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -15870,7 +15869,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -15905,13 +15904,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Focused", "Energetic", "Uplifted", "Giggly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Afghani Bullrider is pretty to look at, with light green buds covered in orange hair, and has a strong sweet and sour smell with some piney freshness. This strain is a heavy hitter that delivers a strong body without the full sedative effects some indicas can have; it heads straight to the brain and may boost creative thoughts while providing physical relaxation. With its high levels of THC and CBD, Afghani Bullrider is recommended for chronic pain, insomnia, and anxiety.",
+			 "descriptionAbbrev":  "This strain is a heavy hitter that delivers a strong body without the full sedative effects.",
 			 "tags": ["Indica", "Afghani Bullrider", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/afghani-bullrider_100x100.jpg"
 			},
 			{"strainId": 152,
 			 "strainName": "Afgoo",
@@ -15919,15 +15918,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 25.10
+			 		"value": 15.43
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.76
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.39
+			 		"value": 1.46
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -16010,13 +16009,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Euphoric", "Happy", "Hungry" ],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "A potent indica strain that is believed to descend from an Afghani indica and a Haze sativa from the island of Maui.",
+			 "descriptionAbbrev":  "This strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor. ",
 			 "tags": ["Indica", "Afgoo", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/afgoo_100x100.jpg"
 			},
 			{"strainId": 153,
 			 "strainName": "Afgooey",
@@ -16060,19 +16059,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -16080,7 +16079,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 1.25
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -16115,13 +16114,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Insomnia", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
+			 "descriptionDetailed": "Its sativa parent may lend Afgoo some uplifting, creative qualities, but this strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
+			 "descriptionAbbrev":  "Primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
 			 "tags": ["Indica", "Afgooey", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/afgooey_100x100.jpg"
 			},
 			{"strainId": 154,
 			 "strainName": "AK-47",
@@ -16129,19 +16128,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.63
+			 		"value": 16.67
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -16220,13 +16219,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "This sativa-dominant hybrid delivers a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged in creative or social activities.",
+			 "descriptionAbbrev":  "AK-47 will leave you relaxed and mellow.",
 			 "tags": ["Hybrid", "AK-47", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/ak-47_100x100.jpg"
 			},
 			{"strainId": 155,
 			 "strainName": "AK-48",
@@ -16234,19 +16233,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.90
+			 		"value": 16.39
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.54
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -16325,13 +16324,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "AK-48's parents are Ice and Jock Horror.  Its Ice mother has ancestors of Afghani, Skunk, Northern Lights and Shiva stock.",
+			 "descriptionAbbrev":  "AK-48 high leans more towards typical sativa effects.",
 			 "tags": ["Hybrid", "AK-48", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/ak-48_100x100.jpg"
 			},
 			{"strainId": 156,
 			 "strainName": "Alien Rock Candy",
