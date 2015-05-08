@@ -3202,11 +3202,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.92
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -3214,7 +3214,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3257,11 +3257,11 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Diesel", "Bipolar", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders.",
-			 "descriptionAbbrev":  "A perfect strain for daytime consumption.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Epilepsy", "Migraines", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "A slightly energizing kick followed by intense focus makes this a perfect strain for daytime consumption with effects that steer clear of undesirable lethargy. These thick, pale green buds reek a sweet, fruity aroma and preface the tangy taste to come.",
+			 "descriptionAbbrev":  "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders.",
 			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar", "Pain", "Stress"],
 			 "imageUrl": "images/strains/banana-diesel_100x100.jpg"
 			},
@@ -8161,19 +8161,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8181,7 +8181,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8216,13 +8216,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Muscle Spasms", "Nausea", "Inflammation"],
+			 "positiveEffects": ["Focused", "Happy", "Relaxed", "Aroused"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Headache"],
+			 "descriptionDetailed": "Avi-Dekel is a sativa-dominant strain developed by Tikun Olam to contain high levels of CBD and almost no THC.",
+			 "descriptionAbbrev":  "Its CBD content, reaching as high as 15.8 percent, is intended to treat inflammation as well as sleep and digestive disorders",
 			 "tags": ["Sativa", "Avi-Dekel", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/avi-dekel_100x100.jpg"
 			},
 			{"strainId": 79,
 			 "strainName": "Bull Rider", 
@@ -10540,19 +10540,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.20
+			 		"value": 20.15
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.44
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.12
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.61
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -10631,13 +10631,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "With earthy flavors of lemons and citrus, Amnesia Haze is a perfect strain to start your day with a smile.",
+			 "descriptionAbbrev":  "The uplifting, energetic buzz is one you won’t soon forget.",
 			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/amnesia-haze_100x100.jpg"
 			},
 			{"strainId": 101,
 			 "strainName": "ATF", 
@@ -10645,19 +10645,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 10.50
+			 		"value": 14.76
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.23
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.75
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -10736,8 +10736,8 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Depression", "Insomnia", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -10750,7 +10750,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.04
+			 		"value": 21.05
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -10841,13 +10841,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["PTSD","OCD","Depression", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Relaxed", "Anxiety", "Uplifted"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade",
 			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/bay_cookies.jpg"
 			},
 			{"strainId": 103,
 			 "strainName": "Berry Queen", 
@@ -10891,19 +10891,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.89
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.61
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.45
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10911,7 +10911,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 3.14
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10946,8 +10946,8 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety","Depression", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
