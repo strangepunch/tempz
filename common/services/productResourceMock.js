@@ -14863,20 +14863,20 @@
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 142,
-			 "strainName": "Harlequin",
-			 "strainType": "Sativa",
+			 "strainName": "Strain Name Here",
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 6.98
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 14.00
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
