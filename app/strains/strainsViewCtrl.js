@@ -5,9 +5,10 @@
 						["$scope",
 						 "strainResource",
 						 "productResource",
+						 "ngProgress",
 							StrainsViewCtrl]);
 	
-	function StrainsViewCtrl($scope, strainResource, productResource){
+	function StrainsViewCtrl($scope, strainResource, productResource, ngProgress){
 		var vm = this;
 
 		vm.F = false;
@@ -35,6 +36,8 @@
 		vm.showUp = false;
 		vm.selectedEffect = [];
 		vm.selectedTemps = [];
+
+		ngProgress.start();
 		strainResource.query(function(data){
 			vm.strains = data;
 			vm.selectedStrain = data[0];
@@ -66,7 +69,7 @@
 				}
 				vm.selectedTemps = tempArray;
 			});
-
+			ngProgress.complete();
 		});
 
 
@@ -93,6 +96,8 @@
 		}
 		
 		$scope.selectedStrain = function(data){
+			ngProgress.start();
+
 			vm.showUp = false;
 			vm.selectedStrain = data;
 
@@ -123,6 +128,8 @@
 				}
 				vm.selectedTemps = tempArray;
 			});
+
+			ngProgress.complete();
 		}
 		
 		$scope.activeStrain = function(name){

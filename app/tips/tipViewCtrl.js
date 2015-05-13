@@ -4,20 +4,25 @@
 			.controller("TipViewCtrl",
 						["$scope",  
 						 "tipResource",
+             "ngProgress",
 							TipViewCtrl]);
 	
-	function TipViewCtrl($scope,tipResource){
+	function TipViewCtrl($scope,tipResource,ngProgress){
 		var vm = this;
 
     vm.currentTip = [];
 
+    ngProgress.start();
 		//populate vm.tip with all the arrays of data arrays
 		tipResource.query(function(data){
 			vm.tips = data;
+      ngProgress.complete();
 		});
 
     //filter out tips under selected catagory
     $scope.selectCatagory = function(name){
+
+      ngProgress.start();
 
       tipResource.query(function(data){
         var tipsArray = []; //temp array
@@ -41,6 +46,8 @@
         }
   
       });
+
+      ngProgress.complete();
 
     }; 
 

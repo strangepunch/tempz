@@ -5,9 +5,10 @@
 						["$scope",
 						 "conditionResource",
 						 "strainResource",
+						 "ngProgress",
 							ConditionsViewCtrl]);
 	
-	function ConditionsViewCtrl($scope, conditionResource, strainResource){
+	function ConditionsViewCtrl($scope, conditionResource, strainResource, ngProgress){
 		var vm = this;
 
 		vm.F = false;
@@ -32,6 +33,7 @@
 			}
 		}
 
+		ngProgress.start();
 		conditionResource.query(function(data){
 			vm.conditions = data;
 			
@@ -67,6 +69,7 @@
 
 				vm.selectedStrains = tempArray2;
 				//console.log(vm.selectedStrains);
+				ngProgress.complete();
 
 			});
 		});
@@ -91,6 +94,8 @@
 			vm.selectedCondition = cond;
 			vm.strainName = cond.strains;
 			//console.log(vm.strainName);
+
+			ngProgress.start();
 
 			strainResource.query(function(data){
 				
@@ -119,6 +124,8 @@
 
 				vm.selectedStrains = tempArray2;
 				//console.log(vm.selectedStrains);
+
+				ngProgress.complete();
 
 			});
 

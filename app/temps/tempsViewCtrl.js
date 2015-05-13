@@ -6,9 +6,10 @@
 						 "tempResource",
 						 "productResource",
 						 "strainResource",
+						 "ngProgress",
 							TempsViewCtrl]);
 	
-	function TempsViewCtrl($scope, tempResource, productResource, strainResource){
+	function TempsViewCtrl($scope, tempResource, productResource, strainResource, ngProgress){
 		var vm = this;
 
 		//init stuff for temp display and bar and logic settings
@@ -78,6 +79,7 @@
 
 		}		
 
+		ngProgress.start();
 		//initial first effect for set temperature
 		productResource.query(function(data){
 			vm.products = data;
@@ -117,6 +119,7 @@
 					console.log("num", num);
 					console.log("conds", vm.Strains[0].conditions);
 					console.log("num", num);
+					ngProgress.complete();
 					
 				}
 				console.log(vm.Container);
@@ -231,6 +234,7 @@
 
 			}
 			
+			ngProgress.start();
 			strainResource.query(function(data){
 				vm.Strains = data;
 				vm.Container = [];
@@ -252,6 +256,7 @@
 					}
 					console.log("test", test++);
 					console.log("num", num);
+					ngProgress.complete();
 				}
 				console.log(vm.Container);
 

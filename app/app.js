@@ -7,6 +7,7 @@
 							 "ui.bootstrap",
 							 "ui.slider",
 							 "ui.unique",
+							 "ngProgress",
 							 "productResourceMock"]);
 	//error handling
 	app.config(function($provide){
