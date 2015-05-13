@@ -8545,7 +8545,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.8
+			 		"value": 20.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -8581,19 +8581,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.57
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.48
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.33
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8601,7 +8601,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.55
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8636,13 +8636,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety","Cancer", "Depression","Epilepsy", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Giggly"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Headache"],
+			 "descriptionDetailed": "His hybrid of G13 has been crossed with an original Haze to give it a more uplifting sensation while still retaining the heavy hitting indica undertones.",
+			 "descriptionAbbrev":  "Bred for maximum potency and renowned for its medical use, and it's definitely not recommended for beginners.",
 			 "tags": ["Indica", "G13 Haze", "Cancer", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/g13-haze_100x100.jpg"
 			},
 			{"strainId": 83,
 			 "strainName": "Great White Shark", 
@@ -10176,7 +10176,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 1.89
+			 		"value": 1.82
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10211,8 +10211,8 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms" ],
-			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Creative"],
+		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms", "Nausea" ],
+			 "positiveEffects": ["Energetic", "Relaxed", "Happy", "Uplifted", "Euphoric", "Creative"],
 			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "An indica dominant hybrid, this strain is known to have high THC levels and can be strong, but it's balanced enough to leave most users feeling heady and creative rather than sleepy. Because of this, it's often used to treat tension and anxiety.",
 			 "descriptionAbbrev":  "An indica dominant hybrid, this strain is known to have high THC levels and can be strong.",
@@ -10317,7 +10317,7 @@
 			 	} 	
 		 	],
 		 	 "conditions": ["Anorexia", "Depression", "Appetite Loss", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Relaxed"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
 			 "descriptionAbbrev":  "Acapulco Gold has a reputation for being one of the best cannabis strains ever created.",
@@ -10736,13 +10736,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Insomnia", "Migraines", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue","Insomnia", "Migraines",  ],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "A strong sativa that will have you feeling the effects soon after exhale.",
 			 "tags": ["Sativa", "ATF", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/alaskan-thunder-fuck_100x100.jpg"
 			},
 			{"strainId": 102,
 			 "strainName": "Bay Cookies", 
@@ -11065,7 +11065,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 12.00
+			 		"value": 13.76
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -11073,11 +11073,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.21
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -11156,13 +11156,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Arthritis", "Depression", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Uplifted", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache"],
+			 "descriptionDetailed": "Black Cherry Soda by TGA Genetics is a hybrid strain named after its fruity, soda-like taste and unusually dark purple color.",
+			 "descriptionAbbrev":  "A potent medicine that hits without heavy sedation.",
 			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/black-cherry-soda_100x100.jpg"
 			},
 			{"strainId": 106,
 			 "strainName": "Blue Dream", 
@@ -11170,7 +11170,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.00
+			 		"value": 15.82
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -11178,11 +11178,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.57
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.40
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -11261,13 +11261,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety","Depression", "Insomnia", "Migraines", "Headache", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Energetic",  "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "With a sweet berry aroma redolent of its Blueberry parent, Blue Dream delivers swift symptom relief without heavy sedative effects. This makes Blue Dream a popular daytime medicine for patients treating pain, depression, nausea, and other ailments requiring a high THC strain. ",
+			 "descriptionAbbrev":  "Blue Dream balances full-body relaxation with gentle cerebral invigoration.",
 			 "tags": ["Hybrid", "Blue Dream", "Migraines", "Headache", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/blue-dream_100x100.jpg"
 			},
 			{"strainId": 107,
 			 "strainName": "Blue Moonshine", 
@@ -11416,19 +11416,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -11436,7 +11436,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -11471,13 +11471,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This peculiar cannabis can be an exceptionally exciting fast-paced roller coaster, or a demonic heart-throbbing anxiety hell.",
+			 "descriptionAbbrev":  "Only takes a couple hits to get blazed for several hours.",
 			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/blueberry_100x100.jpg"
 			},
 			{"strainId": 109,
 			 "strainName": "Canatonic #4", 
@@ -11786,13 +11786,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Fatigue","Headache", "Stress"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Social", "Creative", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "Golden hairs weave through Candyland’s thick coat of sugar-like trichomes and highlight the compact, camouflage-colored buds. This strain grows well indoors and out, and patients turn to Candyland to relieve pain, muscle tension, and sour moods.",
+			 "descriptionAbbrev":  "Strong sativa genetics give Candyland uplifting and stimulating effects, making it a perfect strain for social gatherings or creative passtimes.",
 			 "tags": ["Sativa", "CandyLand", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/candyland_100x100.jpg"
 			},
 			{"strainId": 112,
 			 "strainName": "Cannalope Haze", 
@@ -11800,7 +11800,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.80
+			 		"value": 13.41
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -11808,7 +11808,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 1.35
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -11891,13 +11891,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Creative", "Uplifted", "Euphoric", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Cannalope Haze is a sweet mix of tropical, melon, and floral flavors. The smooth taste and hefty resin production make it great for producing concentrates.",
+			 "descriptionAbbrev":  "This strain is a great solution for fatigue and when struggling with appetite loss.",
 			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/cannalope-haze_100x100.jpg"
 			},
 			{"strainId": 113,
 			 "strainName": "Cataract Kush", 
@@ -14863,12 +14863,12 @@
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 142,
-			 "strainName": "Strain Name Here",
+			 "strainName": "Godfather OG",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.00
+			 		"value": 21.37
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -14876,7 +14876,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -14904,19 +14904,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.44
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.48
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.84
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.55
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -14924,7 +14924,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -14959,13 +14959,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Nausea", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Harlequin", "Nausea", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress", "Depression", "Headache"],
+			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry" ],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "The Don is a result of crossing Granddaddy Purple and OG Kush, and there is a kushy spiciness in its scent coupled with some subtle grape notes. Godfather OG is powerful; with THC levels that have been measured as high as 28%, this strain is an offer you can’t refuse.",
+			 "descriptionAbbrev":  "Often recommended for insomnia and pain due to its sedative indica properties.",
+			 "tags": ["Sativa", "Godfather OG", "Nausea", "Epilepsy"],
+			 "imageUrl": "images/strains/godfather-og_100x100.jpg"
 			},
 			{"strainId": 143,
 			 "strainName": "Herojuana",
@@ -18438,7 +18438,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.90
+			 		"value": 10.14
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -18446,11 +18446,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -18529,13 +18529,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Fatigue", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Be careful not to underestimate her or you may pass out or become paranoid.  Cinderella 99 is a sativa-dominant strain and provides all the good sativa benefits.",
+			 "descriptionAbbrev":  "Great for daytime use and provides plenty of energy",
 			 "tags": ["Hybrid", "Cinderella 99", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/cinderella-99_100x100.jpg"
 			}, 
 			{"strainId": 177,
 			 "strainName": "Diablo Haze",
