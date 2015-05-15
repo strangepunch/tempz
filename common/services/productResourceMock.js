@@ -4535,23 +4535,23 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.24
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.84
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.62
+			 		"value": 2.60
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.12
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.20
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -4567,19 +4567,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.70
+			 		"value": 1.40
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.20
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.04
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4587,7 +4587,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.09
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4619,14 +4619,14 @@
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.20
+			 		"value": 0.50
 			 	} 	
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Creative"],
-			 "negativeEffects": [""],
+			 "positiveEffects": ["Energetic", "Happy", "Uplifted", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Few strains compare to Green Crack's sharp energy and focus as it induces an invigorating mental buzz that keeps you going throughout the day. With a tangy, fruity flavor redolent of mango, Green Crack is the perfect daytime medication for patients treating fatigue, stress, and depression.",
-			 "descriptionAbbrev":  "Don't let the name fool you: this is pure cannabis.",
+			 "descriptionAbbrev":  "The perfect daytime medication for patients treating fatigue, stress, and depression.",
 			 "tags": ["Sativa", "Green Crack", "Bipolar"],
 			 "imageUrl": "images/strains/green-crack_100x100.jpg"
 			},
@@ -4672,19 +4672,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.61
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.66
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4692,7 +4692,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4727,13 +4727,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Energetic", "Relaxed", "Creative", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dizzy", "Dry Eyes", "Anxious"],
+			 "descriptionDetailed": "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
+			 "descriptionAbbrev":  "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
 			 "tags": ["Hybrid", "Green Dream", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/green-dream_100x100jpg"
 			},
 			{"strainId": 46,
 			 "strainName": "Green Thailand", 
@@ -4777,19 +4777,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.43
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.43
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 2.19
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.63
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4797,7 +4797,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4832,13 +4832,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Glaucoma", "Appetite Loss", "Migraines", "Headache", "Nausea", "Stress", "Impotence"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Sexual"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand. It boasts as one of the highest THC contents of any cannabis variety in the world. Green Thailand is one of the most productive strains in Thailand helped by the relatively short flowering time compared to some other Thai strains.",
+			 "descriptionAbbrev":  "One of the highest THC contents of any cannabis variety in the world.",
 			 "tags": ["Sativa", "Green Thailand", "Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/thai_100x100.jpg"
 			},
 			{"strainId": 47,
 			 "strainName": "H-Train Wreck", 
@@ -4951,7 +4951,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.10
+			 		"value": 21.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -4959,7 +4959,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.06
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -4987,19 +4987,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.51
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5042,13 +5042,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Sexual"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A great strain for relaxing with friends or listening to music.",
+			 "descriptionAbbrev":  "A great strain for relaxing with friends or listening to music.",
 			 "tags": ["Sativa", "Hawaiian Hulk", "Hawaiian","Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/bruce-banner_100x100.jpg"
 			},
 			{"strainId": 49,
 			 "strainName": "Jack Chemdawg", 
@@ -5092,19 +5092,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.61
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5112,7 +5112,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5147,13 +5147,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Migraines", "Headache", "PMS", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Between its mysterious origin, ambiguous genetics, and the plethora of successful crosses the strain has produced, Chemdawg has practically secured itself a permanent place in the cannabis hall of fame.",
+			 "descriptionAbbrev":  "Expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
 			 "tags": ["Sativa", "Jack Chemdawg", "Chemdawg", "Jack", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 			},
 			{"strainId": 50,
 			 "strainName": "Jack Herer", 
@@ -5252,13 +5252,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite"],
+		 	 "conditions": ["Anorexia","Depression", "Stress", "Pain", "Fatigue", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Sensi Seeds created Jack Herer hoping to capture both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects.",
+			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
 			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/jack-herer_100x100.jpg"
 			},
 			{"strainId": 51,
 			 "strainName": "Jillybean", 
@@ -8650,7 +8650,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.73
+			 		"value": 17.74
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -8658,11 +8658,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.40
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.51
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -8741,13 +8741,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Often recommended medically to treat chronic pain ailments. The sativa qualities of this strain keep this heavy hitter from being a complete knockout, but it isn’t recommended for days when a lot of work needs to get done.",
+			 "descriptionAbbrev":  "Known for its ability to provide a strong indica body buzz very quickly.",
 			 "tags": ["Sativa", "Great White Shark", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/great-white-shark_100x100.jpg"
 			},
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
@@ -8896,19 +8896,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.50
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
 			 		"value": 0.06
 			 	},
 			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.36
+			 	},
+			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.08
+			 		"value": 1.99
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8951,13 +8951,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer", "Nausea", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Arthritis", "Cancer", "Nausea", "Epilepsy", "Pain", "Stress", "Inflammation", "Depression", "Headache"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Energetic", "Focused", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "Unlike most high-CBD strains, Harlequin almost always develops a CBD:THC ratio of 5:2, making this strain one of the most effective out there for treatment of pain and anxiety, as CBD counteracts THC’s paranoia while amplifying its painkilling properties.",
+			 "descriptionAbbrev":  "What draws crowds to Harlequin is its ability to relax without sedation, and to relieve without intoxication.",
 			 "tags": ["Sativa", "Harlequin", "Cancer", "Nausea", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/harlequin_100x100.jpg"
 			},
 			{"strainId": 86,
 			 "strainName": "Hog", 
@@ -17424,19 +17424,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.84
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -17479,13 +17479,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "PMS", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "The flowers are emerald green and frosty with a sweet aroma resembling the unmistakable Jack Herer pungency. This strain’s seemingly only flaw is the top-shelf price that tends to come with its exceptional quality.",
+			 "descriptionAbbrev":  "Best known for its strong, uplifting, clear-headed buzz that allows for mobility.",
 			 "tags": ["Hybrid", "J1", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/j1_100x100.jpg"
 			},
 			{"strainId": 167,
 			 "strainName": "Krytonite",
@@ -19481,6 +19481,216 @@
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 185,
+			 "strainName": "Gorilla Glue #4",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.69
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.59
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["Depression", "Muscle Spasms", "Pain", "Stress", "Headache"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "This chunky, conic, crystal-covered strain flowers in 56 to 60 days, and is said to come from Chemsis, Sour Dubb, and Chocolate Diesel.",
+			 "descriptionAbbrev":  "A potent hybrid strain that won 1st place in the 2014 Los Angeles Cannabis Cup.",
+			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
+			 "imageUrl": "images/strains/gorilla-glue--4_100x100.jpg"
+			},
+			{"strainId": 186,
+			 "strainName": "Jack Frost",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.59
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.85
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	} 	
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress", "Fatigue"],
+			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Uplifted", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "Initially with a lineage of Jack Herrer, White Widow and Northern Lights #5, these strains were bred before then introducing Rainbow Kashmiri.",
+			 "descriptionAbbrev":  "Developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
+			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
+			 "imageUrl": "images/strains/jack-frost_100x100.jpg"
 			}
 		]
 		
