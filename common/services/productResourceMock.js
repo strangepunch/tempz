@@ -5302,19 +5302,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 1.53
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5322,7 +5322,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5357,13 +5357,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Fatigue", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Jillybean is described as being an upbeat and happy hybrid, with flavors of tangy orange and mango.",
+			 "descriptionAbbrev":  "A top choice for creative minds and social butterflies looking for unencumbered euphoria during daytime hours.",
 			 "tags": ["Hybrid", "Jillybean", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/jillybean_100x100.jpg"
 			},
 			{"strainId": 52,
 			 "strainName": "Lamb's Bread", 
@@ -5371,7 +5371,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 18.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5379,7 +5379,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5407,19 +5407,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.68
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.53
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5427,7 +5427,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5462,13 +5462,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Nausea"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Stress subsides quickly from the Lamb's Bread buzz, which can help ease depression. The origins of this plant comes from Jamaica and it has been reported that even Bob Marley himself has encountered this wonderful slice of cannabis genealogy.",
+			 "descriptionAbbrev":  "Known to give mass amounts of energy and positive introspection.",
 			 "tags": ["Sativa", "Lamb's Bread", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/lamb-s-bread_100x100.jpg"
 			},
 			{"strainId": 53,
 			 "strainName": "Lemon Haze", 
@@ -5476,7 +5476,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.20
+			 		"value": 14.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5484,7 +5484,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.70
+			 		"value": 0.58
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5548,7 +5548,7 @@
 			 	},
 			 	{ 
 			 		"name": "Apigenin", 
-			 		"value": 0.00
+			 	 	"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Quercetin", 
@@ -5567,13 +5567,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Insomnia"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint.",
+			 "descriptionAbbrev":  "Has been characterized as smelling of fresh peeled lemon slices with a similar taste.",
 			 "tags": ["Sativa", "Lemon Haze", "Haze",  "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/lemon-haze_100x100.jpg"
 			},
 			{"strainId": 54,
 			 "strainName": "Lemon Head OG", 
@@ -5617,19 +5617,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5637,7 +5637,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5672,13 +5672,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Sexual"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Its complex terpene profile and heavy resin production make Super Lemon OG an excellent choice for producing top-notch concentrates, like the two extracts that took home prizes at the 2014 High Times’ Cannabis Cup in Amsterdam.",
+			 "descriptionAbbrev":  "Its taste and aroma carry a strong citrus note that is entangled with tones of spicy pepper and pungent diesel fuel.",
 			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/super-lemon-og_100x100.jpg"
 			},
 			{"strainId": 55,
 			 "strainName": "Lulu", 
@@ -5722,19 +5722,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.99
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.01
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.41
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5742,7 +5742,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5777,8 +5777,8 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Fibromyalgia", "Hypertension", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -6165,19 +6165,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.60
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.45
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.57
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6185,7 +6185,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6220,13 +6220,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Fibromyalgia", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Moonshine Diesel", "Diesel", "Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/moonshine-Deisel.jpg"
 			},
 			{"strainId": 60,
 			 "strainName": "Northern Lights", 
@@ -6339,7 +6339,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.50
+			 		"value": 15.89
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -6347,11 +6347,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.57
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -6430,13 +6430,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "PMS", "Stress", "Insomnia", "Headache"],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "The smell has been likened to fresh apple and mango, with a taste of pineapple, pine and cedar.",
+			 "descriptionAbbrev":  "This hard-hitting sativa provides an energetic high up to 2 hours.",
 			 "tags": ["Hybrid", "Pineapple Express", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/pineapple-express_100x100.jpg"
 			},
 			{"strainId": 62,
 			 "strainName": "Platinum Trinity Kush", 
@@ -6654,7 +6654,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.90
+			 		"value": 13.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -6662,7 +6662,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.08
+			 		"value": 0.71
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -6745,13 +6745,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Muscle Spasms", "Pain", "Stress", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "This nostalgic sativa staple remains cherished for its high-energy cerebral stimulation that awakens creativity and blissful contentment throughout the day.",
+			 "descriptionAbbrev":  "Delivers a dreamy burst of euphoria that brings veteran consumers back to their psychedelic heyday.",
 			 "tags": ["Sativa", "Purple Haze", "Haze", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-haze_100x100.jpg"
 			},
 			
 			{"strainId": 65,
@@ -13119,19 +13119,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.83
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.95
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.98
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -13174,13 +13174,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "Spasticity", "Fatigue"],
+			 "positiveEffects": ["Uplifted", "Energetic", "Talkative", "Happy", "Focused", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "A potent strain featuring a distinct, chemical-like lemon smell, Lemon Jack has strong psychoactive effects. Focused and energizing, this strain’s effects draw from both its Jack Herer and Lemon Kush heritage.",
+			 "descriptionAbbrev":  "Patients who suffer from headaches and fatigue tend to find relief with this strain, though it may not be the best choice for those who suffer from anxiety.",
 			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/lemon-jack_100x100.jpg"
 			},
 			{"strainId": 125,
 			 "strainName": "Lemon OG Kush", 
@@ -13503,7 +13503,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.80
+			 		"value": 18.01
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -13539,19 +13539,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.74
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -13594,13 +13594,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Sweet, with some sour aftertaste.",
+			 "descriptionAbbrev":  "Sweet, with some sour aftertaste.",
 			 "tags": ["Sativa", "Mango Maui", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/mango-maui-578x385.jpg"
 			},
 			{"strainId": 130,
 			 "strainName": "May Weather Kush", 
@@ -13854,19 +13854,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.21
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.91
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.54
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -13909,13 +13909,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Migraines", "Muscle Spasms", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "Her buds are light and dark green with orange hairs and a healthy amount of crystals.",
+			 "descriptionAbbrev":  "The taste has been described as cheddar and provides a overall tingly mind and body high.",
 			 "tags": ["Hybrid", "Pineapple Hogsbreath", "Pineapple", "Migraines", "Headache", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/hog-s-breath_100x100.jpg"
 			},
 			{"strainId": 133,
 			 "strainName": "Silverback Gorilla", 
@@ -15219,19 +15219,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.47
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.25
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.88
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.34
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -15274,13 +15274,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Fibromyalgia", "Nausea", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Purple Coma", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-coma.jpg"
 			},
 			{"strainId": 146,
 			 "strainName": "Purple Passion",
@@ -19682,17 +19682,332 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	} 
 		 	], 
-		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress", "Fatigue"],
-			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Uplifted", "Relaxed", "Creative"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress"],
+			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
-			 "descriptionDetailed": "Initially with a lineage of Jack Herrer, White Widow and Northern Lights #5, these strains were bred before then introducing Rainbow Kashmiri.",
-			 "descriptionAbbrev":  "Developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
-			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
+			 "descriptionDetailed": "Bred by Goldenseed, Jack Frost was developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
+			 "descriptionAbbrev":  "Bred by Goldenseed, Jack Frost was developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
+			 "tags": [],
 			 "imageUrl": "images/strains/jack-frost_100x100.jpg"
+			},
+			 	{"strainId": 187,
+			 "strainName": "Kali Mist",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.78
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 1.34
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}
+		 	],
+				"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
+			 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
+			 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
+			 	"descriptionAbbrev":  "Known to deliver clear-headed, energetic effects that can verge on psychedelic at times",
+			 	"tags": [],
+			 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
+				},
+			 	{"strainId": 188,
+				 "strainName": "NY Sour Diesel",
+				 "strainType": "Hybrid",
+				 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.12
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}
+		 	],
+			 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 	"positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+			 	"negativeEffects": [""],
+			 	"descriptionDetailed": "",
+			 	"descriptionAbbrev":  "",
+			 	"tags": [],
+			 	"imageUrl": "images/strains/nyc-sour-diesel.jpg"
+				},
+			 	{"strainId": 189,
+			 	"strainName": "Skunk #1",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 12.88
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.98
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Creeps, tricks you into smoking a full bowl to yourself",
+			 "tags": ["Skunk #1"],
+			 "imageUrl": "images/strains/skunk11.jpg"
 			}
-		]
+		];
 		
 		var conditions = [
 			{"conditionId": 1,
