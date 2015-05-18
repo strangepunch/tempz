@@ -7,7 +7,9 @@
 						["ngMockE2E"]);
 	
 	app.run(function ($httpBackend){
-		var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]
+		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428]
+
+		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
 		
 		var strains = [
 			{"strainId": 1,
@@ -20290,7 +20292,7 @@
 			},
 			{
 				"tasteId": 20,
-				"tasteName": "quercetin",
+				"tasteName": "Quercetin",
 				"tasteDescription": "Earthy, Forest"
 			},
 			{

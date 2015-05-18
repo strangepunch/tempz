@@ -79,7 +79,6 @@
 
 		}		
 
-		ngProgress.start();
 		//initial first effect for set temperature
 		productResource.query(function(data){
 			vm.products = data;
@@ -96,12 +95,14 @@
 			}
 			vm.effectProperty = tempArray;
 
+
+			ngProgress.start();
 			strainResource.query(function(data){
 				vm.Strains = data;
 				vm.Container = [];
 				var num = 0;
 				var test = 0;
-				console.log(vm.EffectsProductName);
+				//console.log(vm.EffectsProductName);
 				for(var x=0; x<vm.EffectsProductName.length;x++){
 					for(var i=0; i<data.length;i++){
 						for(var j=0; j<data[i].components.length;j++){
@@ -115,14 +116,14 @@
 							}
 						}				
 					}
-					console.log("test", test++);
-					console.log("num", num);
-					console.log("conds", vm.Strains[0].conditions);
-					console.log("num", num);
+					//console.log("test", test++);
+					//console.log("num", num);
+					//console.log("conds", vm.Strains[0].conditions);
+					//console.log("num", num);
 					ngProgress.complete();
 					
 				}
-				console.log(vm.Container);
+				//console.log(vm.Container);
 
 				//calculate the highest
 				var highStrain = "";
@@ -138,7 +139,7 @@
 					}
 				}
 				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
-				console.log(vm.Suggest);
+				//console.log(vm.Suggest);
 				$scope.filterName = vm.Suggest.strain;
 				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
 			});
@@ -240,7 +241,7 @@
 				vm.Container = [];
 				var num = 0;
 				var test = 0;
-				console.log(vm.EffectsProductName);
+				//console.log(vm.EffectsProductName);
 				for(var x=0; x<vm.EffectsProductName.length;x++){
 					for(var i=0; i<data.length;i++){
 						for(var j=0; j<data[i].components.length;j++){
@@ -254,11 +255,11 @@
 							}
 						}				
 					}
-					console.log("test", test++);
-					console.log("num", num);
+					//console.log("test", test++);
+					//console.log("num", num);
 					ngProgress.complete();
 				}
-				console.log(vm.Container);
+				//console.log(vm.Container);
 
 
 				//calculate the highest
@@ -275,7 +276,7 @@
 					}
 				}
 				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
-				console.log(vm.Suggest);
+				//console.log(vm.Suggest);
 				$scope.filterName = vm.Suggest.strain;
 				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
 			});
@@ -287,7 +288,7 @@
 		$scope.filterName = 'Trainwreck';
 		$scope.effectNameValue = '';
 		$scope.filterStrainName = function(name,effect,value){
-			console.log(name);
+			//console.log(name);
 			$scope.filterName = name;
 			$scope.effectNameValue = "(" + effect + ": " + value + ")";		
 		}
