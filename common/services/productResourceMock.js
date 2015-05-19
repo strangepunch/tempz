@@ -2104,8 +2104,8 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
-		 	 "conditions": ["Stress", "Depression", "Pain", "Lack of Appetite", "Headache"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
+		 	 "conditions": ["Anorexia","Anxiety", "Depression", "Insomnia", "Appetite Loss","Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Relaxed",  "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
 			 "descriptionAbbrev":  "An invigorating sativa named after its pungent, diesel-like aroma.",
@@ -7323,19 +7323,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.26
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7343,7 +7343,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7378,13 +7378,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anxiety", "Bipolar", "Depression", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The hit wipes away last night’s cobwebs and bring an airy feeling inside the head; clear but also nicely high.",
+			 "descriptionAbbrev":  "Great daytime smoke enabling you to get through your day with a super Cherry Smile on your face.",
 			 "tags": ["Hybrid", "Sour Cherry", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Sour_Cherry_Kush.jpg"
 			},
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
@@ -16865,7 +16865,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.30
+			 		"value": 17.75
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -16873,11 +16873,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.04
+			 		"value": 0.73
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -16956,13 +16956,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anxiety","Depression", "Epilepsy", "Insomnia", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Social", "Creative", "Relaxed", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "A very nice weed to smoke, not overly powerful but provides a relaxing yet energetic high.",
+			 "descriptionAbbrev":  "Great for chilling with friends and laughing.",
 			 "tags": ["Hybrid", "Sour OG", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/sour-og_100x100.jpg"
 			},
 			{"strainId": 162,
 			 "strainName": "Mars OG",
@@ -20008,6 +20008,111 @@
 			 "descriptionAbbrev":  "Creeps, tricks you into smoking a full bowl to yourself",
 			 "tags": ["Skunk #1"],
 			 "imageUrl": "images/strains/skunk11.jpg"
+			},
+			{"strainId": 190,
+			 	"strainName": "Snowcap",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.99
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.89
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 2.50
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Creative", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Snowcap is a potent sativa with a nice lemony scent with a hint of menthol.",
+			 "descriptionAbbrev":  "The effects are decidedly cerebral and should trigger creativity, happiness, and a case of the giggles",
+			 "tags": ["Snowcap"],
+			 "imageUrl": "images/strains/snowcap_100x100.jpg"
 			}
 		];
 		
