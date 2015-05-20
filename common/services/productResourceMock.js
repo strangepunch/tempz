@@ -214,11 +214,11 @@
 			 		"value": 0.0
 			 	}
 			 ],	 	
-		 	 "conditions": ["Depression", "Stress", "Pain", "Insomnia", "Lack of Appetite"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": " A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
-			 "descriptionAbbrev":  "Among the most famous strains worldwide.",
+		 	 "conditions": ["Anxiety","Depression", "Stress", "Pain", "Insomnia"],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
+			 "descriptionAbbrev":  "A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
 			 "tags": ["Hybrid", "White Widow"],
 			 "imageUrl": "images/strains/white-widow_100x100.jpg"
 			},
@@ -7428,19 +7428,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.37
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.53
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7448,7 +7448,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7483,11 +7483,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar","Depression", "Migraines", "Pain", "PMS", "Stress", "Impotence"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Sexual"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Another rock hard resin machine that will sit on the top shelf all day.",
+			 "descriptionAbbrev":  "Indica dominant phenotypes are perfect for relaxation and healing.",
 			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -7638,19 +7638,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.55
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.06
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7658,7 +7658,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7693,13 +7693,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar","Fibromyalgia","Appetite Loss","Muscle Spasms", "Pain","PMS", "Stress", "Impotence"],
+			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Social", "Creative", "Sexual", "Fatigue"],
+			 "negativeEffects": ["Det Mouth", "Dry Eyes", "Anxious"],
+			 "descriptionDetailed": "Indoor or outdoor grows can expect flowers between 7 and 8 weeks.",
+			 "descriptionAbbrev":  "The fruity tangerine aroma is accompanied with notes of mango and pineapple.",
 			 "tags": ["Hybrid", "Tangerine", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/tangerine_100x100jpg"
 			},
 			{"strainId": 74,
 			 "strainName": "Tangilope", 
@@ -7743,19 +7743,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.43
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 2.77
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.73
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7763,7 +7763,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7798,13 +7798,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Tangelope", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anxiety","Bipolar","Depression","Appetite Loss", "PMS", "Stress"],
+			 "positiveEffects": ["Uplifted", "Happy", "Creative", "Energetic","Euphoric", "Focused"],
+			 "negativeEffects":["Dry Mouth"], 
+			 "descriptionDetailed": "Tangilope is a chocolatey, citrus blend of Tangie and Chocolope, two of DNA Genetics’ best sativas.",
+			 "descriptionAbbrev":  "The cerebral effects evoke happiness, giggles, and can stimulate creativity.",
+			 "tags": ["Sativa", "Tangilope", "Bipolar", "PMS"],
+			 "imageUrl": "images/strains/tangilope_100x100.jpg"
 			},
 			{"strainId": 75,
 			 "strainName": "Tropical OG", 
@@ -14066,19 +14066,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.48
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.14
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.90
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -14086,7 +14086,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -14121,13 +14121,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy","Euphoric", "Energetic","Uplifted", "Focused", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Sugar Plum", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "descriptionAbbrev":  "Much-needed potency for patients treating severe pain, nausea, glaucoma, mood disorders, and gastrointestinal complications.",
+			 "tags": ["Berry", "Sweet"],
+			 "imageUrl": "images/strains/sugar-plum_100x100.jpg"
 			},
 			{"strainId": 135,
 			 "strainName": "Super Lemon Haze", 
@@ -14135,7 +14135,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.60
+			 		"value": 16.53
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -14143,11 +14143,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.82
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 1.20
+			 		"value": 0.66
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -14226,13 +14226,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
+			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": " As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect.",
+			 "descriptionAbbrev":  "The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
 			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/super-lemon-haze_100x100.jpg"
 			},
 			{"strainId": 136,
 			 "strainName": "The White", 
@@ -15641,19 +15641,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 3.85
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -15661,7 +15661,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -15696,13 +15696,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Depression","Nausea","Pain", "PMS", "Stress", "Impotence"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Social", "Creative", "Sexual"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
 			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 			},
 			{"strainId": 150,
 			 "strainName": "Strawberry Mist",
@@ -20113,6 +20113,111 @@
 			 "descriptionAbbrev":  "The effects are decidedly cerebral and should trigger creativity, happiness, and a case of the giggles",
 			 "tags": ["Snowcap"],
 			 "imageUrl": "images/strains/snowcap_100x100.jpg"
+			},
+			{"strainId": 191,
+			 	"strainName": "Super Silver Haze",
+			 	"strainType": "Sativa",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.81
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.58
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Nausea","Depression", "Appetite Loss", "Pain", "Stress", "Fatigue"],
+			 "positiveEffects": ["Happy", "Uplifted","Euphoric", "Energetic", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high.",
+			 "descriptionAbbrev":  "he uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
+			 "tags": ["Super Silver Haze"],
+			 "imageUrl": "images/strains/super-silver-haze_100x100.jpg"
 			}
 		];
 		
@@ -20272,11 +20377,11 @@
 			},
 			{"conditionId": 18,
 			 "conditionName": "Fibromyalgia", 
-			 "treatment": "Fibromyalgia Treatment description here.",
-			 "strains": ["Kali Mist", "Lulu", "Moonshine Diesel", "Purple Coma", "Skunk #1"],
+			 "treatment": "Relief from pain due to muscle soreness of the connective tissues associated with Fibromyalgia.",
+			 "strains": ["Kali Mist", "Lulu", "Moonshine Diesel", "Purple Coma", "Skunk #1", "Tangerine"],
 			 "descriptionDetailed": "Relief from pain due to muscle soreness of the connective tissues associated with Fibromyalgia.",
 			 "descriptionAbbrev":  "Relieve Fibromyalgia",
-			 "tags": ["Trainwreck", "Fibromyalgia", "Snxiety", "Depression"],
+			 "tags": ["Fibromyalgia"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 19,
@@ -20295,6 +20400,24 @@
 			 "descriptionDetailed": "Relief from symptoms associated with impotence and sexual dysfunction.",
 			 "descriptionAbbrev":  "Relief from Impotence",
 			 "tags": ["Trainwreck", "Impotence", "Snxiety", "Depression"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"conditionId": 21,
+			 "conditionName": "Fatigue", 
+			 "treatment": "Become energized when you feel fatigued.",
+			 "strains": ["Green Thailand", "Jillybean", "Lamb's Bread", "Purple Haze", "Great White Shark", "707 Headband", "Acapulco Gold", "ATF", "CandyLand", "Cannalope Haze", "Lemon Jack", "Super Lemon Haze", "J1", "Cinderella 99", "Island Sweet Skunk", "L.A. Kush"],
+			 "descriptionDetailed": "Relief from symptoms associated with fatigue.",
+			 "descriptionAbbrev":  "Relief from fatigue",
+			 "tags": ["Fatigue"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"conditionId": 22,
+			 "conditionName": "Appetite Loss", 
+			 "treatment": "Treat appetite loss.",
+			 "strains": ["Strawberry Cough","Sour Diesel", "Thin Mint", "Banana Diesel", "Chem Valley Kush", "Confidential Cheese", "Fire Bomb", "Forum Cookies/GSC", "Gooey Wreck", "Green Dream", "Green Thailand", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Pineapple Express", "Tangerine", "Tangilope", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Cannalope Haze", "Pineapple Hogsbreath", "Super Lemon Haze", "Afghani Bullrider", "Afgoo", "AK-47", "AK-48", "Cinderella 99", "Lemon Haze", "Sugar Plum", "Kali Mist", "NY Sour Diesel", "Snowcap", "Super Silver Haze"],
+			 "descriptionDetailed": "Relief from symptoms associated with appetite loss.",
+			 "descriptionAbbrev":  "Relief from appetite loss.",
+			 "tags": ["Appetite Loss"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}   	
 		];
