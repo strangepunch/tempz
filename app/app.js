@@ -38,29 +38,36 @@
 							templateUrl: "app/welcomeView.html",
 						})
 
+						//Home
+						.state("main", {
+							url: "/main",
+							templateUrl: "app/mainView.html",
+							controller: "TempsViewCtrl as vm"
+						})
+
 						//Temps
-						.state("temps", {
+						.state("main.temps", {
 							url: "/temps",
 							templateUrl: "app/temps/tempsView.html",
 							controller: "TempsViewCtrl as vm"
 						})
 
 						//Conditions
-						.state("conditions", {
+						.state("main.conditions", {
 							url: "/conditions",
 							templateUrl: "app/conditions/conditionsView.html",
 							controller: "ConditionsViewCtrl as vm"
 						})
 
 						//Effects
-						.state("effects", {
+						.state("main.effects", {
 							url: "/effects",
 							templateUrl: "app/effects/effectsView.html",
 							controller: "EffectsViewCtrl as vm"
 						})
 
 						//Strains
-						.state("strains", {
+						.state("main.strains", {
 							url: "/strains",
 							templateUrl: "app/strains/strainsView.html",
 							controller: "StrainsViewCtrl as vm"

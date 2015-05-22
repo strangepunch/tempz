@@ -21186,13 +21186,13 @@
 			 "descriptionAbbrev":  "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer.",
 			 "included" : "1 x Crafty Vaporizer, 1 x Storz & Bickel Custom Grinder, 1 x Storz & Bickel Custom Filling Tool, 1 x Power Adapter with USB Cable, 1 x Liquid Pad, 3 x Spare Screens, 1 x Cleaning Brush, 1 x Set of Spare Seal Rings, 1 x Instructions for Use",	
 			 "tags": ["crafty","portable","handheld","storz-bickel"],
-			 "imageUrl1": "images/vapes/crafty1.jpg",
- 		 	 "imageUrl2": "images/vapes/crafty2.jpg",
-		 	 "imageUrl3": "images/vapes/crafty3.jpg",
-		 	 "imageUrl4": "images/vapes/crafty1.jpg",
- 		 	 "imageUrl5": "images/vapes/crafty_app2.jpg",
+			 "imageUrl1": "images/vapes/crafty1.png",
+ 		 	 "imageUrl2": "images/vapes/crafty2.png",
+		 	 "imageUrl3": "images/vapes/crafty3.png",
+		 	 "imageUrl4": "images/vapes/crafty1.png",
+ 		 	 "imageUrl5": "images/vapes/crafty_app2.png",
 		 	 "imageUrl6": "images/vapes/crafty_apart.png",
-		 	 "imageUrl7": "images/vapes/crafty_ipad.jpg"
+		 	 "imageUrl7": "images/vapes/crafty_ipad.png"
 			},
 			{"productId": 2,
 			 "productName": "Mighty", //compName
@@ -21212,13 +21212,13 @@
 			 "descriptionAbbrev":  "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers.",
 			 "included" : "1 x Mighty Vaporizer, 1 x Storz & Bickel Custom Grinder, 1 x Storz & Bickel Custom Filling Tool, 1 x Power Adapter with USB Cable, 1 x Liquid Pad, 3 x Spare Screens, 1 x Cleaning Brush, 1 x Set of Spare Seal Rings, 1 x Instructions for Use",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/mighty1.jpg",
-			 "imageUrl2": "images/vapes/mighty2.jpg",
-		 	 "imageUrl3": "images/vapes/mighty3.jpg",
-		 	 "imageUrl4": "images/vapes/mighty1.jpg",
- 		 	 "imageUrl5": "images/vapes/mighty2.jpg",
-		 	 "imageUrl6": "images/vapes/mighty3.jpg",
-		 	 "imageUrl7": "images/vapes/mighty1.jpg"
+			 "imageUrl1": "images/vapes/mighty1.png",
+			 "imageUrl2": "images/vapes/mighty2.png",
+		 	 "imageUrl3": "images/vapes/mighty3.png",
+		 	 "imageUrl4": "images/vapes/mighty1.png",
+ 		 	 "imageUrl5": "images/vapes/mighty2.png",
+		 	 "imageUrl6": "images/vapes/mighty3.png",
+		 	 "imageUrl7": "images/vapes/mighty1.png"
 			},			
 			{"productId": 3,
 			 "productName": "Solo", //compName
@@ -21238,13 +21238,13 @@
 			 "descriptionAbbrev":  "The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game.",
 			 "included" : "Arizer Solo Portable Vaporizer, 2 Glass Mouthpieces (1 Straight and 1 Angled), Aromatherapy Bowl with Potpourri Sample, AC Adapter / Charger, Instruction Manual",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/solo1.jpg",
-			 "imageUrl2": "images/vapes/solo2.jpg",
-			 "imageUrl3": "images/vapes/solo3.jpg",
-			 "imageUrl4": "images/vapes/solo4.jpg",
-			 "imageUrl5": "images/vapes/solo5.jpg",
-			 "imageUrl6": "images/vapes/solo1.jpg",
-			 "imageUrl7": "images/vapes/solo2.jpg"
+			 "imageUrl1": "images/vapes/solo1.png",
+			 "imageUrl2": "images/vapes/solo2.png",
+			 "imageUrl3": "images/vapes/solo3.png",
+			 "imageUrl4": "images/vapes/solo4.png",
+			 "imageUrl5": "images/vapes/solo5.png",
+			 "imageUrl6": "images/vapes/solo1.png",
+			 "imageUrl7": "images/vapes/solo2.png"
 			},
 			{"productId": 4,
 			 "productName": "Arizer Air", //compName
@@ -21264,13 +21264,13 @@
 			 "descriptionAbbrev":  "With this small size and fast heat up time you can be ready to vape almost anywhere at any time.",
 			 "included" : "1 x Arizer Air Vaporizer, 1 x Small Straight Glass Stems w/ Black Mouthpiece, 1 x Medium Straight Glass Stems, 1 x 18650 mAh battery, 1 x Carrying Case, 1 x Protective, Silicone Skin",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/arizer_air1.jpg",
-			 "imageUrl2": "images/vapes/arizer_air2.jpg",
-			 "imageUrl3": "images/vapes/arizer_air3.jpg",
-			 "imageUrl4": "images/vapes/arizer_air1.jpg",
-			 "imageUrl5": "images/vapes/arizer_air2.jpg",
-			 "imageUrl6": "images/vapes/arizer_air3.jpg",
-			 "imageUrl7": "images/vapes/arizer_air1.jpg"
+			 "imageUrl1": "images/vapes/arizer_air1.png",
+			 "imageUrl2": "images/vapes/arizer_air2.png",
+			 "imageUrl3": "images/vapes/arizer_air3.png",
+			 "imageUrl4": "images/vapes/arizer_air1.png",
+			 "imageUrl5": "images/vapes/arizer_air2.png",
+			 "imageUrl6": "images/vapes/arizer_air3.png",
+			 "imageUrl7": "images/vapes/arizer_air1.png"
 			},
 			{"productId": 5,
 			 "productName": "Pinnacle Pro", //compName
@@ -21290,13 +21290,13 @@
 			 "descriptionAbbrev":  "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike.",
 			 "included" : "1 x Pinnacle Pro Portable Vaporizer, 1 x Chamber Cap, 1 x PonG Adapter w/ Glass Vapor Path, 2 x Dry Herb Filling Chambers, 1 x Wax/Oil Filling Chamber, 1 x Charger, 1 x Cleaning Brush, 1 x Wire Pipe Cleaner, 1 x Bamboo Cleaning Stick, 1 x Standard Mouthpiece, 1 x Quick Start Guide",
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/pinnaclepro1.jpg",
-			 "imageUrl2": "images/vapes/pinnaclepro2.jpg",
+			 "imageUrl1": "images/vapes/pinnaclepro1.png",
+			 "imageUrl2": "images/vapes/pinnaclepro2.png",
 			 "imageUrl3": "images/vapes/pinnaclepro3.png",
-			 "imageUrl4": "images/vapes/pinnaclepro4.jpg",
-			 "imageUrl5": "images/vapes/pinnaclepro5.jpg",
-			 "imageUrl6": "images/vapes/pinnaclepro6.jpg",
-			 "imageUrl7": "images/vapes/pinnaclepro7.jpg"
+			 "imageUrl4": "images/vapes/pinnaclepro4.png",
+			 "imageUrl5": "images/vapes/pinnaclepro5.png",
+			 "imageUrl6": "images/vapes/pinnaclepro6.png",
+			 "imageUrl7": "images/vapes/pinnaclepro7.png"
 			},
 			{"productId": 6,
 			 "productName": "Pinnacle Pro Deluxe", //compName
@@ -21316,13 +21316,13 @@
 			 "descriptionAbbrev":  "The Pinnacle Pro DLX is the newest version and now comes with glass screen housing and vapor tube in the PonG adapter.",
 			 "included" : "1 x Pinnacle Pro Portable Vaporizer, 1 x Micro Shower Water Tool, 1 x Chamber Cap, 1 x PonG Adapter w/ Glass Vapor Path, 2 x Dry Herb Filling Chambers, 1 x Wax/Oil Filling Chamber, 1 x Charger, 1 x Cleaning Brush, 1 x Wire Pipe Cleaner, 1 x Bamboo Cleaning Stick, 1 x Standard Mouthpiece, 1 x Quick Start Guide",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/pinnacleprodlx1.jpg",
-			 "imageUrl2": "images/vapes/pinnacleprodlx2.jpg",
-			 "imageUrl3": "images/vapes/pinnacleprodlx3.jpg",
-			 "imageUrl4": "images/vapes/pinnacleprodlx4.jpg",
+			 "imageUrl1": "images/vapes/pinnacleprodlx1.png",
+			 "imageUrl2": "images/vapes/pinnacleprodlx2.png",
+			 "imageUrl3": "images/vapes/pinnacleprodlx3.png",
+			 "imageUrl4": "images/vapes/pinnacleprodlx4.png",
 			 "imageUrl5": "images/vapes/pinnacleprodlx5.png",
-			 "imageUrl6": "images/vapes/pinnacleprodlx6.jpg",
-			 "imageUrl7": "images/vapes/pinnacleprodlx7.jpg"
+			 "imageUrl6": "images/vapes/pinnacleprodlx6.png",
+			 "imageUrl7": "images/vapes/pinnacleprodlx7.png"
 			},
 			{"productId": 7,
 			 "productName": "Ascent", //compName
@@ -21342,13 +21342,13 @@
 			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "included" : "1 x Ascent Portable Vaporizer, 2 x Inner Glass Tubes, 2 x Glass Mouthpieces, 2 x Glass Oil Jars with Silicone Caps, 2 x Stir Tools, 2 x Mouthpiece Caps, 3 x Replacement Screens, 1 x Carrying Pouch, 1 x Battery Charger, 1 x Instruction Manual",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/ascent1.jpg",
-			 "imageUrl2": "images/vapes/ascent2.jpg",
-			 "imageUrl3": "images/vapes/ascent3.jpg",
-			 "imageUrl4": "images/vapes/ascent4.jpg",
-			 "imageUrl5": "images/vapes/ascent5.jpg",
-			 "imageUrl6": "images/vapes/ascent1.jpg",
-			 "imageUrl7": "images/vapes/ascent2.jpg"
+			 "imageUrl1": "images/vapes/ascent1.png",
+			 "imageUrl2": "images/vapes/ascent2.png",
+			 "imageUrl3": "images/vapes/ascent3.png",
+			 "imageUrl4": "images/vapes/ascent4.png",
+			 "imageUrl5": "images/vapes/ascent5.png",
+			 "imageUrl6": "images/vapes/ascent1.png",
+			 "imageUrl7": "images/vapes/ascent2.png"
 			},
 			{"productId": 8,
 			 "productName": "DaVinci", //compName
@@ -21368,13 +21368,13 @@
 			 "descriptionAbbrev":  "The DaVinci Vaporizer was designed with a few goals in mind - portability, efficiency, ease of use, and a discreet vaporizing experience.",
 			 "included" : "DaVinci Portable Vaporizer, Battery Charger, Cleaning Accessories, 3 Replacement Screens, Instruction Manual",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/davinci1.jpg",
-			 "imageUrl2": "images/vapes/davinci2.jpg",
-			 "imageUrl3": "images/vapes/davinci3.jpg",
+			 "imageUrl1": "images/vapes/davinci1.png",
+			 "imageUrl2": "images/vapes/davinci2.png",
+			 "imageUrl3": "images/vapes/davinci3.png",
 			 "imageUrl4": "images/vapes/davinci4.png",
-			 "imageUrl5": "images/vapes/davinci1.jpg",
-			 "imageUrl6": "images/vapes/davinci2.jpg",
-			 "imageUrl7": "images/vapes/davinci3.jpg"
+			 "imageUrl5": "images/vapes/davinci1.png",
+			 "imageUrl6": "images/vapes/davinci2.png",
+			 "imageUrl7": "images/vapes/davinci3.png"
 			},
 			{"productId": 9,
 			 "productName": "Plenty", //compName
@@ -21394,13 +21394,13 @@
 			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
 			 "included" : "Plenty Vaporizer, Storz & Bickel Custom Grinder, Filling Chamber, Mouthpiece, Cooling Coil, 3 Screens, Liquid Pad, 2 Whip Tubing Short, 2 Whip Tubing Long, Cleaning Brush, Herb Mill, Instruction Manual",	
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/plenty1.jpg",
-			 "imageUrl2": "images/vapes/plenty2.jpg",
-			 "imageUrl3": "images/vapes/plenty3.jpg",
-			 "imageUrl4": "images/vapes/plenty4.jpg",
-			 "imageUrl5": "images/vapes/plenty5.jpg",
-			 "imageUrl6": "images/vapes/plenty1.jpg",
-			 "imageUrl7": "images/vapes/plenty2.jpg"
+			 "imageUrl1": "images/vapes/plenty1.png",
+			 "imageUrl2": "images/vapes/plenty2.png",
+			 "imageUrl3": "images/vapes/plenty3.png",
+			 "imageUrl4": "images/vapes/plenty4.png",
+			 "imageUrl5": "images/vapes/plenty5.png",
+			 "imageUrl6": "images/vapes/plenty1.png",
+			 "imageUrl7": "images/vapes/plenty2.png"
 			},
 			{"productId": 10,
 			 "productName": "PUFFiT 2", //compName
@@ -21420,13 +21420,13 @@
 			 "descriptionAbbrev":  "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
 			 "included" : "1 x PUFFiT 2 Portable Vaporizer, 1 x Silicone Heat Shield, 1 x USB Charger, 1 x Packing Tool, 1 x Concentrate Screens, 4 x Replacement Screens, 1 x User Manual",	
 			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/puffit1.jpg",
-			 "imageUrl2": "images/vapes/puffit2.jpg",
-			 "imageUrl3": "images/vapes/puffit3.jpg",
-			 "imageUrl4": "images/vapes/puffit4.jpg",
-			 "imageUrl5": "images/vapes/puffit5.jpg",
-			 "imageUrl6": "images/vapes/puffit6.jpg",
-			 "imageUrl7": "images/vapes/puffit1.jpg"
+			 "imageUrl1": "images/vapes/puffit1.png",
+			 "imageUrl2": "images/vapes/puffit2.png",
+			 "imageUrl3": "images/vapes/puffit3.png",
+			 "imageUrl4": "images/vapes/puffit4.png",
+			 "imageUrl5": "images/vapes/puffit5.png",
+			 "imageUrl6": "images/vapes/puffit6.png",
+			 "imageUrl7": "images/vapes/puffit1.png"
 			},
 			{"productId": 11,
 			 "productName": "Vapir Rise 2.0", //compName
@@ -21446,13 +21446,13 @@
 			 "descriptionAbbrev":  "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
 			 "included" : "1 x Vapir Rise Vaporizer, 1 x Power Cord, 1 x Herb Chamber, 1 x Aromatherapy Oil Chamber, 1 x Chamber Adapter with Plunger, 1 x Balloon Adapter with ON/OFF Valve, 1 x Inhalation Adapter, 1 x Multi-user Adapter, 1 x Hot Chamber Grabber, 3 x Inflation Balloons, 1 x Balloon Clamp, 2 x HEPA Air Filters, 2 x Large Mesh Screens (1 x installed), 2 x Small Mesh Screens (1 x installed), 1 x Silicone Tube (3.25 ft), 1 x X-Tip Mouthpiece, 1 x User Guide",	
 			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/vapirrise1.jpg",
-			 "imageUrl2": "images/vapes/vapirrise2.jpg",
-			 "imageUrl3": "images/vapes/vapirrise3.jpg",
-			 "imageUrl4": "images/vapes/vapirrise4.jpg",
-			 "imageUrl5": "images/vapes/vapirrise5.jpg",
-			 "imageUrl6": "images/vapes/vapirrise1.jpg",
-			 "imageUrl7": "images/vapes/vapirrise2.jpg"
+			 "imageUrl1": "images/vapes/vapirrise1.png",
+			 "imageUrl2": "images/vapes/vapirrise2.png",
+			 "imageUrl3": "images/vapes/vapirrise3.png",
+			 "imageUrl4": "images/vapes/vapirrise4.png",
+			 "imageUrl5": "images/vapes/vapirrise5.png",
+			 "imageUrl6": "images/vapes/vapirrise1.png",
+			 "imageUrl7": "images/vapes/vapirrise2.png"
 			},
 			{"productId": 12,
 			 "productName": "Volcano Digit", //compName
@@ -21472,13 +21472,13 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "included" : "Volcano Digit Vaporizer, Storz & Bickel Custom Grinder, 5 Vapor Balloons with Mouthpiece, Volcano Air Filter Set, Easy Valve Filling Chamber with Cap, Easy Valve Screen Set, Cleaning Brush, 1 Liquid Pad and 3 Clips, Instruction Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/volcano2.jpg",
-			 "imageUrl2": "images/vapes/volcano3.jpg",
-			 "imageUrl3": "images/vapes/volcano1.jpg",
-			 "imageUrl4": "images/vapes/volcano4.jpg",
-			 "imageUrl5": "images/vapes/volcano5.jpg",
-			 "imageUrl6": "images/vapes/volcano6.jpg",
-			 "imageUrl7": "images/vapes/volcano7.jpg"
+			 "imageUrl1": "images/vapes/volcano2.png",
+			 "imageUrl2": "images/vapes/volcano3.png",
+			 "imageUrl3": "images/vapes/volcano1.png",
+			 "imageUrl4": "images/vapes/volcano4.png",
+			 "imageUrl5": "images/vapes/volcano5.png",
+			 "imageUrl6": "images/vapes/volcano6.png",
+			 "imageUrl7": "images/vapes/volcano7.png"
 			},
 			{"productId": 13,
 			 "productName": "Silver Surfer Vaporizer", //compName
@@ -21498,13 +21498,13 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "included" : "Silver Surfer Vaporizer, Whip / Wand Assembly, Glass Mouthpiece, 3 ft Whip Tubing, Glass Wand, 3x Replacement Screens, Stir Tool, Padded Travel Bag, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/ssv_colors.jpg",
-			 "imageUrl2": "images/vapes/ssv2.jpg",
-			 "imageUrl3": "images/vapes/ssv_ceramic_element.jpg",
+			 "imageUrl1": "images/vapes/ssv_colors.png",
+			 "imageUrl2": "images/vapes/ssv2.png",
+			 "imageUrl3": "images/vapes/ssv_ceramic_element.png",
 			 "imageUrl4": "images/vapes/SSVStdglass2.png",
 			 "imageUrl5": "images/vapes/SSV_groundglass2.png",
-			 "imageUrl6": "images/vapes/ssv4.jpg",
-			 "imageUrl7": "images/vapes/ssv_complete_set.jpg"
+			 "imageUrl6": "images/vapes/ssv4.png",
+			 "imageUrl7": "images/vapes/ssv_complete_set.png"
 			},
 			{"productId": 14,
 			 "productName": "The Da Buddah Vaporizer", //compName
@@ -21550,13 +21550,13 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "included" : "Magic-Flight Launch Box, 2x Rechargeable NiMH Glyph Batteries With Caps, Battery Charger, Felt-lined Decorative Tin, Glass Draw Stem, Cleaning Brush, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/mflb1.jpg",
-			 "imageUrl2": "images/vapes/mflb2.jpg",
-			 "imageUrl3": "images/vapes/mflb3.jpg",
-			 "imageUrl4": "images/vapes/mflb4.jpg",
-			 "imageUrl5": "images/vapes/mflb1.jpg",
-			 "imageUrl6": "images/vapes/mflb2.jpg",
-			 "imageUrl7": "images/vapes/mflb3.jpg"
+			 "imageUrl1": "images/vapes/mflb1.png",
+			 "imageUrl2": "images/vapes/mflb2.png",
+			 "imageUrl3": "images/vapes/mflb3.png",
+			 "imageUrl4": "images/vapes/mflb4.png",
+			 "imageUrl5": "images/vapes/mflb1.png",
+			 "imageUrl6": "images/vapes/mflb2.png",
+			 "imageUrl7": "images/vapes/mflb3.png"
 			},
 			{"productId": 16,
 			 "productName": "The Extreme Q", //compName
@@ -21576,13 +21576,13 @@
 			 "descriptionAbbrev":  "The Extreme Q offers a powerful yet energy efficient ceramic heating element and glass-on-glass components for clean vapor",
 			 "included" : "Extreme Q Vaporizer, Remote Control, 2x Glass Cyclone Bowls with Flat Screens, 3 foot Whip Tubing, Glass Whip Mouthpiece, Glass Elbow Adapter with Dome Screen, Pre-Attached Mini Whip for Balloon, Balloon Assembly, 2x Balloons, 2x Glass Balloon Mouthpieces, 2x O-Rings, Glass Stir Tool, Flat Screen, Dome Screen, Glass Potpourri Dish with Potpourri Sample, 110/220V Power Supply, User Manual ",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/extremeq1.jpg",
-			 "imageUrl2": "images/vapes/extremeq2.jpg",
-			 "imageUrl3": "images/vapes/extremeq3.jpg",
-			 "imageUrl4": "images/vapes/extremeq4.jpg",
-			 "imageUrl5": "images/vapes/extremeq5.jpg",
-			 "imageUrl6": "images/vapes/extremeq6.jpg",
-			 "imageUrl7": "images/vapes/extremeq7.jpg"
+			 "imageUrl1": "images/vapes/extremeq1.png",
+			 "imageUrl2": "images/vapes/extremeq2.png",
+			 "imageUrl3": "images/vapes/extremeq3.png",
+			 "imageUrl4": "images/vapes/extremeq4.png",
+			 "imageUrl5": "images/vapes/extremeq5.png",
+			 "imageUrl6": "images/vapes/extremeq6.png",
+			 "imageUrl7": "images/vapes/extremeq7.png"
 			},
 			{"productId": 17,
 			 "productName": "The Haze", //compName
@@ -21602,13 +21602,13 @@
 			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
 			 "included" : "Haze Vaporizer, Stainless Steel Mouthpiece, Glass Mouthpiece, 2x All-Purpose Cans, 2x Conduction Screens, 2x Convection Screens, 2x Haze Batteries, Wall Charger, Cleaning Tool, Material Tool, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/haze1.jpg",
-			 "imageUrl2": "images/vapes/haze2.jpg",
-			 "imageUrl3": "images/vapes/haze3.jpg",
-			 "imageUrl4": "images/vapes/haze4.jpg",
-			 "imageUrl5": "images/vapes/haze5.jpg",
-			 "imageUrl6": "images/vapes/haze6.jpg",
-			 "imageUrl7": "images/vapes/haze7.jpg"
+			 "imageUrl1": "images/vapes/haze1.png",
+			 "imageUrl2": "images/vapes/haze2.png",
+			 "imageUrl3": "images/vapes/haze3.png",
+			 "imageUrl4": "images/vapes/haze4.png",
+			 "imageUrl5": "images/vapes/haze5.png",
+			 "imageUrl6": "images/vapes/haze6.png",
+			 "imageUrl7": "images/vapes/haze7.png"
 			},
 			{"productId": 18,
 			 "productName": "The Firefly", //compName
@@ -21628,13 +21628,13 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "included" : "Firefly Vaporizer, High Power Rechargeable Lithium-ion Battery, Cleaning Kit, Soft Case, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/firefly1.jpg",
-			 "imageUrl2": "images/vapes/firefly2.jpg",
-			 "imageUrl3": "images/vapes/firefly3.jpg",
-			 "imageUrl4": "images/vapes/firefly4.jpg",
-			 "imageUrl5": "images/vapes/firefly1.jpg",
-			 "imageUrl6": "images/vapes/firefly2.jpg",
-			 "imageUrl7": "images/vapes/firefly3.jpg"
+			 "imageUrl1": "images/vapes/firefly1.png",
+			 "imageUrl2": "images/vapes/firefly2.png",
+			 "imageUrl3": "images/vapes/firefly3.png",
+			 "imageUrl4": "images/vapes/firefly4.png",
+			 "imageUrl5": "images/vapes/firefly1.png",
+			 "imageUrl6": "images/vapes/firefly2.png",
+			 "imageUrl7": "images/vapes/firefly3.png"
 			},
 			{"productId": 19,
 			 "productName": "The Hot Box", //compName
@@ -21654,13 +21654,13 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "included" : "Hot Box Vaporizer, Whip / Wand Assembly, Glass 2-Piece Wand, .5' Whip Tubing, Glass Mouthpiece, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/hotbox1.jpg",
-			 "imageUrl2": "images/vapes/hotbox2.jpg",
-			 "imageUrl3": "images/vapes/hotbox3.jpg",
-			 "imageUrl4": "images/vapes/hotbox4.jpg",
-			 "imageUrl5": "images/vapes/hotbox5.jpg",
-			 "imageUrl6": "images/vapes/hotbox1.jpg",
-			 "imageUrl7": "images/vapes/hotbox2.jpg"
+			 "imageUrl1": "images/vapes/hotbox1.png",
+			 "imageUrl2": "images/vapes/hotbox2.png",
+			 "imageUrl3": "images/vapes/hotbox3.png",
+			 "imageUrl4": "images/vapes/hotbox4.png",
+			 "imageUrl5": "images/vapes/hotbox5.png",
+			 "imageUrl6": "images/vapes/hotbox1.png",
+			 "imageUrl7": "images/vapes/hotbox2.png"
 			},
 			{"productId": 20,
 			 "productName": "The Pax", //compName
@@ -21680,13 +21680,13 @@
 			 "descriptionAbbrev":  "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor.",
 			 "included" : "Pax Vaporizer, Screen, Mouthpiece, Oven Lid, Charging Dock, Charging Cord, 5x Cleaning Tools, 5x Cleaning Wipes, 2x Lubricant Packet, User Manual",	
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/pax1.jpg",
-			 "imageUrl2": "images/vapes/pax2.jpg",
-			 "imageUrl3": "images/vapes/pax3.jpg",
-			 "imageUrl4": "images/vapes/pax4.jpg",
-			 "imageUrl5": "images/vapes/pax1.jpg",
-			 "imageUrl6": "images/vapes/pax2.jpg",
-			 "imageUrl7": "images/vapes/pax3.jpg"
+			 "imageUrl1": "images/vapes/pax1.png",
+			 "imageUrl2": "images/vapes/pax2.png",
+			 "imageUrl3": "images/vapes/pax3.png",
+			 "imageUrl4": "images/vapes/pax4.png",
+			 "imageUrl5": "images/vapes/pax1.png",
+			 "imageUrl6": "images/vapes/pax2.png",
+			 "imageUrl7": "images/vapes/pax3.png"
 			}			
 		];
 
@@ -21718,13 +21718,13 @@
 			 						   "The top of the Crafty vaporizer can be removed to load your herbs and makes cleaning the heating chamber a breeze. The swivel style mouthpiece can be turned in for compact storage and twisted outward when you're ready to vape, making the Crafty that much easier to use on the move.", 
 			 						   "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer."],
 			 "tags": ["crafty","portable","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/crafty1.jpg",
- 		 	 			  "images/vapes/crafty2.jpg",
-		 	  			  "images/vapes/crafty3.jpg",
-		 	 			  "images/vapes/crafty1.jpg",
- 		 	 			  "images/vapes/crafty_app2.jpg",
+			 "imageUrl": ["images/vapes/crafty1.png",
+ 		 	 			  "images/vapes/crafty2.png",
+		 	  			  "images/vapes/crafty3.png",
+		 	 			  "images/vapes/crafty1.png",
+ 		 	 			  "images/vapes/crafty_app2.png",
 		 	  			  "images/vapes/crafty_apart.png",
-		 	  			  "images/vapes/crafty_ipad.jpg"]
+		 	  			  "images/vapes/crafty_ipad.png"]
 			},
 			{"tipId": 2,
 			 "tipCatagory":"Portable", 
@@ -21752,13 +21752,13 @@
 			 						   "The ribbed design of the body creates a cool feel in the hand while making the vaporizer extremely light and comfortable to use.", 
 			 						   "The Mighty vaporizer is powered by 2 internal lithium ion batteries which provide a long use time. The batteries are separated from the heater to ensure a safe environment and longer overall lifespan of the Mighty vaporizer itself. The Mighty vape can easily be recharged by connecting to any standard wall outlet using the included charging adapter. Shrink the power of the world's most popular and efficient vaporizers and enjoy pure vapor in the palm of your hand with the Mighty vaporizer."],			 
 			 "tags": ["Mighty","portable","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/mighty1.jpg",
-			 			  "images/vapes/mighty2.jpg",
-		 	 			  "images/vapes/mighty3.jpg",
-		 	 			  "images/vapes/mighty1.jpg",
- 		 	 			  "images/vapes/mighty2.jpg",
-		 	 			  "images/vapes/mighty3.jpg",
-		 	 			  "images/vapes/mighty1.jpg"]
+			 "imageUrl": ["images/vapes/mighty1.png",
+			 			  "images/vapes/mighty2.png",
+		 	 			  "images/vapes/mighty3.png",
+		 	 			  "images/vapes/mighty1.png",
+ 		 	 			  "images/vapes/mighty2.png",
+		 	 			  "images/vapes/mighty3.png",
+		 	 			  "images/vapes/mighty1.png"]
 			},
 			{"tipId": 3,
 			 "tipCatagory":"Desktop", 
@@ -21786,13 +21786,13 @@
 			 						   "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
 			 						   "The Plenty Vaporizer has a solid polycarbonate build with stainless steel cooling coil."],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/plenty1.jpg",
-						  "images/vapes/plenty2.jpg",
-						  "images/vapes/plenty3.jpg",
-						  "images/vapes/plenty4.jpg",
-						  "images/vapes/plenty5.jpg",
-						  "images/vapes/plenty1.jpg",
-						  "images/vapes/plenty2.jpg"]
+			 "imageUrl": ["images/vapes/plenty1.png",
+						  "images/vapes/plenty2.png",
+						  "images/vapes/plenty3.png",
+						  "images/vapes/plenty4.png",
+						  "images/vapes/plenty5.png",
+						  "images/vapes/plenty1.png",
+						  "images/vapes/plenty2.png"]
 			},
 			{"tipId": 4,
 			 "tipCatagory":"Portable", 
@@ -21822,13 +21822,13 @@
 			 						   "The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
 			 						   "That's right, the Pinnacle Pro has the ability to vaporize dry herbs and concentrates right out of the box by simply changing the included bullet in the chamber. Another small, yet very efficient change is the Pro's new battery level indicator. By pressing the button just once the LED lights will light up to display how much battery level the Pinnacle has left. This pint size power house is an excellent choice as a first vaporizer or as an upgrade or addition to your current vaporizer collection. Reach the pinnacle of portable vaporization like a pro with VaporBLUNT's Pinnacle Pro vaporizer."],
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": ["images/vapes/pinnaclepro1.jpg",
-			  			  "images/vapes/pinnaclepro2.jpg",
+			 "imageUrl": ["images/vapes/pinnaclepro1.png",
+			  			  "images/vapes/pinnaclepro2.png",
 			  			  "images/vapes/pinnaclepro3.png",
-			  			  "images/vapes/pinnaclepro4.jpg",
-			  			  "images/vapes/pinnaclepro5.jpg",
-			  			  "images/vapes/pinnaclepro6.jpg",
-			  			  "images/vapes/pinnaclepro7.jpg"]
+			  			  "images/vapes/pinnaclepro4.png",
+			  			  "images/vapes/pinnaclepro5.png",
+			  			  "images/vapes/pinnaclepro6.png",
+			  			  "images/vapes/pinnaclepro7.png"]
 			},
 			{"tipId": 5,
 			 "tipCatagory":"Pen", 
@@ -21852,11 +21852,11 @@
 			 						   "The herbs are a golden brown color once it is vaped, and we will have a picture of some vaped herbs in our video review of this unit."
 			 						   ],
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": ["images/vapes/series-3-personal-vaporizer-300x207.jpg",
-			  			  "images/vapes/series-3-personal-vaporizer-usb-charger-300x202.jpg",
+			 "imageUrl": ["images/vapes/series-3-personal-vaporizer-300x207.png",
+			  			  "images/vapes/series-3-personal-vaporizer-usb-charger-300x202.png",
 			  			  "images/vapes/series-3-LED.png",
-			  			  "images/vapes/series-3-personal-vaporizer-liquid-cartridge-139x300.jpg",
-			  			  "images/vapes/series-3-personal-vaporizer-loose-leaf-cartridge-123x300.jpg"]
+			  			  "images/vapes/series-3-personal-vaporizer-liquid-cartridge-139x300.png",
+			  			  "images/vapes/series-3-personal-vaporizer-loose-leaf-cartridge-123x300.png"]
 			},
 			{"tipId": 6,
 			 "tipCatagory":"Portable", 
@@ -21881,11 +21881,11 @@
 			 						   "Also, the Arizer Solo's lithium-ion battery is unmatched, taking only about 2 hours to charge but lasts through an astonishing 4+ hours of vaporization.",
 			 						   "The newest version allows you to heat-up and vaporize with the unit while it's charging, so you no longer need the A/C power adapter to turn the Solo into a table top vaporizer with unlimited power. Add in the fact that this vape uses an all glass mouthpiece to connect to the heating element and you have one amazing portable vape. The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game. Available in Black or Silver."],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/solo1.jpg",
-						  "images/vapes/solo2.jpg",
-						  "images/vapes/plenty3.jpg",
-						  "images/vapes/solo4.jpg",
-						  "images/vapes/solo5.jpg"
+			 "imageUrl": ["images/vapes/solo1.png",
+						  "images/vapes/solo2.png",
+						  "images/vapes/plenty3.png",
+						  "images/vapes/solo4.png",
+						  "images/vapes/solo5.png"
 						  ]
 			},
 			{"tipId": 7,
@@ -21916,11 +21916,11 @@
 			 						   "Turn on Silver Surfer and set to your desired temperature. Once temperature has been reached, load finely ground blends into the glass wand and connect to the glass heater cover. Begin to draw at a medium to fast pace for best results.",
 			 						   "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike."],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/ssv2.jpg",
-						  "images/vapes/ssv_ceramic_element.jpg",
+			 "imageUrl": ["images/vapes/ssv2.png",
+						  "images/vapes/ssv_ceramic_element.png",
 						  "images/vapes/SSVStdglass2.png",
 						  "images/vapes/SV_groundglass2.png",
-						  "images/vapes/ssv4.jpg"
+						  "images/vapes/ssv4.png"
 						  ]
 			},
 			{"tipId": 8,
@@ -21952,11 +21952,11 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/ascent1.jpg",
-				"images/vapes/ascent2.jpg",
+			 	"images/vapes/ascent1.png",
+				"images/vapes/ascent2.png",
 				"images/vapes/ascent3.png",
 				"images/vapes/ascent4.png",
-				"images/vapes/ascent5.jpg" 
+				"images/vapes/ascent5.png" 
 				]
 			},
 			{"tipId": 9,
@@ -21986,8 +21986,8 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/arizer_air1.jpg",
-				"images/vapes/arizer_air2.jpg",
+			 	"images/vapes/arizer_air1.png",
+				"images/vapes/arizer_air2.png",
 				"images/vapes/arizer_air3.png" 
 				]
 			},
@@ -22018,12 +22018,12 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/volcano2.jpg",
-				"images/vapes/volcano3.jpg",
-				"images/vapes/volcano1.jpg",
-				"images/vapes/volcano7.jpg",
-				"images/vapes/volcano5.jpg",
-				"images/vapes/volcano6.jpg" 
+			 	"images/vapes/volcano2.png",
+				"images/vapes/volcano3.png",
+				"images/vapes/volcano1.png",
+				"images/vapes/volcano7.png",
+				"images/vapes/volcano5.png",
+				"images/vapes/volcano6.png" 
 				]
 			},
 			{"tipId": 11,
@@ -22064,11 +22064,11 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/vapirrise1.jpg",
-				"images/vapes/vapirrise2.jpg",
-				"images/vapes/vapirrise3.jpg",
-				"images/vapes/vapirrise4.jpg",
-				"images/vapes/vapirrise5.jpg" 
+			 	"images/vapes/vapirrise1.png",
+				"images/vapes/vapirrise2.png",
+				"images/vapes/vapirrise3.png",
+				"images/vapes/vapirrise4.png",
+				"images/vapes/vapirrise5.png" 
 				]
 			},
 			{"tipId": 12,
@@ -22145,13 +22145,13 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/extremeq1.jpg",
-				"images/vapes/extremeq2.jpg",
-				"images/vapes/extremeq3.jpg",
-				"images/vapes/extremeq4.jpg",
-				"images/vapes/extremeq5.jpg",
-				"images/vapes/extremeq6.jpg",
-				"images/vapes/extremeq7.jpg" 
+			 	"images/vapes/extremeq1.png",
+				"images/vapes/extremeq2.png",
+				"images/vapes/extremeq3.png",
+				"images/vapes/extremeq4.png",
+				"images/vapes/extremeq5.png",
+				"images/vapes/extremeq6.png",
+				"images/vapes/extremeq7.png" 
 				]
 			},
 			{"tipId": 14,
@@ -22183,13 +22183,13 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/haze1.jpg",
-				"images/vapes/haze2.jpg",
-				"images/vapes/haze3.jpg",
-				"images/vapes/haze4.jpg",
-				"images/vapes/haze5.jpg",
-				"images/vapes/haze6.jpg",
-				"images/vapes/haze7.jpg" 
+			 	"images/vapes/haze1.png",
+				"images/vapes/haze2.png",
+				"images/vapes/haze3.png",
+				"images/vapes/haze4.png",
+				"images/vapes/haze5.png",
+				"images/vapes/haze6.png",
+				"images/vapes/haze7.png" 
 				]
 			},
 			{"tipId": 15,
@@ -22219,11 +22219,11 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/Source-3.jpg",
-				"images/vapes/Source-3-8-2137.jpg",
+			 	"images/vapes/Source-3.png",
+				"images/vapes/Source-3-8-2137.png",
 				"images/vapes/Source-3-8-2278_grande.jpeg",
-				"images/vapes/Source-3-8-2167.jpg",
-				"images/vapes/Source-3-8-2298_small.jpg"
+				"images/vapes/Source-3-8-2167.png",
+				"images/vapes/Source-3-8-2298_small.png"
 				]
 			},
 			{"tipId": 16,
@@ -22251,11 +22251,11 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/ambassador_1024x1024.jpg",
-				"images/vapes/ambassador-maxresdefault.jpg",
-				"images/vapes/ambassador2.jpg",
-				"images/vapes/Source-3-8-2167.jpg",
-				"images/vapes/Source-3-8-2298_small.jpg"
+			 	"images/vapes/ambassador_1024x1024.png",
+				"images/vapes/ambassador-maxresdefault.png",
+				"images/vapes/ambassador2.png",
+				"images/vapes/Source-3-8-2167.png",
+				"images/vapes/Source-3-8-2298_small.png"
 				]
 			},
 			{"tipId": 17,
@@ -22279,8 +22279,8 @@
 			 						   ],
 			 "tags": ["plenty","desktop","handheld","storz-bickel"],
 			 "imageUrl":[
-			 	"images/vapes/dr-dabber-ghost-all.jpg",
-				"images/vapes/drdabberNEWSLIDE5.jpg",
+			 	"images/vapes/dr-dabber-ghost-all.png",
+				"images/vapes/drdabberNEWSLIDE5.png",
 				"images/vapes/dr-dabber-ghost-pen_1.png",
 				"images/vapes/dr-dabber-ghost-pen_1.png",
 				"images/vapes/drdabberghostsmlthumbpickeno_3_1024x1024.png"
@@ -22310,13 +22310,13 @@
 			  						   "The DaVinci truly has it all to make vaporizing on the go a fast, easy and hassle free experience anywhere you go."
 			 						  ],
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl":["images/vapes/davinci1.jpg",
-			 			 "images/vapes/davinci2.jpg",
-			 			 "images/vapes/davinci3.jpg",
+			 "imageUrl":["images/vapes/davinci1.png",
+			 			 "images/vapes/davinci2.png",
+			 			 "images/vapes/davinci3.png",
 			 			 "images/vapes/davinci4.png",
-			 			 "images/vapes/davinci1.jpg",
-			 			 "images/vapes/davinci2.jpg",
-			 			 "images/vapes/davinci3.jpg"]
+			 			 "images/vapes/davinci1.png",
+			 			 "images/vapes/davinci2.png",
+			 			 "images/vapes/davinci3.png"]
 			},
 			{"tipId": 19,
 			 "tipCatagory":"Portable", 
@@ -22344,13 +22344,13 @@
 			  						   "A small LED on the back of the unit will indicate your selected temperature setting, while holding the power button down will turn the 4 bar LED into a battery life indicator. 4 bars means your fully charged and 1 bar means it's time to find your charger. A 2200mAh lithium ion battery provides long vape sessions and is easily recharged using the included USB cord. The PUFFiT 2's battery can be removed for replacement, so having a backup will keep your sessions going even longer. Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer."
 			 						  ],
 			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/puffit1.jpg",
-			 			 "images/vapes/puffit2.jpg",
-			 			 "images/vapes/puffit3.jpg",
-			 			 "images/vapes/puffit4.jpg",
-			 			 "images/vapes/puffit5.jpg",
-			 			 "images/vapes/puffit6.jpg",
-			 			 "images/vapes/puffit1.jpg"]
+			 "imageUrl":["images/vapes/puffit1.png",
+			 			 "images/vapes/puffit2.png",
+			 			 "images/vapes/puffit3.png",
+			 			 "images/vapes/puffit4.png",
+			 			 "images/vapes/puffit5.png",
+			 			 "images/vapes/puffit6.png",
+			 			 "images/vapes/puffit1.png"]
 			},
 			{"tipId": 20,
 			 "tipCatagory":"Portable", 
@@ -22378,13 +22378,13 @@
 			  						   "To clean, gently wipe screen with a 91% Isopropyl Alcohol. Avoid contact of Isopropyl alcohol with trench."
 			 						  ],
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/mflb1.jpg",
-			  			 "images/vapes/mflb2.jpg",
-			  			 "images/vapes/mflb3.jpg",
-			  			 "images/vapes/mflb4.jpg",
-			  			 "images/vapes/mflb1.jpg",
-			  			 "images/vapes/mflb2.jpg",
-			  			 "images/vapes/mflb3.jpg"]
+			 "imageUrl":["images/vapes/mflb1.png",
+			  			 "images/vapes/mflb2.png",
+			  			 "images/vapes/mflb3.png",
+			  			 "images/vapes/mflb4.png",
+			  			 "images/vapes/mflb1.png",
+			  			 "images/vapes/mflb2.png",
+			  			 "images/vapes/mflb3.png"]
 			},
 			{"tipId": 21,
 			 "tipCatagory":"Portable", 
@@ -22410,13 +22410,13 @@
 			 						   "The battery can be easily swapped in a few seconds, allowing you to insert a fresh battery from the external charger with no downtime.",
 			 						  ],
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/firefly1.jpg",
-			  			 "images/vapes/firefly2.jpg",
-			  			 "images/vapes/firefly3.jpg",
-			  			 "images/vapes/firefly4.jpg",
-			  			 "images/vapes/firefly1.jpg",
-			  			 "images/vapes/firefly2.jpg",
-			  			 "images/vapes/firefly3.jpg"]
+			 "imageUrl":["images/vapes/firefly1.png",
+			  			 "images/vapes/firefly2.png",
+			  			 "images/vapes/firefly3.png",
+			  			 "images/vapes/firefly4.png",
+			  			 "images/vapes/firefly1.png",
+			  			 "images/vapes/firefly2.png",
+			  			 "images/vapes/firefly3.png"]
 			},
 			{"tipId": 22,
 			 "tipCatagory":"Desktop", 
@@ -22443,13 +22443,13 @@
 			        				   "Glass components can be cleaned with isopropyl alcohol (91% or higher recommended). Never clean the device while it is still plugged in."
 			 						  ],
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/hotbox1.jpg",
-			  			 "images/vapes/hotbox2.jpg",
-			  			 "images/vapes/hotbox3.jpg",
-			  			 "images/vapes/hotbox4.jpg",
-			  			 "images/vapes/hotbox5.jpg",
-			  			 "images/vapes/hotbox1.jpg",
-			  			 "images/vapes/hotbox2.jpg"]
+			 "imageUrl":["images/vapes/hotbox1.png",
+			  			 "images/vapes/hotbox2.png",
+			  			 "images/vapes/hotbox3.png",
+			  			 "images/vapes/hotbox4.png",
+			  			 "images/vapes/hotbox5.png",
+			  			 "images/vapes/hotbox1.png",
+			  			 "images/vapes/hotbox2.png"]
 			},
 			{"tipId": 23,
 			 "tipCatagory":"Portable", 
@@ -22480,13 +22480,13 @@
 			  						    "Starting from the mouthpiece end, insert moistened cleaning tool into the vapor pathway, pushing out the oven screen. Floss Pax with cleaning tool. To clean Pax oven, oven lid, and screen, use a moistened bent cleaning tool or moistened cotton swab to remove residue. Screens will need to be replaced as necessary. Apply lubricant after every cleaning session."
 			 						  ],
 			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":[ "images/vapes/pax1.jpg",
-			  			  "images/vapes/pax2.jpg",
-			  			  "images/vapes/pax3.jpg",
-			  			  "images/vapes/pax4.jpg",
-			  			  "images/vapes/pax1.jpg",
-			  			  "images/vapes/pax2.jpg",
-			  			  "images/vapes/pax3.jpg"]
+			 "imageUrl":[ "images/vapes/pax1.png",
+			  			  "images/vapes/pax2.png",
+			  			  "images/vapes/pax3.png",
+			  			  "images/vapes/pax4.png",
+			  			  "images/vapes/pax1.png",
+			  			  "images/vapes/pax2.png",
+			  			  "images/vapes/pax3.png"]
 			},
 			{"tipId": 24,
 			 "tipCatagory":"Portable", 
@@ -22519,13 +22519,13 @@
 			 						   "The Bullet baskets are used to hold and vaporize your dry herbs, while the Full Metal Jacket concentrate basket can withstand the higher temperatures required to vape waxes and concentrates. The baskets easily slide out when it comes time to change or clean them. This means your material never comes in contact with your vaporizer making the Pinnacle Pro very easy to keep clean for continuous optimum use.Get everything you need to have the ultimate in travel friendly vaporization and top level vapor quality with the Pinnacle Pro DLX vaporizer kit."
 			 						  ],
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl":[ "images/vapes/pinnacleprodlx1.jpg",
-			  			  "images/vapes/pinnacleprodlx2.jpg",
-			  			  "images/vapes/pinnacleprodlx3.jpg",
-			  			  "images/vapes/pinnacleprodlx4.jpg",
+			 "imageUrl":[ "images/vapes/pinnacleprodlx1.png",
+			  			  "images/vapes/pinnacleprodlx2.png",
+			  			  "images/vapes/pinnacleprodlx3.png",
+			  			  "images/vapes/pinnacleprodlx4.png",
 			  			  "images/vapes/pinnacleprodlx5.png",
-			  			  "images/vapes/pinnacleprodlx6.jpg",
-			  			  "images/vapes/pinnacleprodlx7.jpg"]
+			  			  "images/vapes/pinnacleprodlx6.png",
+			  			  "images/vapes/pinnacleprodlx7.png"]
 			}/**,
 			{"tipId": 25,
 			 "tipCatagory":"", 
