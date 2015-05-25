@@ -109,12 +109,12 @@
 				 		"value": 0.0
 				 	} 	
 		 	],
-		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "PTSD", "Migraines", "Arthritis", "Anxiety", "ADD/ADHD"],
-			 "positiveEffects": [" Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Pain", "Stress", "Headache"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Trainwreck begins its speedy hurtle through the mind with a surge of euphoria, awakening creativity and happiness. Migraines, pain, and arthritis are mowed down by Trainwreck’s high THC content, and many patients also use it for relief of anxiety, ADD/ADHD, and PTSD.",
 			 "descriptionAbbrev":  "Effects that hit like a freight train",
-			 "tags": ["Hybrid", "Trainwreck", "Bipolar", "Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
+			 "tags": ["Earthy", "Pine", "Pungent"],
 			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"strainId": 2,
@@ -3049,12 +3049,12 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Asthma", "PMS", "Pain", "Muscle Spasms", "Insomnia"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress" ],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Munchies", "Sleepy", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Superman OG provides a strong heavy body sensation and will put you to sleep in a hurry. While great for pain management, muscle spasms, and insomnia, Superman OG’s potent sedative effects make it a strictly nighttime strain. ",
-			 "descriptionAbbrev":  "Both incredibly potent and exceptionally well bred",
-			 "tags": ["Indica", "OG", "Superman OG", "Asthma", "PMS"],
+			 "descriptionAbbrev":  "A must try for cannabis connoisseurs.",
+			 "tags": ["Pine", "Sweet", "Lemon"],
 			 "imageUrl": "images/strains/superman-og_100x100.jpg"
 			},
 			{"strainId": 30,
@@ -3154,9 +3154,9 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": ["Asthma", "Bipolar", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "The high psychoactivity of this strain is not for novice consumers, but patients with a variety of symptoms are giving Thin Mint their seal of approval: severe pain, nausea, swelling, insomnia, and appetite loss are no match for the potency of Thin Mint.",
 			 "descriptionAbbrev":  "Powerful full-body effect that gives this strain its sterling reputation.",
 			 "tags": ["Hybrid", "Thin Mint", "Asthma", "Bipolar", "Nausea", "PMS"],
@@ -7565,13 +7565,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Hypertension", "Muscle Spasms", "Pain", "PMS"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Super Grandaddy", "Bipolar", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "descriptionAbbrev":  "This is worthy of the name Super GDP. From the gorgeous crystal covered buds to the grape smell, the taste, and then the buzz…just a step above any other GDP.",
+			 "tags": ["Creamy smooth grape flavor"],
+			 "imageUrl": "images/strains/Super_GDP.jpg"
 			},
 			{"strainId": 73,
 			 "strainName": "Tangerine", 
@@ -9788,7 +9788,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 24.60
+			 		"value": 24.57
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -9820,19 +9820,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.49
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.26
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -9875,12 +9875,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "The White", "Cancer", "Epilepsy"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Impotence", "Muscle Spasms", "Seizures", "Spasticity"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Tingly", "Euphoric", "Sleepy", "Aroused"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "It is a variant of the remarkable ACDC that is cherished for its healing properties. Many find Valentine X to be a great help for seizure disorders, inflammation, and when treating cancer.",
+			 "descriptionAbbrev":  "In addition to its medicinal effects this strain is known to spark creative thinking.",
+			 "tags": ["Pine", "Earthy", "Honey"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 95,
@@ -10725,7 +10725,7 @@
 			},
 			{"strainId": 102,
 			 "strainName": "Bay Cookies", 
-			 "strainType": "Sativa",
+			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
@@ -10765,19 +10765,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.45
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.49
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10820,7 +10820,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["PTSD","OCD","Depression", "Nausea", "Pain", "Stress"],
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Nausea", "PTSD","OCD", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Anxiety", "Uplifted"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -11605,11 +11605,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.08
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -11617,7 +11617,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -11625,7 +11625,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -11660,13 +11660,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Candy Jack", "Jack", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Fatigue", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
+			 "descriptionDetailed": "With a few Cannabis Cup wins already under its belt, Candy Jack’s potency, flavor, and effects have won this sativa a sterling reputation in the cannabis world.",
+			 "descriptionAbbrev":  "Patients typically appreciate Candy Jack’s ability to counter stress, depression, and appetite loss.",
+			 "tags": ["Sweet", "Flowery", "Earthy"],
+			 "imageUrl": "images/strains/candy-jack_100x100.jpg"
 			},
 			{"strainId": 111,
 			 "strainName": "CandyLand", 
@@ -11884,7 +11884,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.10
+			 		"value": 19.82
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -11892,11 +11892,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -11975,13 +11975,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cataract Kush", "Kush", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Sleepy", "Munchies"],
+			 "descriptionDetailed": "Most describe Cataract as a creeper high that keeps on building long after you stop smoking! This strain has been years in the making and is NOT recommended for the light-weight smoker.",
+			 "descriptionAbbrev":  "The effect is good for pain, eating and sleep disorders",
+			 "tags": ["Pungent", "Skunk", "Earthy"],
+			 "imageUrl": "images/strains/cataract-kush_100x100.jpg"
 			},
 			{"strainId": 114,
 			 "strainName": "Chemdawg", 
@@ -11989,19 +11989,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.60
+			 		"value": 17.70
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.07
+			 		"value": 0.47
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.70
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -12079,37 +12079,14 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], "THC": 23.60,
-			 	"CBD": 0.07,
-			 	"CBN": 0.02,
-			 	"CBG": 0.70,
-			 	"THCV": 0.20,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.30,
-			 	"Caryophyllene": 0.40,
-			 	"Limonene": 0.14,
-			 	"Linalool": 0.06,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.11,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.03,
-			 	"CBL": 0.20
-			 	, 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	],  
+		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Insomnia", "Nausea", "Appetite Loss", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "The original source of powerhouse strains like Sour Diesel and OG Kush, Chemdawg is known for its distinct, diesel-like aroma. Pungent and sharp, you’ll be able to smell this hybrid from a mile away.",
+			 "descriptionAbbrev":  "Expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
 			 "tags": ["Hybrid", "Chemdawg", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 			},
 			{"strainId": 115,
 			 "strainName": "Cherry Pie", 
@@ -14098,10 +14075,10 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy","Euphoric", "Energetic","Uplifted", "Focused", "Relaxed"],
-			 "negativeEffects": ["Dry Mouth"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Cramps", "Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Focused", "Relaxed", "Tingly", "Talkative"],
+			 "negativeEffects": ["Dizzy", "Dry Mouth"],
+			 "descriptionDetailed": "Sugar Plum produces hard-hitting and long-lasting cerebral effects. Its THC content has been measured as high as 28%, a much-needed potency for patients treating severe pain, nausea, glaucoma, mood disorders, and gastrointestinal complications.",
 			 "descriptionAbbrev":  "Much-needed potency for patients treating severe pain, nausea, glaucoma, mood disorders, and gastrointestinal complications.",
 			 "tags": ["Berry", "Sweet"],
 			 "imageUrl": "images/strains/sugar-plum_100x100.jpg"
@@ -14203,7 +14180,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
 			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": " As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect.",
@@ -14568,19 +14545,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.66
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.67
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.55
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -14588,7 +14565,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -14623,13 +14600,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cherry Bomb", "Nausea", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Energetic"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "The immediate effects are active and mentally alert, but can border on antsy for some. This feeling tends to smooth into a more focused state that allows for normal activities and may even help you tackle that to-do list or next creative project.",
+			 "descriptionAbbrev":  "A great hybrid that provides mild to moderate effects that are appropriate for daytime consumption.",
+			 "tags": ["Earthy", "Pungent", "Pine"],
+			 "imageUrl": "images/strains/cherry-bomb_100x100.jpg"
 			},
 			{"strainId": 140,
 			 "strainName": "DJ Short Blueberry",
@@ -14637,7 +14614,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.50
+			 		"value": 14.78
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -14645,11 +14622,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.93
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -14728,13 +14705,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cherry Bomb", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Sleepy", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "This Blueberry is a dense and stout plant with red, purple and blue hues.  The finished product has a very fruity aroma and taste of blueberry.  The high is euphoric and long lasting.",
+			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry.",
+			 "tags": ["Blueberry", "Berry", "Sweet"],
+			 "imageUrl": "images/strains/dj-short-blueberry_100x100.jpg"
 			},
 			{"strainId": 141,
 			 "strainName": "El Alquimista",
@@ -16777,15 +16754,15 @@
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 3.63
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.24
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.44
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -16828,13 +16805,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Glaucoma"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Arthritis", "Glaucoma", "Insomnia", "Pain", "Stress", "Muscle Spasms", "Depression" ],
+			 "positiveEffects": ["Happy", "Relaxed", "Social", "Energetic", "Uplifted"],
+			 "negativeEffects": ["Paranoid", "Dry Mouth", "Anxious", "Dizzy", "Dry Eyes"],
+			 "descriptionDetailed": "Silver Surfer is a sativa-dominant hybrid whose potent cerebral effects may have you feeling like you’re zipping through the space with your super-hero powers.",
+			 "descriptionAbbrev":  "This strain is very energetic and motivates many to check things off their lists or inspires talkative social activities.",
 			 "tags": ["Hybrid", "Silver Surfer", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/silver-surfer_100x100.jpg"
 			},
 			{"strainId": 161,
 			 "strainName": "Sour OG",
@@ -17878,13 +17855,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Blackberry Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Blackberry Kush tends to have a hashy, jet fuel smell and taste that is balanced by sweet berries.",
+			 "descriptionAbbrev":  "Often recommended for the treatment of pain thanks to its strong indica body effects.",
+			 "tags": ["Berry", "Sweet", "Earthy"],
+			 "imageUrl": "images/strains/blackberry-kush_100x100.jpg"
 			},
 			{"strainId": 171,
 			 "strainName": "Blue Diesel",
@@ -17997,7 +17974,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.90
+			 		"value": 14.81
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -18005,11 +17982,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.12
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -18088,13 +18065,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Blue Haze", "Haze", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Depression", "Headache"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["XDry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "Blue Haze is a great candidate for the regular consumer’s arsenal as it is appropriate for a broad spectrum of activities and provides the optimal balance between cerebral and physical effects.",
+			 "descriptionAbbrev":  "Has a pleasing taste and scent, and its furry dense buds produce full-bodied effects.",
+			 "tags": ["Blueberry", "Sweet", "Woody"],
+			 "imageUrl": "images/strains/blue-haze_100x100.jpg"
 			},
 			{"strainId": 173,
 			 "strainName": "Brutus OG",
@@ -18207,7 +18184,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.90
+			 		"value": 14.29
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -18215,11 +18192,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.58
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.50
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -18227,7 +18204,7 @@
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.3
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -18243,19 +18220,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.11
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.17
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.20
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.13
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -18263,7 +18240,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.13
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -18295,16 +18272,16 @@
 			 	},
 			 	{ 
 			 		"name": "CBL", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Munchies", "Sleepy", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple. Its effects may begin focused in the head, but it isn’t long before the buzz reaches the rest of the body.",
+			 "descriptionAbbrev":  "A perfect go-to strain for evening relaxation, restful sleep, or a lazy weekend at home.",
 			 "tags": ["Indica", "Bubba Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/bubba-kush_100x100.jpg"
 			},
 			{"strainId": 175,
 			 "strainName": "Cheese",
@@ -18312,7 +18289,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.40
+			 		"value": 15.48
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -18320,11 +18297,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.08
+			 		"value": 0.67
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -18403,13 +18380,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Cheese is an indica-dominant hybrid from the U.K. that has achieved widespread popularity for its unique flavor and consistent potency.",
+			 "descriptionAbbrev":  "Well-known for its relaxed, happy effects that gently ease you into a blissful state of mind.",
 			 "tags": ["Hybrid", "Cheese", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/cheese_100x100.jpg"
 			}, 
 			{"strainId": 176,
 			 "strainName": "Cinderella 99",
@@ -20192,8 +20169,8 @@
 			 "positiveEffects": ["Happy", "Uplifted","Euphoric", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high.",
-			 "descriptionAbbrev":  "he uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
-			 "tags": ["Super Silver Haze"],
+			 "descriptionAbbrev":  "The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
+			 "tags": ["Citrus", "Sweet", "Pungent"],
 			 "imageUrl": "images/strains/super-silver-haze_100x100.jpg"
 			},
 			{"strainId": 192,
@@ -20439,7 +20416,7 @@
 			{"conditionId": 4,
 			 "conditionName": "Anorexia", 
 			 "treatment": "Anorexia Treatment description here.",
-			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1"],
+			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1", "Bay Cookies", "Blackberry Kush", "Blue Haze", "Candy Jack", "Candy OG", "Cataract Kush", "Chemdawg", "Cherry Bomb", "Confidential Cheese", "DJ Short Blueberry"],
 			 "descriptionDetailed": "Anorexia Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anorexia Short description here.",
 			 "tags": ["Anorexia","Appetite","Munchies", "Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia"],
@@ -20448,7 +20425,7 @@
 			{"conditionId": 5,
 			 "conditionName": "ADD/ADHD", 
 			 "treatment": "ADD/ADHD Treatment description here.",
-			 "strains": ["Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe", "Banana Diesel", "Forum Cookies/GSC", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Jack Chemdawg", "Jillybean", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Pineapple Express", "Purple Haze", "Alien Rock Candy", "Blueberry Trainwreck", "Lemon Jack", "Pineapple Hogsbreath", "Purple Coma", "J1", "Cinderella 99", "Jack Frost", "Kali Mist", "Skunk #1", "Candy OG", "Confidential Cheese", "Deadhead OG", "Gorrilla Glue #4", "Grape Cookies", "Grape Kool Aid", "H-Train Wreck", "Lemon Jack", "Mercury OG", "Mike Tyson", "Moon Candy", "Neptune OG", "Northern Lights", "OG Cheese", "Organic OG", "Platinum Trinity Kush", "Private Reserve OG", "Purple Cheese", "Saturn OG"],
+			 "strains": ["Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe", "Banana Diesel", "Forum Cookies/GSC", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Jack Chemdawg", "Jillybean", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Pineapple Express", "Purple Haze", "Alien Rock Candy", "Blueberry Trainwreck", "Lemon Jack", "Pineapple Hogsbreath", "Purple Coma", "J1", "Cinderella 99", "Jack Frost", "Kali Mist", "Skunk #1", "Candy OG", "Confidential Cheese", "Deadhead OG", "Gorrilla Glue #4", "Grape Cookies", "Grape Kool Aid", "H-Train Wreck", "Lemon Jack", "Mercury OG", "Mike Tyson", "Moon Candy", "Neptune OG", "Northern Lights", "OG Cheese", "Organic OG", "Platinum Trinity Kush", "Private Reserve OG", "Purple Cheese", "Saturn OG", "Silver Surfer", "Stratosphere", "Strawbery Mist", "Sugar Plum", "Super Grandaddy", "Super Lemon Haze", "Superman OG", "Tangerine", "Thin Mint", "Valentine X"],
 			 "descriptionDetailed": "ADD/ADHD Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "ADD/ADHD Short description here.",
 			 "tags": ["ADD","ADHD","Relaxing", "Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe"],
@@ -20547,7 +20524,7 @@
 			{"conditionId": 16,
 			 "conditionName": "Asthma", 
 			 "treatment": "Asthma Treatment description here.",
-			 "strains": ["Superman OG", "Thin Mint", "Purple Cheese", "Shark Shock", " NY Sour Diesel", "Lemon Haze", "Lemon Head OG", "Green Dream", "Harle-Tsu", "Jack Frost", "Clear Lake", "Euphoria"],
+			 "strains": ["Superman OG", "Thin Mint", "Purple Cheese", "Shark Shock", " NY Sour Diesel", "Lemon Haze", "Lemon Head OG", "Green Dream", "Harle-Tsu", "Jack Frost", "Clear Lake", "Euphoria", "Permafrost", "Purple Cheese", "Superman OG"],
 			 "descriptionDetailed": "Asthma Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Asthma Short description here.",
 			 "tags": ["Asthma", "Bronchodilator", "Breathing", "Superman OG", "Thin Mint", "Purple Cheese", "Shark Shock", " NY Sour Diesel", "Lemon Haze", "Lemon Head OG", "Green Dream", "Harle-Tsu", "Jack Frost", "Clear Lake", "Euphoria"],
@@ -20556,7 +20533,7 @@
 			{"conditionId": 17,
 			 "conditionName": "PTSD", 
 			 "treatment": "PTSD Treatment description here.",
-			 "strains": ["Trainwreck"],
+			 "strains": ["Trainwreck", "Pennywise", "ACDC", "Bay Cookies"],
 			 "descriptionDetailed": "Researchers think marijuana pharmaceuticals might bring PTSD patients relief from their memories.",
 			 "descriptionAbbrev":  "Relieve PTSD",
 			 "tags": ["Trainwreck", "PTSD", "Snxiety", "Depression"],
@@ -20573,7 +20550,7 @@
 			},
 			{"conditionId": 19,
 			 "conditionName": "Muscle Spasms", 
-			 "treatment": "Muscle Spasms Treatment description here.",
+			 "treatment": "Calm muscle spasms.",
 			 "strains": ["Sage","Romulan", "ACDC", "Superman OG", "Gooey Wreck", "Grapefruit Haze", "Purple Haze", "Avi-Dekel", "L.A. Confidential", "Pineapple Hogsbreath", "Gorilla Glue #4"],
 			 "descriptionDetailed": "Relief from muscle spasms.",
 			 "descriptionAbbrev":  "Muscle Spasms",
@@ -20583,7 +20560,7 @@
 			{"conditionId": 20,
 			 "conditionName": "Impotence", 
 			 "treatment": "Treat impotence.",
-			 "strains": ["Green Thailand", "Hawaiian Hulk"],
+			 "strains": ["Green Thailand", "Hawaiian Hulk", "Stratosphere", "Tangerine", "Valentine X", "Strawberry Mist"],
 			 "descriptionDetailed": "Relief from symptoms associated with impotence and sexual dysfunction.",
 			 "descriptionAbbrev":  "Relief from Impotence",
 			 "tags": ["Trainwreck", "Impotence", "Snxiety", "Depression"],
@@ -20592,7 +20569,7 @@
 			{"conditionId": 21,
 			 "conditionName": "Fatigue", 
 			 "treatment": "Become energized when you feel fatigued.",
-			 "strains": ["Green Thailand", "Jillybean", "Lamb's Bread", "Purple Haze", "Great White Shark", "707 Headband", "Acapulco Gold", "ATF", "CandyLand", "Cannalope Haze", "Lemon Jack", "Super Lemon Haze", "J1", "Cinderella 99", "Island Sweet Skunk", "L.A. Kush"],
+			 "strains": ["Green Thailand", "Jillybean", "Lamb's Bread", "Purple Haze", "Great White Shark", "707 Headband", "Acapulco Gold", "ATF", "CandyLand", "Cannalope Haze", "Lemon Jack", "Super Lemon Haze", "J1", "Cinderella 99", "Island Sweet Skunk", "L.A. Kush", "Sage", "Strawberry Cough", "Stardawg", "Green Crack", "Jack Herer", "Tangerine", "Candy Jack", "Gorilla Glue #4", "Super Silver Haze"],
 			 "descriptionDetailed": "Relief from symptoms associated with fatigue.",
 			 "descriptionAbbrev":  "Relief from fatigue",
 			 "tags": ["Fatigue"],
@@ -20601,7 +20578,7 @@
 			{"conditionId": 22,
 			 "conditionName": "Appetite Loss", 
 			 "treatment": "Treat appetite loss.",
-			 "strains": ["Strawberry Cough","Sour Diesel", "Thin Mint", "Banana Diesel", "Chem Valley Kush", "Confidential Cheese", "Fire Bomb", "Forum Cookies/GSC", "Gooey Wreck", "Green Dream", "Green Thailand", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Pineapple Express", "Tangerine", "Tangilope", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Cannalope Haze", "Pineapple Hogsbreath", "Super Lemon Haze", "Afghani Bullrider", "Afgoo", "AK-47", "AK-48", "Cinderella 99", "Lemon Haze", "Sugar Plum", "Kali Mist", "NY Sour Diesel", "Snowcap", "Super Silver Haze"],
+			 "strains": ["Strawberry Cough","Sour Diesel", "Thin Mint", "Banana Diesel", "Chem Valley Kush", "Confidential Cheese", "Fire Bomb", "Forum Cookies/GSC", "Gooey Wreck", "Green Dream", "Green Thailand", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Pineapple Express", "Tangerine", "Tangilope", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Cannalope Haze", "Pineapple Hogsbreath", "Super Lemon Haze", "Afghani Bullrider", "Afgoo", "AK-47", "AK-48", "Cinderella 99", "Lemon Haze", "Sugar Plum", "Kali Mist", "NY Sour Diesel", "Snowcap", "Super Silver Haze", "Superman OG", "Green Crack", "H-Train Wreck", "Mike Tyson", "Platinum Trinity Kush", "Private Reserve OG", "Candy Jack", "Cataract Kush", "Chemdawg", "Grape Cookies", "Cherry Bomb", "DJ SHort Blueberry", "Mercury OG", "Blue Haze", "Bubba Kush", "Cheese", "L.A. Kush", "Neptune OG", "Organic OG Kush"],
 			 "descriptionDetailed": "Relief from symptoms associated with appetite loss.",
 			 "descriptionAbbrev":  "Relief from appetite loss.",
 			 "tags": ["Appetite Loss"],

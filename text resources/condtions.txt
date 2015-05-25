@@ -7,7 +7,6 @@ Skunk #1
 Tangerine
 Kali Mist
 
-
 2. Muscle Spasms
 Sage
 Romulan
@@ -25,13 +24,17 @@ Gorilla Glue #4
 3. Impotence
 Green Thailand
 Hawaiian Hulk
-
+-Stratosphere
+-Tangerine
+-Valentine X
+-Strawberry Mist
 
 4. Anorexia
 "Yumbodlt", 
 "Zen", 
 "Strawberry Cough", 
-"Warlock", "Shipwreck", 
+"Warlock", 
+"Shipwreck", 
 "Sour Diesel", 
 "Pineapple", 
 "Sage N Sour", 
@@ -49,13 +52,13 @@ Hawaiian Hulk
 "Goo", 
 "Chiesel", 
 "Critical Kush",
-"Cheese",
+ "Cheese",
 "Chemo",
-"Bubba Kush",
+ "Bubba Kush",
 "Charlotte's Web", 
-"Ak-48", 
+ "Ak-48", 
 "Amnesia"
-Banana Diesel
+ Banana Diesel
 Fire Bomb
 Gooey Wreck
 Green Dream
@@ -68,18 +71,29 @@ Moonshine Diesel
 Pineapple Express
 Purple Haze
 Great White Shark
-Acapulco Gold
-Amnesia Haze
-Berry Queen
+ Acapulco Gold
+ Amnesia Haze
+ Berry Queen
 Godfather OG
-Afghani Bullrider
-Afgoo
-AK-47
-Cinderella 99
+ Afghani Bullrider
+ Afgoo
+ AK-47
+ Cinderella 99
 Jack Frost
 Kali Mist
 NY Sour Diesel
 Skunk #1
+-Bay Cookies
+-Blackberry Kush
+-Blue Haze
+-Candy Jack
+-Candy OG
+-Cataract Kush
+-Chemdawg
+-Cherry Bomb
+-Confidential Cheese
+-DJ Short Blueberry 
+
 
 5. ADD/ADHD
 "Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe"
@@ -108,74 +122,138 @@ Skunk #1
 Candy OG
 Confidential Cheese
 Deadhead OG
--Gorrilla Glue #4
--Grape Cookies
--Grape Kool Aid
--H-Train Wreck
--Lemon Jack
--Mercury OG
--Mike Tyson
--Moon Candy
--Neptune OG
--Northern Lights
--OG Cheese
--Organic OG
--Platinum Trinity Kush
--Private Reserve OG
--Purple Cheese
--Saturn OG
+Gorrilla Glue #4
+Grape Cookies
+Grape Kool Aid
+H-Train Wreck
+Lemon Jack
+Mercury OG
+Mike Tyson
+Moon Candy
+Neptune OG
+Northern Lights
+OG Cheese
+Organic OG
+Platinum Trinity Kush
+Private Reserve OG
+Purple Cheese
+Saturn OG
+Silver Surfer
+Stratosphere
+Strawbery Mist
+Sugar Plum
+Super Grandaddy
+Super Lemon Haze
+Superman OG
+Tangerine
+Thin Mint
+Valentine X
+
 
 6. Fatigue
 Green Thailand
-Jillybean
-Lamb's Bread
-Purple Haze
-Great White Shark
-707 Headband
-Acapulco Gold
-ATF
-CandyLand
-Cannalope Haze
-Lemon Jack
-Super Lemon Haze
-J1
-Cinderella 99
-Island Sweet Skunk
-L.A. Kush
+ Jillybean
+ Lamb's Bread
+ Purple Haze
+ Great White Shark
+ 707 Headband
+ Acapulco Gold
+ ATF
+ CandyLand
+ Cannalope Haze
+ Lemon Jack
+ Super Lemon Haze
+ J1
+ Cinderella 99
+ Island Sweet Skunk
+ L.A. Kush
+Sage
+Strawberry Cough
+Stardawg
+Green Crack
+Jack Herer
+Tangerine
+Candy Jack
+Gorilla Glue #4
+Super Silver Haze
+
 
 
 7. Appetite Loss
-Strawberry Cough
-Sour Diesel
-Thin Mint
-Banana Diesel
-Chem Valley Kush
-Confidential Cheese
-Fire Bomb
-Forum Cookies/GSC
-Gooey Wreck
-Green Dream
-Green Thailand
-Hawaiian Hulk
-Jack Herer
-Lamb's Bread
-Pineapple Express
-Tangerine
-Tangilope
-Great White Shark
-Acapulco Gold
-Amnesia Haze
-Cannalope Haze
-Pineapple Hogsbreath
-Super Lemon Haze
-Afghani Bullrider
-Afgoo
-AK-47
-AK-48
-Cinderella 99
-Lemon Haze
-Sugar Plum
-Kali Mist
-NY Sour Diesel
-Snowcap
-Super Silver Haze
+ Strawberry Cough
+ Sour Diesel
+ Thin Mint
+ Banana Diesel
+ Chem Valley Kush
+ Confidential Cheese
+ Fire Bomb
+ Forum Cookies/GSC
+ Gooey Wreck
+ Green Dream
+ Green Thailand
+ Hawaiian Hulk
+ Jack Herer
+ Lamb's Bread
+ Pineapple Express
+ Tangerine
+ Tangilope
+ Great White Shark
+ Acapulco Gold
+ Amnesia Haze
+ Cannalope Haze
+ Pineapple Hogsbreath
+ Super Lemon Haze
+ Afghani Bullrider
+ Afgoo
+ AK-47
+ AK-48
+ Cinderella 99
+ Lemon Haze
+ Sugar Plum
+ Kali Mist
+ NY Sour Diesel
+ Snowcap
+ Super Silver Haze
+-Superman OG
+-Green Crack
+-H-Train Wreck
+-Mike Tyson
+-Platinum Trinity Kush
+-Private Reserve OG
+-Candy Jack
+-Cataract Kush
+-Chemdawg
+-Grape Cookies
+-Cherry Bomb
+-DJ SHort Blueberry
+-Mercury OG
+-Blue Haze
+-Bubba Kush
+-Cheese
+-L.A. Kush
+-Neptune OG
+-Organic OG Kush
+
+8. PTSD
+Trainwreck
+Pennywise
+ACDC
+Bay Cookies
+
+
+9. Asthma
+"Superman OG", 
+"Thin Mint", 
+"Purple Cheese", 
+ "Shark Shock", 
+" NY Sour Diesel", 
+"Lemon Haze", 
+"Lemon Head OG", 
+"Green Dream", 
+"Harle-Tsu", 
+"Jack Frost", 
+"Clear Lake", 
+"Euphoria"
+-Permafrost
+-Purple Cheese
+-Superman OG
