@@ -755,8 +755,7 @@ html, body {
 }
 
 #tipsView img{
-	width: 100%;
-	max-width: 300px;
+	max-width: 100px;
 	float: left;
 }
 
@@ -861,6 +860,11 @@ html, body {
 #tips img{
 	width:100%;
 	max-width: 300px; 
+}
+
+#tips .panel-footer img{
+	width:100%;
+	max-width: 100px; 
 }
 
 #tips .panel {
