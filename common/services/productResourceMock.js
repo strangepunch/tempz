@@ -110,7 +110,7 @@
 				 	} 	
 		 	],
 		 	 "conditions": ["Bipolar", "Stress", "Depression", "Pain", "Insomnia", "Headache", "PTSD", "Migraines", "Arthritis", "Anxiety", "ADD/ADHD"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
+			 "positiveEffects": [" Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Trainwreck begins its speedy hurtle through the mind with a surge of euphoria, awakening creativity and happiness. Migraines, pain, and arthritis are mowed down by Trainwreck’s high THC content, and many patients also use it for relief of anxiety, ADD/ADHD, and PTSD.",
 			 "descriptionAbbrev":  "Effects that hit like a freight train",
@@ -543,7 +543,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.38
+			 		"value": 25.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -634,8 +634,8 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Purple Urkle crossed with Space Queen produces this indica/sativa 80/20 marijuana variety. ",
 			 "descriptionAbbrev":  "Querkle has a fruity grape & berry scent",
@@ -2643,7 +2643,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.40
+			 		"value": 13.96
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -2651,11 +2651,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.13
+			 		"value": 0.79
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -2734,11 +2734,11 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Uplifted", "Focused", "Relaxed", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Headache"],
 			 "descriptionDetailed": "With a palatable fruit aroma, Purple Cheese delivers powerful full-body effects best suited for night owls or patients treating pain.",
-			 "descriptionAbbrev":  "Powerful full-body effects.",
+			 "descriptionAbbrev":  "Purple Cheese delivers powerful full-body effects best suited for night owls or patients treating pain.",
 			 "tags": ["Hybrid", "Cheese", "Purple", "Purple Cheese", "PMS"],
 			 "imageUrl": "images/strains/purple-cheese_100x100.jpg"
 			},
@@ -3309,11 +3309,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.0
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.0
+			 		"value": 1.80
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -3321,7 +3321,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.0
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3329,7 +3329,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.0
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3364,9 +3364,9 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Nausea", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar", "Depression", "Nausea", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "The Candy OG hits right away, simultaneously hitting the body and mind with a strong burst of euphoric relaxation.",
 			 "descriptionAbbrev":  "Killer flavor, smell, and effects that had Ldog rocked after a few bowls.",
 			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression", "Nausea", "Stress"],
@@ -3483,7 +3483,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.90
+			 		"value": 16.49
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -3491,11 +3491,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.51
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -3574,8 +3574,8 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Pain", "Insomnia", "Appetite Loss", "Bipolar", "Nausea", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Talkative"],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Arthritis", "Pain","Bipolar","Depression", "Insomnia", "Appetite Loss", "Nausea", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Talkative", "Creative"],
 			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy"],
 			 "descriptionDetailed": "Medical patients have used the potent and heavy effects of Confidential Cheese to treat severe pain, insomnia, and lost appetite..",
 			 "descriptionAbbrev":  "This indica-dominant strain has pale green crystal-covered buds with a sour cheese aroma inherited from its parent.",
@@ -3588,7 +3588,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.90
+			 		"value": 17.72
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -3596,11 +3596,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.75
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -3679,11 +3679,11 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Depression", "Migraines", "Headache", "Stress", "Anxiety", "Insomnia", "Muscle Pain"],
+		 	 "conditions": ["ADD/ADHD","Anxiety","Bipolar", "Depression", "Migraines", "Headache", "Stress", "Insomnia", "Muscle Pain"],
 			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
 			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain ",
-			 "descriptionAbbrev":  "Chemdawg is considered The legend of legends, since it was said Chemdawg got seeds from a Grateful Dead concert, hence the name Dead Head OG.",
+			 "descriptionDetailed": "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain. ",
+			 "descriptionAbbrev":  "Deadhead OG is bred by The Cali Connection and is a 60/40 hybrid of Chemdawg 91 and SFV OG Kush.",
 			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar", "Depression", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 			},
@@ -4884,19 +4884,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.05
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.33
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -4904,7 +4904,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4939,13 +4939,13 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar", "Migraines", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Trainwreck is a sativa-dominant cannabis strain that hits you as hard as a freight train that you don’t see coming.",
+			 "descriptionAbbrev":  "People swear by Trainwreck for its pain relief and other medicinal qualities.",
 			 "tags": ["Hybrid", "H-Train Wreck", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/H-trainwreck.jpg"
 			},
 			{"strainId": 48,
 			 "strainName": "Hawaiian Hulk", 
@@ -5934,19 +5934,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.33
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.69
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.83
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5954,7 +5954,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5989,13 +5989,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Depression", "Hypertension", "Appetite Loss", "Muscle Spasms", "Pain","PMS"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This very heavy Indica, courtesy of Med 215 Collective, certainly looks like it will knock you out faster than you can say Arturo Gatti",
+			 "descriptionAbbrev":  "Certainly pays respect to the man with the greatest one hitter in the history of the sport.",
 			 "tags": ["Indica", "Mike Tyson", "Bipolar", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/mike-tyson-marijuana-strain.jpg"
 			},
 			{"strainId": 58,
 			 "strainName": "Moon Candy", 
@@ -6039,19 +6039,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.36
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6093,37 +6093,14 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], "THC": 20.40,
-			 	"CBD": 0.51,
-			 	"CBN": 0.04,
-			 	"CBG": 0.00,
-			 	"THCV": 0.00,
-			 	"THCA": 0.00,
-			 	"THC8": 0.00,
-			 	"Pulegone": 0.00,
-			 	"Myrcene": 0.00,
-			 	"Caryophyllene": 0.00,
-			 	"Limonene": 0.00,
-			 	"Linalool": 0.00,
-			 	"Eucalyptol": 0.00,
-			 	"Pinene": 0.00,
-			 	"Terpineol": 0.00,
-			 	"Terpineol-4": 0.00,
-			 	"Cymene": 0.00,
-			 	"Apigenin": 0.00,
-			 	"Quercetin": 0.00,
-			 	"Cannflavin A": 0.00,
-			 	"Beta-sitosterol": 0.00,
-			 	"CBC": 0.00,
-			 	"CBL": 0.00
-			 	, 
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Moon Candy", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/moon_candy.jpg"
 			},
 			{"strainId": 59,
 			 "strainName": "Moonshine Diesel", 
@@ -6236,7 +6213,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 30.90
+			 		"value": 14.55
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -6244,11 +6221,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -6327,13 +6304,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Sleepy", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Northern Lights stands among the most famous strains of all time, a pure indica cherished for its resinous buds, fast flowering, and resilience during growth.",
+			 "descriptionAbbrev":  "Comfortable laziness allows patients to relieve pain and sleeplessness, while its mellow contentment roots out depression and stress.",
 			 "tags": ["Indica", "Northern Lights", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/northern-lights_100x100_7d43.jpg"
 			},
 			{"strainId": 61,
 			 "strainName": "Pineapple Express", 
@@ -6482,19 +6459,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.95
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.24
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6502,7 +6479,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6537,13 +6514,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Platnum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "tags": ["Sativa", "Platinum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
+			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 			},
 			{"strainId": 63,
 			 "strainName": "Private Reserve OG", 
@@ -6587,19 +6564,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.52
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.59
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.75
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6607,7 +6584,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6642,13 +6619,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache"],
+			 "descriptionDetailed": "True to its predecessors, this flower carries the distinct diesel kush flavor with sour undertones.",
+			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "tags": ["Indica", "Private Reserve OG", "OG", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/private_reserve_OG.jpg"
 			},
 			{"strainId": 64,
 			 "strainName": "Purple Haze", 
@@ -8793,19 +8770,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.32
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8813,7 +8790,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8848,11 +8825,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD","Anorexia", "Anxiety", "Arthritis", "Asthma", "Cancer", "Migraines", "Depression", "Epilepsy", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "Harle-Tsu, bred by the Southern Humboldt Seed Collective, is a high-CBD hybrid cross between Harlequin and Sour Tsunami. With a CBD content 20 times higher than its THC content, Harle-Tsu brings relief to pain and inflammation without psychoactivity.",
+			 "descriptionAbbrev":  "Brings relief to pain and inflammation without psychoactivity.",
 			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -10178,7 +10155,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 1.82
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12386,19 +12363,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 4.12
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.96
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.23
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12406,7 +12383,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12441,13 +12418,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
+			 "positiveEffects": ["Focused", "Relaxed"],
+			 "negativeEffects": ["Couch lock", "Drowsiness"],
+			 "descriptionDetailed": "A mind-numbing physically impressive Clear Lake OG medicinal strain best for treating symptoms related to MS, arthritis, RTS, muscle spasms, insomnia, ADHD, pain, stress, and anxiety relief.",
+			 "descriptionAbbrev":  "Super-duper powerful and way heavy, a completely flooring knock down result that will reduce movement and cease productive action or thought.",
 			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/clear_lake.jpg"
 			},
 			{"strainId": 118,
 			 "strainName": "Dubtech", 
@@ -12665,7 +12642,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.30
+			 		"value": 17.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -12673,7 +12650,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -12701,19 +12678,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.82
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.12
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12721,7 +12698,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12756,13 +12733,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Fibromyalgia", "Glaucoma", "Insomnia", "Appetite Loss","Migraines", "Nausea", "Pain", "Seizures", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Fierce rugged lines shape my variety of buds into chunky SUPER dense samples of absolutely ideal marijuana.  99.9% of the nug is usable, smokeable, incredible material, save its minty spinal cord.",
+			 "descriptionAbbrev":  "Very powerful and effective medication. Top shelf anywhere",
 			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/grape_Cookies.jpg"
 			},
 			{"strainId": 121,
 			 "strainName": "Grape Kool Aid", 
@@ -12806,11 +12783,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.71
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.93
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -12818,7 +12795,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12826,7 +12803,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12861,11 +12838,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Arthritis","Depression","Insomnia","Migraines", "Pain", "Nausea", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Grape Kool Aid is a cross between Bubba Kush and Super Lemon Haze.",
+			 "descriptionAbbrev":  "This strain is indica dominant giving it relaxing properties but without that couch-locked feeling.",
 			 "tags": ["Indica", "Grape Kool Aid", "Grape", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -16550,7 +16527,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.10
+			 		"value": 7.18
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -16641,11 +16618,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Arthritis", "Depression", "Hypertension", "Nausea", "Insomnia", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Hungry", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy"],
+			 "descriptionDetailed": "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese. OG Cheese’s dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
+			 "descriptionAbbrev":  "OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -16746,13 +16723,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Sleepy", "Tingly", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid"],
+			 "descriptionDetailed": "Although uplifting, this indica is on the heavier side, appealing to experienced users who desire strong medicinal treatment.",
+			 "descriptionAbbrev":  "This strain is favored for its powerful effects that provide clarity and heightened sensory perception",
 			 "tags": ["Indica", "Mercury OG", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/mercury-og_100x100.jpg"
 			},
 			{"strainId": 160,
 			 "strainName": "Silver Surfer",
@@ -19490,7 +19467,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.69
+			 		"value": 18.66
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -19498,11 +19475,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.09
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.59
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -19581,7 +19558,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Depression", "Muscle Spasms", "Pain", "Stress", "Headache"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Muscle Spasms", "Appetite Loss","Pain", "Stress", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "This chunky, conic, crystal-covered strain flowers in 56 to 60 days, and is said to come from Chemsis, Sour Dubb, and Chocolate Diesel.",
@@ -20218,6 +20195,216 @@
 			 "descriptionAbbrev":  "he uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
 			 "tags": ["Super Silver Haze"],
 			 "imageUrl": "images/strains/super-silver-haze_100x100.jpg"
+			},
+			{"strainId": 192,
+			 	"strainName": "Neptune OG",
+			 	"strainType": "Indica",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 21.74
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.02
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Sleepy", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "This strain also differs from typical indicas in its earthy aroma that delivers smoothly with low expansion. An established strain within the medicinal cannabis community, Neptune OG can be appropriately described as otherworldly.",
+			 "descriptionAbbrev":  "Sets itself apart by its euphoric onset prior to the heavy, sedative effects, making it also useful for stress relief.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/neptune-og_100x100.jpg"
+			},
+			{"strainId": 193,
+			 	"strainName": "Organic OG",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 13.88
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 2.79
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.02
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
+			 "descriptionAbbrev":  "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/organic-og-kush.JPG"
 			}
 		];
 		
@@ -20261,7 +20448,7 @@
 			{"conditionId": 5,
 			 "conditionName": "ADD/ADHD", 
 			 "treatment": "ADD/ADHD Treatment description here.",
-			 "strains": ["Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe", "Banana Diesel", "Forum Cookies/GSC", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Jack Chemdawg", "Jillybean", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Pineapple Express", "Purple Haze", "Alien Rock Candy", "Blueberry Trainwreck", "Lemon Jack", "Pineapple Hogsbreath", "Purple Coma", "J1", "Cinderella 99", "Jack Frost", "Kali Mist", "Skunk #1"],
+			 "strains": ["Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe", "Banana Diesel", "Forum Cookies/GSC", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Jack Chemdawg", "Jillybean", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Pineapple Express", "Purple Haze", "Alien Rock Candy", "Blueberry Trainwreck", "Lemon Jack", "Pineapple Hogsbreath", "Purple Coma", "J1", "Cinderella 99", "Jack Frost", "Kali Mist", "Skunk #1", "Candy OG", "Confidential Cheese", "Deadhead OG", "Gorrilla Glue #4", "Grape Cookies", "Grape Kool Aid", "H-Train Wreck", "Lemon Jack", "Mercury OG", "Mike Tyson", "Moon Candy", "Neptune OG", "Northern Lights", "OG Cheese", "Organic OG", "Platinum Trinity Kush", "Private Reserve OG", "Purple Cheese", "Saturn OG"],
 			 "descriptionDetailed": "ADD/ADHD Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "ADD/ADHD Short description here.",
 			 "tags": ["ADD","ADHD","Relaxing", "Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe"],

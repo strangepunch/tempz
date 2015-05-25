@@ -4,6 +4,126 @@
 		"selected_items":
 		[
 			[
+				"So",
+				"Social"
+			],
+			[
+				"Firo",
+				"Fibromyalgia"
+			],
+			[
+				"Hy",
+				"Hypertension"
+			],
+			[
+				"An",
+				"Anxious"
+			],
+			[
+				"PA",
+				"Paranoid"
+			],
+			[
+				"ene",
+				"Energetic"
+			],
+			[
+				"Spa",
+				"Spasms"
+			],
+			[
+				"Relaxed",
+				"Relaxed"
+			],
+			[
+				"eyes",
+				"Eyes"
+			],
+			[
+				"Sleep",
+				"Sleepy"
+			],
+			[
+				"Re",
+				"Relaxed"
+			],
+			[
+				"Anx",
+				"Anxious"
+			],
+			[
+				"In",
+				"Insomnia"
+			],
+			[
+				"Sp",
+				"spasms"
+			],
+			[
+				"Fo",
+				"Focused"
+			],
+			[
+				"Add",
+				"ADD"
+			],
+			[
+				"Ha",
+				"Happy"
+			],
+			[
+				"Euph",
+				"Euphoric"
+			],
+			[
+				"REal",
+				"Relaxed"
+			],
+			[
+				"AD",
+				"ADHD"
+			],
+			[
+				"Pa",
+				"Pain"
+			],
+			[
+				"Mu",
+				"Multiple"
+			],
+			[
+				"Ar",
+				"Arthritis"
+			],
+			[
+				"Ap",
+				"Appetite"
+			],
+			[
+				"pain",
+				"Pain"
+			],
+			[
+				"Bull",
+				"Bullrider"
+			],
+			[
+				"Harl",
+				"Harlequin"
+			],
+			[
+				"Pine",
+				"Pineapple"
+			],
+			[
+				"Wa",
+				"Walker"
+			],
+			[
+				"Spci",
+				"spicy"
+			],
+			[
 				"Vap",
 				"Vaporizers"
 			],
@@ -68,14 +188,6 @@
 				"Superman"
 			],
 			[
-				"Hy",
-				"Hybrid"
-			],
-			[
-				"Pa",
-				"Papaya"
-			],
-			[
 				"G",
 				"Gooey"
 			],
@@ -138,10 +250,6 @@
 			[
 				"Stra",
 				"Stratosphere"
-			],
-			[
-				"Ha",
-				"Haze"
 			],
 			[
 				"Tr",
@@ -230,10 +338,6 @@
 			[
 				"Sa",
 				"Sativa"
-			],
-			[
-				"In",
-				"Indica"
 			],
 			[
 				"Harle",
@@ -410,75 +514,27 @@
 			[
 				"fo",
 				"font-family"
-			],
-			[
-				"font-",
-				"font-size"
-			],
-			[
-				"min",
-				"min-width"
-			],
-			[
-				"inline",
-				"inline-block"
-			],
-			[
-				"state",
-				"stateParams"
-			],
-			[
-				"produ",
-				"productUrl"
-			],
-			[
-				"http",
-				"httpBackend"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"th",
-				"thead	Tag"
-			],
-			[
-				"pane",
-				"panelToShow"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
-				"sh",
-				"shippingCost"
-			],
-			[
-				"tax",
-				"taxFactor"
-			],
-			[
-				"shipping",
-				"shippingMethod"
-			],
-			[
-				"usps",
-				"r-method-usps"
-			],
-			[
-				"get",
-				"getElementById"
-			],
-			[
-				"para1",
-				"para1"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "common/services/productResourceMock.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "text resources/condtions.txt",
+			"settings":
+			{
+				"buffer_size": 2291,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -529,9 +585,12 @@
 	"file_history":
 	[
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock_OLD.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipList.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipViewCtrl.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/temps/tempsView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/app.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/css/app.css",
@@ -652,10 +711,7 @@
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv1View.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/css/app.css",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/progressions/progView.html",
-		"/C/inetpub/wwwroot/UKE/app/progressions/progView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv1ViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.16/app/improv/improv2View.html"
+		"/C/inetpub/wwwroot/UKE/app/progressions/progView.html"
 	],
 	"find":
 	{
@@ -673,134 +729,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Silver Surfer",
-			"panel",
-			"tips",
-			"tip",
-			"tips",
-			"tipsPass",
-			"charts",
-			"api",
-			"\"construction\"",
-			"neurogenesis",
-			"delta 9 THC",
-			"effects=",
-			"effects",
-			"Memory booster",
-			"brain",
-			"Stimulates brain cell growth",
-			"Bronchodilator",
-			"Antiinflammatory",
-			"Antimutagenic",
-			"products",
-			"Immunosuppressant",
-			"memory",
-			"Antibiotic",
-			"Antiinflammatory",
-			"Antibiotic",
-			"memory",
-			"Stimulates Brain cell growth",
-			"products",
-			"Oxidation",
-			"memory",
-			"memory booster",
-			"effect =",
-			"products",
-			"effects",
-			"Neurogenesis",
-			"Neuroprotective",
-			"Neuroprotectant",
-			"NegativeEffects",
-			"PositiveEffects",
-			"Pineapple",
-			"Sour Dies",
-			"Headband",
-			"Fire OG",
-			"Cherry",
-			"Chemdawg",
-			"Ban",
-			"Banna",
-			"Alien OG",
-			"Space Queen",
-			"\"Beta-sitosterol\": 0.00\n			 	}",
-			"linalool",
-			"\"THCV\": 0.0\n			 	},",
-			"products",
-			"prod",
-			"Chemdawg",
-			"Cheese",
-			"conditions",
-			"Alien OG",
-			"Afghani",
-			"ACDC Super CBD Oil",
-			"ACDC",
-			"Acapulco Gold",
-			"707 Headband",
-			"ACDC",
-			"Tropical OG",
-			"Thin Mint",
-			"Tangelope",
-			"Tangerine",
-			"Superman OG",
-			"Super Grandaddy",
+			"Appetite Loss",
+			"Fibromyalgia",
+			"fatigue",
+			"Fatigue",
+			"fatigue",
+			"Fatigue",
+			"fatigue",
+			"Fatigue",
+			"Impotence",
+			"Super Silver HAze",
 			"Sugar Plum",
-			"Strawberry Mist",
-			"Stratosphere",
-			"Saturn OG",
-			"Raskal OG",
-			"Purple Urkle",
-			"Purple Cheese",
-			"Trinity Kush",
-			"Pineapple Hogsbreath",
-			"Pineapple Express",
-			"Pineapple",
-			"OG Cheese",
-			"Moonshine Diesel",
-			"Mike Tyson",
-			"Mercury OG",
-			"May Weather Kush",
-			"Magic Jack",
-			"Mafia OG",
-			"Lulu",
-			"Jillybean",
-			"Jack Chemdawg",
-			"Green Dynamite",
-			"Grapefruit Haze",
-			"Grape Cookies",
-			"Canna-Tsu",
+			"sour deisel",
+			"snowcap",
+			"snowcao'",
+			"ADD/ADHD",
+			"Banana Diesel",
+			"ADD/ADHD",
+			"ADD",
+			"conditions =",
+			"Anorexia",
+			"Impotence",
+			"Muscle Spasms",
+			"MUscle Spasms",
+			"Gooey Wreck",
+			"Muscle Spasms",
+			"Fibromyalgia",
 			"conditions",
-			"}, \"conditions\": [\"\"],",
-			"}, \n			 \"PositiveEffects\": [\"\"],",
-			"Cannatonic #4",
-			"Charlotte's Web",
-			"Cannatonic",
-			"Harle-Tsu",
+			"Fibromyalgia",
+			"Skunk #1",
+			"Skunk",
+			"NY Sour",
+			"187",
+			"Kali Mist",
+			"jack here",
+			"jack frost",
+			"jack fro",
+			"Gorilla Glue #4",
+			"Gorilla Glue",
+			"Godfather",
+			"Godfather OG",
 			"G13 Haze",
-			"Lemon Larry OG",
-			"Jupiter Kush",
-			"Harlequin",
-			"Lemon Larry OG",
-			"Sour Tsunami",
-			"Sour OG",
-			"Valentine X",
-			"Sour Tsunami",
-			"Grape Cookies",
-			"Gooey Wreck",
+			"Banana Diesel",
+			"acapulco",
+			"6.98",
+			"harlequin",
+			"Banana Diesel",
+			"AVI-Dekel",
+			"strawberry",
+			"strawbery",
+			"Alien OG",
+			"alien og",
+			"afgoo",
 			"ACDC",
-			"Green Thailand",
-			"Grape Cookies",
-			"Mafia OG",
-			"Sugar Plum",
-			"ACDC",
-			"Gooey Wreck",
-			"ACDC",
-			"Lulu",
-			"Mike Tyson",
-			"Phantom OG",
-			"Pennywise",
-			"Super Grandaddy",
-			"Saturn OG",
-			"Black Cherry Soda"
+			"aca",
+			"Strawberry",
+			"{ \n			 		\"name\": \"CBC\", \n			 		\"value\": 0.20\n			 	}",
+			"Girl Scout Cookies",
+			"08",
+			"{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0",
+			"condition",
+			"PTSD",
+			"TRainwreck",
+			"Pinene",
+			"products",
+			"Terpineol-4",
+			"product",
+			"}, \n		 	\"conditions\":",
+			"}, \n			 \"conditions\":",
+			"}, \n		 	 \"conditions\":",
+			"} 	\n		 	},",
+			" \"components\": {\n			 	{",
+			"\"components\": {\n			 	\"THC\":",
+			"\"components\": {",
+			"\"components\": {\n			 	\"THC9\": 21.30,",
+			"Antileishmanial",
+			"cannflavin A",
+			"terpineol-4-ol",
+			"a-terpineol",
+			"Linalool",
+			"THCA",
+			"Delta8-THC",
+			"CBC",
+			"CBN",
+			"products",
+			"AChE inhibitor",
+			"neuroprotective",
+			"\"Analgesic\"",
+			"\"Analgesic\": \"Reduce pain\",",
+			"analgesic",
+			"appetite-stimulating",
+			"anxiolytic",
+			"\"Antiemetic\"",
+			"\"Antiemetic\": \"Anti-nausea\",",
+			"antiemetic",
+			"\"productId\": 7,",
+			"Intraocular Pressure",
+			"\"Neurogenesis\"",
+			"Neurogenesis",
+			"Anti-tumor",
+			"\"productId\": 6",
+			"Antifungal",
+			"\"productId\": 5",
+			"Immunosuppressant",
+			"Antibiotic",
+			"Sedative",
+			"Oxidation",
+			"\"productId\": 4",
+			"\"productId\": 3",
+			"Antipsychotic",
+			"Antispasmodic",
+			"Anxiolytic",
+			"Delta9-THC",
+			"Neurogenesis",
+			"Reduces Neuroinflammation",
+			"Neuroprotective",
+			"Antiemetic",
+			"Antioxidant",
+			"Antiinflammatory",
+			"Analgesic",
+			"Euphoriant",
+			"Delta9-THC",
+			"products",
+			"Antipyretic",
+			"AChE inhibitor",
+			"Sedative",
+			"Antipyretic",
+			"Silver Surfer",
+			"panel"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -808,6 +864,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.00",
+			", \n		 	 \"conditions\":",
+			"} 	\n		 	],",
+			" \"components\": [\n			 	{",
+			"\"components\": {\n			 	{ \n			 		\"name\": \"THC9\", \n			 		\"value\": 21.30\n			 	},\n			 	{ \n			 		\"name\": \"CBD\", \n			 		\"value\": 1.81\n			 	},\n			 	{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.03\n			 	},\n			 	{ \n			 		\"name\": \"CBG\", \n			 		\"value\": 0.30\n			 	},\n			 	{ \n			 		\"name\": \"CBC\", \n			 		\"value\": 0.30\n			 	},\n			 	{ \n			 		\"name\": \"THCV\", \n			 		\"value\": 0.03\n			 	},\n			 	{ \n			 		\"name\": \"THCA\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"THC8\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Pulegone\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Myrcene\", \n			 		\"value\": 0.40\n			 	},\n			 	{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.40\n			 	},\n			 	{ \n			 		\"name\": \"Limonene\", \n			 		\"value\": 0.50\n			 	},\n			 	{ \n			 		\"name\": \"Linalool\", \n			 		\"value\": 0.01\n			 	},\n			 	{ \n			 		\"name\": \"Eucalyptol\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Pinene\", \n			 		\"value\": 0.20\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol-4\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Cymene\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Apigenin\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Quercetin\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Cannflavin A\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Beta-sitosterol\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"CBL\", \n			 		\"value\": 0.0\n			 	} 	\n		 	}, \"THC\":",
+			"\"components\": {\n			 	{ \n			 		\"name\": \"THC9\", \n			 		\"value\": 21.30\n			 	},\n			 	{ \n			 		\"name\": \"CBD\", \n			 		\"value\": 1.81\n			 	},\n			 	{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.03\n			 	},\n			 	{ \n			 		\"name\": \"CBG\", \n			 		\"value\": 0.30\n			 	},\n			 	{ \n			 		\"name\": \"CBC\", \n			 		\"value\": 0.30\n			 	},\n			 	{ \n			 		\"name\": \"THCV\", \n			 		\"value\": 0.03\n			 	},\n			 	{ \n			 		\"name\": \"THCA\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"THC8\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Pulegone\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Myrcene\", \n			 		\"value\": 0.40\n			 	},\n			 	{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.40\n			 	},\n			 	{ \n			 		\"name\": \"Limonene\", \n			 		\"value\": 0.50\n			 	},\n			 	{ \n			 		\"name\": \"Linalool\", \n			 		\"value\": 0.01\n			 	},\n			 	{ \n			 		\"name\": \"Eucalyptol\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Pinene\", \n			 		\"value\": 0.20\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol-4\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Cymene\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Apigenin\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Quercetin\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Cannflavin A\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"Beta-sitosterol\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"CBL\", \n			 		\"value\": 0.0\n			 	} 	\n		 	},",
+			"			 \"components\": {\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	{ \n			 		\"name\": \"\", \n			 		\"value\": 0.0\n			 	},\n			 	\"THC9\": 21.30,",
 			"",
 			"\"type\"",
 			"negativeEffects",
@@ -863,8 +926,66 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "common/services/productResourceMock.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "text resources/condtions.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2290,
+								1837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2833.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -911,7 +1032,7 @@
 	"project": "tempz.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 162.0
 	},
 	"save_all_on_build": true,
 	"select_file":
