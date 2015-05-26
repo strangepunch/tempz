@@ -95,7 +95,6 @@ html, body {
 }
 
 #mainView ul{
-	list-style-type: none;
 	vertical-align: bottom;
 }
 #mainView li a {
