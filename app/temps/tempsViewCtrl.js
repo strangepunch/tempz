@@ -95,55 +95,8 @@
 			}
 			vm.effectProperty = tempArray;
 
-
-			ngProgress.start();
-			strainResource.query(function(data){
-				vm.Strains = data;
-				vm.Container = [];
-				var num = 0;
-				var test = 0;
-				//console.log(vm.EffectsProductName);
-				for(var x=0; x<vm.EffectsProductName.length;x++){
-					for(var i=0; i<data.length;i++){
-						for(var j=0; j<data[i].components.length;j++){
-							if(data[i].components[j].name === vm.EffectsProductName[x] && data[i].components[j].value > 0 ){
-								vm.Container[num] = {strainId: vm.Strains[i].strainId,
-										           	 strainName: vm.Strains[i].strainName,
-										             conditions: vm.Strains[i].conditions,
-										             comp:vm.Strains[i].components[j],
-										             imageUrl:vm.Strains[i].imageUrl};
-								num++;
-							}
-						}				
-					}
-					//console.log("test", test++);
-					//console.log("num", num);
-					//console.log("conds", vm.Strains[0].conditions);
-					//console.log("num", num);
-					ngProgress.complete();
-					
-				}
-				//console.log(vm.Container);
-
-				//calculate the highest
-				var highStrain = "";
-				var highEffect = "";
-				var highValue = 0;
-				var tempValue = 0;
-				for(var i=0; i<vm.Container.length; i++){
-					tempValue = vm.Container[i].comp.value;
-					if(highValue < tempValue){
-						highStrain = vm.Container[i].strainName;
-						highEffect = vm.Container[i].comp.name;
-						highValue = vm.Container[i].comp.value;
-					}
-				}
-				vm.Suggest={strain:highStrain, effect:highEffect, value:highValue};
-				//console.log(vm.Suggest);
-				$scope.filterName = vm.Suggest.strain;
-				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
-			});
-
+			$scope.showSuggestedStrain(vm.EffectsProductName);
+		
 		});
 
 		//change between F and C
@@ -206,6 +159,8 @@
 			console.log(value);
 			if (vm.currentTemp === 'F'){
 
+				vm.EffectsProductName = [];
+
 				for(var i=0; i<vm.products.length; i++){
 					if(value === vm.products[i].highTemp){
 						for(var x=0; x<vm.products[i].Property.length; x++){
@@ -219,6 +174,8 @@
 				vm.effectProperty = tempArray;
 
 			} else if (vm.currentTemp === 'C'){
+
+				vm.EffectsProductName = [];
 
 				for(var i=0; i<vm.products.length; i++){
 
@@ -235,6 +192,22 @@
 
 			}
 			
+			$scope.showSuggestedStrain(vm.EffectsProductName);
+		}
+
+		//sets the strain display
+		$scope.orderName = '-comp.value';
+		$scope.orderName2 = 'comp.name';
+		$scope.filterName = 'Trainwreck';
+		$scope.effectNameValue = '';
+		$scope.filterStrainName = function(name,effect,value){
+			//console.log(name);
+			$scope.filterName = name;
+			$scope.effectNameValue = "(" + effect + ": " + value + ")";		
+		}
+
+		//get strains from passed in effect name or names
+		$scope.showSuggestedStrain = function(EffectsProductName){
 			ngProgress.start();
 			strainResource.query(function(data){
 				vm.Strains = data;
@@ -242,10 +215,10 @@
 				var num = 0;
 				var test = 0;
 				//console.log(vm.EffectsProductName);
-				for(var x=0; x<vm.EffectsProductName.length;x++){
+				for(var x=0; x<EffectsProductName.length;x++){
 					for(var i=0; i<data.length;i++){
 						for(var j=0; j<data[i].components.length;j++){
-							if(data[i].components[j].name === vm.EffectsProductName[x] && data[i].components[j].value > 0 ){
+							if(data[i].components[j].name === EffectsProductName[x] && data[i].components[j].value > 0 ){
 								vm.Container[num] = {strainId: vm.Strains[i].strainId,
 										           	 strainName: vm.Strains[i].strainName,
 										             conditions: vm.Strains[i].conditions,
@@ -280,18 +253,9 @@
 				$scope.filterName = vm.Suggest.strain;
 				$scope.effectNameValue = "(" + vm.Suggest.effect + ": " + vm.Suggest.value + ")";
 			});
-		}
+		};
 
-		//sets the strain display
-		$scope.orderName = '-comp.value';
-		$scope.orderName2 = 'comp.name';
-		$scope.filterName = 'Trainwreck';
-		$scope.effectNameValue = '';
-		$scope.filterStrainName = function(name,effect,value){
-			//console.log(name);
-			$scope.filterName = name;
-			$scope.effectNameValue = "(" + effect + ": " + value + ")";		
-		}
+
 		//this sets the ng-class to active
 		$scope.active = function(item){
 
