@@ -3802,7 +3802,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.28
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -3834,19 +3834,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.83
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -3889,10 +3889,10 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Bipolar", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "after you grind it and a real sweet almost tropical fruit comes out in the high notes and those low earthy tones become much more pronounced.",
+			 "descriptionDetailed": "After you grind it and a real sweet almost tropical fruit comes out in the high notes and those low earthy tones become much more pronounced.",
 			 "descriptionAbbrev":  "Deep green leaf and a nice nearly lime green buds that have a hit of the foxtail calyx form.",
 			 "tags": ["Hybrid", "Dutch Passion", "Bipolar"],
 			 "imageUrl": "images/strains/dutch-passion.JPG"
@@ -4169,7 +4169,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.90
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -4312,7 +4312,7 @@
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Nausea"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": " Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
+			 "descriptionDetailed": "Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
 			 "descriptionAbbrev":  "Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
 			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/forum_cookies.jpg"
@@ -9154,7 +9154,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.92
+			 		"value": 18.63
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -9162,11 +9162,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.06
+			 		"value": 0.82
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -9245,13 +9245,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Kosher Kush", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Chronic Aches", "Depression", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Kosher Kush is the world's first ever strain to be blessed by a Rabbi. From the vault of DNA's Reserva Privada seed line,",
+			 "descriptionAbbrev":  "Kosher Kush won the High Times Indica Cup in 2010 and 2011.",
+			 "tags": ["Earthy", "Pungent", "Pine"],
+			 "imageUrl": "images/strains/kosher-kush_100x100.jpg"
 			},
 			{"strainId": 89,
 			 "strainName": "Lemon Larry OG", 
@@ -12445,19 +12445,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.59
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.66
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.77
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12465,7 +12465,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12500,11 +12500,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -12623,7 +12623,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 1.81
+			 		"value": 0.21
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -12820,8 +12820,8 @@
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Grape Kool Aid is a cross between Bubba Kush and Super Lemon Haze.",
 			 "descriptionAbbrev":  "This strain is indica dominant giving it relaxing properties but without that couch-locked feeling.",
-			 "tags": ["Indica", "Grape Kool Aid", "Grape", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "tags": ["Grape"],
+			 "imageUrl": "images/strains/Purple Wreck-578x433.jpg"
 			},
 			{"strainId": 122,
 			 "strainName": "Jupiter Kush", 
@@ -12934,27 +12934,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.00
+			 		"value": 19.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.11
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.06
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.13
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.07
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -12970,11 +12970,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -12982,7 +12982,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.12
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12990,7 +12990,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.14
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -13025,13 +13025,13 @@
 			 		"value": 0.05
 			 	} 	
 		 	],  
-		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "L.A. Confidential", "Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression", "Muscle Spasms", "Relaxed", "Happy", "Euphoric", "Sleep", "Uplifted" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "descriptionAbbrev":  "LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body",
+			 "tags": ["Earthy", "Pine", "Pungent"],
+			 "imageUrl": "images/strains/la-confidential_100x100.jpg"
 			},
 			{"strainId": 124,
 			 "strainName": "Lemon Jack", 
@@ -14820,7 +14820,7 @@
 			},
 			{"strainId": 142,
 			 "strainName": "Godfather OG",
-			 "strainType": "Hybrid",
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
@@ -14828,7 +14828,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.67
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -18709,15 +18709,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 20.00
+			 		"value": 18.93
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.11
+			 		"value": 0.59
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -18800,13 +18800,13 @@
 			 		"value": 0.10
 			 	} 	
 		 	],  
-		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Indica", "Grandaddy Purple", "Purple", "Stress", "Pain", "Insomnia", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "descriptionAbbrev":  "The taste is fruity like grapes and so is the smell.",
+			 "tags": ["Grapes"],
+			 "imageUrl": "images/strains/grandaddy-purple.jpg"
 			},
 			{"strainId": 179,
 			 "strainName": "Fire OG",
@@ -20382,6 +20382,321 @@
 			 "descriptionAbbrev":  "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/organic-og-kush.JPG"
+			},
+			{"strainId": 194,
+			 	"strainName": "Kandy Kush",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.33
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
+			 "descriptionAbbrev":  "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
+			 "tags": ["Sweet", "Earthy", "Flowery"],
+			 "imageUrl": "images/strains/kandy-kush_100x100.jpg"
+			},
+			{"strainId": 195,
+			 	"strainName": "King Louis XIII",
+			 	"strainType": "Sativa",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 27.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.21
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.17
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
+			 "tags": ["Pine", "Pungent", "Earthy"],
+			 "imageUrl": "images/strains/king-louis-xiii_100x100.jpg"
+			},
+			{"strainId": 196,
+			 	"strainName": "Kryptonite",
+			 	"strainType": "Indica",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.52
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress", "Fatigue", "Depression"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
+			 "tags": ["Sweet", "Earthy", "Pungent"],
+			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			}
 		];
 		
@@ -20416,9 +20731,9 @@
 			{"conditionId": 4,
 			 "conditionName": "Anorexia", 
 			 "treatment": "Anorexia Treatment description here.",
-			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1", "Bay Cookies", "Blackberry Kush", "Blue Haze", "Candy Jack", "Candy OG", "Cataract Kush", "Chemdawg", "Cherry Bomb", "Confidential Cheese", "DJ Short Blueberry"],
+			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1", "Bay Cookies", "Blackberry Kush", "Blue Haze", "Candy Jack", "Candy OG", "Cataract Kush", "Chemdawg", "Cherry Bomb", "Confidential Cheese", "DJ Short Blueberry", "Dubtech", "Dutch Passion", "Forum Cookies/GSC", "Gorilla Glue #4", "Grandaddy Purple", "Grape Cookies", "Grape Kool Aid", "Kandy Kush", "King Louis XIII", "Kosher Kush", "Kryptonite", "L.A. Confidential"],
 			 "descriptionDetailed": "Anorexia Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Anorexia Short description here.",
+			 "descriptionAbbrev":  "Anorexia nervosa is a serious, potentially life-threatening eating disorder characterized by self-starvation and excessive weight loss.",
 			 "tags": ["Anorexia","Appetite","Munchies", "Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},

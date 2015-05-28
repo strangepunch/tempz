@@ -59,40 +59,53 @@ Hawaiian Hulk
  "Ak-48", 
 "Amnesia"
  Banana Diesel
-Fire Bomb
-Gooey Wreck
-Green Dream
+ Fire Bomb
+ Gooey Wreck
+ Green Dream
 Hawaiian Hulk
-Jack Herer
+ Jack Herer
 Lamb's Bread
 Lemon Haze
 Lemon Head OG
 Moonshine Diesel
 Pineapple Express
 Purple Haze
-Great White Shark
+ Great White Shark
  Acapulco Gold
  Amnesia Haze
  Berry Queen
-Godfather OG
+ Godfather OG
  Afghani Bullrider
  Afgoo
  AK-47
  Cinderella 99
-Jack Frost
-Kali Mist
+ Jack Frost
+ Kali Mist
 NY Sour Diesel
 Skunk #1
--Bay Cookies
--Blackberry Kush
--Blue Haze
--Candy Jack
--Candy OG
--Cataract Kush
--Chemdawg
--Cherry Bomb
--Confidential Cheese
--DJ Short Blueberry 
+Bay Cookies
+Blackberry Kush
+Blue Haze
+Candy Jack
+Candy OG
+Cataract Kush
+Chemdawg
+Cherry Bomb
+Confidential Cheese
+DJ Short Blueberry 
+-Dubtech
+-Dutch Passion
+-Forum Cookies/GSC
+-Gorilla Glue #4
+-Grandaddy Purple
+-Grape Cookies
+-Grape Kool Aid
+-Kandy Kush
+-King Louis XIII
+-Kosher Kush
+-Kryptonite
+-LA Confidential
+-
 
 
 5. ADD/ADHD
