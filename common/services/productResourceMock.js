@@ -5478,7 +5478,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 14.10
+			 		"value": 23.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -5486,7 +5486,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.58
+			 		"value": 0.70
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5574,7 +5574,7 @@
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint.",
 			 "descriptionAbbrev":  "Has been characterized as smelling of fresh peeled lemon slices with a similar taste.",
-			 "tags": ["Sativa", "Lemon Haze", "Haze",  "Bipolar"],
+			 "tags": ["Lemon", "Citrus",  "Sweet"],
 			 "imageUrl": "images/strains/lemon-haze_100x100.jpg"
 			},
 			{"strainId": 54,
@@ -5829,19 +5829,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.31
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5849,7 +5849,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5884,13 +5884,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	],  
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Magic Jack", "Jack", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "descriptionAbbrev":  "This is a perfect daytime strain – energetic but not too racy – and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
+			 "tags": ["Lemon"],
+			 "imageUrl": "images/strains/Magic-Jack-300.jpg"
 			},
 			{"strainId": 57,
 			 "strainName": "Mike Tyson", 
@@ -13600,19 +13600,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.47
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.30
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 2.61
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 2.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -13620,7 +13620,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -13655,13 +13655,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
+		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Migraines", "Muscle Spasms", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "May Weather Kush", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/May weather kush.jpg"
 			},
 			{"strainId": 131,
 			 "strainName": "Phantom OG", 
@@ -20697,6 +20697,321 @@
 			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "tags": ["Sweet", "Earthy", "Pungent"],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
+			},
+			{"strainId": 197,
+			 	"strainName": "Legend",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 24.89
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.88
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 3.70
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 2.17
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.04
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Absoulutly the very best OG I've ever smoked, and Ive grown and smoked almost all of them.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
+			},
+			{"strainId": 198,
+			 	"strainName": "Lemon Diesel",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 13.92
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "The buds have been described as smelling fruity and sweet, with a hint of a skunk. The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. Lemon Diesel was in the Top Ten at the Emerald Cup in 2010.",
+			 "descriptionAbbrev":  "The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. ",
+			 "tags": ["Lemon", "Diesel", "Citrus"],
+			 "imageUrl": "images/strains/lemon-diesel_100x100.jpg"
+			},
+			{"strainId": 199,
+			 	"strainName": "Lemon Kush",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 17.63
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress", "Insomnia"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "The light green buds are covered in a white frosting of trichomes and provide uplifting and creative effects.",
+			 "descriptionAbbrev":  "Lemon Kush is the perfect solution for when the stresses of life have you feeling sour.",
+			 "tags": ["Lemon", "Citrus", "Sweet"],
+			 "imageUrl": "images/strains/lemon-kush_100x100.jpg"
 			}
 		];
 		
@@ -20731,7 +21046,7 @@
 			{"conditionId": 4,
 			 "conditionName": "Anorexia", 
 			 "treatment": "Anorexia Treatment description here.",
-			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1", "Bay Cookies", "Blackberry Kush", "Blue Haze", "Candy Jack", "Candy OG", "Cataract Kush", "Chemdawg", "Cherry Bomb", "Confidential Cheese", "DJ Short Blueberry", "Dubtech", "Dutch Passion", "Forum Cookies/GSC", "Gorilla Glue #4", "Grandaddy Purple", "Grape Cookies", "Grape Kool Aid", "Kandy Kush", "King Louis XIII", "Kosher Kush", "Kryptonite", "L.A. Confidential"],
+			 "strains": ["Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia", "Banana Diesel", "Fire Bomb", "Gooey Wreck", "Green Dream", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Lemon Haze", "Lemon Head OG", "Moonshine Diesel", "Pineapple Express", "Purple Haze", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Berry Queen", "Godfather OG", "Afghani Bullrider", "Afgoo", "AK-47", "Cinderella 99", "Jack Frost", "Kali Mist", "NY Sour Diesel", "Skunk #1", "Bay Cookies", "Blackberry Kush", "Blue Haze", "Candy Jack", "Candy OG", "Cataract Kush", "Chemdawg", "Cherry Bomb", "Confidential Cheese", "DJ Short Blueberry", "Dubtech", "Dutch Passion", "Forum Cookies/GSC", "Gorilla Glue #4", "Grandaddy Purple", "Grape Cookies", "Grape Kool Aid", "Kandy Kush", "King Louis XIII", "Kosher Kush", "Kryptonite", "L.A. Confidential", "Legend", "Lemon Diesel", "Lemon Kush", "Magic Jack", "May Weather Kush", "Mecury OG"],
 			 "descriptionDetailed": "Anorexia Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anorexia nervosa is a serious, potentially life-threatening eating disorder characterized by self-starvation and excessive weight loss.",
 			 "tags": ["Anorexia","Appetite","Munchies", "Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia"],
@@ -21335,7 +21650,7 @@
 			 "effectName": "Neuroprotective", //compName
 			 "conditionsTreated": ["ADHD"],
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
-			 "descriptionAbbrev":  "Prevent nerve damage",
+			 "descriptionAbbrev":  "Protects nervous system degeneration.",
 			 "tags": ["Neuroprotective", "nerves"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21343,7 +21658,7 @@
 			 "effectName": "Antispasmodic", //compName
 			 "conditionsTreated": ["Epilepsy", "Spasms"],
  			 "descriptionDetailed": "Medical cannabis strains high in CBD have been shown to relieve spasms and convulsions associated with Epilepsy and other nerve related conditions.",
-			 "descriptionAbbrev":  "Relieve spasms",
+			 "descriptionAbbrev":  "Suppresses muscle spasms.",
 			 "tags": ["Antispasmodic", "spasms", "convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21359,7 +21674,7 @@
 			 "effectName": "Analgesic", //compName
 			 "conditionsTreated": ["Pain", "Chronic Pain"],
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
-			 "descriptionAbbrev":  "Reduce pain",
+			 "descriptionAbbrev":  "Relieves pain.",
 			 "tags": ["Analgesic", "pain", "painkiller" ],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21391,7 +21706,7 @@
 			 "effectName": "Antiinflammatory", //compName
 			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
-			 "descriptionAbbrev":  "Reduce inflammation",
+			 "descriptionAbbrev":  "Reduces inflammation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21415,7 +21730,7 @@
 			 "effectName": "Antiepileptic", //compName
 			 "conditionsTreated": ["Epilepsy", "Seizures", "Convulsions"],
  			 "descriptionDetailed": "Anti-epileptic drugs or AEDs are the main form of treatment for people with epilepsy. Certain compnonents in medical cannabis are being used as an effectve treatment for some forms of Epilepsy based on the relative strengths of components such as CBD and THC-A.",
-			 "descriptionAbbrev":  "Anti-seizure",
+			 "descriptionAbbrev":  "Reduces seizures and convulsion.",
 			 "tags": ["Antiepileptic", "Seizures", "Convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21431,7 +21746,7 @@
 			 "effectName": "Anti-ischemic", //compName
 			 "conditionsTreated": ["Coronary Heart disease"],
  			 "descriptionDetailed": "Reduces risk of artery blockage whcih could help prevent the conditions leading to coronary artery disease.",
-			 "descriptionAbbrev":  "Prevent blocked arteries",
+			 "descriptionAbbrev":  "Reduces risk of artery blockage.",
 			 "tags": ["Anti-ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21439,7 +21754,7 @@
 			 "effectName": "Antibacterial", //compName
 			 "conditionsTreated": [""],
  			 "descriptionDetailed": "Kills surface bacteria. Destroys bacteria or suppresses their growth or their ability to reproduce.",
-			 "descriptionAbbrev":  "Kill bacteria",
+			 "descriptionAbbrev":  "Kills or slows bacteria growth.",
 			 "tags": ["Antibacterial", "Bacteria", "Antibacterial"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21455,7 +21770,7 @@
 			 "effectName": "Antipsoriatic", //compName
 			 "conditionsTreated": ["Psoriasis"],
  			 "descriptionDetailed": "Helps relieve the symptoms of psoriasis.",
-			 "descriptionAbbrev":  "Treat psoriasis",
+			 "descriptionAbbrev":  "Treats psoriasis.",
 			 "tags": ["Antipsoriatic", "psoriasis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21463,7 +21778,7 @@
 			 "effectName": "Antipsychotic", //compName
 			 "conditionsTreated": ["Ppsychosis"],
  			 "descriptionDetailed": "Helps reduce psychosis including delusions or hallucinations",
-			 "descriptionAbbrev":  "Relieve psychosis",
+			 "descriptionAbbrev":  "Tranquilizing/Used to manage psychosis.",
 			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21471,7 +21786,7 @@
 			 "effectName": "Bone-stimulant", //compName
 			 "conditionsTreated": ["Ostiopererosis"],
  			 "descriptionDetailed": "promotes bone growth",
-			 "descriptionAbbrev":  "Strengthen bone cells",
+			 "descriptionAbbrev":  "Promotes bone growth.",
 			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21479,7 +21794,7 @@
 			 "effectName": "Intestinal anti-prokinetic", //compName
 			 "conditionsTreated": ["GI Motility Disorders"],
  			 "descriptionDetailed": "reduces contractions in the small intestine",
-			 "descriptionAbbrev":  "Relieve intestinal contractions",
+			 "descriptionAbbrev":  "Reduces contractions in the small intestines.",
 			 "tags": ["Intestinal anti-prokinetic", "contractions", "Intestinal"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -21487,7 +21802,7 @@
 			 "effectName": "Immunosuppressant", //compName
 			 "conditionsTreated": ["psoriasis", "rheumatoid arthritis", "crohns disease", "cancer"],
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
-			 "descriptionAbbrev":  "Suppress immune system",
+			 "descriptionAbbrev":  "Modulates function in the immune system.",
 			 "tags": ["Immunosuppressant", "immune system"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 

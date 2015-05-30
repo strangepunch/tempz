@@ -64,9 +64,9 @@ Hawaiian Hulk
  Green Dream
 Hawaiian Hulk
  Jack Herer
-Lamb's Bread
-Lemon Haze
-Lemon Head OG
+ Lamb's Bread
+ Lemon Haze
+ Lemon Head OG
 Moonshine Diesel
 Pineapple Express
 Purple Haze
@@ -93,19 +93,24 @@ Chemdawg
 Cherry Bomb
 Confidential Cheese
 DJ Short Blueberry 
--Dubtech
--Dutch Passion
--Forum Cookies/GSC
--Gorilla Glue #4
--Grandaddy Purple
--Grape Cookies
--Grape Kool Aid
--Kandy Kush
--King Louis XIII
--Kosher Kush
--Kryptonite
--LA Confidential
--
+Dubtech
+Dutch Passion
+Forum Cookies/GSC
+Gorilla Glue #4
+Grandaddy Purple
+Grape Cookies
+Grape Kool Aid
+Kandy Kush
+King Louis XIII
+Kosher Kush
+Kryptonite
+LA Confidential
+-Legend
+-Lemon Diesel
+-Lemon Kush
+-Magic Jack
+-May Weather Kush
+-Mecury OG
 
 
 5. ADD/ADHD
