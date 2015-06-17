@@ -105,12 +105,12 @@ King Louis XIII
 Kosher Kush
 Kryptonite
 LA Confidential
--Legend
--Lemon Diesel
--Lemon Kush
--Magic Jack
--May Weather Kush
--Mecury OG
+Legend
+Lemon Diesel
+Lemon Kush
+Magic Jack
+May Weather Kush
+Mecury OG
 
 
 5. ADD/ADHD
@@ -275,3 +275,96 @@ Bay Cookies
 -Permafrost
 -Purple Cheese
 -Superman OG
+
+10. Arthritis
+"White Walker OG", 
+"White Fire OG", 
+"Super Lemno Haze", 
+"Super Grandaddy", 
+"Sugar Plum", 
+"Sour Tsunami", 
+"Silver Surfer", 
+"Pennywise", 
+"Pineapple",
+"Pineapple Hogsbreath", 
+"Private Reserve", 
+"Purple Haze", 
+"Purple Kush", 
+"Purple Urkle", 
+"Querkle", 
+"Ramona OG", 
+"Sherbet Cookies", 
+"Lemon Haze", 
+"Lemon Larry OG", 
+"Lemon OG Kush", 
+"Lulu", 
+"Mad Max", 
+"May Weather Kush", 
+"Neptune OG", 
+"Northern Lights", 
+"OG Cheese", 
+"Ogre", 
+"Diablo", 
+"El Alquimista", 
+"Fire Bomb", 
+"God's Gift", 
+"Gorilla Glue #4", 
+"Grape Kool Aid", 
+"Green Thailand", 
+"Harle-Tsu", 
+"Harlequin", 
+"Jack Frost", 
+	"Black Cherry Soda", 
+	"Blackwater", 
+	"Brutus OG", 
+"Bullrider", 
+"Canna-Tsu", 
+"Cannatonic", 
+"Charlotte's Web", 
+"Chemdawg", 
+"Cinderella 99", 
+"Confidential Cheese"
+
+10. Stress
+Bull Rider
+Blackwater
+Trainwreck
+White Widow
+Sage
+Skywalker OG
+Quwerkle
+OG Kush
+Canna-Tsu
+Warlock
+Strawberry Cough
+Stardawg
+Strawberry
+Sour Diesel
+Pineapple
+Purple Cheese
+ACDC
+Superman OG
+Thin Mint
+Candy OG
+Chem Valley Kush
+Banana Diesel
+Confidential Cheese
+Deadhead OG
+Diablo
+Dutch Passion
+Fire Bomb
+Forum Cookies
+Gooey Wreck
+Grapefruit Haze
+Green Crack
+Green Dream
+Thai
+H-trainwreck
+Bruce Banner
+Chemdawg
+Jack Herer
+Jillybean
+Lambs Bread
+Lemon Haze
+Super Lemon OG
+
