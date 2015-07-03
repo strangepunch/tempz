@@ -1,0 +1,124 @@
+<div id="mainView">
+	<div class = "panel panel-primary">
+		<div class ="btn btn-primary" ui-sref="easy"> E </div>
+		<div class ="btn btn-primary" ui-sref="main.temps"> H </div>
+	</div>
+</div>
+
+<div id="easyView">
+	<!--the temperature display -->
+	<div class = "panel panel-primary">
+		<div class = "row">
+			<table>
+				<tr>
+					<td class="col-xs-1"> 
+						<div ng-repeat="temp in vm.Temps|limitTo:5 track by $index">
+							<div ng-class="active(temp)"></div>
+							<li ng-click="catching(temp)"> {{temp}}</li>
+						</div>
+					</td>
+					<td class="col-xs-9"> 
+
+						<div class = "row">
+							<div class="tCircle">
+								<span>{{vm.tempDisplay}}</span> <br>
+								<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
+							</div>
+						</div>
+
+						<div class = "row center">
+							
+							<div class="col-xs-12" style="font-size:1.5em;">Med / Rec </div>
+
+							<div class="col-xs-12">Effect Name</div>
+
+						</div>
+						
+					</td>
+					<td class="col-xs-1"> 
+						<div ng-repeat="temp in vm.Temps|limitTo:-5 track by $index">	
+							<div ng-class="active(temp)"></div>
+							<li ng-click="catching(temp)" style="text-align:right">{{temp}}</li>	
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12">
+					<SS> 1. </SS> Choose an effect
+				</div>
+
+				<div class="col-xs-6">
+				  <div class="dropdown row-padding">
+				    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Medical Conditions 
+				    <span class="caret"></span></button>
+				    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+				      <li role="presentation" class="dropdown-header">Medical Condtions</li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 1</a></li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 2</a></li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 3</a></li>
+				      <li role="presentation" class="divider"></li>
+				      <li role="presentation" class="dropdown-header">Positive Effects</li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 4</a></li>
+				    </ul>
+				  </div>
+				</div>
+
+				<div class="col-xs-6">
+				  <div class="dropdown">
+				    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Specific Treatments 
+				    <span class="caret"></span></button>
+				    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+				      <li role="presentation" class="dropdown-header">Medical Condtions</li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 5</a></li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 6</a></li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 7</a></li>
+				      <li role="presentation" class="divider"></li>
+				      <li role="presentation" class="dropdown-header">Positive Effects</li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 8</a></li>
+				      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Name 9</a></li>
+				    </ul>
+				  </div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12">
+					<SS> 2. </SS> Choose a strain:
+				</div>
+				<div class="col-xs-12">
+					<div class = "row row-padding">
+			 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input> 
+			 				<a class="clear" ng-click="clearSearch()">
+    							<span class="glyphicon glyphicon-remove"></span>
+							</a>
+						</label>
+					</div> 
+		 			<div class = "row row-padding">
+				 		<div class="btn" ng-click="searchEffect('All')"> All </div>
+				 		<div class="btn" ng-click="searchEffect('Sativa')"> Sativa </div>   
+				 		<div class="btn" ng-click="searchEffect('Indica')"> Indica </div> 
+				 		<div class="btn" ng-click="searchEffect('Hybred')"> Hybred </div> 
+				 	</div>
+			 	</div>
+
+			</div>
+		</div>
+	</div>
+
+	<div class = "panel panel-buttons">
+		<div class = "row">
+			<div class="btn" ng-click=""> GO </div>
+		</div>
+	</div>
+</div>

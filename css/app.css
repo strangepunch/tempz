@@ -1,14 +1,4 @@
 html, body {
-	background: #333 url('../images/backgrounds/marijuana-leaf-3.jpg') center 75% no-repeat;
-    background: -o-linear-gradient(bottom right, #0000CC , #E4E1D6); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #0000CC , #E4E1D6); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, #0000CC , #E4E1D6); /* Standard syntax */
-    background-repeat: no-repeat;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	background-size:cover;
-
    	width: auto !important;
    	height: 100%;
   	overflow-x: hidden !important;
@@ -47,6 +37,7 @@ html, body {
     border-width: 1px;
 	border-color: white;
 	background-color:rgba(0,0,0,0.2);
+	color: white;
 }
 
 #mainView .panel-body {
@@ -140,6 +131,210 @@ html, body {
 	position: relative;
 	top: 70px;	
 }
+/**----------Easy View---------------**/
+#easyView{
+	padding: 5px;
+	padding-top: 0px;
+	width: 100%;
+	float:left;
+}
+
+#easyView .panel {
+	background-color:rgba(0,0,0,0.2);
+	padding: 5px;
+	margin-bottom: 5px;
+	color: white;
+}
+
+#easyView .panel SS{
+	font-size: 2em;
+}
+
+#easyView .panel-body {
+	padding-left: 0px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 5px;
+}
+
+#easyView .panel-heading {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -5px;
+	padding: 5px;
+}
+
+#easyView .panel-footer {
+	background-color: rgba(0,0,0,0.5);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	padding: 5px;
+	font-size: .7em;
+}
+
+#easyView .panel-primary{
+	background-color: transparent;
+	border-style: none;
+	box-shadow: none;
+}
+
+#easyView table{
+	border: none;
+	color: white;
+	width: 100%;
+}
+
+#easyView tr td li{
+	list-style: none;
+	padding: 10px;
+}
+
+#easyView a{
+	font-style: none;
+	color: white;
+	text-decoration: none;
+}
+
+#radios{
+	display:block;
+	padding: 0px;
+	margin: 0px;
+	padding-right: 0px;
+}
+
+#easyView .tCircle {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 5px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 200px;
+	height: 205px;
+	font-size: 2em;
+	text-align: center;
+	vertical-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+}
+#easyView .tCircle span{
+	font-size: 3em;
+}
+#easyView .center {
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: #b0e0e6;*/
+}
+
+#easyView .imgStrains a img {
+	vertical-align: center;
+}
+
+#easyView .imgStrains h6 {
+	text-align: left;
+	padding-left: 0px;
+}
+#easyView .pushDown{
+	padding-top: 10px;
+}
+#easyView .tCircle2 {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 2px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 60px;
+	height: 65px;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	padding: 0px;
+	padding-top: 20px;
+	background-repeat: no-repeat;
+}
+#easyView .active{
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	border-right:10px solid yellow; 
+
+	margin-top: 10px;
+	float:right;
+}
+
+#easyView .active2{
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	border-left:10px solid yellow;
+
+	margin-top: 10px;
+	float:left; 	
+}
+
+#easyView .btn{
+	border-style: none;
+	background-color: transparent;
+}
+
+#easyView .row-padding{
+	margin-left: 20px;
+}
+
+#easyView .btn-primary{
+	border-style: solid;
+	border-color: white;
+	color:white;
+}
+#easyView .btn input{
+	color:black;
+}
+#easyView .btn:hover {
+  	color:#009900;
+}
+
+#easyView .dropdown .btn-default{
+	border-style: none;
+	background-color: transparent;
+	color:white;
+	outline:none;
+	box-shadow: none;
+}
+#easyView .dropdown .btn-default:hover {
+  	color:#009900;
+}
+
+#easyView .dropdown ul li a{
+	color:black;
+}
+
+#easyView .panel-buttons{
+	width: 45%;
+	text-align: center;
+	vertical-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+} 
+
+
 /**----------Temps View---------------**/
 #tempsView{
 	padding: 5px;
@@ -155,6 +350,7 @@ html, body {
 	background-color:rgba(0,0,0,0.2);
 	padding: 5px;
 	margin-bottom: 5px;
+	color: white;
 }
 
 #tempsView .panel-body {
@@ -275,7 +471,7 @@ html, body {
 
 }
 #tempsView .active{
-	border-color: rgba(3,22,5,0.8);
+	border-color: rgba(255, 163, 25,0.8);
 	border-width: 5px;
 	width: 70px;
 	height: 75px;
@@ -306,6 +502,7 @@ html, body {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	padding: 5px;
+	color: white;
 }
 
 #condView .panel-body {
@@ -485,6 +682,7 @@ html, body {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	padding: 5px;
+	color: white;
 }
 
 #strainsView .panel-body {
@@ -612,6 +810,7 @@ html, body {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	padding-top: 5px;
+	color: white;
 }
 
 #effView .panel-body {

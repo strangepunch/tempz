@@ -38,7 +38,14 @@
 							templateUrl: "app/welcomeView.html",
 						})
 
-						//Home
+						//Simple
+						.state("easy", {
+							url: "/easy",
+							templateUrl: "app/easy/easyView.html",
+							controller: "EasyViewCtrl as vm"
+						})
+
+						//Main
 						.state("main", {
 							url: "/main",
 							templateUrl: "app/mainView.html",

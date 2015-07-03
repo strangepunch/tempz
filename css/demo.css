@@ -12,8 +12,16 @@
 
 /* Show the "Drag" background in the demo */
 #content {
-	/*url(../images/backgrounds/marijuana-leaf-3.jpg)*/
-	background: #60646C url(../images/backgrounds/marijuana-leaf-3.jpg) center 75% no-repeat;
+	background: -webkit-linear-gradient(bottom right, #194719 , #002E00); /*Safari 5.1-6*/
+    background: -o-linear-gradient(bottom right, #194719 , #002E00); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #194719 , #002E00); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #194719 , #002E00); /* Standard syntax */
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	/*background: #60646C url(../images/backgrounds/marijuana-leaf-3.jpg) center 75% no-repeat;*/
 }
 
 /* Demo toolbar styles */

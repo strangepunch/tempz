@@ -19,11 +19,13 @@
 		vm.styleF={"color":"Red","font-size": "1.2em"};
 		vm.styleC={"color":"white","font-size": "0.8em"};
 		vm.effectProperty = [];
+
 		//set the temperature bar
-		vm.currentPosition = 6;
-		vm.leftT={"color":"gray"};
-		vm.rightT={"color":"black"};
-		vm.selectedTemps = [];
+		//vm.currentPosition = 6;
+		//vm.leftT={"color":"gray"};
+		//vm.rightT={"color":"black"};
+		//vm.selectedTemps = [];
+		
 		//effects array
 		vm.EffectsProductName = [];
 
@@ -35,13 +37,14 @@
 			for(var i=0; i<data.length;i++){
 				vm.TempsC[i] = Math.round((data[i] - 32) * 5.0/9.0);
 			}
+			/*
 			for(var i=0; i<vm.currentPosition; i++){
 				vm.selectedTemps[i] = vm.Temps[i];
-			}
+			}*/
 		});
 
 		//for scrolling through the tbox of temperature values
-		$scope.tempSlider = function(name){
+	/*	$scope.tempSlider = function(name){
 			var num = 0;
 
 			if(name === 'right'){
@@ -77,7 +80,7 @@
 			}	
 
 
-		}		
+		}	*/		
 
 		//initial first effect for set temperature
 		productResource.query(function(data){
@@ -100,6 +103,8 @@
 		});
 
 		//change between F and C
+		vm.countF=0;
+		vm.countC=0;
 		$scope.selectTemp = function(name){
 			vm.currentTemp = name;
 			if(name === 'C'){
@@ -131,6 +136,7 @@
 				}
 				
 			}
+			/*
 			var num = 0;
 			if(vm.currentPosition > 6){
 				for(var i=vm.currentPosition-6;i<vm.currentPosition;i++){
@@ -145,7 +151,7 @@
 					num++;
 					vm.leftT={"color":"gray"};
 				}
-		   }
+		   }*/
 		}
 
 		//find effects using either F or C temp
@@ -262,6 +268,23 @@
     		switch(item) {
 			    case $scope.filterName:
 			        return "active";
+			        break;
+			    default:
+			        return "!active";
+			}
+			
+    	};
+
+    	//this sets the ng-class to active
+		$scope.activeTemp = function(item){
+
+    		switch(item) {
+			    case vm.tempDisplay:
+				    if(item < 351){
+				    	return "active";
+				    }else{
+				    	return "active2";
+				    }
 			        break;
 			    default:
 			        return "!active";
