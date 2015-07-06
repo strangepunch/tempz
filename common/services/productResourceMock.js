@@ -21787,7 +21787,7 @@
 			},
 			{"effectId": 3,
 			 "effectName": "Antiemetic", //compName
-			 "conditionsTreated": ["Cancer treament", "Nausea"],
+			 "conditionsTreated": ["Cancer", "Nausea"],
  			 "descriptionDetailed": "Reduces vomiting and nausea",
 			 "descriptionAbbrev":  "Anti-nausea",
 			 "tags": ["Antiemetic", "vomiting", "nausea"],
@@ -21875,7 +21875,7 @@
 			},
 			{"effectId": 14,
 			 "effectName": "Antibacterial", //compName
-			 "conditionsTreated": [""],
+			 "conditionsTreated": ["Infection"],
  			 "descriptionDetailed": "Kills surface bacteria. Destroys bacteria or suppresses their growth or their ability to reproduce.",
 			 "descriptionAbbrev":  "Kills or slows bacteria growth.",
 			 "tags": ["Antibacterial", "Bacteria", "Antibacterial"],
@@ -21899,7 +21899,7 @@
 			},
 			{"effectId": 17,
 			 "effectName": "Antipsychotic", //compName
-			 "conditionsTreated": ["Ppsychosis"],
+			 "conditionsTreated": ["Psychosis"],
  			 "descriptionDetailed": "Helps reduce psychosis including delusions or hallucinations",
 			 "descriptionAbbrev":  "Tranquilizing/Used to manage psychosis.",
 			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
@@ -21923,7 +21923,7 @@
 			},
 			{"effectId": 20,
 			 "effectName": "Immunosuppressant", //compName
-			 "conditionsTreated": ["psoriasis", "rheumatoid arthritis", "crohns disease", "cancer"],
+			 "conditionsTreated": ["Psoriasis", "Rheumatoid Arthritis", "Crohns Disease", "Cancer"],
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
 			 "descriptionAbbrev":  "Modulates function in the immune system.",
 			 "tags": ["Immunosuppressant", "immune system"],
@@ -21995,7 +21995,7 @@
 			}, 
 			{"effectId": 29,
 			 "effectName": "Antifungal", //compName
-			 "conditionsTreated": ["athletes foot", "ringworm", "thrush", "cryptococcal meningitis"],
+			 "conditionsTreated": ["Athletes Foot", "Ringworm", "Thrush", "Cryptococcal Meningitis"],
  			 "descriptionDetailed": "Medical cannabis has been used to treat and prevent fungal mycoses.",
 			 "descriptionAbbrev":  "Prevent fungus",
 			 "tags": ["Antifungal", "athletes foot", "ringworm", "thrush", "meningitis"],
