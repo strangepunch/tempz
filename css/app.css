@@ -137,7 +137,6 @@ html, body {
 	padding-top: 0px;
 	width: 100%;
 	float:left;
-	margin-top:35px;
 }
 
 #easyView .panel {
@@ -338,7 +337,7 @@ html, body {
 #easyView .collapse{
 	border-style: none;
 	background-color: transparent;
-	color:black;
+	color:white;
 }
 
 
@@ -951,7 +950,8 @@ html, body {
 /**-------------TIP main VIEW--------------**/
 #tipsView{
 	width: 100%;
-	padding: 10px; 
+	padding: 10px;
+	color: white; 
 }
 
 #tipView a{
@@ -1054,7 +1054,8 @@ html, body {
 #tips{
 	width: 100%;
 	float:left;
-	padding: 10px; 
+	padding: 10px;
+	color: white; 
 }
 
 #tips a{

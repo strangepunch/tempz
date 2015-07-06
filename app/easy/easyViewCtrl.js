@@ -5,11 +5,12 @@
 						["$scope",
 						 "tempResource",
 						 "productResource",
+						 "conditionResource",
 						 "strainResource",
 						 "ngProgress",
 							EasyViewCtrl]);
 	
-	function EasyViewCtrl($scope, tempResource, productResource, strainResource, ngProgress){
+	function EasyViewCtrl($scope, tempResource, productResource, conditionResource, strainResource, ngProgress){
 		var vm = this;
 
 		//init stuff for temp display and bar and logic settings
@@ -67,6 +68,29 @@
 			}
 		}
 
+		
+		//name of the component(s) for selected temperature
+		vm.EffectsProductName = [];
+		//list of medical effects for each components for selected temperature
+		vm.effectProperty = [];
+		//initial first effect for set temperature
+		productResource.query(function(data){
+			vm.products = data;
+			var tempArray=[];
+			var numX = 0;
+
+			for(var i=0; i<vm.products.length; i++){
+				if(vm.tempDisplay === vm.products[i].highTemp){
+					for(var x=0; x<vm.products[i].Property.length; x++){
+					  tempArray[x] = vm.products[i].Property[x];
+					}
+					vm.EffectsProductName[numX] = vm.products[i].productName;
+				}
+			}
+			vm.effectProperty = tempArray;
+		
+		});
+
 		//find effects using either F or C temp
 		$scope.catching = function(value){
 			vm.tempDisplay = value;
@@ -76,7 +100,49 @@
 			var num = 0;
 			var numX = 0;
 			console.log(value);
+
+			//get component name and list of medical effects
+			if (vm.currentTemp === 'F'){
+
+				vm.EffectsProductName = [];
+
+				for(var i=0; i<vm.products.length; i++){
+					if(value === vm.products[i].highTemp){
+						for(var x=0; x<vm.products[i].Property.length; x++){
+							tempArray[num] = vm.products[i].Property[x];
+							num++;
+						}
+						vm.EffectsProductName[numX] = vm.products[i].productName;
+						numX++;
+					}
+				}
+				vm.effectProperty = tempArray;
+
+			} else if (vm.currentTemp === 'C'){
+
+				vm.EffectsProductName = [];
+
+				for(var i=0; i<vm.products.length; i++){
+
+					if( value === vm.products[i].highTempC){
+						for(var x=0; x<vm.products[i].Property.length; x++){
+						  tempArray[num] = vm.products[i].Property[x];
+						  num++;
+						}
+						vm.EffectsProductName[numX] = vm.products[i].productName;
+						numX++;
+					}
+				}
+				vm.effectProperty = tempArray;
+
+			}
 		}
+
+		//inititial list of conditions
+		conditionResource.query(function(data){
+			vm.conditions = data;
+			console.log(vm.conditions);
+		});
 
 		//this sets the ng-class to active
 		$scope.active = function(item){
@@ -100,6 +166,10 @@
 	     $scope.clearSearch = function () {
 	        vm.searchAll = "";
 	     };
+
+	     $scope.selectEffect = function(name){
+	     	console.log("selected effect:", name);
+	     }
 		
 	}
 
