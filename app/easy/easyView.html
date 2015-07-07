@@ -45,7 +45,7 @@
 			</table>
 		</div>
 	</div>
-
+<div ng-show = "showQuestion">
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-body">
@@ -98,7 +98,37 @@
 
 	<div class = "panel panel-buttons">
 		<div class = "row">
-			<div class="btn" ng-click=""> GO </div>
+			<div class="btn" ng-click="goEasy()"> GO </div>
 		</div>
 	</div>
+</div>
+<div ng-show = "showAnswer">
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12">Testing info...</div>
+				<div class="col-xs-12"> Effects used for searching: </div>
+				<ul class="col-xs-3" ng-repeat = "effc in vm.effectsNameArray">
+					<li>{{effc}}</li>
+				</ul>
+				
+				<div class="col-xs-12"> Temps avaliable: </div>
+				<ul class="col-xs-3" ng-repeat = "temp in vm.userTempArrayU">
+					<li>{{temp}}</li>
+				</ul>
+				
+				<div class="col-xs-12"> Components avaliable: </div>
+				<ul class="col-xs-3" ng-repeat = "comp in vm.productNameArrayU">
+					<li>{{comp}}</li>
+				</ul>
+			</div> 
+		</div> 
+	</div>
+	<div class = "panel panel-buttons">
+		<div class = "row">
+			<div class="btn" ng-click="goBack()"> Back </div>
+		</div>
+	</div>
+</div>
+
 </div>

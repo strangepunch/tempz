@@ -21,6 +21,9 @@
 		vm.styleF={"color":"Red","font-size": "1.2em"};
 		vm.styleC={"color":"white","font-size": "0.8em"};
 
+		//Storage space for goEasy seach
+		vm.userSelect = [{"condName":"", "strnName":""}];
+
 		//find and display selected temps
 		tempResource.query(function(data){
 			vm.Temps = data;
@@ -141,6 +144,8 @@
 
 		//inititial list of condition names for selecting
 		effectResource.query(function(data){
+			vm.allEffects = data;
+
 			var num = 0;
 			vm.conditionNames = [];
 			for(var i=0; i<data.length; i++){
@@ -155,6 +160,8 @@
 		$scope.selectCondition = function(name){
 	     	console.log("selected condition name:", name);
 	     	vm.selectedCond = name;
+	     	vm.userSelect[0].condName = vm.selectedCond;
+	     	console.log("vm.userSelect[0]", vm.userSelect);
 	    }
 
 	    //inititial list of strain names for selecting
@@ -166,6 +173,8 @@
 		$scope.selectStrain = function(name){
 	     	console.log("selected strain name:", name);
 	     	vm.selectedStrain = name;
+	     	vm.userSelect[0].strnName = vm.selectedStrain;
+			console.log("vm.userSelect[0]", vm.userSelect);
 	    }
 	    //search and filter strains
 	    vm.searchAll = "";
@@ -260,11 +269,83 @@
 			
     	};
 
-    	
+    	$scope.showAnswer = false;
+    	$scope.showQuestion = true;
+    	$scope.goBack = function(){
+    		$scope.showAnswer = false;
+    		$scope.showQuestion = true;
+    	}
+    	$scope.goEasy = function(){
+    		vm.selectedStrain
+    		vm.selectedCond
+    		vm.userSelect
+    		
+    		if(vm.userSelect[0].condName===''){
+    			alert("You failed to select a medical condition.");
+    		}
 
+    		$scope.showAnswer = true;
+			$scope.showQuestion = false;
 
-	     
-		
+    		var num = 0;
+    		vm.effectsNameArray = [];
+    		for(var i=0; i < vm.allEffects.length; i++){
+    			for(var x=0; x < vm.allEffects[i].conditionsTreated.length; x++){
+    				if(vm.userSelect[0].condName === vm.allEffects[i].conditionsTreated[x]){
+    					vm.effectsNameArray[num] = vm.allEffects[i].effectName;
+    					num++;
+    				}
+    			}
+    		}
+    		console.log("vm.effectsNameArray", vm.effectsNameArray)
+
+    		var num2 = 0;
+    		vm.productNameArray = [];
+    		vm.userTempArray = [];
+    		for(var i=0; i < vm.effectsNameArray.length; i++){
+	    		for(var x=0; x < vm.products.length; x++){
+	    			for(var y=0; y < vm.products[x].Property.length; y++){
+	    				if(vm.effectsNameArray[i] === vm.products[x].Property[y]){
+	    					vm.productNameArray[num2] = vm.products[x].productName;
+    						vm.userTempArray[num2] = vm.products[x].highTemp;
+    						num2++;
+	    				}
+	    			}
+	    		}	
+    		}
+    		vm.userTempArrayU = vm.userTempArray.unique(); 
+			vm.productNameArrayU = vm.productNameArray.unique();
+
+    		console.log("vm.productNameArray", vm.productNameArray)
+    		console.log("vm.productNameArrayU",vm.productNameArrayU)
+
+    		console.log("vm.userTempArray", vm.userTempArray)
+    		console.log("vm.userTempArrayU",vm.userTempArrayU)
+
+    		console.log("$scope.showAnswer",$scope.showAnswer)
+
+    		
+
+    	};
+
+    	//make array unique
+    	Array.prototype.contains = function(v) {
+		    for(var i = 0; i < this.length; i++) {
+		        if(this[i] === v) return true;
+		    }
+		    return false;
+		};
+
+		Array.prototype.unique = function() {
+		    var arr = [];
+		    for(var i = 0; i < this.length; i++) {
+		        if(!arr.contains(this[i])) {
+		            arr.push(this[i]);
+		        }
+		    }
+		    return arr; 
+		}
+	    
 	}
 
 }());
