@@ -139,7 +139,7 @@
 			}
 		}
 
-		//inititial list of conditions
+		//inititial list of condition names for selecting
 		effectResource.query(function(data){
 			var num = 0;
 			vm.conditionNames = [];
@@ -149,8 +149,99 @@
 				}
 				num++;
 			}
-			console.log(vm.conditionNames);
+			console.log("list of conditions", vm.conditionNames);
 		});
+		//display and store the user selected condition name
+		$scope.selectCondition = function(name){
+	     	console.log("selected condition name:", name);
+	     	vm.selectedCond = name;
+	    }
+
+	    //inititial list of strain names for selecting
+	    strainNamesResource.query(function(data){
+			vm.strainNames = data;
+			console.log("list of strains", vm.strainNames);
+		});
+		//display and store the user selected strain name
+		$scope.selectStrain = function(name){
+	     	console.log("selected strain name:", name);
+	     	vm.selectedStrain = name;
+	    }
+	    //search and filter strains
+	    vm.searchAll = "";
+    	$scope.searchStrain = function(name){
+    		vm.searchAll = name;
+    	 	console.log("search", name);
+    	 	switch(name){
+    	 		case 'All':
+    	 			vm.searchAll = "";
+    	 			strainNamesResource.query(function(data){
+						vm.strainNames = data;
+						console.log("list of strains", vm.strainNames);
+					});
+					break;	
+    	 		case 'Sativa':
+    	 			vm.searchAll = "";
+    	 			strainNamesResource.query(function(data){
+    	 				var num = 0;
+    	 				vm.strainNames = [];
+    	 				for(var i=0; i<data.length; i++){
+    	 					if(data[i].strainType === 'Sativa'){
+    	 						vm.strainNames[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+						console.log("list of Sativa", vm.strainNames);
+					});
+					break;	   
+				case 'Indica':
+					vm.searchAll = ""; 
+					strainNamesResource.query(function(data){
+    	 				var num = 0;
+    	 				vm.strainNames = [];
+    	 				for(var i=0; i<data.length; i++){
+    	 					if(data[i].strainType === 'Indica'){
+    	 						vm.strainNames[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+						console.log("list of Indica", vm.strainNames);
+					});
+					break;	
+				case 'Hybrid':
+					vm.searchAll = "";
+					strainNamesResource.query(function(data){
+    	 				var num = 0;
+    	 				vm.strainNames = [];
+    	 				for(var i=0; i<data.length; i++){
+    	 					if(data[i].strainType === 'Hybrid'){
+    	 						vm.strainNames[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+						console.log("list of Hybrid", vm.strainNames);
+					});
+					break;	
+				default:
+        			strainNamesResource.query(function(data){
+        				var num = 0;
+    	 				vm.strainNames = [];
+    	 				for(var i=0; i<data.length; i++){
+    	 					if(data[i].strainName == name){
+    	 						vm.strainNames[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+						console.log("list of Seached", vm.strainNames);
+					});
+					break;
+    	 	} 
+    	};
+    	//search button --- clear Search
+	    $scope.clearSearch = function () {
+	        vm.searchAll = "";
+	    };
+
 
 		//this sets the ng-class to active
 		$scope.active = function(item){
@@ -169,15 +260,10 @@
 			
     	};
 
-    	//search button --- clear Search
-    	 vm.searchAll = "";
-	     $scope.clearSearch = function () {
-	        vm.searchAll = "";
-	     };
+    	
 
-	     $scope.selectEffect = function(name){
-	     	console.log("selected effect:", name);
-	     }
+
+	     
 		
 	}
 
