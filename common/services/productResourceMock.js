@@ -22527,7 +22527,7 @@
 			},
 			{"productId": 5,
 			 "productName": "CBC", //compName
-			 "Property": ["Antiinflammatory", "Antibiotic", "Antifungal"],
+			 "Property": ["Antiinflammatory", "Antibiotic", "Antifungal", "Antiviral"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -22968,7 +22968,7 @@
 			 "effectName": "AChE inhibitor", //compName
 			 "conditionsTreated": ["Glaucoma", "Postural Tachycardia Syndrome", "Anticholinergic Poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "schizophrenia", "autism"],
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
-			 "descriptionAbbrev":  "Help nerves",
+			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers.",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -22984,7 +22984,7 @@
 			 "effectName": "Antipyretic", //compName
 			 "conditionsTreated": ["Fever"],
  			 "descriptionDetailed": "Some components in medical cannabis can be effectve in reducing or preventing fever. The most common antipyretics in the United States are ibuprofen and aspirin, which are used primarily as pain relievers.",
-			 "descriptionAbbrev":  "reduces fever",
+			 "descriptionAbbrev":  "Reduce or prevent fever",
 			 "tags": ["Antipyretic", "fever"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23040,7 +23040,7 @@
 			 "effectName": "Antinociceptive", //compName
 			 "conditionsTreated": ["Pain", "Chronic Pain"],
  			 "descriptionDetailed": "helps prevent the sensation of pain",
-			 "descriptionAbbrev":  "Pain relief",
+			 "descriptionAbbrev":  "Increase pain tolerance",
 			 "tags": ["Chronic Pain", "Pain"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23072,7 +23072,7 @@
 			 "effectName": "Antineoplastic", //compName
 			 "conditionsTreated": ["Cancer"],
  			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
-			 "descriptionAbbrev":  "Inhibit tumors",
+			 "descriptionAbbrev":  "Slow down or Inhibit tumors",
 			 "tags": ["Antineoplastic", "cancer", "tumors"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23090,6 +23090,14 @@
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
 			 "descriptionAbbrev":  "Treat Sand Flea Infection",
 			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 40,
+			 "effectName": "AntiViral", //compName
+			 "conditionsTreated": ["HCV"],
+ 			 "descriptionDetailed": "Results suggest that modest cannabis use may offer symptomatic and virological benefit to some patients undergoing HCV treatment by helping them maintain adherence to the challenging medication regimen.",
+			 "descriptionAbbrev":  "Destroy viruses associated with HCV.",
+			 "tags": ["HCV", "Antiviral"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
