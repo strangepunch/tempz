@@ -22966,7 +22966,7 @@
 			}, 
 			{"effectId": 24,
 			 "effectName": "AChE inhibitor", //compName
-			 "conditionsTreated": ["Glaucoma", "Postural Tachycardia Syndrome", "Anticholinergic Poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "schizophrenia", "autism"],
+			 "conditionsTreated": ["Glaucoma", "Postural Tachycardia Syndrome", "Anticholinergic Poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "Schizophrenia", "Autism"],
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
 			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers.",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
