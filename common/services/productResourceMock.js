@@ -23046,7 +23046,7 @@
 			}, 
 			{"effectId": 34,
 			 "effectName": "Antibiotic", //compName
-			 "conditionsTreated": [""],
+			 "conditionsTreated": ["Infection"],
  			 "descriptionDetailed": "destroys or slow down the growth of bacteria",
 			 "descriptionAbbrev":  "Destroys bacteria",
 			 "tags": ["Antibiotic", "Infection"],
