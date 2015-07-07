@@ -24479,6 +24479,7 @@
 		var temperatureUrl = "/api/temperatures";
 		var strainUrl = "/api/strains";
 		var conditionUrl = "/api/conditions";
+		var strainNameUrl = "/api/strainNames";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
@@ -24488,6 +24489,7 @@
 		$httpBackend.whenGET(tipUrl).respond(tips);
 		$httpBackend.whenGET(strainUrl).respond(strains);
 		$httpBackend.whenGET(conditionUrl).respond(conditions);
+		$httpBackend.whenGET(strainNameUrl).respond(strainNames);
 
 		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
 

@@ -4,13 +4,14 @@
 			.controller("EasyViewCtrl",
 						["$scope",
 						 "tempResource",
+						 "strainNamesResource",
 						 "productResource",
-						 "conditionResource",
+						 "effectResource",
 						 "strainResource",
 						 "ngProgress",
 							EasyViewCtrl]);
 	
-	function EasyViewCtrl($scope, tempResource, productResource, conditionResource, strainResource, ngProgress){
+	function EasyViewCtrl($scope, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
 
 		//init stuff for temp display and bar and logic settings
@@ -139,9 +140,16 @@
 		}
 
 		//inititial list of conditions
-		conditionResource.query(function(data){
-			vm.conditions = data;
-			console.log(vm.conditions);
+		effectResource.query(function(data){
+			var num = 0;
+			vm.conditionNames = [];
+			for(var i=0; i<data.length; i++){
+				for(var x=0; x<data[i].conditionsTreated.length; x++){
+					vm.conditionNames[num] = data[i].conditionsTreated[x];
+				}
+				num++;
+			}
+			console.log(vm.conditionNames);
 		});
 
 		//this sets the ng-class to active
