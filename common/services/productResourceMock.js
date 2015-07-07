@@ -23099,6 +23099,30 @@
 			 "descriptionAbbrev":  "Destroy viruses associated with HCV.",
 			 "tags": ["HCV", "Antiviral"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"effectId": 41,
+			 "effectName": "Cytoprotective", //compName
+			 "conditionsTreated": ["Ulcers"],
+ 			 "descriptionDetailed": "Fights ulcers by increasing mucosal protection.",
+			 "descriptionAbbrev":  "Treat ulcers.",
+			 "tags": ["HCV", "Antiviral"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 42,
+			 "effectName": "LO inhibitor", //compName
+			 "conditionsTreated": ["Asthma"],
+ 			 "descriptionDetailed": "Inhibits lipoxygenase enzyme, can help asthma.",
+			 "descriptionAbbrev":  "Treat conditions associated with asthma.",
+			 "tags": ["HCV", "Antiviral"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			}, 
+			{"effectId": 43,
+			 "effectName": "5-a-reductase inhibitor", //compName
+			 "conditionsTreated": ["Prostate"],
+ 			 "descriptionDetailed": "Surpresses dihydrotestosterone, treats benign prostatic hyperplasia - prostate.",
+			 "descriptionAbbrev":  "Treat prostate conditions.",
+			 "tags": ["Prostate"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
 		];
 
