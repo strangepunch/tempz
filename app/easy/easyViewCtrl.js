@@ -92,7 +92,6 @@
 				}
 			}
 			vm.effectProperty = tempArray;
-		
 		});
 
 		//find effects using either F or C temp
@@ -103,7 +102,7 @@
 			var tempArray=[];
 			var num = 0;
 			var numX = 0;
-			console.log(value);
+			//console.log(value);
 
 			//get component name and list of medical effects
 			if (vm.currentTemp === 'F'){
@@ -154,39 +153,41 @@
 				}
 				num++;
 			}
-			console.log("list of conditions", vm.conditionNames);
+			//console.log("list of conditions", vm.conditionNames);
 		});
 		//display and store the user selected condition name
 		$scope.selectCondition = function(name){
-	     	console.log("selected condition name:", name);
+	     	//console.log("selected condition name:", name);
+	     	vm.showQ1 = !vm.showQ1; //toggle the questions display off
 	     	vm.selectedCond = name;
 	     	vm.userSelect[0].condName = vm.selectedCond;
-	     	console.log("vm.userSelect[0]", vm.userSelect);
+	     	//console.log("vm.userSelect[0]", vm.userSelect);
 	    }
 
 	    //inititial list of strain names for selecting
 	    strainNamesResource.query(function(data){
 			vm.strainNames = data;
-			console.log("list of strains", vm.strainNames);
+			//console.log("list of strains", vm.strainNames);
 		});
 		//display and store the user selected strain name
 		$scope.selectStrain = function(name){
-	     	console.log("selected strain name:", name);
+	     	//console.log("selected strain name:", name);
+	     	vm.showQ2 = !vm.showQ2; //toggle the questions display off
 	     	vm.selectedStrain = name;
 	     	vm.userSelect[0].strnName = vm.selectedStrain;
-			console.log("vm.userSelect[0]", vm.userSelect);
+			//console.log("vm.userSelect[0]", vm.userSelect);
 	    }
 	    //search and filter strains
 	    vm.searchAll = "";
     	$scope.searchStrain = function(name){
     		vm.searchAll = name;
-    	 	console.log("search", name);
+    	 	//console.log("search", name);
     	 	switch(name){
     	 		case 'All':
     	 			vm.searchAll = "";
     	 			strainNamesResource.query(function(data){
 						vm.strainNames = data;
-						console.log("list of strains", vm.strainNames);
+						//console.log("list of strains", vm.strainNames);
 					});
 					break;	
     	 		case 'Sativa':
@@ -200,7 +201,7 @@
     	 						num++;
     	 					}
     	 				}
-						console.log("list of Sativa", vm.strainNames);
+						//console.log("list of Sativa", vm.strainNames);
 					});
 					break;	   
 				case 'Indica':
@@ -214,7 +215,7 @@
     	 						num++;
     	 					}
     	 				}
-						console.log("list of Indica", vm.strainNames);
+						//console.log("list of Indica", vm.strainNames);
 					});
 					break;	
 				case 'Hybrid':
@@ -228,7 +229,7 @@
     	 						num++;
     	 					}
     	 				}
-						console.log("list of Hybrid", vm.strainNames);
+						//console.log("list of Hybrid", vm.strainNames);
 					});
 					break;	
 				default:
@@ -241,7 +242,7 @@
     	 						num++;
     	 					}
     	 				}
-						console.log("list of Seached", vm.strainNames);
+						//console.log("list of Seached", vm.strainNames);
 					});
 					break;
     	 	} 
@@ -281,7 +282,7 @@
     		vm.userSelect
     		
     		if(vm.userSelect[0].condName===''){
-    			alert("You failed to select a medical condition.");
+    			return alert("You failed to select a medical condition.");
     		}
 
     		$scope.showAnswer = true;
@@ -297,7 +298,7 @@
     				}
     			}
     		}
-    		console.log("vm.effectsNameArray", vm.effectsNameArray)
+    		//console.log("vm.effectsNameArray", vm.effectsNameArray)
 
     		var num2 = 0;
     		vm.productNameArray = [];
@@ -316,17 +317,31 @@
     		vm.userTempArrayU = vm.userTempArray.unique(); 
 			vm.productNameArrayU = vm.productNameArray.unique();
 
-    		console.log("vm.productNameArray", vm.productNameArray)
-    		console.log("vm.productNameArrayU",vm.productNameArrayU)
+    		//console.log("vm.productNameArray", vm.productNameArray)
+    		//console.log("vm.productNameArrayU",vm.productNameArrayU)
 
-    		console.log("vm.userTempArray", vm.userTempArray)
-    		console.log("vm.userTempArrayU",vm.userTempArrayU)
+    		//console.log("vm.userTempArray", vm.userTempArray)
+    		//console.log("vm.userTempArrayU",vm.userTempArrayU)
 
-    		console.log("$scope.showAnswer",$scope.showAnswer)
+    		//console.log("$scope.showAnswer",$scope.showAnswer)
 
     		
 
     	};
+
+    	//toggle the questions display on/off
+    	vm.toggleQuestion = function(choice){
+    		switch (choice){
+    			case 'Q1':
+    				//console.log("Q1 A");
+					vm.showQ1 = !vm.showQ1;
+					break;
+				case 'Q2':
+					//console.log("Q2");
+					vm.showQ2 = !vm.showQ2;
+					break;
+    		}
+		}
 
     	//make array unique
     	Array.prototype.contains = function(v) {

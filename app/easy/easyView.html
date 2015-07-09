@@ -49,13 +49,13 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-body">
-				<div class="collapsed col-xs-12" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+				<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
 					<SS> 1. </SS>Choose a medical condition <span class="caret"></span> <div>{{vm.selectedCond}}</div>
 				</div>
 				<div role="presentation" class="divider"></div>
-				<div id="collapseOne" class="collapse" role="tabpanel">
+				<div ng-if = "vm.showQ1">
 				    <ul class="col-xs-7" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
-						<li><div class="collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false" ng-click="selectCondition(condName)">{{condName}}</div></li>
+						<li><div ng-click="selectCondition(condName)">{{condName}}</div></li>
 					</ul>
 				</div> 
 			</div>
@@ -66,11 +66,11 @@
 		<div class="row">
 			<div class="panel-body">
 
-				<div class="collapsed col-xs-12" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
 					<SS> 2. </SS> Choose a strain <span class="caret"></span>
 					<div>{{vm.selectedStrain}}</div>
 				</div>
-				<div id="collapseTwo" class="collapse" role="tabpanel">
+				<div ng-if = "vm.showQ2">
 					<div class = "row row-padding">
 			 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input>
 			 				<a class="clear" ng-click="searchStrain(vm.searchAll)">
@@ -88,7 +88,7 @@
 				 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
 				 	</div>
 				 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
-						<li><div class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
+						<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
 					</ul>
 			 	</div>
 			 	
@@ -108,7 +108,7 @@
 			<div class="panel-body">
 				<div class="col-xs-12">Testing info...</div>
 				<div class="col-xs-12"> Effects used for searching: </div>
-				<ul class="col-xs-3" ng-repeat = "effc in vm.effectsNameArray">
+				<ul class="col-xs-6" ng-repeat = "effc in vm.effectsNameArray">
 					<li>{{effc}}</li>
 				</ul>
 				
