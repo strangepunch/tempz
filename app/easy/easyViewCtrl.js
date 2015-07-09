@@ -13,7 +13,7 @@
 	
 	function EasyViewCtrl($scope, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
-
+		vm.userTempArrayU = [];
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
 		vm.tempDisplay = 126;
@@ -354,6 +354,15 @@
     		
 
     	};
+
+    	$scope.thisTemp = function(temp){
+    		vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		for(var i=0; i<vm.userTempArrayU.length; i++){
+    			if(temp === vm.userTempArrayU[i]){
+    				return vm.hasTemp;
+    			}
+    		}
+    	}
 
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){

@@ -14,7 +14,7 @@
 					<td class="col-xs-1"> 
 						<div ng-repeat="temp in vm.Temps|limitTo:5 track by $index">
 							<div ng-class="active(temp)"></div>
-							<li ng-click="catching(temp)"> {{temp}}</li>
+							<li ng-click="catching(temp)" ng-style = "thisTemp(temp)"> {{temp}}</li>
 						</div>
 					</td>
 					<td class="col-xs-9"> 
@@ -40,7 +40,7 @@
 					<td class="col-xs-1"> 
 						<div ng-repeat="temp in vm.Temps|limitTo:-5 track by $index">	
 							<div ng-class="active(temp)"></div>
-							<li ng-click="catching(temp)" style="text-align:right">{{temp}}</li>	
+							<li ng-click="catching(temp)" style="text-align:right" ng-style = "thisTemp(temp)">{{temp}}</li>	
 						</div>
 					</td>
 				</tr>

@@ -54,4 +54,5 @@ EASY MODE
 -use 'ng-show' to display box to show and hide the questions and answers
 -display list of medical condition
 -display list of strains
--allow user to search through strains by type and name 
+-allow user to search through strains by type and name
+-color of the temperature selection refect those that of the condition selected by the user 
