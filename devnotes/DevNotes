@@ -44,3 +44,14 @@ v1.11
 
 ProductResourceMock
 -Tips array is updated with all the vape info from vapes array
+
+----------------
+v2.02
+EASY MODE
+-new temperature display
+-med/rec displays user's action
+-use 'ng-if' to hide and show selections for the two questions
+-use 'ng-show' to display box to show and hide the questions and answers
+-display list of medical condition
+-display list of strains
+-allow user to search through strains by type and name 

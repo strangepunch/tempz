@@ -21,6 +21,11 @@
 		vm.styleF={"color":"Red","font-size": "1.2em"};
 		vm.styleC={"color":"white","font-size": "0.8em"};
 
+		//set the ng-style of the mode selection
+		vm.styleMed={"color":"Red","font-size": "1.1em"};
+		vm.styleRec={"color":"white","font-size": "0.8em"};
+		vm.displayQuestion = "Choose a medical condition";
+
 		//Storage space for goEasy seach
 		vm.userSelect = [{"condName":"", "strnName":""}];
 
@@ -69,6 +74,22 @@
 					vm.countC=0;
 				}
 				
+			}
+		}
+
+		//change styles between Med and Rec
+		$scope.selectMode = function(name){
+			if(name === 'Rec'){
+				vm.styleMed={"color":"white","font-size": "0.8em"};
+				vm.styleRec={"color":"Red","font-size": "1.1em"};
+
+				vm.displayQuestion = "Choose a recreational effect";
+
+			}else if(name === 'Med'){
+				vm.styleMed={"color":"Red","font-size": "1.1em"};
+				vm.styleRec={"color":"white","font-size": "0.8em"};
+
+				vm.displayQuestion = "Choose a medical condition";
 			}
 		}
 
@@ -270,21 +291,26 @@
 			
     	};
 
+    	//go back a step by hiding the solution screen and displaying question screen
     	$scope.showAnswer = false;
     	$scope.showQuestion = true;
     	$scope.goBack = function(){
     		$scope.showAnswer = false;
     		$scope.showQuestion = true;
     	}
+
+    	//the GO button
     	$scope.goEasy = function(){
-    		vm.selectedStrain
-    		vm.selectedCond
-    		vm.userSelect
+    		//vm.selectedStrain
+    		//vm.selectedCond
+    		//vm.userSelect
     		
+    		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
     			return alert("You failed to select a medical condition.");
     		}
 
+    		//hide the question screen and display solution screen
     		$scope.showAnswer = true;
 			$scope.showQuestion = false;
 

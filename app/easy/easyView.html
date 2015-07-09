@@ -28,7 +28,9 @@
 
 						<div class = "row center">
 							
-							<div class="col-xs-12"> Med / Rec </div>
+							<div class="col-xs-12"> 
+								<span ng-style="vm.styleMed" ng-click="selectMode('Med')">Med </span>/<span ng-style="vm.styleRec" ng-click="selectMode('Rec')"> Rec</span> 
+							</div>
 
 							<div class="col-xs-12" style="font-size:0.8em;"><span ng-repeat ="name in vm.EffectsProductName"> {{name}} </span></div>
 
@@ -50,7 +52,7 @@
 		<div class="row">
 			<div class="panel-body">
 				<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
-					<SS> 1. </SS>Choose a medical condition <span class="caret"></span> <div>{{vm.selectedCond}}</div>
+					<SS> 1. </SS>{{vm.displayQuestion}} <span class="caret"></span> <div>{{vm.selectedCond}}</div>
 				</div>
 				<div role="presentation" class="divider"></div>
 				<div ng-if = "vm.showQ1">
