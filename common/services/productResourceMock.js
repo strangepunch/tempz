@@ -22485,7 +22485,7 @@
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
-			 "Property": ["Euphoriant", "Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Reduces Neuroinflammation", "Neurogenesis"],
+			 "Property": ["Euphoriant", "Analgesic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Reduces Neuroinflammation", "Neurogenesis"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
 			 "lowTempC": 0,
@@ -22499,7 +22499,7 @@
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
-			 "Property": ["Anxiolytic", "Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic"],
+			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic"],
 			 "lowTemp": 320,
 			 "highTemp": 356,
 			 "lowTempC": 160,
