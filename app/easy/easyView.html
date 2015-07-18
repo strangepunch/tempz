@@ -108,6 +108,46 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-body">
+				<div class="col-xs-12"> Your selection: </div>
+				<div class="col-xs-6"> {{vm.selectedCond}} </div>
+				<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+			</div>
+		</div> 
+	</div>
+
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Abbrv. Effects for this condition: </div>
+					<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
+						<li>{{effc}}</li>
+					</div>					
+				</div>
+			</div>
+		</div>
+
+	<div class = "panel" ng-if="vm.hasEnterStrain">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}} your {{vm.selectedStrain}} contains {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
+			</div> 
+		</div>
+	</div>
+
+	<div class = "panel" >
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12" ng-click="vm.toggleQuestion('A1')"> TAP to see what else {{vm.EffectsProductName[0]}} treats at this temperature:</div>
+				<div ng-if="vm.showA1" class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+					<li>{{name}}</li>
+				</div>
+			</div> 
+		</div>
+	</div>
+<!--
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
 				<div class="col-xs-12">Testing info...</div>
 				<div class="col-xs-12"> Effects used for searching: </div>
 				<ul class="col-xs-6" ng-repeat = "effc in vm.effectsNameArray">
@@ -126,6 +166,24 @@
 			</div> 
 		</div> 
 	</div>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12">Testing info...</div>
+				<div class="col-xs-12"> Your selected strain: </div>
+				<ul class="col-xs-6">
+					<li>{{vm.yourStrain.strainName}}</li>
+				</ul>
+				
+				<div class="col-xs-12"> Components: </div>
+				<ul class="col-xs-3" ng-repeat = "strain in vm.withValue">
+					<li>{{strain.name}}: {{strain.value}}</li>
+				</ul>
+			</div> 
+		</div> 
+	</div>
+-->
 	<div class = "panel panel-buttons">
 		<div class = "row">
 			<div class="btn" ng-click="goBack()"> Back </div>

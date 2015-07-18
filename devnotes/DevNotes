@@ -56,3 +56,12 @@ EASY MODE
 -display list of strains
 -allow user to search through strains by type and name
 -color of the temperature selection refect those that of the condition selected by the user 
+
+-----------------
+v2.03
+EASY MODE
+pressing 'GO'
+-displays your entry of either/both "condition" or/and "strain"
+-display laymen terms for effect
+-display % of components for/(based on) each tempurature contain in the selected strain
+-display what other effects avalible (at each temp) for such component (in english/laymen terms)

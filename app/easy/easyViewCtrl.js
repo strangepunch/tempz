@@ -29,6 +29,12 @@
 		//Storage space for goEasy seach
 		vm.userSelect = [{"condName":"", "strnName":""}];
 
+		//final data from strain array for user selection
+		vm.withValue = [];
+		vm.strainComp = [];
+		//final data for effect in plain english
+		vm.englishEffectName = [];
+
 		//find and display selected temps
 		tempResource.query(function(data){
 			vm.Temps = data;
@@ -56,8 +62,6 @@
 					vm.tempDisplay = f;
 					vm.countC=1;
 					vm.countF=0;
-
-
 				}
 			
 			}else if(name === 'F'){
@@ -141,6 +145,8 @@
 					}
 				}
 				vm.effectProperty = tempArray;
+				$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+				vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
 
 			} else if (vm.currentTemp === 'C'){
 
@@ -158,8 +164,13 @@
 					}
 				}
 				vm.effectProperty = tempArray;
+				$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+				vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
 
 			}
+
+			console.log("vm.EffectsProductName", vm.EffectsProductName);
+			console.log("vm.effectProperty", vm.effectProperty);
 		}
 
 		//inititial list of condition names for selecting
@@ -301,18 +312,21 @@
 
     	//the GO button
     	$scope.goEasy = function(){
+    		vm.showA1 = false;
     		//vm.selectedStrain
     		//vm.selectedCond
     		//vm.userSelect
     		
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
-    			return alert("You failed to select a medical condition.");
+    			return alert("Please select a medical condition.");
     		}
 
     		//hide the question screen and display solution screen
     		$scope.showAnswer = true;
 			$scope.showQuestion = false;
+
+			//---for user selected condition---//
 
     		var num = 0;
     		vm.effectsNameArray = [];
@@ -343,6 +357,16 @@
     		vm.userTempArrayU = vm.userTempArray.unique(); 
 			vm.productNameArrayU = vm.productNameArray.unique();
 
+			//change the display to reflect the lowest temp value from the user's selected condition
+			if(vm.userTempArrayU != 0){
+				vm.tempDisplay = Array.min(vm.userTempArrayU);
+				$scope.catching(vm.tempDisplay);
+			}else{
+				return vm.tempDisplay; //display does not change if there is no temp in array
+			}
+
+			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray);
+
     		//console.log("vm.productNameArray", vm.productNameArray)
     		//console.log("vm.productNameArrayU",vm.productNameArrayU)
 
@@ -351,10 +375,107 @@
 
     		//console.log("$scope.showAnswer",$scope.showAnswer)
 
+    		//---for user selected strain---//
+    		vm.hasEnterStrain = false;
+    		if(vm.userSelect[0].strnName != ''){
+    			vm.hasEnterStrain = true;
+    			vm.yourStrain = [];
+    			strainResource.query(function(data){
+					for(var i=0; i<data.length; i++){
+						if(vm.userSelect[0].strnName == data[i].strainName){
+							vm.yourStrain = data[i];
+						}
+					}
+
+					console.log(vm.yourStrain);
+					vm.withValue = $scope.getCompWithValue(vm.yourStrain.components);
+					vm.strainComp = $scope.getComp(vm.yourStrain.components);
+					console.log('vm.withValue', vm.withValue);
+
+					$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+				});
+
+    		} else {
+    			vm.hasEnterStrain = false;
+    			return alert("Please select a strain for better info.");
+    		}
+
     		
 
     	};
+    	//grab the array of components from choosen strain array
+    	$scope.getComp = function(obj){
+    		var num = 0;
+    		var	array = [];
 
+    		for(var i=0; i<obj.length; i++){
+    			
+				array[num] = obj[i];
+				num++;
+    			
+			};
+
+			return array;
+    	};
+    	//reduce the array of components to only ones with value over 0
+    	$scope.getCompWithValue = function(obj){
+    		var num = 0;
+    		var	array = [];
+
+    		for(var i=0; i<obj.length; i++){
+    			if(obj[i].value != 0){
+    				array[num] = obj[i];
+    				num++;
+    			}
+			};
+
+			return array;
+    	};
+    	//look for components from this selected temperature
+    	vm.dataForYou = [];
+    	$scope.selectedTempsComponent = function (eff, arr){
+    		if(vm.hasEnterStrain != false){
+    			for(var i=0; i<arr.length; i++){
+    				//console.log("eff",eff);
+    				//console.log("arr[i].name",arr[i].name);
+    				if(eff === arr[i].name){
+    					vm.dataForYou = arr[i];
+    				}
+    			}
+    		}else{
+    			return vm.hasEnterStrain = false;
+    		}
+    	}
+    	//find effects treated for your condition in plain english
+    	$scope.getEnglishEffect = function(effcArray){
+    		var thisArray = [];
+    		var num = 0;
+    		effectResource.query(function(data){
+    			for(var i=0; i<effcArray.length; i++){
+    				for(var x=0; x<data.length; x++){
+    					if(effcArray[i] === data[x].effectName){
+    						thisArray[num] = data[x].descriptionAbbrev;
+    						num++;
+    					}
+    				}
+    			}
+    			console.log('thisArray', thisArray);
+    		});
+
+    		return thisArray;
+    	}
+    	//has to be equal length to begin with
+    	/**
+    	$scope.combineTwoEffectName = function(arr1, arr2){
+    		var array=[];
+    		for(var i=0; i<arr1.length; i++){
+    			array[i] = arr1[i] + ' (' + arr2[i] + ')';
+    		}
+    		console.log('array', array);
+    		return array;
+    	}**/
+
+    	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
     		vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
     		for(var i=0; i<vm.userTempArrayU.length; i++){
@@ -375,9 +496,14 @@
 					//console.log("Q2");
 					vm.showQ2 = !vm.showQ2;
 					break;
+				case 'A1':
+					//console.log("Q2");
+					vm.showA1 = !vm.showA1;
+					break;
     		}
 		}
 
+		//researched javascript codes in dealing with arrays
     	//make array unique
     	Array.prototype.contains = function(v) {
 		    for(var i = 0; i < this.length; i++) {
@@ -385,7 +511,6 @@
 		    }
 		    return false;
 		};
-
 		Array.prototype.unique = function() {
 		    var arr = [];
 		    for(var i = 0; i < this.length; i++) {
@@ -394,7 +519,12 @@
 		        }
 		    }
 		    return arr; 
-		}
+		};
+
+		//find lowest value
+		Array.min = function( array ){
+    		return Math.min.apply( Math, array );
+		};
 	    
 	}
 
