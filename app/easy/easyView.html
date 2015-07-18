@@ -126,7 +126,7 @@
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-body">
-				<div class="col-xs-12">For {{vm.selectedCond}}, following may be helpful:  </div>
+				<div class="col-xs-12">For {{vm.selectedCond}}, the following may be helpful:  </div>
 				<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
 					<li>{{effc}}</li>
 				</div>					
@@ -137,7 +137,7 @@
 	<div class = "panel" >
 		<div class="row">
 			<div class="panel-body">
-				<div class="col-xs-12">{{vm.EffectsProductName[0]}} has been known to produce the following effects:</div>
+				<div class="col-xs-12">{{vm.EffectsProductName[0]}} has also been known to produce the following effects:</div>
 				<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
 					<li>{{name}}</li>
 				</div>
