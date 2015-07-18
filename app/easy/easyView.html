@@ -114,31 +114,31 @@
 			</div>
 		</div> 
 	</div>
-
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-body">
-					<div class="col-xs-12"> Abbrv. Effects for this condition: </div>
-					<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
-						<li>{{effc}}</li>
-					</div>					
-				</div>
-			</div>
-		</div>
-
+	
 	<div class = "panel" ng-if="vm.hasEnterStrain">
 		<div class="row">
 			<div class="panel-body">
-				<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}} your {{vm.selectedStrain}} contains {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
+				<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
 			</div> 
+		</div>
+	</div>
+
+	<div class = "panel">
+		<div class="row">
+			<div class="panel-body">
+				<div class="col-xs-12">Effect applies most for {{vm.selectedCond}}:  </div>
+				<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
+					<li>{{effc}}</li>
+				</div>					
+			</div>
 		</div>
 	</div>
 
 	<div class = "panel" >
 		<div class="row">
 			<div class="panel-body">
-				<div class="col-xs-12" ng-click="vm.toggleQuestion('A1')"> TAP to see what else {{vm.EffectsProductName[0]}} treats at this temperature:</div>
-				<div ng-if="vm.showA1" class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+				<div class="col-xs-12">{{vm.EffectsProductName[0]}} has been known to produce the following effects:</div>
+				<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
 					<li>{{name}}</li>
 				</div>
 			</div> 
