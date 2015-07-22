@@ -22674,7 +22674,7 @@
 			 "highTempC": 156,
 			 "temp": "312",
 			 "tempC": "156",
-			 "descriptionDetailed": "At low exposure levels, alpha-Pinene is a bronchodilator in humans. It is found in the oils of many species of many coniferous trees, notably the pine. It is also found in the essential oil of rosemary",
+			 "descriptionDetailed": "At low exposure levels, alpha-Pinene is a bronchodilator in humans. It is found in the oils of many species of coniferous trees, notably the pine. It is also found in the essential oil of rosemary.",
 			 "descriptionAbbrev":  "At low exposure levels, alpha-Pinene is a bronchodilator in humans.",
 			 "tags": ["Terpene","Terpinoid","Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor"],
 			 "imageUrl": "images/220px-Alpha-Pinene_Isomers.svg.png"
