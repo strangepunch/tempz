@@ -11,6 +11,126 @@
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
 		
+		var recEffects = [
+			{"recEffectId": 1,
+			 "recEffectName": "Euphoric",  
+			 "recEffectType": "P"
+			}, 
+			{"recEffectId": 2,
+			 "recEffectName": "Happy",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 3,
+			 "recEffectName": "Uplifted",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 4,
+			 "recEffectName": "Relaxed",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 5,
+			 "recEffectName": "Creative",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 6,
+			 "recEffectName": "Energetic",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 7,
+			 "recEffectName": "Long lasting",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 8,
+			 "recEffectName": "Very potent",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 9,
+			 "recEffectName": "Mind and body balance",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 10,
+			 "recEffectName": "Mental calmness",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 11,
+			 "recEffectName": "Productive",  
+			 "recEffectType": "P"
+			}, 
+			{"recEffectId": 12,
+			 "recEffectName": "Pain relief",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 13,
+			 "recEffectName": "Mild psychoactive effects",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 14,
+			 "recEffectName": "Mellow effects with mental clarity",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 15,
+			 "recEffectName": "Intense effects",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 16,
+			 "recEffectName": "Mind and Body Buzz",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 17,
+			 "recEffectName": "Enhance conversation",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 18,
+			 "recEffectName": "Therapeutic potency",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 19,
+			 "recEffectName": "Tingly",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 20,
+			 "recEffectName": "Stimulate Hunger",  
+			 "recEffectType": "P"
+			},
+			{"recEffectId": 21,
+			 "recEffectName": "Dry Mouth",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 22,
+			 "recEffectName": "Dry Eyes",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 23,
+			 "recEffectName": "Paranoid",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 24,
+			 "recEffectName": "Dizzy",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 25,
+			 "recEffectName": "Anxious",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 26,
+			 "recEffectName": "Munchies",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 27,
+			 "recEffectName": "Headache",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 28,
+			 "recEffectName": "Sleepy",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 29,
+			 "recEffectName": "Couch Lock",  
+			 "recEffectType": "N"
+			}
+		];
+
+
 		var strainNames = [
 			{"strainId": 1,
 			 "strainName": "Trainwreck", 
@@ -1331,7 +1451,7 @@
 			 	} 	
 		 	],  
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Long lasting", "Uplifting", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
 			 "descriptionAbbrev":  "A well balanced Haze crossed with a robust indica.",
@@ -1436,7 +1556,7 @@
 			 	} 	
 		 	],  
 		 	 "conditions": ["Tension", "Anxiety", "Stress", "Pain"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Relaxing", "Mild tingling", "Numbness"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This strain makes relaxation your only mission, and some users report strong body effects that include mild tingling and numbness. If pain and physical limitations are the issue, Skywalker OG is here to rescue you.",
 			 "descriptionAbbrev":  "Makes relaxation your only mission.",
@@ -1541,7 +1661,7 @@
 			 	} 	
 		 	],  
 			"conditions": ["Gastrointestinal Disorders", " ADD/ADHD", "Anxiety", "Arthritis", "Asthma", "Multiple Sclerosis"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Relaxing", "Very potent", "Mind and body balance"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Larger doses demonstrate the strain’s potency: as sensory detail peaks, attention becomes transfixed, and a full-body calm takes over. For this reason, Permafrost may help patients treating ADD/ADHD and anxiety symptoms, and others have reported its success in treating arthritis, asthma, multiple sclerosis, and gastrointestinal disorders. ",
 			 "descriptionAbbrev":  "Permafrost’s relaxing effects are balanced between mind and body.",
@@ -1751,7 +1871,7 @@
 			 	} 	
 		 	],  
 		 	 "conditions": [""],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Mental calmness", "Energetic", "Productive"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "The indica element of this strain does provide a mental calmness, but many consumers also find that this strain makes them energetic and productive.",
 			 "descriptionAbbrev":  "Effects that might be more in line with a traditional sativa.",
@@ -1856,7 +1976,7 @@
 			 	} 	
 		 	],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Pain relief", "Mild psychoactive effects"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD.",
@@ -2066,7 +2186,7 @@
 			 	} 	
 		 	],  
 		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "With OG Kush, patients most commonly cite improvements in migraines, ADD/ADHD, and stress disorders.",
 			 "descriptionAbbrev":  "Euphoric and happy effects that combat stress and anxiety",
@@ -2276,7 +2396,7 @@
 			 	} 	
 		 	], 
 		 	 "conditions": [""],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Intense effects", "Mind and Body Buzz"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Nebula has won many awards, including 3rd place in the sativa category at the High Times Cannabis Cup in 1999 and 2nd place in 2005.",
 			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic",
@@ -2381,7 +2501,7 @@
 			 	} 	
 		 	], 
 		 	 "conditions": [""],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Euphoric", "Creative", "Enhance conversation", "Therapeutic potency"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This hybrid cross of Jack Herer and G13 Haze induces unencumbered cerebral effects perfect for stimulating creativity and conversation.",
 			 "descriptionAbbrev":  "Cherished for both its therapeutic potency and enjoyable euphoric buzz.",
@@ -2591,7 +2711,7 @@
 			 	} 	
 		 	], 
 		 	 "conditions": [""],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Euphoric"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "A sweet and sour lemon aroma accented by notes of tropical mango, while its inherited effects can range from racy and energetic to heavy and disorienting.",
 			 "descriptionAbbrev":  "Will pull you into a whirling mass of euphoria like a cosmic riptide",
@@ -2802,7 +2922,7 @@
 		 	], 
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
 			 "descriptionAbbrev":  "An aura of euphoria that is sure to leave a smile on your face.",
 			 "tags": ["Sativa", "Strawberry Cough"],
@@ -3117,7 +3237,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia","Anxiety", "Depression", "Insomnia", "Appetite Loss","Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Relaxed",  "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
 			 "descriptionAbbrev":  "An invigorating sativa named after its pungent, diesel-like aroma.",
 			 "tags": ["Sativa", "Sour Diesel", "Stress", "Depression", "Pain", "Lack of Appetite", "Headache", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
@@ -4061,8 +4181,8 @@
 			 	} 	
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress" ],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
-			 "negativeEffects": ["Munchies", "Sleepy", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Sleepy", "Euphoric", "Stimulate Hunger"],
+			 "negativeEffects": ["Munchies", "Couch lock", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Superman OG provides a strong heavy body sensation and will put you to sleep in a hurry. While great for pain management, muscle spasms, and insomnia, Superman OG’s potent sedative effects make it a strictly nighttime strain. ",
 			 "descriptionAbbrev":  "A must try for cannabis connoisseurs.",
 			 "tags": ["Pine", "Sweet", "Lemon"],
@@ -4167,7 +4287,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "The high psychoactivity of this strain is not for novice consumers, but patients with a variety of symptoms are giving Thin Mint their seal of approval: severe pain, nausea, swelling, insomnia, and appetite loss are no match for the potency of Thin Mint.",
 			 "descriptionAbbrev":  "Powerful full-body effect that gives this strain its sterling reputation.",
 			 "tags": ["Hybrid", "Thin Mint", "Asthma", "Bipolar", "Nausea", "PMS"],
@@ -4272,7 +4392,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Epilepsy", "Migraines", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "A slightly energizing kick followed by intense focus makes this a perfect strain for daytime consumption with effects that steer clear of undesirable lethargy. These thick, pale green buds reek a sweet, fruity aroma and preface the tangy taste to come.",
 			 "descriptionAbbrev":  "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders.",
 			 "tags": ["Hybrid", "Banana Diesel", "Diesel", "Bipolar", "Pain", "Stress"],
@@ -4482,7 +4602,7 @@
 		 	],  
 		 	 "conditions": ["Bipolar", "Stress", "Pain", "Appetite Loss", "Insomnia", "Depression"],
 			 "positiveEffects": ["Happy", "Euphoric", "Creative", "Relaxed"],
-			 "negativeEffects": ["Dizzy", "Cotton Mouth", "Dry Eyes"],
+			 "negativeEffects": ["Dizzy", "Cotton Mouth", "Dry Eyes", "Munchies"],
 			 "descriptionDetailed": "Chem Valley Kush is a sativa-leaning hybrid cross between Chemdawg and SFV OG bred by Cali Connection.",
 			 "descriptionAbbrev":  "The taste was citrusy and fruity with a comfortable and well balanced high, while not overwhelmingly potent.",
 			 "tags": ["Hybrid", "Chem Valley Kush", "Kush", "Bipolar", "Stress"],
@@ -4587,7 +4707,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD","Anorexia","Arthritis", "Pain","Bipolar","Depression", "Insomnia", "Appetite Loss", "Nausea", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Talkative", "Creative"],
-			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy"],
+			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Medical patients have used the potent and heavy effects of Confidential Cheese to treat severe pain, insomnia, and lost appetite..",
 			 "descriptionAbbrev":  "This indica-dominant strain has pale green crystal-covered buds with a sour cheese aroma inherited from its parent.",
 			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar", "Nausea", "Stress"],
@@ -5217,7 +5337,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Migraines", "Headache", "Appetite Loss", "PMS", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Fire Bomb", "Bipolar", "Migraines", "Headache"],
@@ -5637,7 +5757,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Energetic", "Happy", "Uplifted", "Euphoric", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Few strains compare to Green Crack's sharp energy and focus as it induces an invigorating mental buzz that keeps you going throughout the day. With a tangy, fruity flavor redolent of mango, Green Crack is the perfect daytime medication for patients treating fatigue, stress, and depression.",
 			 "descriptionAbbrev":  "The perfect daytime medication for patients treating fatigue, stress, and depression.",
 			 "tags": ["Sativa", "Green Crack", "Bipolar"],
@@ -5742,7 +5862,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Energetic", "Relaxed", "Creative", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dizzy", "Dry Eyes", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dizzy", "Dry Eyes", "Anxious", "Munchies"],
 			 "descriptionDetailed": "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
 			 "descriptionAbbrev":  "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
 			 "tags": ["Hybrid", "Green Dream", "Bipolar"],
@@ -5847,7 +5967,7 @@
 		 	],  
 		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Glaucoma", "Appetite Loss", "Migraines", "Headache", "Nausea", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Sexual"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand. It boasts as one of the highest THC contents of any cannabis variety in the world. Green Thailand is one of the most productive strains in Thailand helped by the relatively short flowering time compared to some other Thai strains.",
 			 "descriptionAbbrev":  "One of the highest THC contents of any cannabis variety in the world.",
 			 "tags": ["Sativa", "Green Thailand", "Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
@@ -5952,7 +6072,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar", "Migraines", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Trainwreck is a sativa-dominant cannabis strain that hits you as hard as a freight train that you don’t see coming.",
 			 "descriptionAbbrev":  "People swear by Trainwreck for its pain relief and other medicinal qualities.",
 			 "tags": ["Hybrid", "H-Train Wreck", "Bipolar", "Migraines", "Headache"],
@@ -6057,7 +6177,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Sexual"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "A great strain for relaxing with friends or listening to music.",
 			 "descriptionAbbrev":  "A great strain for relaxing with friends or listening to music.",
 			 "tags": ["Sativa", "Hawaiian Hulk", "Hawaiian","Bipolar", "Migraines", "Headache"],
@@ -6267,7 +6387,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia","Depression", "Stress", "Pain", "Fatigue", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Sensi Seeds created Jack Herer hoping to capture both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects.",
 			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
 			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
@@ -6477,7 +6597,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Stress subsides quickly from the Lamb's Bread buzz, which can help ease depression. The origins of this plant comes from Jamaica and it has been reported that even Bob Marley himself has encountered this wonderful slice of cannabis genealogy.",
 			 "descriptionAbbrev":  "Known to give mass amounts of energy and positive introspection.",
 			 "tags": ["Sativa", "Lamb's Bread", "Bipolar"],
@@ -6582,7 +6702,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Insomnia"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint.",
 			 "descriptionAbbrev":  "Has been characterized as smelling of fresh peeled lemon slices with a similar taste.",
 			 "tags": ["Lemon", "Citrus",  "Sweet"],
@@ -7002,7 +7122,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Depression", "Hypertension", "Appetite Loss", "Muscle Spasms", "Pain","PMS"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Creative"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "This very heavy Indica, courtesy of Med 215 Collective, certainly looks like it will knock you out faster than you can say Arturo Gatti",
 			 "descriptionAbbrev":  "Certainly pays respect to the man with the greatest one hitter in the history of the sport.",
 			 "tags": ["Indica", "Mike Tyson", "Bipolar", "Hypertension", "PMS"],
@@ -7422,7 +7542,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "PMS", "Stress", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "The smell has been likened to fresh apple and mango, with a taste of pineapple, pine and cedar.",
 			 "descriptionAbbrev":  "This hard-hitting sativa provides an energetic high up to 2 hours.",
 			 "tags": ["Hybrid", "Pineapple Express", "Bipolar", "PMS"],
@@ -7527,7 +7647,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Platinum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
@@ -7632,7 +7752,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Munchies"],
 			 "descriptionDetailed": "True to its predecessors, this flower carries the distinct diesel kush flavor with sour undertones.",
 			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "tags": ["Indica", "Private Reserve OG", "OG", "Bipolar"],
@@ -8683,7 +8803,7 @@
 		 	],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar","Fibromyalgia","Appetite Loss","Muscle Spasms", "Pain","PMS", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Social", "Creative", "Sexual", "Fatigue"],
-			 "negativeEffects": ["Det Mouth", "Dry Eyes", "Anxious"],
+			 "negativeEffects": ["Det Mouth", "Dry Eyes", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Indoor or outdoor grows can expect flowers between 7 and 8 weeks.",
 			 "descriptionAbbrev":  "The fruity tangerine aroma is accompanied with notes of mango and pineapple.",
 			 "tags": ["Hybrid", "Tangerine", "Bipolar", "PMS"],
@@ -8788,7 +8908,7 @@
 		 	],
 		 	 "conditions": ["Anxiety","Bipolar","Depression","Appetite Loss", "PMS", "Stress"],
 			 "positiveEffects": ["Uplifted", "Happy", "Creative", "Energetic","Euphoric", "Focused"],
-			 "negativeEffects":["Dry Mouth"], 
+			 "negativeEffects":["Dry Mouth", "Munchies"], 
 			 "descriptionDetailed": "Tangilope is a chocolatey, citrus blend of Tangie and Chocolope, two of DNA Genetics’ best sativas.",
 			 "descriptionAbbrev":  "The cerebral effects evoke happiness, giggles, and can stimulate creativity.",
 			 "tags": ["Sativa", "Tangilope", "Bipolar", "PMS"],
@@ -9733,7 +9853,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Often recommended medically to treat chronic pain ailments. The sativa qualities of this strain keep this heavy hitter from being a complete knockout, but it isn’t recommended for days when a lot of work needs to get done.",
 			 "descriptionAbbrev":  "Known for its ability to provide a strong indica body buzz very quickly.",
 			 "tags": ["Sativa", "Great White Shark", "Cancer"],
@@ -11308,7 +11428,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Depression", "Appetite Loss", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Relaxed"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
 			 "descriptionAbbrev":  "Acapulco Gold has a reputation for being one of the best cannabis strains ever created.",
 			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
@@ -11623,7 +11743,7 @@
 		 	],
 		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "With earthy flavors of lemons and citrus, Amnesia Haze is a perfect strain to start your day with a smile.",
 			 "descriptionAbbrev":  "The uplifting, energetic buzz is one you won’t soon forget.",
 			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
@@ -12673,7 +12793,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Fatigue", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "With a few Cannabis Cup wins already under its belt, Candy Jack’s potency, flavor, and effects have won this sativa a sterling reputation in the cannabis world.",
 			 "descriptionAbbrev":  "Patients typically appreciate Candy Jack’s ability to counter stress, depression, and appetite loss.",
 			 "tags": ["Sweet", "Flowery", "Earthy"],
@@ -12883,7 +13003,7 @@
 		 	],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Creative", "Uplifted", "Euphoric", "Relaxed"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Cannalope Haze is a sweet mix of tropical, melon, and floral flavors. The smooth taste and hefty resin production make it great for producing concentrates.",
 			 "descriptionAbbrev":  "This strain is a great solution for fatigue and when struggling with appetite loss.",
 			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache", "Stress"],
@@ -13093,7 +13213,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Insomnia", "Nausea", "Appetite Loss", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "The original source of powerhouse strains like Sour Diesel and OG Kush, Chemdawg is known for its distinct, diesel-like aroma. Pungent and sharp, you’ll be able to smell this hybrid from a mile away.",
 			 "descriptionAbbrev":  "Expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
 			 "tags": ["Hybrid", "Chemdawg", "Depression", "Stress"],
@@ -13408,7 +13528,7 @@
 		 	],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
 			 "positiveEffects": ["Focused", "Relaxed"],
-			 "negativeEffects": ["Couch lock", "Drowsiness"],
+			 "negativeEffects": ["Couch lock", "Sleepy"],
 			 "descriptionDetailed": "A mind-numbing physically impressive Clear Lake OG medicinal strain best for treating symptoms related to MS, arthritis, RTS, muscle spasms, insomnia, ADHD, pain, stress, and anxiety relief.",
 			 "descriptionAbbrev":  "Super-duper powerful and way heavy, a completely flooring knock down result that will reduce movement and cease productive action or thought.",
 			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
@@ -13513,7 +13633,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
@@ -13723,7 +13843,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Fibromyalgia", "Glaucoma", "Insomnia", "Appetite Loss","Migraines", "Nausea", "Pain", "Seizures", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Fierce rugged lines shape my variety of buds into chunky SUPER dense samples of absolutely ideal marijuana.  99.9% of the nug is usable, smokeable, incredible material, save its minty spinal cord.",
 			 "descriptionAbbrev":  "Very powerful and effective medication. Top shelf anywhere",
 			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
@@ -14038,7 +14158,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Sleepy"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body",
 			 "tags": ["Earthy", "Pine", "Pungent"],
@@ -14878,7 +14998,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Migraines", "Muscle Spasms", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
-			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Anxious", "Dizzy"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Anxious", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Her buds are light and dark green with orange hairs and a healthy amount of crystals.",
 			 "descriptionAbbrev":  "The taste has been described as cheddar and provides a overall tingly mind and body high.",
 			 "tags": ["Hybrid", "Pineapple Hogsbreath", "Pineapple", "Migraines", "Headache", "Nausea", "PMS"],
@@ -15088,7 +15208,7 @@
 		 	],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Cramps", "Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Focused", "Relaxed", "Tingly", "Talkative"],
-			 "negativeEffects": ["Dizzy", "Dry Mouth"],
+			 "negativeEffects": ["Dizzy", "Dry Mouth", "Munchies"],
 			 "descriptionDetailed": "Sugar Plum produces hard-hitting and long-lasting cerebral effects. Its THC content has been measured as high as 28%, a much-needed potency for patients treating severe pain, nausea, glaucoma, mood disorders, and gastrointestinal complications.",
 			 "descriptionAbbrev":  "Much-needed potency for patients treating severe pain, nausea, glaucoma, mood disorders, and gastrointestinal complications.",
 			 "tags": ["Berry", "Sweet"],
@@ -15193,7 +15313,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
 			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": " As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect.",
 			 "descriptionAbbrev":  "The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
 			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
@@ -15613,7 +15733,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Energetic"],
-			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "The immediate effects are active and mentally alert, but can border on antsy for some. This feeling tends to smooth into a more focused state that allows for normal activities and may even help you tackle that to-do list or next creative project.",
 			 "descriptionAbbrev":  "A great hybrid that provides mild to moderate effects that are appropriate for daytime consumption.",
 			 "tags": ["Earthy", "Pungent", "Pine"],
@@ -15718,7 +15838,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
-			 "negativeEffects": ["Sleepy", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Sleepy", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "This Blueberry is a dense and stout plant with red, purple and blue hues.  The finished product has a very fruity aroma and taste of blueberry.  The high is euphoric and long lasting.",
 			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry.",
 			 "tags": ["Blueberry", "Berry", "Sweet"],
@@ -16873,7 +16993,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Focused", "Energetic", "Uplifted", "Giggly"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "Afghani Bullrider is pretty to look at, with light green buds covered in orange hair, and has a strong sweet and sour smell with some piney freshness. This strain is a heavy hitter that delivers a strong body without the full sedative effects some indicas can have; it heads straight to the brain and may boost creative thoughts while providing physical relaxation. With its high levels of THC and CBD, Afghani Bullrider is recommended for chronic pain, insomnia, and anxiety.",
 			 "descriptionAbbrev":  "This strain is a heavy hitter that delivers a strong body without the full sedative effects.",
 			 "tags": ["Indica", "Afghani Bullrider", "Pain", "Stress"],
@@ -16978,7 +17098,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Sleepy", "Euphoric", "Happy", "Hungry" ],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "A potent indica strain that is believed to descend from an Afghani indica and a Haze sativa from the island of Maui.",
 			 "descriptionAbbrev":  "This strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor. ",
 			 "tags": ["Indica", "Afgoo", "Pain", "Stress"],
@@ -17188,7 +17308,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "This sativa-dominant hybrid delivers a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged in creative or social activities.",
 			 "descriptionAbbrev":  "AK-47 will leave you relaxed and mellow.",
 			 "tags": ["Hybrid", "AK-47", "Pain", "Stress"],
@@ -17293,7 +17413,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "AK-48's parents are Ice and Jock Horror.  Its Ice mother has ancestors of Afghani, Skunk, Northern Lights and Shiva stock.",
 			 "descriptionAbbrev":  "AK-48 high leans more towards typical sativa effects.",
 			 "tags": ["Hybrid", "AK-48", "Pain", "Stress"],
@@ -17713,7 +17833,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Sleepy", "Tingly", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Although uplifting, this indica is on the heavier side, appealing to experienced users who desire strong medicinal treatment.",
 			 "descriptionAbbrev":  "This strain is favored for its powerful effects that provide clarity and heightened sensory perception",
 			 "tags": ["Indica", "Mercury OG", "Hypertension", "PMS"],
@@ -18868,7 +18988,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Sleepy"],
 			 "descriptionDetailed": "Blackberry Kush tends to have a hashy, jet fuel smell and taste that is balanced by sweet berries.",
 			 "descriptionAbbrev":  "Often recommended for the treatment of pain thanks to its strong indica body effects.",
 			 "tags": ["Berry", "Sweet", "Earthy"],
@@ -19078,7 +19198,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Depression", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric"],
-			 "negativeEffects": ["XDry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Blue Haze is a great candidate for the regular consumer’s arsenal as it is appropriate for a broad spectrum of activities and provides the optimal balance between cerebral and physical effects.",
 			 "descriptionAbbrev":  "Has a pleasing taste and scent, and its furry dense buds produce full-bodied effects.",
 			 "tags": ["Blueberry", "Sweet", "Woody"],
@@ -19393,7 +19513,7 @@
 		 	],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Cheese is an indica-dominant hybrid from the U.K. that has achieved widespread popularity for its unique flavor and consistent potency.",
 			 "descriptionAbbrev":  "Well-known for its relaxed, happy effects that gently ease you into a blissful state of mind.",
 			 "tags": ["Hybrid", "Cheese", "Stress"],
@@ -19498,7 +19618,7 @@
 		 	],  
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Fatigue", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Be careful not to underestimate her or you may pass out or become paranoid.  Cinderella 99 is a sativa-dominant strain and provides all the good sativa benefits.",
 			 "descriptionAbbrev":  "Great for daytime use and provides plenty of energy",
 			 "tags": ["Hybrid", "Cinderella 99", "Stress"],
@@ -19813,7 +19933,7 @@
 		 	],  
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "The taste is fruity like grapes and so is the smell.",
 			 "tags": ["Grapes"],
@@ -20548,7 +20668,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Muscle Spasms", "Appetite Loss","Pain", "Stress", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "This chunky, conic, crystal-covered strain flowers in 56 to 60 days, and is said to come from Chemsis, Sour Dubb, and Chocolate Diesel.",
 			 "descriptionAbbrev":  "A potent hybrid strain that won 1st place in the 2014 Los Angeles Cannabis Cup.",
 			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
@@ -20758,7 +20878,7 @@
 		 	],
 				"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
 			 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
-			 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 			 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
 			 	"descriptionAbbrev":  "Known to deliver clear-headed, energetic effects that can verge on psychedelic at times",
 			 	"tags": ["Kali Mist"],
@@ -20863,7 +20983,7 @@
 		 	],
 			 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 	"positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
-			 	"negativeEffects": [""],
+			 	"negativeEffects": ["Munchies"],
 			 	"descriptionDetailed": "",
 			 	"descriptionAbbrev":  "",
 			 	"tags": [],
@@ -21073,7 +21193,7 @@
 		 	], 
 		 	 "conditions": ["Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Creative", "Focused"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Snowcap is a potent sativa with a nice lemony scent with a hint of menthol.",
 			 "descriptionAbbrev":  "The effects are decidedly cerebral and should trigger creativity, happiness, and a case of the giggles",
 			 "tags": ["Snowcap"],
@@ -21178,7 +21298,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Nausea","Depression", "Appetite Loss", "Pain", "Stress", "Fatigue"],
 			 "positiveEffects": ["Happy", "Uplifted","Euphoric", "Energetic", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high.",
 			 "descriptionAbbrev":  "The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
 			 "tags": ["Citrus", "Sweet", "Pungent"],
@@ -21283,7 +21403,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Sleepy", "Hungry", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "This strain also differs from typical indicas in its earthy aroma that delivers smoothly with low expansion. An established strain within the medicinal cannabis community, Neptune OG can be appropriately described as otherworldly.",
 			 "descriptionAbbrev":  "Sets itself apart by its euphoric onset prior to the heavy, sedative effects, making it also useful for stress relief.",
 			 "tags": [""],
@@ -21388,7 +21508,7 @@
 		 	], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
 			 "descriptionAbbrev":  "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
 			 "tags": [""],
@@ -21493,7 +21613,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted", "Sleepy"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
 			 "descriptionAbbrev":  "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
 			 "tags": ["Sweet", "Earthy", "Flowery"],
@@ -21598,7 +21718,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache" "Munchies"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
 			 "tags": ["Pine", "Pungent", "Earthy"],
@@ -21703,7 +21823,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress", "Fatigue", "Depression"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Tingly"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "tags": ["Sweet", "Earthy", "Pungent"],
@@ -21808,9 +21928,9 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Absoulutly the very best OG I've ever smoked, and Ive grown and smoked almost all of them.",
+			 "descriptionAbbrev":  "Absolutely the very best OG I've ever smoked, and I've grown and smoked almost all of them.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
@@ -21913,7 +22033,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "The buds have been described as smelling fruity and sweet, with a hint of a skunk. The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. Lemon Diesel was in the Top Ten at the Emerald Cup in 2010.",
 			 "descriptionAbbrev":  "The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. ",
 			 "tags": ["Lemon", "Diesel", "Citrus"],
@@ -22018,7 +22138,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress", "Insomnia"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "The light green buds are covered in a white frosting of trichomes and provide uplifting and creative effects.",
 			 "descriptionAbbrev":  "Lemon Kush is the perfect solution for when the stresses of life have you feeling sour.",
 			 "tags": ["Lemon", "Citrus", "Sweet"],
@@ -22123,7 +22243,7 @@
 		 	], 
 		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine.",
 			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
 			 "tags": ["Earthy", "Sweet", "Berry"],
@@ -22499,7 +22619,7 @@
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
-			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic"],
+			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic"],
 			 "lowTemp": 320,
 			 "highTemp": 356,
 			 "lowTempC": 160,
@@ -22784,7 +22904,7 @@
 			 "effectName": "Neuroprotective", //compName
 			 "conditionsTreated": ["ADHD"],
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
-			 "descriptionAbbrev":  "Protects nervous system degeneration.",
+			 "descriptionAbbrev":  "Protect against nervous system degeneration",
 			 "tags": ["Neuroprotective", "nerves"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22792,7 +22912,7 @@
 			 "effectName": "Antispasmodic", //compName
 			 "conditionsTreated": ["Epilepsy", "Spasms"],
  			 "descriptionDetailed": "Medical cannabis strains high in CBD have been shown to relieve spasms and convulsions associated with Epilepsy and other nerve related conditions.",
-			 "descriptionAbbrev":  "Suppresses muscle spasms.",
+			 "descriptionAbbrev":  "Suppress muscle spasms",
 			 "tags": ["Antispasmodic", "spasms", "convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22800,7 +22920,7 @@
 			 "effectName": "Antiemetic", //compName
 			 "conditionsTreated": ["Cancer", "Nausea"],
  			 "descriptionDetailed": "Reduces vomiting and nausea",
-			 "descriptionAbbrev":  "Anti-nausea",
+			 "descriptionAbbrev":  "Reduce vomiting and nausea",
 			 "tags": ["Antiemetic", "vomiting", "nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22808,7 +22928,7 @@
 			 "effectName": "Analgesic", //compName
 			 "conditionsTreated": ["Pain", "Chronic Pain"],
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
-			 "descriptionAbbrev":  "Relieves pain.",
+			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["Analgesic", "pain", "painkiller" ],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22840,7 +22960,7 @@
 			 "effectName": "Antiinflammatory", //compName
 			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
-			 "descriptionAbbrev":  "Reduces inflammation.",
+			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22848,7 +22968,7 @@
 			 "effectName": "Neurogenesis", //compName
 			 "conditionsTreated": ["Chronic Depression", "ADHD"],
  			 "descriptionDetailed": "Neurogenesis is the process by which neurons are generated from neural stem cells and progenitor cells. Recent studies suggest that stress-induced atrophy and loss of hippocampal neurons may contribute to the pathophysiology of depression.",
-			 "descriptionAbbrev":  "Grow new nerves",
+			 "descriptionAbbrev":  "Grow new nerve tissue",
 			 "tags": ["Neurogenesis", "nerve tissue growth", "Chronic Depression", "ADHD"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22864,7 +22984,7 @@
 			 "effectName": "Antiepileptic", //compName
 			 "conditionsTreated": ["Epilepsy", "Seizures", "Convulsions"],
  			 "descriptionDetailed": "Anti-epileptic drugs or AEDs are the main form of treatment for people with epilepsy. Certain compnonents in medical cannabis are being used as an effectve treatment for some forms of Epilepsy based on the relative strengths of components such as CBD and THC-A.",
-			 "descriptionAbbrev":  "Reduces seizures and convulsion.",
+			 "descriptionAbbrev":  "Reduce seizures and convulsion",
 			 "tags": ["Antiepileptic", "Seizures", "Convulsions"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22880,7 +23000,7 @@
 			 "effectName": "Anti-ischemic", //compName
 			 "conditionsTreated": ["Coronary Heart disease"],
  			 "descriptionDetailed": "Reduces risk of artery blockage whcih could help prevent the conditions leading to coronary artery disease.",
-			 "descriptionAbbrev":  "Reduces risk of artery blockage.",
+			 "descriptionAbbrev":  "Reduce risk of artery blockage",
 			 "tags": ["Anti-ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22888,7 +23008,7 @@
 			 "effectName": "Antibacterial", //compName
 			 "conditionsTreated": ["Infection"],
  			 "descriptionDetailed": "Kills surface bacteria. Destroys bacteria or suppresses their growth or their ability to reproduce.",
-			 "descriptionAbbrev":  "Kills or slows bacteria growth.",
+			 "descriptionAbbrev":  "Kill or slow bacteria growth",
 			 "tags": ["Antibacterial", "Bacteria", "Antibacterial"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22904,7 +23024,7 @@
 			 "effectName": "Antipsoriatic", //compName
 			 "conditionsTreated": ["Psoriasis"],
  			 "descriptionDetailed": "Helps relieve the symptoms of psoriasis.",
-			 "descriptionAbbrev":  "Treats psoriasis.",
+			 "descriptionAbbrev":  "Treat psoriasis",
 			 "tags": ["Antipsoriatic", "psoriasis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22912,7 +23032,7 @@
 			 "effectName": "Antipsychotic", //compName
 			 "conditionsTreated": ["Psychosis"],
  			 "descriptionDetailed": "Helps reduce psychosis including delusions or hallucinations",
-			 "descriptionAbbrev":  "Tranquilizing/Used to manage psychosis.",
+			 "descriptionAbbrev":  "Tranquilizing effect",
 			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22920,7 +23040,7 @@
 			 "effectName": "Bone-stimulant", //compName
 			 "conditionsTreated": ["Ostiopererosis"],
  			 "descriptionDetailed": "promotes bone growth",
-			 "descriptionAbbrev":  "Promotes bone growth.",
+			 "descriptionAbbrev":  "Promote bone growth",
 			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22928,7 +23048,7 @@
 			 "effectName": "Intestinal anti-prokinetic", //compName
 			 "conditionsTreated": ["GI Motility Disorders"],
  			 "descriptionDetailed": "reduces contractions in the small intestine",
-			 "descriptionAbbrev":  "Reduces contractions in the small intestines.",
+			 "descriptionAbbrev":  "Reduce contractions in the small intestine",
 			 "tags": ["Intestinal anti-prokinetic", "contractions", "Intestinal"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22936,7 +23056,7 @@
 			 "effectName": "Immunosuppressant", //compName
 			 "conditionsTreated": ["Psoriasis", "Rheumatoid Arthritis", "Crohns Disease", "Cancer"],
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
-			 "descriptionAbbrev":  "Modulates function in the immune system.",
+			 "descriptionAbbrev":  "Prevent the immune response",
 			 "tags": ["Immunosuppressant", "immune system"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -22944,7 +23064,7 @@
 			 "effectName": "Antiproliferative", //compName
 			 "conditionsTreated": ["Cancer"],
  			 "descriptionDetailed": "Inhibits cancer cell growth",
-			 "descriptionAbbrev":  "Slows cancer",
+			 "descriptionAbbrev":  "Slow cancer cell growth",
 			 "tags": ["Antiproliferative", "cell growth", "cancer"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22952,7 +23072,7 @@
 			 "effectName": "Vasoconstriction", //compName
 			 "conditionsTreated": ["Low Blood Pressure", "Hypotension"],
  			 "descriptionDetailed": "Vasoconstriction is the narrowing of the blood vessels resulting from contraction of the muscular wall of the vessels, in particular the large arteries and small arterioles. The process is particularly important in staunching hemorrhage and acute blood loss.",
-			 "descriptionAbbrev":  "Raise Blood Pressure",
+			 "descriptionAbbrev":  "Raise blood pressure",
 			 "tags": ["Vasoconstriction", "blood vessels"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -22960,7 +23080,7 @@
 			 "effectName": "Memory booster", //compName
 			 "conditionsTreated": ["Memory", "Alzheimers"],
  			 "descriptionDetailed": "helps memory conditions",
-			 "descriptionAbbrev":  "Help memory",
+			 "descriptionAbbrev":  "Help boost memory",
 			 "tags": ["Memory booster", "memory", "Memory booster", "Alzheimers"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -22968,7 +23088,7 @@
 			 "effectName": "AChE inhibitor", //compName
 			 "conditionsTreated": ["Glaucoma", "Postural Tachycardia Syndrome", "Anticholinergic Poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "Schizophrenia", "Autism"],
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
-			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers.",
+			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -22992,7 +23112,7 @@
 			 "effectName": "Euphoriant", //compName
 			 "conditionsTreated": ["Depression", "Chronic Depression"],
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.  ",
-			 "descriptionAbbrev":  "Anti-depression",
+			 "descriptionAbbrev":  "Treat depression",
 			 "tags": ["Euphoriant", "Depression", "Anti-Depression"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23008,7 +23128,7 @@
 			 "effectName": "Antifungal", //compName
 			 "conditionsTreated": ["Athletes Foot", "Ringworm", "Thrush", "Cryptococcal Meningitis"],
  			 "descriptionDetailed": "Medical cannabis has been used to treat and prevent fungal mycoses.",
-			 "descriptionAbbrev":  "Prevent fungus",
+			 "descriptionAbbrev":  "Prevent fungal growth",
 			 "tags": ["Antifungal", "athletes foot", "ringworm", "thrush", "meningitis"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23016,7 +23136,7 @@
 			 "effectName": "Anti-tumor", //compName
 			 "conditionsTreated": ["Cancer"],
  			 "descriptionDetailed": "High CBD strains of medical cannabis have been successfully used to stop abnormal tumor cell growth associated with some skin, brain and prostate cancers.",
-			 "descriptionAbbrev":  "Stops tumors",
+			 "descriptionAbbrev":  "Stop or slow tumor growth",
 			 "tags": ["Anti-tumor", "cancer", "chemo"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23024,7 +23144,7 @@
 			 "effectName": "Stimulates brain cell growth", //compName
 			 "conditionsTreated": ["Alzheimers"],
  			 "descriptionDetailed": "helps stimulate brain cell growth and memory functions",
-			 "descriptionAbbrev":  "Treats Alzheimers",
+			 "descriptionAbbrev":  "Stimulate brain cell growth and memory function",
 			 "tags": ["Alzheimers", "cancer", "chemo"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23032,7 +23152,7 @@
 			 "effectName": "Anti-prostate cancer", //compName
 			 "conditionsTreated": ["Prostate Cancer"],
  			 "descriptionDetailed": "Helps treat and prevent prostate cancer",
-			 "descriptionAbbrev":  "Treats prostate cancer",
+			 "descriptionAbbrev":  "Treat prostate cancer",
 			 "tags": ["Anti-tumor", "Prostate cancer", "Prostate"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23048,7 +23168,7 @@
 			 "effectName": "Antibiotic", //compName
 			 "conditionsTreated": ["Infection"],
  			 "descriptionDetailed": "destroys or slow down the growth of bacteria",
-			 "descriptionAbbrev":  "Destroys bacteria",
+			 "descriptionAbbrev":  "Destroy bacteria",
 			 "tags": ["Antibiotic", "Infection"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23064,7 +23184,7 @@
 			 "effectName": "Bronchodilator", //compName
 			 "conditionsTreated": ["Asthma", "COPD"],
  			 "descriptionDetailed": "decreases resistance in the respiratory airway and increases airflow to the lungs",
-			 "descriptionAbbrev":  "Help Breathing",
+			 "descriptionAbbrev":  "Decrease resistance in the respiratory airway",
 			 "tags": ["Bronchodilator", "Asthma", "COPD"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23072,7 +23192,7 @@
 			 "effectName": "Antineoplastic", //compName
 			 "conditionsTreated": ["Cancer"],
  			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
-			 "descriptionAbbrev":  "Slow down or Inhibit tumors",
+			 "descriptionAbbrev":  "Slow down or inhibit tumors",
 			 "tags": ["Antineoplastic", "cancer", "tumors"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23080,7 +23200,7 @@
 			 "effectName": "Relieves Intraocular Pressure", //compName
 			 "conditionsTreated": ["Glaucoma"],
  			 "descriptionDetailed": "Left untreated, high eye pressure can cause glaucoma and permanent vision loss in some individuals.",
-			 "descriptionAbbrev":  "Treat Glaucoma",
+			 "descriptionAbbrev":  "Treat Glaucoma by reducing eye pressure",
 			 "tags": ["Antineoplastic", "Glaucoma"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23088,7 +23208,7 @@
 			 "effectName": "Antileishmanial", //compName
 			 "conditionsTreated": ["leishmaniasis", "tropical leishmaniasis", "Sand flea bite infection"],
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
-			 "descriptionAbbrev":  "Treat Sand Flea Infection",
+			 "descriptionAbbrev":  "Treat sand flea infection",
 			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -23096,7 +23216,7 @@
 			 "effectName": "AntiViral", //compName
 			 "conditionsTreated": ["HCV"],
  			 "descriptionDetailed": "Results suggest that modest cannabis use may offer symptomatic and virological benefit to some patients undergoing HCV treatment by helping them maintain adherence to the challenging medication regimen.",
-			 "descriptionAbbrev":  "Destroy viruses associated with HCV.",
+			 "descriptionAbbrev":  "Destroy viruses associated with HCV",
 			 "tags": ["HCV", "Antiviral"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -23104,7 +23224,7 @@
 			 "effectName": "Cytoprotective", //compName
 			 "conditionsTreated": ["Ulcers"],
  			 "descriptionDetailed": "Fights ulcers by increasing mucosal protection.",
-			 "descriptionAbbrev":  "Treat ulcers.",
+			 "descriptionAbbrev":  "Treat ulcers by increasing mucosal protection",
 			 "tags": ["HCV", "Antiviral"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23112,7 +23232,7 @@
 			 "effectName": "LO inhibitor", //compName
 			 "conditionsTreated": ["Asthma"],
  			 "descriptionDetailed": "Inhibits lipoxygenase enzyme, can help asthma.",
-			 "descriptionAbbrev":  "Treat conditions associated with asthma.",
+			 "descriptionAbbrev":  "Treat asthma conditions",
 			 "tags": ["HCV", "Antiviral"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}, 
@@ -23120,7 +23240,7 @@
 			 "effectName": "5-a-reductase inhibitor", //compName
 			 "conditionsTreated": ["Prostate"],
  			 "descriptionDetailed": "Surpresses dihydrotestosterone, treats benign prostatic hyperplasia - prostate.",
-			 "descriptionAbbrev":  "Treat prostate conditions.",
+			 "descriptionAbbrev":  "Treat benign prostate conditions",
 			 "tags": ["Prostate"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}
