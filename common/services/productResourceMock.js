@@ -21718,7 +21718,7 @@
 		 	], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache" "Munchies"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
 			 "tags": ["Pine", "Pungent", "Earthy"],
