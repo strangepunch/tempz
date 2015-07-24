@@ -14,83 +14,103 @@
 		var recEffects = [
 			{"recEffectId": 1,
 			 "recEffectName": "Euphoric",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			}, 
 			{"recEffectId": 2,
 			 "recEffectName": "Happy",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 3,
 			 "recEffectName": "Uplifted",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 4,
 			 "recEffectName": "Relaxed",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 6,
 			 "recEffectName": "Energetic",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 7,
 			 "recEffectName": "Long lasting",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 8,
 			 "recEffectName": "Very potent",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 9,
 			 "recEffectName": "Mind and body balance",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 10,
 			 "recEffectName": "Mental calmness",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 11,
 			 "recEffectName": "Productive",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			}, 
 			{"recEffectId": 12,
 			 "recEffectName": "Pain relief",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 13,
 			 "recEffectName": "Mild psychoactive effects",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 14,
 			 "recEffectName": "Mellow effects with mental clarity",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 15,
 			 "recEffectName": "Intense effects",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 16,
 			 "recEffectName": "Mind and Body Buzz",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Enhance conversation",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 18,
 			 "recEffectName": "Therapeutic potency",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 19,
 			 "recEffectName": "Tingly",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 20,
 			 "recEffectName": "Stimulate Hunger",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
@@ -126,6 +146,10 @@
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
+			 "recEffectType": "N"
+			},
+			{"recEffectId": 30,
+			 "recEffectName": "Clear-headed",  
 			 "recEffectType": "N"
 			}
 		];
@@ -908,7 +932,7 @@
 
 			},
 			{"strainId": 156,
-			 "strainName": "Alien Rock Candy",
+			 "strainName": "Kalashnikova",
 			 "strainType": "Hybrid"
 
 			},
@@ -1133,7 +1157,7 @@
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 199,
+			{"strainId": 200,
 			 	"strainName": "Blackwater",
 			 	"strainType": "Indica"
 			 	
@@ -2500,7 +2524,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
-		 	 "conditions": [""],
+		 	 "conditions": ["Stress"],
 			 "positiveEffects": ["Euphoric", "Creative", "Enhance conversation", "Therapeutic potency"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This hybrid cross of Jack Herer and G13 Haze induces unencumbered cerebral effects perfect for stimulating creativity and conversation.",
@@ -11133,11 +11157,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.24
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -11216,7 +11240,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
+		 	 "conditions": ["Cancer", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
@@ -17420,20 +17444,20 @@
 			 "imageUrl": "images/strains/ak-48_100x100.jpg"
 			},
 			{"strainId": 156,
-			 "strainName": "Alien Rock Candy",
+			 "strainName": "Kalashnikova",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.80
+			 		"value": 15.44
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.35
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.24
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -17516,12 +17540,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Pain"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Alien Rock Candy", "Pain"],
+		 	 "conditions": ["Pain", "Stress"],
+			 "positiveEffects": ["Clear-headed", "Long lasting", "Relaxing", "Creative", "Social"],
+			 "negativeEffects": ["Sleepy", "Munchies", "Couch lock"],
+			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova’s aroma is a mixture of lemon, mango, and sweet honey.",
+			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova’s aroma is a mixture of lemon, mango, and sweet honey.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 157,
@@ -22144,7 +22168,112 @@
 			 "tags": ["Lemon", "Citrus", "Sweet"],
 			 "imageUrl": "images/strains/lemon-kush_100x100.jpg"
 			},
-			{"strainId": 199,
+			{"strainId": 200,
+			 	"strainName": "Blackwater",
+			 	"strainType": "Indica",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 16.28
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
+			 "descriptionDetailed": "Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine.",
+			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
+			 "tags": ["Earthy", "Sweet", "Berry"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"strainId": 200,
 			 	"strainName": "Blackwater",
 			 	"strainType": "Indica",
 			 	"components": [
@@ -22934,7 +23063,7 @@
 			},
 			{"effectId": 5,
 			 "effectName": "Antioxidant", //compName
-			 "conditionsTreated": ["Stroke", "Coronary Heart Disease", "ALS", "Parkinsons", "Alzheimers", "Huntingtons", "Cancer", "Altitude Sickness"],
+			 "conditionsTreated": ["Stroke", "Coronary Heart Disease", "ALS", "Parkinsons", "Alzheimers", "Huntingtons", "Cancer"],
  			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness among others.",
 			 "descriptionAbbrev":  "Fight free radicals",
 			 "tags": ["Antioxidant"],
@@ -22974,7 +23103,7 @@
 			},
 			{"effectId": 10,
 			 "effectName": "Anxiolytic", //compName
-			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety"],
+			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety", "Stress"],
  			 "descriptionDetailed": "Anxiolytic medications have been used for the treatment of anxiety and its related psychological and physical symptoms. Anxiolytics have been shown to be useful in the treatment of anxiety disorders.",
 			 "descriptionAbbrev":  "Reduce anxiety",
 			 "tags": ["Anxiolytic", "Anxiety", "Tranquilizer", "Bipolar", "Social Anxiety", "Separation Anxiety"],
@@ -23110,7 +23239,7 @@
 			}, 
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
-			 "conditionsTreated": ["Depression", "Chronic Depression"],
+			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress"],
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.  ",
 			 "descriptionAbbrev":  "Treat depression",
 			 "tags": ["Euphoriant", "Depression", "Anti-Depression"],
