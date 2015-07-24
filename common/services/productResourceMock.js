@@ -17543,8 +17543,8 @@
 		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": ["Clear-headed", "Long lasting", "Relaxing", "Creative", "Social"],
 			 "negativeEffects": ["Sleepy", "Munchies", "Couch lock"],
-			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova’s aroma is a mixture of lemon, mango, and sweet honey.",
-			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova’s aroma is a mixture of lemon, mango, and sweet honey.",
+			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
+			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
