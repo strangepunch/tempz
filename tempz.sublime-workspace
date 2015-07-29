@@ -519,22 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "common/services/productResourceMock.js",
-			"settings":
-			{
-				"buffer_size": 643778,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "text resources/condtions.txt",
-			"settings":
-			{
-				"buffer_size": 5119,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -584,6 +568,9 @@
 	],
 	"file_history":
 	[
+		"/D/strange punch site assets/Sp2 site/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/recEffects.js",
 		"/C/Users/shane/Documents/strange punch/Multivision/server.js",
 		"/C/Users/shane/Documents/strange punch/Multivision/server/views/index.jade",
@@ -592,9 +579,7 @@
 		"/C/Users/shane/Documents/strange punch/Multivision/.gitignore",
 		"/C/Users/shane/Documents/strange punch/Multivision/.bowerrc",
 		"/C/Users/shane/Documents/strange punch/Multivision/bower.json",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainNames.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock_OLD.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipList.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/tips/tipViewCtrl.js",
@@ -710,8 +695,7 @@
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/chords/chordView.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/progressions/progView.html",
 		"/C/inetpub/wwwroot/UKE/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/productListView.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResource.js"
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/productListView.html"
 	],
 	"find":
 	{
@@ -729,6 +713,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Chinese",
 			"yoda OG",
 			"Stress",
 			"XJ-13",
@@ -855,8 +840,7 @@
 			"acapulco",
 			"6.98",
 			"harlequin",
-			"Banana Diesel",
-			"AVI-Dekel"
+			"Banana Diesel"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -928,66 +912,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "common/services/productResourceMock.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 643778,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								225825,
-								225825
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 94.0,
-						"translation.y": 245234.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "text resources/condtions.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5119,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4681,
-								4681
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7216.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],

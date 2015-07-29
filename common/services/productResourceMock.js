@@ -151,6 +151,10 @@
 			{"recEffectId": 30,
 			 "recEffectName": "Clear-headed",  
 			 "recEffectType": "N"
+			},
+			{"recEffectId": 31,
+			 "recEffectName": "Sexual",  
+			 "recEffectType": "P"
 			}
 		];
 
