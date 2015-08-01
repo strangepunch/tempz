@@ -1,0 +1,11 @@
+tastes = [
+{ 
+	"tasteId": 1,
+	"taste": "Earthy"
+},
+{ 
+	"tasteId": 2,
+	"taste": "Pine"
+},
+
+];

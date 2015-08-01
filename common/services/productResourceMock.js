@@ -114,50 +114,159 @@
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 22,
 			 "recEffectName": "Dry Eyes",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 23,
 			 "recEffectName": "Paranoid",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 25,
 			 "recEffectName": "Anxious",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 26,
 			 "recEffectName": "Munchies",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 28,
 			 "recEffectName": "Sleepy",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 30,
 			 "recEffectName": "Clear-headed",  
-			 "recEffectType": "N"
+			 "recEffectType": "N",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
 			{"recEffectId": 31,
 			 "recEffectName": "Sexual",  
-			 "recEffectType": "P"
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			}
 		];
 
+	var tastes = [
+		{ 
+			"tasteId": 1,
+			"taste": "Earthy"
+		},
+		{ 
+			"tasteId": 2,
+			"taste": "Pine"
+		},
+		{ 
+			"tasteId": 3,
+			"taste": "Pungent"
+		},
+		{ 
+			"tasteId": 4,
+			"taste": "Woody"
+		},
+		{ 
+			"tasteId": 5,
+			"taste": "Sage"
+		},
+		{ 
+			"tasteId": 6,
+			"taste": "Sweet"
+		},
+		{ 
+			"tasteId": 7,
+			"taste": "Berry"
+		},
+		{ 
+			"tasteId": 8,
+			"taste": "Tropical"
+		},
+		{ 
+			"tasteId": 9,
+			"taste": "Mango"
+		},
+		{ 
+			"tasteId": 10,
+			"taste": "Diesel"
+		},
+		{ 
+			"tasteId": 11,
+			"taste": "Skunk"
+		},
+		{ 
+			"tasteId": 12,
+			"taste": "Honey"
+		},
+		{ 
+			"tasteId": 13,
+			"taste": "Citrus"
+		},
+		{ 
+			"tasteId": 14,
+			"taste": "Lemon"
+		},
+		{ 
+			"tasteId": 15,
+			"taste": "Tea"
+		},
+		{ 
+			"tasteId": 16,
+			"taste": "Strawberry"
+		},
+		{ 
+			"tasteId": 17,
+			"taste": "Pineapple"
+		},
+		{ 
+			"tasteId": 18,
+			"taste": "Cheese"
+		},
+		{ 
+			"tasteId": 19,
+			"taste": "Grape"
+		},
+		{ 
+			"tasteId": 20,
+			"taste": "Mint"
+		},
+		{ 
+			"tasteId": 21,
+			"taste": "Chemical"
+		},
+		{ 
+			"tasteId": 22,
+			"taste": "Spicy"
+		},
+		{ 
+			"tasteId": 23,
+			"taste": "Herbal"
+		},
+		{ 
+			"tasteId": 24,
+			"taste": "Flowery"
+		}
+	];
 
 		var strainNames = [
 			{"strainId": 1,
@@ -1268,6 +1377,7 @@
 				 		"value": 0.0
 				 	} 	
 		 	],
+		 	 "taste": ["Earthy","Pine","Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Pain", "Stress", "Headache"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
@@ -1372,7 +1482,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	}
-			 ],	 	
+			 ],
+			 "taste": ["Earthy","Woody","Pungent"],	 	
 		 	 "conditions": ["Anxiety","Depression", "Stress", "Pain", "Insomnia"],
 			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
@@ -1477,7 +1588,9 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	],
+		 	 "taste": ["Sage","Earthy","Woody"],   
+		 	"taste": [""],
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
 			 "positiveEffects": ["Long lasting", "Uplifting", "Happy"],
 			 "negativeEffects": [""],
@@ -1583,6 +1696,7 @@
 			 		"value": 0.7
 			 	} 	
 		 	],  
+		 	"taste": ["Earthy","Pungent", "Sweet"],
 		 	 "conditions": ["Tension", "Anxiety", "Stress", "Pain"],
 			 "positiveEffects": ["Relaxing", "Mild tingling", "Numbness"],
 			 "negativeEffects": [""],
@@ -1688,6 +1802,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Earthy","Pine", "Sweet"],
 			"conditions": ["Gastrointestinal Disorders", " ADD/ADHD", "Anxiety", "Arthritis", "Asthma", "Multiple Sclerosis"],
 			 "positiveEffects": ["Relaxing", "Very potent", "Mind and body balance"],
 			 "negativeEffects": [""],
@@ -1793,6 +1908,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet","Berry","Earthy"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
@@ -1898,6 +2014,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Tropical","Sweet","Mango"],
 		 	 "conditions": [""],
 			 "positiveEffects": ["Mental calmness", "Energetic", "Productive"],
 			 "negativeEffects": [""],
@@ -2003,6 +2120,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],
+		 	"taste": ["Earthy","Sweet","Woody"],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": ["Pain relief", "Mild psychoactive effects"],
 			 "negativeEffects": [""],
@@ -2107,7 +2225,9 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	],
+		 	"taste": ["Diesel", "Earthy", "Skunk"],   
+		 	"taste": [""],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2212,7 +2332,10 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	],
+		 	"taste": ["Earthy", "Woody", "Pine"],
+		 	"taste": ["","",""],   
+		 	"taste": [""],
 		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
 			 "negativeEffects": [""],
@@ -2318,6 +2441,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2423,6 +2547,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Honey", "Sweet", "Skunk"],
 		 	 "conditions": [""],
 			 "positiveEffects": ["Intense effects", "Mind and Body Buzz"],
 			 "negativeEffects": [""],
@@ -2528,6 +2653,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Citrus", "Sweet", "Pine"],
 		 	 "conditions": ["Stress"],
 			 "positiveEffects": ["Euphoric", "Creative", "Enhance conversation", "Therapeutic potency"],
 			 "negativeEffects": [""],
@@ -2537,7 +2663,7 @@
 			 "imageUrl": "images/strains/xj-13_100x100.jpg"
 			},
 			{"strainId": 14,
-			 "strainName": "Yumbodlt", 
+			 "strainName": "Yumboldt", 
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
@@ -2633,6 +2759,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2738,6 +2865,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Pungent", "Citrus", "Lemon"],
 		 	 "conditions": [""],
 			 "positiveEffects": ["Euphoric"],
 			 "negativeEffects": [""],
@@ -2843,6 +2971,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Woody", "Tea"],
 		 	 "conditions": ["Pain", "Stress", "Nausea", "Depression", "Insomnia", "ADD/ADHD"],
 			 "positiveEffects": ["Relaxed", "Euphoric", "Tingly", "Uplifted", "Happy"],
 			 "negativeEffects": ["Dry Mouth", "Headache", "Paranoid", "Dry Eyes"],
@@ -2948,6 +3077,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -3053,6 +3183,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Pungent", "Diesel", "Earthy"],
 		 	 "conditions": ["Stress", "Anxiety", "Fatigue"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3158,6 +3289,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Anxiety", "Stress", "Depression", "Insomnia", "Pain", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3263,6 +3395,7 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
+		 	"taste": ["Diesel", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia","Anxiety", "Depression", "Insomnia", "Appetite Loss","Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Relaxed",  "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -3368,6 +3501,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Skunk", "Citrus"],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3473,6 +3607,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3578,6 +3713,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3683,6 +3819,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Berry", "Pine"],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3788,6 +3925,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Pineapple", "Sweet", "Tropical"],
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -3893,6 +4031,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Cheese", "Sweet", "Grape"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Uplifted", "Focused", "Relaxed", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Headache"],
@@ -3998,6 +4137,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Earthy", "Skunk", "Sweet"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Migraines", "Muscle Spasms", "Pain", "Stress", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Anxiety", "Multiple Sclerosis"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry eyes", "Paranoid"],
@@ -4103,6 +4243,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Sweet", "Skunk", "Pungent"],
 		 	 "conditions": ["Asthma", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -4208,6 +4349,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Pine", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress" ],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Sleepy", "Euphoric", "Stimulate Hunger"],
 			 "negativeEffects": ["Munchies", "Couch lock", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
@@ -4313,6 +4455,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Mint"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -4418,6 +4561,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Diesel", "Sweet", "Chemical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Epilepsy", "Migraines", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
@@ -4523,6 +4667,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar", "Depression", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
@@ -4627,7 +4772,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": ["Pine", "Earthy", "Sweet"], 
 		 	 "conditions": ["Bipolar", "Stress", "Pain", "Appetite Loss", "Insomnia", "Depression"],
 			 "positiveEffects": ["Happy", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dizzy", "Cotton Mouth", "Dry Eyes", "Munchies"],
@@ -4732,7 +4878,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": ["Cheese", "Pungent", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD","Anorexia","Arthritis", "Pain","Bipolar","Depression", "Insomnia", "Appetite Loss", "Nausea", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Talkative", "Creative"],
 			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy", "Munchies"],
@@ -4838,6 +4985,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Pungent", "Skunk", "Earthy"],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Bipolar", "Depression", "Migraines", "Headache", "Stress", "Insomnia", "Muscle Pain"],
 			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
 			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Anxious"],
@@ -4943,6 +5091,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
 		 	 "conditions": ["Bipolar", "Pain", "Insomnia", "Migraines", "Headache", "Nausea", "Stress", "Depression"],
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyess", "Dizzy", "Paranoid"],
@@ -5048,6 +5197,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Bipolar", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
@@ -5153,6 +5303,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -5257,7 +5408,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": ["Sweet","Flowery","Woody"], 
 		 	 "conditions": ["Bipolar", "Social Anxiety"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache"],
@@ -5363,6 +5515,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Migraines", "Headache", "Appetite Loss", "PMS", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
@@ -5468,6 +5621,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Nausea"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies"],
@@ -5572,7 +5726,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Bipolar", "Migraines", "Headache", "Hypertension", "Depression", "Glaucoma", "Appetite Loss", "Muscle Spasms", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
@@ -5677,7 +5832,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	 "taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "PMS", "Stress", "Muscle Spasms"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes"],
@@ -5782,7 +5938,9 @@
 			 		"name": "CBL", 
 			 		"value": 0.50
 			 	} 	
-		 	],  
+		 	],
+		 	"taste": [""],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Energetic", "Happy", "Uplifted", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -5887,7 +6045,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": [""], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Energetic", "Relaxed", "Creative", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dizzy", "Dry Eyes", "Anxious", "Munchies"],
@@ -5993,6 +6152,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Glaucoma", "Appetite Loss", "Migraines", "Headache", "Nausea", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
@@ -6098,6 +6258,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar", "Migraines", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies"],
@@ -6203,6 +6364,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
@@ -6308,6 +6470,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Migraines", "Headache", "PMS", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -6412,7 +6575,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.0
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": [""], 
 		 	 "conditions": ["Anorexia","Depression", "Stress", "Pain", "Fatigue", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
@@ -6518,6 +6682,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Fatigue", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -6623,6 +6788,7 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Headache", "Munchies"],
@@ -6832,7 +6998,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	], 
+		 	"taste": [""], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Sexual"],
 			 "negativeEffects": [""],
@@ -7042,7 +7209,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
@@ -7147,7 +7315,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Depression", "Hypertension", "Appetite Loss", "Muscle Spasms", "Pain","PMS"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": ["Munchies"],
@@ -7252,7 +7421,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], 
+		 	],
+		 	"taste": [""], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
@@ -7357,7 +7527,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Fibromyalgia", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused"],
 			 "negativeEffects": [""],
@@ -7462,7 +7633,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Sleepy", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -7567,7 +7739,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "PMS", "Stress", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
@@ -7672,7 +7845,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
@@ -7777,7 +7951,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Munchies"],
@@ -7882,7 +8057,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Muscle Spasms", "Pain", "Stress", "Fatigue", "Headache"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
@@ -13238,7 +13414,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Insomnia", "Nausea", "Appetite Loss", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -13343,7 +13520,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.07
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Depression", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -14183,7 +14361,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.05
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Sleepy"],
@@ -14708,7 +14887,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
 			 "negativeEffects": [""],
@@ -15443,7 +15623,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Migraines", "Headache"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -15968,7 +16149,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Nausea"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -18488,7 +18670,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -19433,7 +19616,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Hungry", "Euphoric"],
 			 "negativeEffects": ["Munchies", "Sleepy", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -19643,7 +19827,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Fatigue", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -19958,7 +20143,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.10
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
@@ -20273,7 +20459,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.16
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
@@ -20378,7 +20565,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.16
 			 	} 	
-		 	],  
+		 	],   
+		 	"taste": [""],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy",  "Headache",  "Paranoid"],
