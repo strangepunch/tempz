@@ -289,6 +289,14 @@
 		{ 
 			"tasteId": 30,
 			"taste": "Sour"
+		},
+		{ 
+			"tasteId": 31,
+			"taste": "Chestnut"
+		},
+		{ 
+			"tasteId": 32,
+			"taste": "Blueberry"
 		}
 	];
 
@@ -9355,6 +9363,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Skunk", "Sweet"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": [""],
@@ -9459,7 +9468,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], 
+		 	],
+		 	"taste": ["Earthy", "Pungent", "Sweet"], 
 		 	 "conditions": ["Anxiety", "Cancer", "Insomnia", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Sleepy", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
@@ -9565,6 +9575,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Chestnut", "Earthy", "Woody"],
 		 	 "conditions": ["Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Muscle Spasms", "Nausea", "Inflammation"],
 			 "positiveEffects": ["Focused", "Happy", "Relaxed", "Aroused"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Headache"],
@@ -9670,6 +9681,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Cancer", "Epilepsy", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -9775,6 +9787,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pine", "Pungent"],
 		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -9880,13 +9893,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Woody", "Pine"],
+		 	 "conditions": ["Cancer", "Epilepsy", "Stress", "Pain", "Depression", "Seizures", "Fatigue"],
+			 "positiveEffects": ["Focused", "Happy", "Relaxed", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Axious", "Paranoid"],
+			 "descriptionDetailed": "Charlotte’s powerful web may cause dizziness for some patients, so new users should be cautious. Overall, the flowers of this strain have a fresh pine aroma.",
+			 "descriptionAbbrev":  "This strain is effective with little to no psychoactive effects, making it great for those who don’t want their medication to affect their daily tasks.",
 			 "tags": ["Sativa", "Charlotte's Web", "Cancer", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/charlotte-s-web_100x100.jpg"
 			},
 			{"strainId": 82,
 			 "strainName": "G13 Haze", 
@@ -9985,6 +9999,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Pine", "Woody", "Pepper"],
 		 	 "conditions": ["Anxiety","Cancer", "Depression","Epilepsy", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Giggly"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Headache"],
@@ -10090,6 +10105,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Citrus", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
@@ -10195,6 +10211,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Spicy", "Herbal", "Sweet"],
 		 	 "conditions": ["ADD/ADHD","Anorexia", "Anxiety", "Arthritis", "Asthma", "Cancer", "Migraines", "Depression", "Epilepsy", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth"],
@@ -10300,6 +10317,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["Arthritis", "Cancer", "Nausea", "Epilepsy", "Pain", "Stress", "Inflammation", "Depression", "Headache"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Energetic", "Focused", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Dizzy"],
@@ -10405,13 +10423,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Cancer", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Sleepy", "Euphoric", "Happy", "Uplifted"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Anxious", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Originally bred by T.H. Seeds in Amsterdam, this potent indica is regarded as one of the strongest strains in the world and won a High Times Cannabis Cup for the best indica in 2002.",
+			 "descriptionAbbrev":  "This strain is recognized by its pungent aroma, indicative of its world-renowned, extremely heavy body buzz.",
 			 "tags": ["Indica", "Hog", "Cancer", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/hog_100x100.jpg"
 			},
 			{"strainId": 87,
 			 "strainName": "King's Kush", 
@@ -10510,13 +10529,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Sweet", "Citrus", "Earthy"],
+		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Sleepy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "With gradual but powerful effects, King's Kush is famous for its potency and shiny trichromes during flowering.",
+			 "descriptionAbbrev":  "This strain comes across as sweet and sour with a powerful and tangy grape scent, as well as some hints of lavender.",
 			 "tags": ["Indica", "King's Kush", "Kush","Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/king-s-kush_100x100.jpg"
 			},
 			{"strainId": 88,
 			 "strainName": "Kosher Kush", 
@@ -10615,6 +10635,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Chronic Aches", "Depression", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -10720,13 +10741,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Pineapple", "Pine", "Lemon"],
+		 	 "conditions": ["Cancer", "Epilepsy", "Stress", "Pain", "Depression", "Appetite Loss", "Insomnia"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Giggly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done.",
+			 "descriptionAbbrev":  "The effects are happy but not overwhelming.",
 			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/larry-og_100x100.jpg"
 			},
 			{"strainId": 90,
 			 "strainName": "Master Bubba", 
@@ -10825,13 +10847,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Skunk", "Spicy", "Herbal"],
+		 	 "conditions": ["Cancer", "Insomnia", "Stress", "Pain", "Muscle Spasms", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Sleepy", "Hungry", "Happy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Popular for the treatment of pain, stress and insomnia thanks to the strong body sedation it provides.",
+			 "descriptionAbbrev":  "Master Bubba is the perfect strain for those looking for true indica effects. ",
 			 "tags": ["Hybrid", "Lemon Larry OG","OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/master-bubba_100x100jpg"
 			},
 			{"strainId": 91,
 			 "strainName": "Pineapple Thai", 
@@ -10930,13 +10953,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Pineapple", "Earthy", "Pepper"],
+		 	 "conditions": ["Cancer", "Depression", "Fatigue", "Stress", "Insomnia", "Pain"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid" ],
+			 "descriptionDetailed": "This flower’s attractiveness comes from its ability to administer powerful pain relief without sedation, embodying true hybrid effects.",
+			 "descriptionAbbrev":  "Although Pineapple Thai is an option for daytime use, its strength may lead to a nighttime preference.",
 			 "tags": ["Sativa", "Pineapple Thai", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/pineapple-thai_100x100.jpg"
 			},
 			{"strainId": 92,
 			 "strainName": "Sour Tsunami", 
@@ -11035,13 +11059,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pine", "Citrus"],
 		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Focused", "Uplifted", "Happy", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "The result is a strain that’s effective at treating pain and inflammation without producing a significant high that is linked to high THC.",
+			 "descriptionAbbrev":  "Sour Tsunami is a strain that became famous for being one of the first to be specifically bred for high CBD rather than THC content.",
 			 "tags": ["Hybrid", "Sour Tsunami", "Sour", "Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/sour-tsunami_100x100.jpg"
 			},
 			{"strainId": 93,
 			 "strainName": "The White", 
@@ -11140,13 +11165,14 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	"taste": ["Earthy", "Pine", "Sweet"],
+		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Depression", "Pain", "Headache"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "The White", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/the-white_100x100.jpg"
 			},
 			{"strainId": 94,
 			 "strainName": "Valentine X", 
@@ -11245,13 +11271,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["ADD/ADHD", "Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Impotence", "Muscle Spasms", "Seizures", "Spasticity"],
+		 	"taste": ["Pine", "Earthy", "Honey"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Impotence", "Muscle Spasms", "Seizures", "Spasticity", "Inflammation"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Tingly", "Euphoric", "Sleepy", "Aroused"],
 			 "negativeEffects": ["Sleepy"],
 			 "descriptionDetailed": "It is a variant of the remarkable ACDC that is cherished for its healing properties. Many find Valentine X to be a great help for seizure disorders, inflammation, and when treating cancer.",
 			 "descriptionAbbrev":  "In addition to its medicinal effects this strain is known to spark creative thinking.",
 			 "tags": ["Pine", "Earthy", "Honey"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Valentine-X.jpg"
 			},
 			{"strainId": 95,
 			 "strainName": "White Fire Alien OG", 
@@ -11350,13 +11377,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer"],
-			 "positiveEffects": [""],
+		 	"taste": ["Pungent", "Earthy", "Lemon"],
+		 	 "conditions": ["Cancer", "Pain", "Anxiety", "Tension", "Stress"],
+			 "positiveEffects": ["Relaxed", "Calming"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "There’s no better way to conclude a hard day’s work than with a stress-relieving dose of White Fire Alien OG.",
+			 "descriptionAbbrev":  "With a sweet lemon aroma, this hybrid cross mixes The White with Fire Alien Kush for a full-body calm that eases pain, anxiety, and tension.",
 			 "tags": ["Hybrid", "White Fire Alien OG", "OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/white-fire-alien-og_100x100.jpg"
 			},
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
@@ -11455,11 +11483,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Cancer", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Pungent", "Woody"],
+		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Pain", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Happy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Seasoned consumers may be able to withstand its heaviness during the day, but Yoda OG is most popularly chosen for nighttime consumption.",
+			 "descriptionAbbrev":  "Its sedating, euphoric effects make it a popular medicine for anxiety and insomnia, and it also provides an extra kick to the appetite.",
 			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -11560,9 +11589,10 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Pungent", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms", "Nausea" ],
 			 "positiveEffects": ["Energetic", "Relaxed", "Happy", "Uplifted", "Euphoric", "Creative"],
-			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "An indica dominant hybrid, this strain is known to have high THC levels and can be strong, but it's balanced enough to leave most users feeling heady and creative rather than sleepy. Because of this, it's often used to treat tension and anxiety.",
 			 "descriptionAbbrev":  "An indica dominant hybrid, this strain is known to have high THC levels and can be strong.",
 			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain", "Stress"],
@@ -11665,6 +11695,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Anorexia", "Depression", "Appetite Loss", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
@@ -11770,6 +11801,7 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Sweet", "Pine"],
 		 	 "conditions": ["Anxiety", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
@@ -11875,6 +11907,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Earthy", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Insomnia", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Energetic"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid"],
@@ -11980,6 +12013,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Earthy", "Citrus"],
 		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -12085,10 +12119,11 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue","Insomnia", "Migraines",  ],
-			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Relaxed"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionDetailed": "A strong sativa that will have you feeling the effects soon after exhale.",
 			 "descriptionAbbrev":  "A strong sativa that will have you feeling the effects soon after exhale.",
 			 "tags": ["Sativa", "ATF", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/alaskan-thunder-fuck_100x100.jpg"
@@ -12190,11 +12225,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Nausea", "PTSD","OCD", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Anxiety", "Uplifted"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade",
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade.",
+			 "descriptionAbbrev":  "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade.",
 			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
 			 "imageUrl": "images/strains/bay_cookies.jpg"
 			},
@@ -12295,13 +12331,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Berry"],
 		 	 "conditions": ["Anorexia", "Anxiety","Depression", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Anxious", "Sleepy", "Hungry", "Sleepy"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/berryQueen.jpg"
 			},
 			{"strainId": 104,
 			 "strainName": "Berry White", 
@@ -12400,13 +12437,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative", "Social"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
+			 "descriptionAbbrev":  "Berry is famous in its own right for its even, balanced effects that offer relaxation from stress and anxiety along with a sense of euphoria.",
 			 "tags": ["Hybrid", "Berry White", "Berry", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/berry-white_100x100.jpg"
 			},
 			{"strainId": 105,
 			 "strainName": "Black Cherry Soda", 
@@ -12505,6 +12543,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Berry", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Depression", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Uplifted", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache"],
@@ -12610,6 +12649,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anxiety","Depression", "Insomnia", "Migraines", "Headache", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Energetic",  "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
@@ -12715,13 +12755,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Blueberry", "Berry"],
+		 	 "conditions": ["Depression", "Stress", "Pain", "Muscle Spasms", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "While growing and after it’s harvested, these plants have a sharp and fruity smell that brings to mind fermentation.",
+			 "descriptionAbbrev":  "Blue Moonshine is a very potent blueberry indica strain that provides a nice body high.",
 			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
 			{"strainId": 108,
 			 "strainName": "Blueberry Trainwreck", 
@@ -12820,6 +12861,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Blueberry", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": [""],
@@ -12829,7 +12871,7 @@
 			 "imageUrl": "images/strains/blueberry_100x100.jpg"
 			},
 			{"strainId": 109,
-			 "strainName": "Canatonic #4", 
+			 "strainName": "Cannatonic #4", 
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
@@ -12925,13 +12967,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Depression"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Pungent", "Pine"],
+		 	 "conditions": ["Depression", "Pain", "Stress", "Inflammation", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed", "Happy", "Focused", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Cannatonic has been known to have a nearly 1:1 ratio of THC & CBD.",
+			 "descriptionAbbrev":  "Cannatonic has been known to have a nearly 1:1 ratio of THC & CBD.",
 			 "tags": ["Hybrid", "Canatonic #4", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 			},
 			{"strainId": 110,
 			 "strainName": "Candy Jack", 
