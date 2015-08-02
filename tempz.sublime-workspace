@@ -523,17 +523,8 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 643865,
+				"buffer_size": 648114,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "text resources/RecEffects_ListOfStrains.txt",
-			"settings":
-			{
-				"buffer_size": 7700,
-				"line_ending": "Windows",
-				"name": "Rec Effects"
 			}
 		}
 	],
@@ -585,6 +576,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.txt",
 		"/D/strange punch site assets/Sp2 site/index.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
@@ -710,9 +703,7 @@
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/css/app.css",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/improv/improv1View.html",
 		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/chords/chordView.html",
-		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/progressions/progView.html",
-		"/C/inetpub/wwwroot/UKE/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/products/productListView.html"
+		"/C/Users/shane/Documents/strange punch/angular dev/UKE/Uke-2.17/app/progressions/progView.html"
 	],
 	"find":
 	{
@@ -730,6 +721,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"],   \"taste\": [\"\"],",
+			"],  \n		 	 \"conditions\":",
+			"Euphoria",
+			"Diablo",
+			"banana",
+			"thin mint",
+			"thin",
+			"Purple Cheese",
+			"pineapple",
+			"Strawberry",
+			"Strawberry Cough",
+			"warlock",
+			"Vortex",
+			"XJ",
+			"tastes",
+			"OG Kush",
+			"strainnames",
+			"Papa",
+			"tastes",
+			"Querkle",
+			"Permafrost",
+			"Skywalker OG",
+			"Sage",
+			"White Widow",
+			"trainwreck",
 			"Chinese",
 			"yoda OG",
 			"Stress",
@@ -832,32 +848,7 @@
 			"ADD",
 			"conditions =",
 			"Anorexia",
-			"Impotence",
-			"Muscle Spasms",
-			"MUscle Spasms",
-			"Gooey Wreck",
-			"Muscle Spasms",
-			"Fibromyalgia",
-			"conditions",
-			"Fibromyalgia",
-			"Skunk #1",
-			"Skunk",
-			"NY Sour",
-			"187",
-			"Kali Mist",
-			"jack here",
-			"jack frost",
-			"jack fro",
-			"Gorilla Glue #4",
-			"Gorilla Glue",
-			"Godfather",
-			"Godfather OG",
-			"G13 Haze",
-			"Banana Diesel",
-			"acapulco",
-			"6.98",
-			"harlequin",
-			"Banana Diesel"
+			"Impotence"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -865,6 +856,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"],   \n		 	\"taste\": [\"\"],",
+			"],   \"taste\": [\"\"],\n		 	 \"conditions\":",
 			"\"recEffectType\": \"P\",\n			 \"imageUrl\": \"images/strains/trainwreck_100x100.jpg\"\n			}",
 			"\"\n\n			}",
 			"{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.00",
@@ -938,15 +931,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 643865,
+						"buffer_size": 648114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1054,
-								1054
+								5070,
+								5070
 							]
 						],
 						"settings":
@@ -955,39 +948,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 242.0,
+						"translation.y": 3586.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "text resources/RecEffects_ListOfStrains.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7700,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7698,
-								7698
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Rec Effects",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 13292.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1036,7 +1000,7 @@
 	"project": "tempz.sublime-project",
 	"replace":
 	{
-		"height": 162.0
+		"height": 118.0
 	},
 	"save_all_on_build": true,
 	"select_file":
