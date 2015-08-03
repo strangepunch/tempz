@@ -297,6 +297,10 @@
 		{ 
 			"tasteId": 32,
 			"taste": "Blueberry"
+		},
+		{ 
+			"tasteId": 33,
+			"taste": "Coffee"
 		}
 	];
 
@@ -11492,7 +11496,7 @@
 			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 96,
+			{"strainId": 97,
 			 "strainName": "707 Headband", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -11598,7 +11602,7 @@
 			 "tags": ["Hybrid", "707 Headband", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/707-headband_100x100.jpg"
 			},
-			{"strainId": 97,
+			{"strainId": 98,
 			 "strainName": "Acapulco Gold", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -11704,7 +11708,7 @@
 			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 98,
+			{"strainId": 99,
 			 "strainName": "Alien OG", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -11810,7 +11814,7 @@
 			 "tags": ["Sativa", "Alien OG", "OG", "Migraines", "Headache", "Pain", "Stress"],
 			 "imageUrl": "images/strains/alien-og_100x100.jpg"
 			},
-			{"strainId": 99,
+			{"strainId": 100,
 			 "strainName": "Alien Rock Candy", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -11916,7 +11920,7 @@
 			 "tags": ["Sativa", "Alien Rock Candy", "Depression" ,"Stress"],
 			 "imageUrl": "images/strains/alien-rock-candy_100x100.jpg"
 			},
-			{"strainId": 100,
+			{"strainId": 101,
 			 "strainName": "Amnesia Haze", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -12022,7 +12026,7 @@
 			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
 			 "imageUrl": "images/strains/amnesia-haze_100x100.jpg"
 			},
-			{"strainId": 101,
+			{"strainId": 102,
 			 "strainName": "ATF", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -12128,7 +12132,7 @@
 			 "tags": ["Sativa", "ATF", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/alaskan-thunder-fuck_100x100.jpg"
 			},
-			{"strainId": 102,
+			{"strainId": 103,
 			 "strainName": "Bay Cookies", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12234,7 +12238,7 @@
 			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
 			 "imageUrl": "images/strains/bay_cookies.jpg"
 			},
-			{"strainId": 103,
+			{"strainId": 104,
 			 "strainName": "Berry Queen", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12340,7 +12344,7 @@
 			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain", "Stress"],
 			 "imageUrl": "images/strains/berryQueen.jpg"
 			},
-			{"strainId": 104,
+			{"strainId": 105,
 			 "strainName": "Berry White", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12446,7 +12450,7 @@
 			 "tags": ["Hybrid", "Berry White", "Berry", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/berry-white_100x100.jpg"
 			},
-			{"strainId": 105,
+			{"strainId": 106,
 			 "strainName": "Black Cherry Soda", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12552,7 +12556,7 @@
 			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/black-cherry-soda_100x100.jpg"
 			},
-			{"strainId": 106,
+			{"strainId": 107,
 			 "strainName": "Blue Dream", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12658,7 +12662,7 @@
 			 "tags": ["Hybrid", "Blue Dream", "Migraines", "Headache", "Nausea", "Stress"],
 			 "imageUrl": "images/strains/blue-dream_100x100.jpg"
 			},
-			{"strainId": 107,
+			{"strainId": 108,
 			 "strainName": "Blue Moonshine", 
 			 "strainType": "Indica",
 			 "components": [
@@ -12764,7 +12768,7 @@
 			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
 			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
-			{"strainId": 108,
+			{"strainId": 109,
 			 "strainName": "Blueberry Trainwreck", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12870,7 +12874,7 @@
 			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
 			 "imageUrl": "images/strains/blueberry_100x100.jpg"
 			},
-			{"strainId": 109,
+			{"strainId": 110,
 			 "strainName": "Cannatonic #4", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -12976,7 +12980,7 @@
 			 "tags": ["Hybrid", "Canatonic #4", "Depression"],
 			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 			},
-			{"strainId": 110,
+			{"strainId": 111,
 			 "strainName": "Candy Jack", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -13073,15 +13077,16 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Pine", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Fatigue", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "With a few Cannabis Cup wins already under its belt, Candy Jack’s potency, flavor, and effects have won this sativa a sterling reputation in the cannabis world.",
 			 "descriptionAbbrev":  "Patients typically appreciate Candy Jack’s ability to counter stress, depression, and appetite loss.",
-			 "tags": ["Sweet", "Flowery", "Earthy"],
+			 "tags": ["Sweet", "Pine", "Citrus"],
 			 "imageUrl": "images/strains/candy-jack_100x100.jpg"
 			},
-			{"strainId": 111,
+			{"strainId": 112,
 			 "strainName": "CandyLand", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -13178,6 +13183,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Earthy", "Spicy", "Herbal"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Fatigue","Headache", "Stress"],
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Social", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
@@ -13186,7 +13192,7 @@
 			 "tags": ["Sativa", "CandyLand", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/candyland_100x100.jpg"
 			},
-			{"strainId": 112,
+			{"strainId": 113,
 			 "strainName": "Cannalope Haze", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -13283,6 +13289,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Tropical", "Sweet", "Flowery"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Creative", "Uplifted", "Euphoric", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -13291,7 +13298,7 @@
 			 "tags": ["Sativa", "Cannalope Haze", "Haze", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/cannalope-haze_100x100.jpg"
 			},
-			{"strainId": 113,
+			{"strainId": 114,
 			 "strainName": "Cataract Kush", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -13388,6 +13395,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pungent", "Skunk"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Sleepy", "Munchies"],
@@ -13396,7 +13404,7 @@
 			 "tags": ["Pungent", "Skunk", "Earthy"],
 			 "imageUrl": "images/strains/cataract-kush_100x100.jpg"
 			},
-			{"strainId": 114,
+			{"strainId": 115,
 			 "strainName": "Chemdawg", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -13493,7 +13501,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Earthy", "Diesel", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Insomnia", "Nausea", "Appetite Loss", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -13502,7 +13510,7 @@
 			 "tags": ["Hybrid", "Chemdawg", "Depression", "Stress"],
 			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 			},
-			{"strainId": 115,
+			{"strainId": 116,
 			 "strainName": "Cherry Pie", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -13599,16 +13607,16 @@
 			 		"value": 0.07
 			 	} 	
 		 	],   
-		 	"taste": [""],
-		 	 "conditions": ["Depression", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Sweet", "Berry", "Earthy"],
+		 	 "conditions": ["Depression", "Stress", "Pain", "Insomnia", "Headache"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "With buds that are dense and full of orange hairs and a touch of purple, this strain smells of sweet and sour cherry pie.",
+			 "descriptionAbbrev":  "The effects have been known to come on in minutes and stick around for a couple hours. ",
 			 "tags": ["Hybrid", "Cherry Pie", "Depression", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/cherry-pie_100x100.jpg"
 			},
-			{"strainId": 116,
+			{"strainId": 117,
 			 "strainName": "Chocolate Thai", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -13705,15 +13713,16 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Coffee", "Sweet", "Earthy"],
 		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Uplifting"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The strain is renowned for potent cerebral effects, despite its spindly, skimpy appearance.",
+			 "descriptionAbbrev":  "The strain is renowned for potent cerebral effects, despite its spindly, skimpy appearance.",
 			 "tags": ["Sativa", "Chocolate Thai", "Migraines", "Headache", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/chocolate-thai_100x100.jpg"
 			},
-			{"strainId": 117,
+			{"strainId": 118,
 			 "strainName": "Clear Lake", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -13810,6 +13819,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
 			 "positiveEffects": ["Focused", "Relaxed"],
 			 "negativeEffects": ["Couch lock", "Sleepy"],
@@ -13818,21 +13828,21 @@
 			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/clear_lake.jpg"
 			},
-			{"strainId": 118,
+			{"strainId": 119,
 			 "strainName": "Dubtech", 
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.40
+			 		"value": 26.38
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.30
+			 		"value": 3.83
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.28
+			 		"value": 1.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -13915,15 +13925,16 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Munchies"],
+			 "negativeEffects": ["Munchies", "Sleepy"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 119,
+			{"strainId": 120,
 			 "strainName": "Ghost OG", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14020,15 +14031,16 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	"taste": ["Citrus", "Earthy", "Pine"],
+		 	 "conditions": ["Migraines", "Headache", "Pain", "Insomnia", "Depression", "Anxiety"],
+			 "positiveEffects": ["Relaxed"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Often described as simultaneously potent and non-intrusive, Ghost OG has won itself Cup awards and renown among consumers.",
+			 "descriptionAbbrev":  "Often described as simultaneously potent and non-intrusive, Ghost OG has won itself Cup awards and renown among consumers.",
 			 "tags": ["Indica", "Ghost OG", "OG", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 120,
+			{"strainId": 121,
 			 "strainName": "Grape Cookies", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14133,7 +14145,7 @@
 			 "tags": ["Indica", "Grape Cookies", "Cookies", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
 			 "imageUrl": "images/strains/grape_Cookies.jpg"
 			},
-			{"strainId": 121,
+			{"strainId": 122,
 			 "strainName": "Grape Kool Aid", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14238,7 +14250,7 @@
 			 "tags": ["Grape"],
 			 "imageUrl": "images/strains/Purple Wreck-578x433.jpg"
 			},
-			{"strainId": 122,
+			{"strainId": 123,
 			 "strainName": "Jupiter Kush", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14343,7 +14355,7 @@
 			 "tags": ["Indica", "Jupiter Kush", "Kush", "Migraines", "Headache", "Epilepsy"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 123,
+			{"strainId": 124,
 			 "strainName": "L.A. Confidential", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14449,7 +14461,7 @@
 			 "tags": ["Earthy", "Pine", "Pungent"],
 			 "imageUrl": "images/strains/la-confidential_100x100.jpg"
 			},
-			{"strainId": 124,
+			{"strainId": 125,
 			 "strainName": "Lemon Jack", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -14554,7 +14566,7 @@
 			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/lemon-jack_100x100.jpg"
 			},
-			{"strainId": 125,
+			{"strainId": 126,
 			 "strainName": "Lemon OG Kush", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -14659,7 +14671,7 @@
 			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 126,
+			{"strainId": 127,
 			 "strainName": "Mad Max", 
 			 "strainType": "Hybrid",
 			 "components": [
@@ -14764,7 +14776,7 @@
 			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 127,
+			{"strainId": 128,
 			 "strainName": "Mafia OG", 
 			 "strainType": "Indica",
 			 "components": [
@@ -14869,7 +14881,7 @@
 			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
-			{"strainId": 128,
+			{"strainId": 129,
 			 "strainName": "Mango Maui", 
 			 "strainType": "Sativa",
 			 "components": [
@@ -18443,20 +18455,20 @@
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 163,
-			 "strainName": "Cannatonic #4",
+			 "strainName": "empty strain",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 15.00
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -18539,12 +18551,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Epilepsy", "Stress"],
+		 	 "conditions": ["", ""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy", "Stress"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 164,
@@ -18864,7 +18876,7 @@
 			 "imageUrl": "images/strains/j1_100x100.jpg"
 			},
 			{"strainId": 167,
-			 "strainName": "Krytonite",
+			 "strainName": "Kryptonite",
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
@@ -22861,10 +22873,19 @@
 			{"conditionId": 24,
 			 "conditionName": "Stress", 
 			 "treatment": "Relieve stress.",
-			 "strains": ["Bull Rider", "Blackwater", "Trainwreck", "White Widow", "Sage", "Skywalker OG", "Quwerkle", "OG Kush", "Canna-Tsu", "Warlock", "Strawberry Cough", "Stardawg", "Strawberry", "Sour Diesel", "Pineapple", "Purple Cheese", "ACDC", "Superman OG", "Thin Mint", "Candy OG", "Chem Valley Kush", "Banana Diesel", "Confidential Cheese", "Deadhead OG", "Diablo", "Dutch Passion", "Fire Bomb", "Forum Cookies", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Green Dream", "Thai", "H-trainwreck", "Bruce Banner", "Chemdawg", "Jack Herer", "Jillybean", "Lambs Bread", "Lemon Haze", "Super Lemon OG", "Lulu"],
+			 "strains": ["Bull Rider", "Blackwater", "Trainwreck", "White Widow", "Sage", "Skywalker OG", "Qwerkle", "OG Kush", "Canna-Tsu", "Warlock", "Strawberry Cough", "Stardawg", "Strawberry", "Sour Diesel", "Pineapple", "Purple Cheese", "ACDC", "Superman OG", "Thin Mint", "Candy OG", "Chem Valley Kush", "Banana Diesel", "Confidential Cheese", "Deadhead OG", "Diablo", "Dutch Passion", "Fire Bomb", "Forum Cookies", "Gooey Wreck", "Grapefruit Haze", "Green Crack", "Green Dream", "Thai", "H-trainwreck", "Bruce Banner", "Chemdawg", "Jack Herer", "Jillybean", "Lambs Bread", "Lemon Haze", "Super Lemon OG", "Lulu"],
 			 "descriptionDetailed": "Hypertension Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Relieve stress.",
 			 "tags": ["Stress"],
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			},
+			{"conditionId": 25,
+			 "conditionName": "Coronary Heart Disease", 
+			 "treatment": "Treat or prevent conditions associated with heart disease.",
+			 "strains": ["ACDC Super CBD Oil", "Valentine X", "ACDC", "Bull Rider", "Avi-Dekel", "Cannatonic #4", "Green Dream", "Harlequin", "Cannatonic", "Harle-Tsu", "Canna-Tsu", "Lemon Larry OG", "Master Bubba", "Sour Cherry", "Sour Tsunami", "Charlotte’s Web", "Pineapple Thai", "Lamb's Bread", "Afgoo", "Cannalope Haze", "Kali Mist", "Warlock", "Strawberry Cough", "Skunk #1", "Kosher Kush", "Super Lemon Haze", "Permafrost", "Cataract Kush", "Purple Cheese", "Deadhead OG", "ATF", "Nebula", "Pineapple", "Sour OG", "Purple Haze", "Lemon Haze", "Querkle", "Vortex", "Stardawg", "Cheese", "Bubba Kush", "Super Silver Haze", "Trainwreck", "Pineapple Express", "Blue Dream", "OG Kush", "White Widow", "Confidential Cheese", "Skywalker OG", "Strawberry", "Superman OG",  "Green Crack", "Jillybean", "Girl Scout Cookies", "Sour Diesel", "Alien OG", "Berry White", "The White", "Chemdawg", "Grandaddy Purple", "Jack Herer", "Island Sweet Skunk", "L.A. Kush", "Cherry Pie", "Fire OG", "Headband"],
+			 "descriptionDetailed": "Recent resarch indicates chronic inflammation is a leading contributor to conditions like cornonary heart disease. In addition, anti-oxidants have also been proven to help prevent conditions associated wiht heart diease. .",
+			 "descriptionAbbrev":  "Treat heart disease.",
+			 "tags": ["Coronary Heart Disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			}    	
 		];
@@ -23357,7 +23378,7 @@
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
-			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome"],
+			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Type II Diabetes"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
@@ -23389,18 +23410,18 @@
 			},
 			{"effectId": 12,
 			 "effectName": "Vasorelaxant", //compName
-			 "conditionsTreated": ["High Blood Pressure", "Hypertension"],
+			 "conditionsTreated": ["High Blood Pressure", "Hypertension", "Coronary Heart Disease"],
  			 "descriptionDetailed": "Reduces tension in blood vessel walls resultig in lower blood pressure and enhanced bloodflow in arteries, capillaries and blood vessels.",
 			 "descriptionAbbrev":  "Lower Blood Pressure",
 			 "tags": ["Vasorelaxant", "blood vessel", "High Blood Pressure", "Hypertension"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 13,
-			 "effectName": "Anti-ischemic", //compName
+			 "effectName": "Antiischemic", //compName
 			 "conditionsTreated": ["Coronary Heart disease"],
- 			 "descriptionDetailed": "Reduces risk of artery blockage whcih could help prevent the conditions leading to coronary artery disease.",
+ 			 "descriptionDetailed": "Reduces risk of artery blockage which could help prevent the conditions leading to coronary artery disease.",
 			 "descriptionAbbrev":  "Reduce risk of artery blockage",
-			 "tags": ["Anti-ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],
+			 "tags": ["Anti ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 14,
@@ -23605,7 +23626,7 @@
 			}, 
 			{"effectId": 39,
 			 "effectName": "Antileishmanial", //compName
-			 "conditionsTreated": ["leishmaniasis", "tropical leishmaniasis", "Sand flea bite infection"],
+			 "conditionsTreated": ["leishmaniasis", "tropical leishmaniasis"],
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
 			 "descriptionAbbrev":  "Treat sand flea infection",
 			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],

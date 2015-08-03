@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"Fc",
+				"Focused"
+			],
+			[
+				"cal",
+				"calming"
+			],
+			[
+				"Man",
+				"Mango"
+			],
+			[
+				"hash",
+				"Hash"
+			],
+			[
+				"Grape",
+				"Grapefruit"
+			],
+			[
 				"relax",
 				"relaxing"
 			],
@@ -494,26 +514,6 @@
 			[
 				"chord",
 				"chordGroup"
-			],
-			[
-				"margin",
-				"margin-bottom"
-			],
-			[
-				"productList",
-				"ProductListCtrl"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
-				"chart",
-				"chartDataAmount"
-			],
-			[
-				"Price",
-				"PriceAnalyticsCtrl"
 			]
 		]
 	},
@@ -523,7 +523,15 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 648114,
+				"buffer_size": 653759,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\"taste\": [\"Sweet\", \"Grape\", \"Berry\"],",
+			"settings":
+			{
+				"buffer_size": 37,
 				"line_ending": "Windows"
 			}
 		}
@@ -721,6 +729,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Berry White",
+			"Honey",
+			"Chestnut",
+			"Tanger",
+			"Private",
+			"plat",
+			"tyson",
+			"Jack Herer",
+			"Magic Jack",
+			"JAck Herer",
+			"Lemon Haze",
+			"Jilly",
+			"Jillybean",
+			"Green Thai",
+			"Grapefruit Haze",
 			"],   \"taste\": [\"\"],",
 			"],  \n		 	 \"conditions\":",
 			"Euphoria",
@@ -833,22 +856,7 @@
 			"fatigue",
 			"Fatigue",
 			"fatigue",
-			"Fatigue",
-			"fatigue",
-			"Fatigue",
-			"Impotence",
-			"Super Silver HAze",
-			"Sugar Plum",
-			"sour deisel",
-			"snowcap",
-			"snowcao'",
-			"ADD/ADHD",
-			"Banana Diesel",
-			"ADD/ADHD",
-			"ADD",
-			"conditions =",
-			"Anorexia",
-			"Impotence"
+			"Fatigue"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -931,15 +939,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 648114,
+						"buffer_size": 653759,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5070,
-								5070
+								0,
+								0
 							]
 						],
 						"settings":
@@ -948,10 +956,37 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3586.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
