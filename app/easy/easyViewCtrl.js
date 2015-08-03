@@ -485,6 +485,16 @@
     		}
     	}
 
+    	//highlight the treated condition
+    	$scope.thisCond = function(cond){
+    		vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		for(var i=0; i<vm.effectsEnglish.length; i++){
+    			if(cond === vm.effectsEnglish[i]){
+    				return vm.hasCond;
+    			}
+    		}
+    	}
+
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){
     		switch (choice){
