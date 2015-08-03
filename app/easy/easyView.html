@@ -128,12 +128,12 @@
 			<div class="panel-body">
 				<div class="col-xs-12">{{vm.EffectsProductName[0]}} is known to produce the following effects:</div>
 				<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
-					<li>{{name}}</li>
+					<li ng-style = "thisCond(name)">{{name}}</li>
 				</div>
 			</div> 
 		</div>
 	</div>
-
+<!--
 	<div class = "panel">
 		<div class="row">
 			<div class="panel-body">
@@ -144,6 +144,7 @@
 			</div>
 		</div>
 	</div>
+-->
 <!--
 	<div class = "panel">
 		<div class="row">
