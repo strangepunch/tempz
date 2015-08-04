@@ -301,7 +301,16 @@
 		{ 
 			"tasteId": 33,
 			"taste": "Coffee"
+		},
+		{ 
+			"tasteId": 34,
+			"taste": "Dank"
+		},
+		{ 
+			"tasteId": 35,
+			"taste": "Lime"
 		}
+
 	];
 
 		var strainNames = [
@@ -14038,7 +14047,7 @@
 			 "descriptionDetailed": "Often described as simultaneously potent and non-intrusive, Ghost OG has won itself Cup awards and renown among consumers.",
 			 "descriptionAbbrev":  "Often described as simultaneously potent and non-intrusive, Ghost OG has won itself Cup awards and renown among consumers.",
 			 "tags": ["Indica", "Ghost OG", "OG", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/ghost-og_100x100.jpg"
 			},
 			{"strainId": 121,
 			 "strainName": "Grape Cookies", 
@@ -14137,6 +14146,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Grape", "Sweet", "Fruity"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Fibromyalgia", "Glaucoma", "Insomnia", "Appetite Loss","Migraines", "Nausea", "Pain", "Seizures", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
@@ -14242,9 +14252,10 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Arthritis","Depression","Insomnia","Migraines", "Pain", "Nausea", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": [""],
+		 	"taste": ["Grape", "Sour", "Dank"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Arthritis","Depression","Insomnia","Migraines", "Pain", "Nausea", "Stress", "Hypertension"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "negativeEffects": ["Couch Lock"],
 			 "descriptionDetailed": "Grape Kool Aid is a cross between Bubba Kush and Super Lemon Haze.",
 			 "descriptionAbbrev":  "This strain is indica dominant giving it relaxing properties but without that couch-locked feeling.",
 			 "tags": ["Grape"],
@@ -14347,13 +14358,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Pine", "Citrus", "Diesel"],
 		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+			 "positiveEffects": ["Uplifted","Happy", "Relaxing", "Creative", "Euphoric"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Jupiter Kush", "Kush", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/jupiter-kush_100x100.jpg"
 			},
 			{"strainId": 124,
 			 "strainName": "L.A. Confidential", 
@@ -14452,7 +14464,7 @@
 			 		"value": 0.05
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Sleepy"],
@@ -14558,6 +14570,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Lemon", "Citrus", "Lime"],
 		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "Spasticity", "Fatigue"],
 			 "positiveEffects": ["Uplifted", "Energetic", "Talkative", "Happy", "Focused", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
@@ -14663,13 +14676,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	"taste": ["Lemon", "Citrus", "Sweet"],
+		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/lemon-og-kush_100x100.jpg"
 			},
 			{"strainId": 127,
 			 "strainName": "Mad Max", 
@@ -14768,11 +14782,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
+		 	"taste": ["Pine", "Woody", "Earthy"],
+		 	 "conditions": ["Migraines", "Headache", "ADD/ADHD"],
+			 "positiveEffects": ["Relaxing"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
+			 "descriptionAbbrev":  "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
 			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -14873,8 +14888,9 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Sweet", "Citrus", "Earthy", "Spicy", "Diesel"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Energetic", "Euphoric"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -14978,7 +14994,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Diesel", "Lemon", "Pungent", "Mango", "Tropical"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
 			 "negativeEffects": [""],
@@ -15084,13 +15100,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Diesel"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Migraines", "Muscle Spasms", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "May Weather Kush", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/May weather kush.jpg"
+			 "imageUrl": "images/strains/May-weather-kush.jpg"
 			},
 			{"strainId": 131,
 			 "strainName": "Phantom OG", 
@@ -23418,7 +23435,7 @@
 			},
 			{"effectId": 13,
 			 "effectName": "Antiischemic", //compName
-			 "conditionsTreated": ["Coronary Heart disease"],
+			 "conditionsTreated": ["Artery Blockage"],
  			 "descriptionDetailed": "Reduces risk of artery blockage which could help prevent the conditions leading to coronary artery disease.",
 			 "descriptionAbbrev":  "Reduce risk of artery blockage",
 			 "tags": ["Anti ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],

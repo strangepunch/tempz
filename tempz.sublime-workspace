@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"Head",
+				"Headband"
+			],
+			[
+				"HArl",
+				"Harlequin"
+			],
+			[
+				"Sc",
+				"Scout"
+			],
+			[
+				"Stra",
+				"Strawberry"
+			],
+			[
+				"Canna",
+				"Cannalope"
+			],
+			[
+				"For",
+				"Forum"
+			],
+			[
+				"Cand",
+				"Candyland"
+			],
+			[
+				"God",
+				"Godfather"
+			],
+			[
+				"Lab",
+				"Lambs"
+			],
+			[
+				"Cha",
+				"Charlotte’s"
+			],
+			[
+				"Bub",
+				"Bubba"
+			],
+			[
+				"HArle",
+				"Harle-Tsu"
+			],
+			[
+				"Ven",
+				"Valentine-X"
+			],
+			[
+				"O",
+				"Oil"
+			],
+			[
+				"Diease",
+				"Disease"
+			],
+			[
 				"Fc",
 				"Focused"
 			],
@@ -264,10 +324,6 @@
 				"Bullrider"
 			],
 			[
-				"Bub",
-				"Bubble"
-			],
-			[
 				"Mon",
 				"Moonshine"
 			],
@@ -282,10 +338,6 @@
 			[
 				"GRape",
 				"Grapefruit"
-			],
-			[
-				"Head",
-				"Headache"
 			],
 			[
 				"Chem",
@@ -308,16 +360,8 @@
 				"Super"
 			],
 			[
-				"Stra",
-				"Stratosphere"
-			],
-			[
 				"Tr",
 				"Trinity"
-			],
-			[
-				"Lab",
-				"Lamb"
 			],
 			[
 				"He",
@@ -364,10 +408,6 @@
 				"Thailand"
 			],
 			[
-				"HArl",
-				"Harle-Tsu"
-			],
-			[
 				"Hog",
 				"Hogsbreath"
 			],
@@ -402,10 +442,6 @@
 			[
 				"Harle",
 				"Harle-Tsu"
-			],
-			[
-				"Canna",
-				"Canna-Tsu"
 			],
 			[
 				"Ukulele_G",
@@ -478,42 +514,6 @@
 			[
 				"Ukulele_Csharp",
 				"Ukulele_CmsharpDmflat"
-			],
-			[
-				"Ukulele_Gsharp",
-				"Ukulele_GmsharpAmflat"
-			],
-			[
-				"Ukulele_Fsharp",
-				"Ukulele_FmsharpGmflat"
-			],
-			[
-				"Ukulele_Aflat",
-				"Ukulele_GsharpAflat"
-			],
-			[
-				"ukele",
-				"ukuleles"
-			],
-			[
-				"uk",
-				"ukulele"
-			],
-			[
-				"portable",
-				"Portable"
-			],
-			[
-				"Sto",
-				"storz-bickel"
-			],
-			[
-				"Vapor",
-				"Vaporizer"
-			],
-			[
-				"chord",
-				"chordGroup"
 			]
 		]
 	},
@@ -523,15 +523,15 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 653759,
+				"buffer_size": 656081,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "\"taste\": [\"Sweet\", \"Grape\", \"Berry\"],",
+			"contents": "\"taste\": [\"Sweet\", \"Grape\", \"Berry\"],\n",
 			"settings":
 			{
-				"buffer_size": 37,
+				"buffer_size": 38,
 				"line_ending": "Windows"
 			}
 		}
@@ -584,10 +584,10 @@
 	],
 	"file_history":
 	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.txt",
 		"/D/strange punch site assets/Sp2 site/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/recEffects.js",
 		"/C/Users/shane/Documents/strange punch/Multivision/server.js",
@@ -729,6 +729,32 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Coffee",
+			"96",
+			"taste",
+			"Super Lemon Haze",
+			"Harlequin",
+			"Strawberry",
+			"coronary",
+			"corno",
+			"Candyland",
+			"CandyLand",
+			"169",
+			"Cannatonic #4",
+			"Valentine-X",
+			"Valentine X",
+			"Valentine-X",
+			"sand flea",
+			"Antioxidant",
+			"heart disease",
+			"Antiischemic",
+			"Anti-ischemic",
+			"Antiischemic",
+			"heart ",
+			"Beta-sitosterol",
+			"Heart Disease",
+			"Effects",
+			"Type II Diabetes",
 			"Berry White",
 			"Honey",
 			"Chestnut",
@@ -830,33 +856,7 @@
 			"LA Con",
 			"Kryptonite",
 			"King Louis XIII",
-			"Kandy Kush",
-			"Dutch Passion",
-			"Asthma",
-			"Appetite Loss",
-			"Fatigue",
-			"Impotence",
-			"PTSD",
-			"Chemdawg",
-			"cheese",
-			"bubba kush",
-			"buba kush",
-			"buba ku",
-			"super lemon haze",
-			"stratosphere",
-			"skunk ",
-			"Organic OG",
-			"Neptune OG",
-			"Gorrilla Glue #4",
-			"cle",
-			"clear Lake",
-			"ADD",
-			"Appetite Loss",
-			"Fibromyalgia",
-			"fatigue",
-			"Fatigue",
-			"fatigue",
-			"Fatigue"
+			"Kandy Kush"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -939,15 +939,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 653759,
+						"buffer_size": 656081,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								289752,
+								289752
 							]
 						],
 						"settings":
@@ -956,7 +956,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 308191.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -967,7 +967,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 38,
 						"regions":
 						{
 						},
