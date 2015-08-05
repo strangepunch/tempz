@@ -166,6 +166,11 @@
 			 "recEffectName": "Sexual",  
 			 "recEffectType": "P",
 			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			},
+			{"recEffectId": 32,
+			 "recEffectName": "Giggly",  
+			 "recEffectType": "P",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			}
 		];
 
@@ -309,6 +314,30 @@
 		{ 
 			"tasteId": 35,
 			"taste": "Lime"
+		},
+		{ 
+			"tasteId": 36,
+			"taste": "Menthol"
+		},
+		{ 
+			"tasteId": 37,
+			"taste": "Plum"
+		},
+		{ 
+			"tasteId": 38,
+			"taste": "Lavender"
+		},
+		{ 
+			"tasteId": 39,
+			"taste": "Exotic"
+		},
+		{ 
+			"tasteId": 40,
+			"taste": "Nutty"
+		},
+		{ 
+			"tasteId": 41,
+			"taste": "Tree Fruit"
 		}
 
 	];
@@ -317,6 +346,7 @@
 			{"strainId": 1,
 			 "strainName": "Trainwreck", 
 			 "strainType": "Hybrid"
+
 			},
 			{"strainId": 2,
 			 "strainName": "White Widow", 
@@ -1235,7 +1265,7 @@
 
 			},
 			{"strainId": 184,
-			 "strainName": "L.A. Kush",
+			 "strainName": "LA Kush",
 			 "strainType": "Hybrid"
 
 			},
@@ -1301,7 +1331,7 @@
 
 			},
 			{"strainId": 197,
-			 	"strainName": "Legend",
+			 	"strainName": "Legend OG",
 			 	"strainType": "Hybrid"
 
 			},
@@ -1320,7 +1350,7 @@
 			 	"strainType": "Indica"
 			 	
 			 }
-		];
+		]; 
 
 
 
@@ -13830,7 +13860,7 @@
 		 	],
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
-			 "positiveEffects": ["Focused", "Relaxed"],
+			 "positiveEffects": ["Focused", "Relaxed", "Arousing"],
 			 "negativeEffects": ["Couch lock", "Sleepy"],
 			 "descriptionDetailed": "A mind-numbing physically impressive Clear Lake OG medicinal strain best for treating symptoms related to MS, arthritis, RTS, muscle spasms, insomnia, ADHD, pain, stress, and anxiety relief.",
 			 "descriptionAbbrev":  "Super-duper powerful and way heavy, a completely flooring knock down result that will reduce movement and cease productive action or thought.",
@@ -15206,13 +15236,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Flowery", "Earthy", "Pine", "Menthol"],
 		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+			 "positiveEffects": ["Energetic", "Relaxing", "Euphoric", "Happy", "Focused"],
+			 "negativeEffects": ["Sleepy", "Hungry"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionAbbrev":  "Phantom OG is an indica-dominant strain that begins with heightened energy and ends with a crash of full-body relaxation.",
 			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/phantom-og_100x100.jpg"
 			},
 			{"strainId": 132,
 			 "strainName": "Pineapple Hogsbreath", 
@@ -15311,6 +15342,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Pineapple", "Cheese"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Migraines", "Muscle Spasms", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Anxious", "Dizzy", "Munchies"],
@@ -15416,13 +15448,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Pine", "Earthy", "Sweet"],
 		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Sleepy", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy"],
+			 "descriptionDetailed": "Featuring a musky, piney aroma similar to a morning walk in the forest, this strain provides a truly relaxing experience.",
+			 "descriptionAbbrev":  "For those struggling with insomnia and stress, Silverback Gorilla is a must-try strain.",
 			 "tags": ["Indica", "Silverback Gorilla", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/silverback-gorilla_100x100.jpg"
 			},
 			{"strainId": 134,
 			 "strainName": "Sugar Plum", 
@@ -15521,6 +15554,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Berry", "Plum", "Spicy", "Herbal"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Cramps", "Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Focused", "Relaxed", "Tingly", "Talkative"],
 			 "negativeEffects": ["Dizzy", "Dry Mouth", "Munchies"],
@@ -15626,6 +15660,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
 			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -15731,14 +15766,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Earthy", "Pine", "Pungent"],
 		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "The White strain is a 2009 IC420 cup winner.",
+			 "descriptionAbbrev":  "The White strain is a 2009 IC420 cup winner.",
 			 "tags": ["Hybrid", "The White", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/the-white_100x100.jpg"
 			},
 			{"strainId": 137,
 			 "strainName": "White Fire OG", 
@@ -15837,13 +15872,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Uplifted", "Focused", "Social", "Creative"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Daytime use of this strain won’t leave the consumer drowsy, making it a good choice for social and creative activities.",
+			 "descriptionAbbrev":  "Daytime use of this strain won’t leave the consumer drowsy, making it a good choice for social and creative activities.",
 			 "tags": ["Hybrid", "White Fire OG", "OG", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/white-fire-og_100x100.jpg"
 			},
 			{"strainId": 138,
 			 "strainName": "White Walker OG", 
@@ -15942,11 +15978,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Citrus", "Earthy", "Pungent"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Uplifted", "Happy"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
+			 "descriptionAbbrev":  "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
 			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -16047,6 +16084,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Energetic"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy", "Munchies"],
@@ -16152,6 +16190,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Sleepy", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
@@ -16259,12 +16298,12 @@
 		 	],   
 		 	"taste": [""],
 		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Relaxing", "Active", "Happy"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Literally means The Alchemist, this hybrid marijuana is the result of crossing the legendary Northern Lights with AK 47.",
+			 "descriptionAbbrev":  "Literally means The Alchemist, this hybrid marijuana is the result of crossing the legendary Northern Lights with AK 47.",
 			 "tags": ["Hybrid", "El Alquimista", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/El-Alquimista.jpg"
 			},
 			{"strainId": 142,
 			 "strainName": "Godfather OG",
@@ -16363,6 +16402,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress", "Depression", "Headache"],
 			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry" ],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy"],
@@ -16372,7 +16412,7 @@
 			 "imageUrl": "images/strains/godfather-og_100x100.jpg"
 			},
 			{"strainId": 143,
-			 "strainName": "Herojuana",
+			 "strainName": "Herijuana",
 			 "strainType": "Indica",
 			 "components": [
 			 	{ 
@@ -16468,13 +16508,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
+		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Headache"],
+			 "positiveEffects": ["Relaxed", "Sleepy","Euphoric", "Happy", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
+			 "descriptionAbbrev":  "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
 			 "tags": ["Indica", "Herojuana", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/herijuana_100x100.jpg"
 			},
 			{"strainId": 144,
 			 "strainName": "Lavender",
@@ -16573,13 +16614,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Lavender", "Flowery", "Sweet"],
+		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Nausea", "Depression"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
+			 "descriptionAbbrev":  "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
 			 "tags": ["Indica", "Lavender", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/lavender_100x100.jpg"
 			},
 			{"strainId": 145,
 			 "strainName": "Purple Coma",
@@ -16678,6 +16720,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Grape"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Fibromyalgia", "Nausea", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": [""],
@@ -16783,13 +16826,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Grape", "Pungent", "Sweet"],
+		 	 "conditions": ["Nausea", "Stress", "Pain", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Headache", "Euphoric", "Happy", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Purple Passion is great for unleashing your creative side.",
+			 "descriptionAbbrev":  "Purple Passion is great for unleashing your creative side.",
 			 "tags": ["Indica", "Purple Passion", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-passion_100x100.jpg"
 			},
 			{"strainId": 147,
 			 "strainName": "Sour Bubble",
@@ -16888,13 +16932,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Chestnut", "Sweet", "Earthy", "Diesel"],
+		 	 "conditions": ["Nausea", "Pain", "Insomnia", "Muscle Spasms", "Anxiety"],
+			 "positiveEffects": ["Relaxing", "Uplifting"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "These sticky buds offer a sweet, fruity aroma with diesel undertones, and deliver relaxing, uplifting effects. ",
+			 "descriptionAbbrev":  "These sticky buds offer a sweet, fruity aroma with diesel undertones, and deliver relaxing, uplifting effects. ",
 			 "tags": ["Indica", "Sour Bubble", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/sour-bubble_100x100.jpg"
 			},
 			{"strainId": 148,
 			 "strainName": "Sour Dub",
@@ -16992,14 +17037,15 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], 
-		 	 "conditions": ["Nausea"],
-			 "positiveEffects": [""],
+		 	],
+		 	"taste": ["Pine", "Earthy", "Dank"], 
+		 	 "conditions": ["Nausea", "Pain", "Insomnia", "Anxiety", "Appetite Loss"],
+			 "positiveEffects": ["Energetic", "Happy"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Stoned on Arrival.",
+			 "descriptionAbbrev":  "Stoned on Arrival.",
 			 "tags": ["Sativa", "Sour Dub", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/SourDub.jpg"
 			},
 			{"strainId": 149,
 			 "strainName": "Strawberry Mist",
@@ -17098,29 +17144,30 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Depression","Nausea","Pain", "PMS", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Social", "Creative", "Sexual"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionDetailed": "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
 			 "descriptionAbbrev":  "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
 			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
 			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 			},
 			{"strainId": 150,
-			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa",
+			 "strainName": "",
+			 "strainType": "",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.00
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.38
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -17203,6 +17250,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": [""],
 		 	 "conditions": ["Nausea", "PMS"],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -17308,6 +17356,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Focused", "Energetic", "Uplifted", "Giggly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
@@ -17413,6 +17462,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Sleepy", "Euphoric", "Happy", "Hungry" ],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -17518,6 +17568,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
@@ -17623,6 +17674,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pine", "Skunk"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -17728,6 +17780,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pine", "Sweet"],
 		 	 "conditions": ["Anorexia","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
@@ -17833,13 +17886,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": ["Clear-headed", "Long lasting", "Relaxing", "Creative", "Social"],
 			 "negativeEffects": ["Sleepy", "Munchies", "Couch lock"],
 			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/kalashnikova_100x100.jpg"
 			},
 			{"strainId": 157,
 			 "strainName": "Black Buddah",
@@ -17938,13 +17992,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Exotic"],
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": [""],
+			 "positiveEffects": ["Cerebral"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The perfect cerebral smoke with fantastic exotic flavor.",
+			 "descriptionAbbrev":  "The perfect cerebral smoke with fantastic exotic flavor.",
 			 "tags": ["Indica", "Black Buddah", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Black-Budha.jpg"
 			},
 			{"strainId": 158,
 			 "strainName": "OG Cheese",
@@ -18043,6 +18098,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Skunk", "Cheese", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Arthritis", "Depression", "Hypertension", "Nausea", "Insomnia", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Hungry", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy"],
@@ -18148,6 +18204,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Sleepy", "Tingly", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Munchies"],
@@ -18253,6 +18310,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Citrus", "Earthy", "Flowery"],
 		 	 "conditions": ["ADD/ADHD", "Arthritis", "Glaucoma", "Insomnia", "Pain", "Stress", "Muscle Spasms", "Depression" ],
 			 "positiveEffects": ["Happy", "Relaxed", "Social", "Energetic", "Uplifted"],
 			 "negativeEffects": ["Paranoid", "Dry Mouth", "Anxious", "Dizzy", "Dry Eyes"],
@@ -18358,6 +18416,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Diesel", "Sweet"],
 		 	 "conditions": ["Anxiety","Depression", "Epilepsy", "Insomnia", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Social", "Creative", "Relaxed", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
@@ -18463,11 +18522,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Epilepsy"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
+		 	 "conditions": ["Epilepsy", "Pain", "Appetite Loss", "Insomnia", "Stress", "Headache"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Anxious", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Headache", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
+			 "descriptionAbbrev":  "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "tags": ["Indica", "Mars OG", "Epilepsy"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -18568,6 +18628,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": [""],
 		 	 "conditions": ["", ""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -18673,13 +18734,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": [""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Sweet", "Berry"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Fatigue"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "Green Dream is a sativa-dominant hybrid cross of Green Crack and Blue Dream.",
+			 "descriptionAbbrev":  "Green Dream is a sativa-dominant hybrid cross of Green Crack and Blue Dream.",
 			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/green-dream_100x100.jpg"
 			},
 			{"strainId": 165,
 			 "strainName": "Green Dynamite",
@@ -18778,14 +18840,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Grapefruit", "Earthy", "Grape"],
+		 	 "conditions": ["PMS", "Insomnia", "Stress", "Pain", "Depression", "Muscle spasms"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "Smells like grapefruit and produces and thick and fruity smoke.",
+			 "descriptionAbbrev":  "Smells like grapefruit and produces and thick and fruity smoke.",
 			 "tags": ["Indica", "Green Dynamite", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/dynamite_100x100.jpg"
 			},
 			{"strainId": 166,
 			 "strainName": "J1",
@@ -18883,7 +18945,8 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	} 	
-		 	], 
+		 	],
+		 	"taste": ["Citrus", "Sweet", "Pungent"], 
 		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "PMS", "Fatigue", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
@@ -18989,13 +19052,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
+		 	"taste": ["Sweet", "Pungent", "Earthy"],
+		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps"],
+			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Giggly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Krytonite", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
 			{"strainId": 168,
 			 "strainName": "Master Kush",
@@ -19094,13 +19158,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Pungent", "Sweet"],
+		 	 "conditions": ["PMS", "Stress", "Insomnia", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Sleepy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "With Master Kush, you can anticipate full-body relaxation coupled with sharpened sensory awareness that can bring out the best of any activity.",
+			 "descriptionAbbrev":  "With Master Kush, you can anticipate full-body relaxation coupled with sharpened sensory awareness that can bring out the best of any activity.",
 			 "tags": ["Indica", "Master Kush", "Kush", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/master-kush_100x100.jpg"
 			},
 			{"strainId": 169,
 			 "strainName": "Black Magic Kush",
@@ -19199,13 +19264,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Sweet", "Fruity"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Sleepy"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": " If you can manage to stay awake, the body buzz is quite pleasant, and does tend to help with body aches and pains.",
+			 "descriptionAbbrev":  " If you can manage to stay awake, the body buzz is quite pleasant, and does tend to help with body aches and pains.",
 			 "tags": ["Indica", "Black Magic Kush", "Kush", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/black-magic-kush.jpg"
 			},
 			{"strainId": 170,
 			 "strainName": "Blackberry Kush",
@@ -19304,6 +19370,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Berry", "Grape", "Lavender"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Sleepy"],
@@ -19409,13 +19476,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Blueberry", "Sweet", "Berry"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Headache", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Headache"],
+			 "descriptionDetailed": "This strain is optimal for daytime and comes with little to no fatigue or increased appetite, making it a desirable option for medical marijuana patients.",
+			 "descriptionAbbrev":  "This strain is optimal for daytime and comes with little to no fatigue or increased appetite, making it a desirable option for medical marijuana patients.",
 			 "tags": ["Hybrid", "Blue Diesel", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/blue-diesel_100x100.jpg"
 			}, 
 			{"strainId": 172,
 			 "strainName": "Blue Haze",
@@ -19514,6 +19582,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Earthy", "Blueberry", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Depression", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Munchies"],
@@ -19619,6 +19688,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Citrus", "Lemon", "Pine", "Diesel"],
 		 	 "conditions": ["Stress", "Anxiety", "Arthritis", "Chronic Aches", "Muscle Spasms", "Pain"],
 			 "positiveEffects": ["Happy", "Relaxed"],
 			 "negativeEffects": ["Sleepy"],
@@ -19724,7 +19794,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Hungry", "Euphoric"],
 			 "negativeEffects": ["Munchies", "Sleepy", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
@@ -19830,6 +19900,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
+		 	"taste": ["Cheese", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
@@ -19935,7 +20006,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Citrus", "Sweet", "Tropical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Fatigue", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -20041,13 +20112,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleepy", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "This indica has a purple hue, fruity and spicy flavors.",
+			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors.",
 			 "tags": ["Indica", "Diablo Haze", "Haze", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/diablo_100x100.jpg"
 			},
 			{"strainId": 177,
 			 "strainName": "Diamond OG",
@@ -20146,13 +20218,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	 "conditions": ["Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Sweet", "Pungent", "Earthy"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Muscle Spasms", "Depression"],
+			 "positiveEffects": ["Sleepy", "Relaxed", "Happy", "Euphoric", "Giggly"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "A true indica, this strain induces full-body relaxation that nixes pain and muscle spasms before settling into an overall laziness.",
+			 "descriptionAbbrev":  "A true indica, this strain induces full-body relaxation that nixes pain and muscle spasms before settling into an overall laziness.",
 			 "tags": ["Indica", "Diamond OG", "OG", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/diamond-og_100x100.jpg"
 			},
 			{"strainId": 178,
 			 "strainName": "Grandaddy Purple",
@@ -20251,11 +20324,11 @@
 			 		"value": 0.10
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Grape", "Berry", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "Its potent psychoactive effects are clearly detectable in both mind and body, delivering a fusion of cerebral euphoria and physical relaxation.",
 			 "descriptionAbbrev":  "The taste is fruity like grapes and so is the smell.",
 			 "tags": ["Grapes"],
 			 "imageUrl": "images/strains/grandaddy-purple.jpg"
@@ -20357,13 +20430,14 @@
 			 		"value": 0.20
 			 	} 	
 		 	],
+		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Known for being one of the strongest of the OG strains, Fire OG has a strong scent similar to Lemon Pledge and an effect that can last up to 3 hours.",
+			 "descriptionAbbrev":  "Known for being one of the strongest of the OG strains, Fire OG has a strong scent similar to Lemon Pledge and an effect that can last up to 3 hours.",
 			 "tags": ["Hybrid", "Fire OG", "OG", "Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite", "Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/fire-og_100x100.jpg"
 			}, 
 			{"strainId": 180,
 			 "strainName": "Girl Scout Cookies",
@@ -20462,13 +20536,14 @@
 			 		"value": 0.13
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
+			 "descriptionAbbrev":  "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
 			 "tags": ["Hybrid", "Girl Scout Cookies", "Stress", "Pain", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 			},
 			{"strainId": 181,
 			 "strainName": "Grape Ape",
@@ -20567,14 +20642,14 @@
 			 		"value": 0.16
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Grape", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Named for its distinct grape-like smell, this indica is known for providing carefree relaxation that can help soothe pain, stress, and anxiety. ",
+			 "descriptionAbbrev":  "Named for its distinct grape-like smell, this indica is known for providing carefree relaxation that can help soothe pain, stress, and anxiety. ",
 			 "tags": ["Indica", "Grape Ape", "Grape", "Pain", "Stress", "Insomnia", "Depression", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/grape-ape_100x100.jpg"
 			},
 			{"strainId": 182,
 			 "strainName": "Headband",
@@ -20673,14 +20748,14 @@
 			 		"value": 0.16
 			 	} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Earthy", "Pungent", "Diesel"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy",  "Headache",  "Paranoid"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The smooth, creamy smoke is accented by flavors of lemons and diesel while the long-lasting effects are great for pain relief, helping you to relax, and to combat elevated stress levels.",
+			 "descriptionAbbrev":  "The smooth, creamy smoke is accented by flavors of lemons and diesel while the long-lasting effects are great for pain relief, helping you to relax, and to combat elevated stress levels.",
 			 "tags": ["Hybrid", "Headband", "Stress", "Depression", "Pain", "Insomnia", "Headache", "Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/headband_100x100.jpg"
 			}, 
 			{"strainId": 183,
 			 "strainName": "Island Sweet Skunk",
@@ -20779,16 +20854,17 @@
 			 		"value": 0.12
 			 	} 	
 		 	], 
+		 	"taste": ["Sweet", "Skunk", "Tropical"],
 		 	 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy",  "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Some varieties of Island Sweet Skunk have a heightened CBD content to help patients treating anxiety, inflammation, and muscle spasms.",
+			 "descriptionAbbrev":  "Some varieties of Island Sweet Skunk have a heightened CBD content to help patients treating anxiety, inflammation, and muscle spasms.",
 			 "tags": ["Sativa", "Island Sweet Skunk", "Skunk", "Pain", "Stress", "Depression", "Fatigue", "Nausea", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/island-sweet-skunk_100x100.jpg"
 			},
 			{"strainId": 184,
-			 "strainName": "L.A. Kush",
+			 "strainName": "LA Kush",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
@@ -20884,13 +20960,14 @@
 			 		"value": 0.16
 			 	} 	
 		 	], 
+		 	"taste": ["Nutty", "Menthol", "Mint"],
 		 	 "conditions": ["Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "negativeEffects": ["Anxious", "Dry Mouth"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "If you are looking to alleviate stress or need a spark of creativity, look to LA Kush.",
+			 "descriptionAbbrev":  "If you are looking to alleviate stress or need a spark of creativity, look to LA Kush.",
 			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/la-kush_100x100.jpg"
 			},
 			{"strainId": 185,
 			 "strainName": "Gorilla Glue #4",
@@ -20989,6 +21066,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": ["Pine", "Pungent", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Muscle Spasms", "Appetite Loss","Pain", "Stress", "Headache"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Munchies"],
@@ -21094,6 +21172,7 @@
 			 		"value": 0.00
 			 	} 
 		 	], 
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress"],
 			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
@@ -21199,14 +21278,15 @@
 			 		"value": 0.00
 			 	}
 		 	],
-				"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
-			 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
-			 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
-			 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
-			 	"descriptionAbbrev":  "Known to deliver clear-headed, energetic effects that can verge on psychedelic at times",
-			 	"tags": ["Kali Mist"],
-			 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
-				},
+		 	"taste": ["Sweet", "Earthy", "Flowery"],
+			"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
+		 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
+		 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
+		 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
+		 	"descriptionAbbrev":  "Known to deliver clear-headed, energetic effects that can verge on psychedelic at times",
+		 	"tags": ["Kali Mist"],
+		 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
+		},
 			 	{"strainId": 188,
 				 "strainName": "NY Sour Diesel",
 				 "strainType": "Hybrid",
@@ -21304,18 +21384,19 @@
 			 		"value": 0.00
 			 	}
 		 	],
-			 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 	"positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
-			 	"negativeEffects": ["Munchies"],
-			 	"descriptionDetailed": "",
-			 	"descriptionAbbrev":  "",
-			 	"tags": [],
-			 	"imageUrl": "images/strains/nyc-sour-diesel.jpg"
-				},
-			 	{"strainId": 189,
-			 	"strainName": "Skunk #1",
-			 	"strainType": "Hybrid",
-			 	"components": [
+		 	"taste": ["Diesel", "Pungent", "Earthy"],
+		 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+		 	"positiveEffects": ["Happy", "Uplifted", "Energetic", "Relaxed", "Creative"],
+		 	"negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+		 	"descriptionDetailed": "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status.",
+		 	"descriptionAbbrev":  "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status.",
+		 	"tags": [],
+		 	"imageUrl": "images/strains/nyc-sour-diesel.jpg"
+		},
+	 	{"strainId": 189,
+	 	"strainName": "Skunk #1",
+	 	"strainType": "Hybrid",
+	 	"components": [
 			 	{ 
 			 		"name": "THC9", 
 			 		"value": 12.88
@@ -21408,14 +21489,15 @@
 			 		"name": "CBL", 
 			 		"value": 0.00
 			 	}	
-		 	], 
+		 	],
+		 	"taste": ["Skunk", "Sweet", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Creeps, tricks you into smoking a full bowl to yourself",
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual", "Uplifted", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "This hybrid offers elevated creativity through its high-energy buzz, while stress and appetite loss melt away.",
+			 "descriptionAbbrev":  "This hybrid offers elevated creativity through its high-energy buzz, while stress and appetite loss melt away.",
 			 "tags": ["Skunk #1"],
-			 "imageUrl": "images/strains/skunk11.jpg"
+			 "imageUrl": "images/strains/skunk--1_100x100.jpg"
 			},
 			{"strainId": 190,
 			 	"strainName": "Snowcap",
@@ -21514,6 +21596,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Lemon", "Earthy", "Citrus"],
 		 	 "conditions": ["Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Creative", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -21619,6 +21702,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Citrus", "Sweet", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Nausea","Depression", "Appetite Loss", "Pain", "Stress", "Fatigue"],
 			 "positiveEffects": ["Happy", "Uplifted","Euphoric", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
@@ -21724,6 +21808,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Tropical", "Tree Fruit", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Sleepy", "Hungry", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious", "Munchies"],
@@ -21829,6 +21914,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies"],
@@ -21934,6 +22020,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Sweet", "Earthy", "Flowery"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
@@ -22039,11 +22126,12 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Pine", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
 			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
-			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
+			 "descriptionDetailed": "The difference is this monarch's odor is one that's meant to be enjoyed. Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
+			 "descriptionAbbrev":  "It's dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
 			 "tags": ["Pine", "Pungent", "Earthy"],
 			 "imageUrl": "images/strains/king-louis-xiii_100x100.jpg"
 			},
@@ -22144,16 +22232,17 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress", "Fatigue", "Depression"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "",
+			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "tags": ["Sweet", "Earthy", "Pungent"],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
 			{"strainId": 197,
-			 	"strainName": "Legend",
+			 	"strainName": "Legend OG",
 			 	"strainType": "Hybrid",
 			 	"components": [
 			 	{ 
@@ -22249,10 +22338,11 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Sweet", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "",
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy"],
+			 "negativeEffects": ["Munchies", "Sleepy"],
+			 "descriptionDetailed": "Absolutely the very best OG I've ever smoked, and I've grown and smoked almost all of them.",
 			 "descriptionAbbrev":  "Absolutely the very best OG I've ever smoked, and I've grown and smoked almost all of them.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
@@ -22354,6 +22444,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Lemon", "Diesel", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Munchies"],
@@ -22459,6 +22550,7 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress", "Insomnia"],
 			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
@@ -22564,118 +22656,14 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine.",
 			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
 			 "tags": ["Earthy", "Sweet", "Berry"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
-			},
-			{"strainId": 200,
-			 	"strainName": "Blackwater",
-			 	"strainType": "Indica",
-			 	"components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 16.28
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 0.31
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.32
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 1.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.00
-			 	}	
-		 	], 
-		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Sleepy", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
-			 "descriptionDetailed": "Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine.",
-			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
-			 "tags": ["Earthy", "Sweet", "Berry"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/blackwater_100x100.jpg"
 			}
 		];
 		
