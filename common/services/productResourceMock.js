@@ -1663,7 +1663,6 @@
 			 	} 	
 		 	],
 		 	 "taste": ["Sage","Earthy","Woody"],   
-		 	"taste": [""],
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
 			 "positiveEffects": ["Long lasting", "Uplifting", "Happy"],
 			 "negativeEffects": [""],
@@ -2300,7 +2299,6 @@
 			 	} 	
 		 	],
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
-		 	"taste": [""],
 		 	 "conditions": [""],
 			 "positiveEffects": [""],
 			 "negativeEffects": [""],
@@ -2407,8 +2405,6 @@
 			 	} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Pine"],
-		 	"taste": ["","",""],   
-		 	"taste": [""],
 		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
 			 "negativeEffects": [""],
@@ -7178,6 +7174,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
+		 	"taste": [""],
 		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Fibromyalgia", "Hypertension", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative"],
 			 "negativeEffects": [""],
