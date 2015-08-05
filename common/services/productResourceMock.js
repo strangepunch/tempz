@@ -1,4 +1,4 @@
- /** mock **/
+/** mock **/
 (function(){
 	"use strict";
 
@@ -989,98 +989,103 @@
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 130,
+			{"strainId": 129,
 			 "strainName": "May Weather Kush", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 131,
+			{"strainId": 130,
 			 "strainName": "Phantom OG", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 132,
+			{"strainId": 131,
 			 "strainName": "Pineapple Hogsbreath", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 133,
+			{"strainId": 132,
 			 "strainName": "Silverback Gorilla", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 134,
+			{"strainId": 133,
 			 "strainName": "Sugar Plum", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 135,
+			{"strainId": 134,
 			 "strainName": "Super Lemon Haze", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 136,
+			{"strainId": 135,
 			 "strainName": "The White", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 137,
+			{"strainId": 136,
 			 "strainName": "White Fire OG", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 138,
+			{"strainId": 137,
 			 "strainName": "White Walker OG", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 139,
+			{"strainId": 138,
 			 "strainName": "Cherry Bomb", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 140,
+			{"strainId": 139,
 			 "strainName": "DJ Short Blueberry",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 141,
+			{"strainId": 140,
 			 "strainName": "El Alquimista",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 142,
+			{"strainId": 141,
 			 "strainName": "Godfather OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 143,
+			{"strainId": 142,
 			 "strainName": "Herojuana",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 144,
+			{"strainId": 143,
 			 "strainName": "Lavender",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 145,
+			{"strainId": 144,
 			 "strainName": "Purple Coma",
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 146,
+			{"strainId": 145,
 			 "strainName": "Purple Passion",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 147,
+			{"strainId": 146,
 			 "strainName": "Sour Bubble",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 148,
+			{"strainId": 147,
 			 "strainName": "Sour Dub",
+			 "strainType": "Sativa"
+
+			},
+			{"strainId": 148,
+			 "strainName": "Strawberry Mist",
 			 "strainType": "Sativa"
 
 			},
@@ -1090,141 +1095,136 @@
 
 			},
 			{"strainId": 150,
-			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa"
-
-			},
-			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 152,
+			{"strainId": 151,
 			 "strainName": "Afgoo",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 153,
+			{"strainId": 152,
 			 "strainName": "Afgooey",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 154,
+			{"strainId": 153,
 			 "strainName": "AK-47",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 155,
+			{"strainId": 154,
 			 "strainName": "AK-48",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 156,
+			{"strainId": 155,
 			 "strainName": "Kalashnikova",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 157,
+			{"strainId": 156,
 			 "strainName": "Black Buddah",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 158,
+			{"strainId": 157,
 			 "strainName": "OG Cheese",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 159,
+			{"strainId": 158,
 			 "strainName": "Mercury OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 160,
+			{"strainId": 159,
 			 "strainName": "Silver Surfer",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 161,
+			{"strainId": 160,
 			 "strainName": "Sour OG",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 162,
+			{"strainId": 161,
 			 "strainName": "Mars OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 163,
+			{"strainId": 162,
 			 "strainName": "Cannatonic #4",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 164,
+			{"strainId": 163,
 			 "strainName": "Green Dream",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 165,
+			{"strainId": 164,
 			 "strainName": "Green Dynamite",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 166,
+			{"strainId": 165,
 			 "strainName": "J1",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 167,
+			{"strainId": 166,
 			 "strainName": "Krytonite",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 168,
+			{"strainId": 167,
 			 "strainName": "Master Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 169,
+			{"strainId": 168,
 			 "strainName": "Black Magic Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 170,
+			{"strainId": 169,
 			 "strainName": "Blackberry Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 171,
+			{"strainId": 170,
 			 "strainName": "Blue Diesel",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 172,
+			{"strainId": 171,
 			 "strainName": "Blue Haze",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 173,
+			{"strainId": 172,
 			 "strainName": "Brutus OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 174,
+			{"strainId": 173,
 			 "strainName": "Bubba Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 175,
+			{"strainId": 174,
 			 "strainName": "Cheese",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 176,
+			{"strainId": 175,
 			 "strainName": "Cinderella 99",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 177,
+			{"strainId": 176,
 			 "strainName": "Diablo Haze",
 			 "strainType": "Indica"
 
@@ -1282,8 +1282,6 @@
 			{"strainId": 187,
 			 "strainName": "Kali Mist",
 			 "strainType": "Hybrid"
-
-
 			},
 		 	{"strainId": 188,
 			 "strainName": "NY Sour Diesel",
@@ -23462,7 +23460,7 @@
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"effectId": 18,
-			 "effectName": "Bone-stimulant", //compName
+			 "effectName": "Stimulates Bone Growth", //compName
 			 "conditionsTreated": ["Ostiopererosis"],
  			 "descriptionDetailed": "promotes bone growth",
 			 "descriptionAbbrev":  "Promote bone growth",
