@@ -211,7 +211,7 @@
 		{ 
 			"tasteId": 7,
 			"taste": "Berry",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Berry.png"
 		},
 		{ 
 			"tasteId": 8,
@@ -266,7 +266,7 @@
 		{ 
 			"tasteId": 18,
 			"taste": "Cheese",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Cheese.png"
 		},
 		{ 
 			"tasteId": 19,
@@ -281,7 +281,7 @@
 		{ 
 			"tasteId": 21,
 			"taste": "Chemical",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Chemical.png"
 		},
 		{ 
 			"tasteId": 22,
@@ -336,7 +336,7 @@
 		{ 
 			"tasteId": 32,
 			"taste": "Blueberry",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Blueberry.png"
 		},
 		{ 
 			"tasteId": 33,
