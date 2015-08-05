@@ -181,67 +181,67 @@
 		{ 
 			"tasteId": 1,
 			"taste": "Earthy",
-			"imageUrl": "1.png"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 2,
 			"taste": "Pine",
-			"imageUrl": "2.png"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 3,
 			"taste": "Pungent",
-			"imageUrl": "3.png"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 4,
 			"taste": "Woody",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 5,
 			"taste": "Sage",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 6,
 			"taste": "Sweet",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 7,
 			"taste": "Berry",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 8,
 			"taste": "Tropical",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 9,
 			"taste": "Mango",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 10,
 			"taste": "Diesel",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 11,
 			"taste": "Skunk",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 12,
 			"taste": "Honey",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 13,
 			"taste": "Citrus",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 14,
@@ -251,112 +251,112 @@
 		{ 
 			"tasteId": 15,
 			"taste": "Tea",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 16,
 			"taste": "Strawberry",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 17,
 			"taste": "Pineapple",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 18,
 			"taste": "Cheese",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 19,
 			"taste": "Grape",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 20,
 			"taste": "Mint",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 21,
 			"taste": "Chemical",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 22,
 			"taste": "Spicy",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 23,
 			"taste": "Herbal",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 24,
 			"taste": "Flowery",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		}, 
 		{ 
 			"tasteId": 25,
 			"taste": "Pepper",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 26,
 			"taste": "Grapefruit",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 27,
 			"taste": "Fruity",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 28,
 			"taste": "Orange",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 29,
 			"taste": "Hash",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 30,
 			"taste": "Sour",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 31,
 			"taste": "Chestnut",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 32,
 			"taste": "Blueberry",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 33,
 			"taste": "Coffee",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 34,
 			"taste": "Dank",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 35,
 			"taste": "Lime",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 36,
 			"taste": "Menthol",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 37,
@@ -365,22 +365,22 @@
 		{ 
 			"tasteId": 38,
 			"taste": "Lavender",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 39,
 			"taste": "Exotic",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 40,
 			"taste": "Nutty",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 41,
 			"taste": "Tree Fruit",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "Grape.png"
 		}
 
 	];
