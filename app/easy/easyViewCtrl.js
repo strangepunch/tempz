@@ -26,7 +26,6 @@
 		//set the ng-style of the mode selection
 		vm.styleMed={"color":"Red","font-size": "1.1em"};
 		vm.styleRec={"color":"white","font-size": "0.8em"};
-		vm.displayQuestion = "Choose a medical condition";
 
 		//Storage space for goEasy seach
 		vm.userSelect = [{"condName":"", "strnName":""}];
@@ -82,23 +81,6 @@
 				
 			}
 		}
-
-		//change styles between Med and Rec
-		$scope.selectMode = function(name){
-			if(name === 'Rec'){
-				vm.styleMed={"color":"white","font-size": "0.8em"};
-				vm.styleRec={"color":"Red","font-size": "1.1em"};
-
-				vm.displayQuestion = "Choose a recreational effect";
-
-			}else if(name === 'Med'){
-				vm.styleMed={"color":"Red","font-size": "1.1em"};
-				vm.styleRec={"color":"white","font-size": "0.8em"};
-
-				vm.displayQuestion = "Choose a medical condition";
-			}
-		}
-
 		
 		//name of the component(s) for selected temperature
 		vm.EffectsProductName = [];

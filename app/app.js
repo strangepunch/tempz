@@ -45,6 +45,13 @@
 							controller: "EasyViewCtrl as vm"
 						})
 
+						//Simple Rec
+						.state("rec", {
+							url: "/rec",
+							templateUrl: "app/rec/recView.html",
+							controller: "RecViewCtrl as vm"
+						})
+
 						//Main
 						.state("main", {
 							url: "/main",
