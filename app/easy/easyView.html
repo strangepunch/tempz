@@ -47,149 +47,153 @@
 			</table>
 		</div>
 	</div>
-<div ng-show = "showQuestion">
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
-					<SS> 1. </SS>{{vm.displayQuestion}} <span class="caret"></span> <div>{{vm.selectedCond}}</div>
+	<!--Med Questions-->
+	<div ng-show = "showQuestion">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
+						<SS> 1. </SS>{{vm.displayQuestion}} <span class="caret"></span> <div>{{vm.selectedCond}}</div>
+					</div>
+					<div role="presentation" class="divider"></div>
+					<div ng-if = "vm.showQ1">
+					    <ul class="col-xs-7" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
+							<li><div ng-click="selectCondition(condName)">{{condName}}</div></li>
+						</ul>
+					</div> 
 				</div>
-				<div role="presentation" class="divider"></div>
-				<div ng-if = "vm.showQ1">
-				    <ul class="col-xs-7" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
-						<li><div ng-click="selectCondition(condName)">{{condName}}</div></li>
-					</ul>
+			</div>
+		</div>
+
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+
+					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
+						<SS> 2. </SS> Choose a strain <span class="caret"></span>
+						<div>{{vm.selectedStrain}}</div>
+					</div>
+					<div ng-if = "vm.showQ2">
+						<div class = "row row-padding">
+				 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input>
+				 				<a class="clear" ng-click="searchStrain(vm.searchAll)">
+	    							<span class="glyphicon glyphicon-search"></span>
+								</a> 
+				 				<a class="clear" ng-click="clearSearch()">
+	    							<span class="glyphicon glyphicon-remove"></span>
+								</a>
+							</label>
+						</div> 
+			 			<div class = "row row-padding">
+					 		<div class="btn" ng-click="searchStrain('All')"> All </div>
+					 		<div class="btn" ng-click="searchStrain('Sativa')"> Sativa </div>   
+					 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
+					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
+					 	</div>
+					 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
+							<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
+						</ul>
+				 	</div>
+				 	
+				</div>
+			</div>
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goEasy()"> GO </div>
+			</div>
+		</div>
+	</div>
+	<!--Med Questions end-->
+	<!--Med Answers-->
+	<div ng-show = "showAnswer">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Your selection: </div>
+					<div class="col-xs-6"> {{vm.selectedCond}} </div>
+					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+				</div>
+			</div> 
+		</div>
+		
+		<div class = "panel" ng-if="vm.hasEnterStrain">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
 				</div> 
 			</div>
 		</div>
-	</div>
 
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-
-				<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
-					<SS> 2. </SS> Choose a strain <span class="caret"></span>
-					<div>{{vm.selectedStrain}}</div>
+		<div class = "panel" >
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12">{{vm.EffectsProductName[0]}} is known to produce the following effects:</div>
+					<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+						<li ng-style = "thisCond(name)">{{name}}</li>
+					</div>
+				</div> 
+			</div>
+		</div>
+	<!--
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12">For {{vm.selectedCond}}, the following may be helpful:  </div>
+					<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
+						<li>{{effc}}</li>
+					</div>					
 				</div>
-				<div ng-if = "vm.showQ2">
-					<div class = "row row-padding">
-			 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input>
-			 				<a class="clear" ng-click="searchStrain(vm.searchAll)">
-    							<span class="glyphicon glyphicon-search"></span>
-							</a> 
-			 				<a class="clear" ng-click="clearSearch()">
-    							<span class="glyphicon glyphicon-remove"></span>
-							</a>
-						</label>
-					</div> 
-		 			<div class = "row row-padding">
-				 		<div class="btn" ng-click="searchStrain('All')"> All </div>
-				 		<div class="btn" ng-click="searchStrain('Sativa')"> Sativa </div>   
-				 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
-				 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
-				 	</div>
-				 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
-						<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
+			</div>
+		</div>
+	-->
+	<!--
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12">Testing info...</div>
+					<div class="col-xs-12"> Effects used for searching: </div>
+					<ul class="col-xs-6" ng-repeat = "effc in vm.effectsNameArray">
+						<li>{{effc}}</li>
 					</ul>
-			 	</div>
-			 	
+					
+					<div class="col-xs-12"> Temps avaliable: </div>
+					<ul class="col-xs-3" ng-repeat = "temp in vm.userTempArrayU">
+						<li>{{temp}}</li>
+					</ul>
+					
+					<div class="col-xs-12"> Components avaliable: </div>
+					<ul class="col-xs-3" ng-repeat = "comp in vm.productNameArrayU">
+						<li>{{comp}}</li>
+					</ul>
+				</div> 
+			</div> 
+		</div>
+
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12">Testing info...</div>
+					<div class="col-xs-12"> Your selected strain: </div>
+					<ul class="col-xs-6">
+						<li>{{vm.yourStrain.strainName}}</li>
+					</ul>
+					
+					<div class="col-xs-12"> Components: </div>
+					<ul class="col-xs-3" ng-repeat = "strain in vm.withValue">
+						<li>{{strain.name}}: {{strain.value}}</li>
+					</ul>
+				</div> 
+			</div> 
+		</div>
+	-->
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goBack()"> Back </div>
 			</div>
 		</div>
 	</div>
-
-	<div class = "panel panel-buttons">
-		<div class = "row">
-			<div class="btn" ng-click="goEasy()"> GO </div>
-		</div>
-	</div>
-</div>
-<div ng-show = "showAnswer">
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12"> Your selection: </div>
-				<div class="col-xs-6"> {{vm.selectedCond}} </div>
-				<div class="col-xs-6"> {{vm.selectedStrain}} </div>
-			</div>
-		</div> 
-	</div>
-	
-	<div class = "panel" ng-if="vm.hasEnterStrain">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
-			</div> 
-		</div>
-	</div>
-
-	<div class = "panel" >
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12">{{vm.EffectsProductName[0]}} is known to produce the following effects:</div>
-				<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
-					<li ng-style = "thisCond(name)">{{name}}</li>
-				</div>
-			</div> 
-		</div>
-	</div>
-<!--
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12">For {{vm.selectedCond}}, the following may be helpful:  </div>
-				<div class="col-xs-12" ng-repeat = "effc in vm.effectsEnglish">
-					<li>{{effc}}</li>
-				</div>					
-			</div>
-		</div>
-	</div>
--->
-<!--
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12">Testing info...</div>
-				<div class="col-xs-12"> Effects used for searching: </div>
-				<ul class="col-xs-6" ng-repeat = "effc in vm.effectsNameArray">
-					<li>{{effc}}</li>
-				</ul>
-				
-				<div class="col-xs-12"> Temps avaliable: </div>
-				<ul class="col-xs-3" ng-repeat = "temp in vm.userTempArrayU">
-					<li>{{temp}}</li>
-				</ul>
-				
-				<div class="col-xs-12"> Components avaliable: </div>
-				<ul class="col-xs-3" ng-repeat = "comp in vm.productNameArrayU">
-					<li>{{comp}}</li>
-				</ul>
-			</div> 
-		</div> 
-	</div>
-
-	<div class = "panel">
-		<div class="row">
-			<div class="panel-body">
-				<div class="col-xs-12">Testing info...</div>
-				<div class="col-xs-12"> Your selected strain: </div>
-				<ul class="col-xs-6">
-					<li>{{vm.yourStrain.strainName}}</li>
-				</ul>
-				
-				<div class="col-xs-12"> Components: </div>
-				<ul class="col-xs-3" ng-repeat = "strain in vm.withValue">
-					<li>{{strain.name}}: {{strain.value}}</li>
-				</ul>
-			</div> 
-		</div> 
-	</div>
--->
-	<div class = "panel panel-buttons">
-		<div class = "row">
-			<div class="btn" ng-click="goBack()"> Back </div>
-		</div>
-	</div>
-</div>
+	<!--Med Answers end-->
 
 </div>

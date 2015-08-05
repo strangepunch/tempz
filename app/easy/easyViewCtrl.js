@@ -14,6 +14,8 @@
 	function EasyViewCtrl($scope, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
 		vm.userTempArrayU = [];
+		vm.userTempArrayUC = [];
+		vm.effectsEnglish = [];
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
 		vm.tempDisplay = 126;
@@ -127,7 +129,6 @@
 			var tempArray=[];
 			var num = 0;
 			var numX = 0;
-			//console.log(value);
 
 			//get component name and list of medical effects
 			if (vm.currentTemp === 'F'){
@@ -169,8 +170,8 @@
 
 			}
 
-			console.log("vm.EffectsProductName", vm.EffectsProductName);
-			console.log("vm.effectProperty", vm.effectProperty);
+			//console.log("vm.EffectsProductName", vm.EffectsProductName);
+			//console.log("vm.effectProperty", vm.effectProperty);
 		}
 
 		//inititial list of condition names for selecting
@@ -359,8 +360,21 @@
 
 			//change the display to reflect the lowest temp value from the user's selected condition
 			if(vm.userTempArrayU != 0){
-				vm.tempDisplay = Array.min(vm.userTempArrayU);
-				$scope.catching(vm.tempDisplay);
+				
+				if(vm.currentTemp ==='C'){
+	    			vm.userTempArrayUC = [];
+	    			for(var i=0; i<vm.userTempArrayU.length;i++){
+						vm.userTempArrayUC[i] = Math.round((vm.userTempArrayU[i] - 32) * 5.0/9.0);
+					}
+
+					vm.tempDisplay = Array.min(vm.userTempArrayUC);
+					$scope.catching(vm.tempDisplay);
+
+				}else{
+					vm.tempDisplay = Array.min(vm.userTempArrayU);
+					$scope.catching(vm.tempDisplay);
+				}
+
 			}else{
 				return vm.tempDisplay; //display does not change if there is no temp in array
 			}
@@ -387,10 +401,10 @@
 						}
 					}
 
-					console.log(vm.yourStrain);
+					//console.log(vm.yourStrain);
 					vm.withValue = $scope.getCompWithValue(vm.yourStrain.components);
 					vm.strainComp = $scope.getComp(vm.yourStrain.components);
-					console.log('vm.withValue', vm.withValue);
+					//console.log('vm.withValue', vm.withValue);
 
 					$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
 				});
@@ -459,7 +473,7 @@
     					}
     				}
     			}
-    			console.log('thisArray', thisArray);
+    			//console.log('thisArray', thisArray);
     		});
 
     		return thisArray;
@@ -478,21 +492,42 @@
     	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
     		vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		for(var i=0; i<vm.userTempArrayU.length; i++){
-    			if(temp === vm.userTempArrayU[i]){
-    				return vm.hasTemp;
+    		
+    		if(vm.currentTemp === 'F'){
+	    		for(var i=0; i<vm.userTempArrayU.length; i++){
+	    			if(temp === vm.userTempArrayU[i]){
+	    				return vm.hasTemp;
+	    			}
+	    		}
+    		}else if(vm.currentTemp ==='C'){
+    			vm.userTempArrayUC = [];
+    			for(var i=0; i<vm.userTempArrayU.length;i++){
+					vm.userTempArrayUC[i] = Math.round((vm.userTempArrayU[i] - 32) * 5.0/9.0);
+				}
+
+    			for(var i=0; i<vm.userTempArrayUC.length; i++){
+    				if(temp === vm.userTempArrayUC[i]){
+    					return vm.hasTemp;
+    				}
     			}
     		}
+    		
+    		console.log("selected temp", temp)
+    		console.log("vm.userTempArrayU", vm.userTempArrayU)
+    		console.log("vm.userTempArrayUC", vm.userTempArrayU)
+    		
     	}
 
     	//highlight the treated condition
     	$scope.thisCond = function(cond){
     		vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		for(var i=0; i<vm.effectsEnglish.length; i++){
-    			if(cond === vm.effectsEnglish[i]){
-    				return vm.hasCond;
-    			}
-    		}
+    		
+			for(var i=0; i<vm.effectsEnglish.length; i++){
+				if(cond === vm.effectsEnglish[i]){
+					return vm.hasCond;
+				}
+			}
+	    	
     	}
 
     	//toggle the questions display on/off
