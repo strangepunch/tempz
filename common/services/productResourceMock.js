@@ -18570,8 +18570,8 @@
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 163,
-			 "strainName": "empty strain",
-			 "strainType": "Hybrid",
+			 "strainName": "White Rhino",
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
@@ -18666,14 +18666,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	"taste": [""],
-		 	 "conditions": ["", ""],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Earthy", "Pungent", "Woody"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleepy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
+			 "descriptionAbbrev":  "White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/white-rhino_100x100.jpg"
 			},
 			{"strainId": 164,
 			 "strainName": "Green Dream",
