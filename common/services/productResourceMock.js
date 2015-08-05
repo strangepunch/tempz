@@ -9,6 +9,9 @@
 	app.run(function ($httpBackend){
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
+		var modes = [1, 2, 3, 4, 5, 6]; //Flavor, Effect, Buds, Pos, Neg, Rand
+
+
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
 		
 		var recEffects = [
@@ -178,17 +181,17 @@
 		{ 
 			"tasteId": 1,
 			"taste": "Earthy",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "1.png"
 		},
 		{ 
 			"tasteId": 2,
 			"taste": "Pine",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "2.png"
 		},
 		{ 
 			"tasteId": 3,
 			"taste": "Pungent",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "3.png"
 		},
 		{ 
 			"tasteId": 4,
@@ -243,7 +246,7 @@
 		{ 
 			"tasteId": 14,
 			"taste": "Lemon",
-			"imageUrl": "images/strains/trainwreck_100x100.jpg"
+			"imageUrl": "1.png"
 		},
 		{ 
 			"tasteId": 15,
@@ -25089,12 +25092,15 @@
 		var vapeUrl = "/api/vapes";
 		var tipUrl = "/api/tips";
 		var temperatureUrl = "/api/temperatures";
+		var modeUrl = "/api/modes";
 		var strainUrl = "/api/strains";
 		var conditionUrl = "/api/conditions";
 		var strainNameUrl = "/api/strainNames";
+		var tasteUrl = "/api/tastes";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
+		$httpBackend.whenGET(modeUrl).respond(modes);
 		$httpBackend.whenGET(effectUrl).respond(effects);
 		$httpBackend.whenGET(conditionsUrl).respond(conditions);
 		$httpBackend.whenGET(vapeUrl).respond(vapes);
@@ -25102,6 +25108,7 @@
 		$httpBackend.whenGET(strainUrl).respond(strains);
 		$httpBackend.whenGET(conditionUrl).respond(conditions);
 		$httpBackend.whenGET(strainNameUrl).respond(strainNames);
+		$httpBackend.whenGET(tasteUrl).respond(tastes);
 
 		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
 

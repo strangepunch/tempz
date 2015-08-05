@@ -1,0 +1,122 @@
+<div id="mainView">
+	<div class = "panel panel-primary">
+		<!--<div class ="btn btn-primary" ui-sref="easy"> E </div>-->
+		<div class ="btn btn-primary" ui-sref="main.temps"> Adv </div>
+	</div>
+</div>
+
+<div id="easyView">
+	<!--the temperature display -->
+	<div class = "panel panel-primary">
+		<div class = "row">
+			<table>
+				<tr>
+					<td class="col-xs-1"> 
+						<div ng-repeat="mode in vm.Modes|limitTo:3 track by $index">
+							<div ng-class="active(mode)"></div>
+							<li ng-click="selectMode(mode)"> 
+								<img style="width:35px;" ng-src="images/Rec/{{mode}}.png"> 
+							</li>
+						</div>
+					</td>
+					<td class="col-xs-9"> 
+
+						<div class = "row">
+							<div class="tCircle">
+								<div style="font-size:0.5em;">{{vm.discMode}}</div>
+								<span><img style="width:150px;" ng-src="images/Rec/{{vm.centerImage}}"></span>
+							</div>
+						</div>
+
+						<div class = "row center">
+							
+							<div class="col-xs-12"> 
+								<span ng-style="vm.styleMed" ng-click="selectMode('Med')" ui-sref="easy">Med </span>/<span ng-style="vm.styleRec" ng-click="selectMode('Rec')" ui-sref="rec"> Rec</span>
+							</div>
+
+							<div class="col-xs-12" style="font-size:0.8em;"><span> {{vm.modeName}} </span></div>
+
+						</div>
+						
+					</td>
+					
+					<td class="col-xs-1"> 
+					
+						<div ng-repeat="mode in vm.Modes|limitTo:-3 track by $index">
+							<div ng-class="active(mode)"></div>
+							<li ng-click="selectMode(mode)" style="text-align:right">
+								<img style="width:30px;" ng-src="images/Rec/{{mode}}.png">
+							</li>	
+						</div>
+						
+					</td>
+				
+				</tr>
+			</table>
+		</div>
+	</div>
+	<!--Med Questions-->
+	<div ng-show = "showQuestion">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
+						<SS> 1. </SS>Pick your flavor <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
+					</div>
+					<div role="presentation" class="divider"></div>
+					<div ng-if = "vm.showQ1">
+					    <ul class="col-xs-7" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
+							<li><div ng-click="selectTaste(tasteList.taste)">{{tasteList.taste}}</div></li>
+						</ul>
+					</div> 
+				</div>
+			</div>
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goEasy()"> GO </div>
+			</div>
+		</div>
+	</div>
+	<!--Med Questions end-->
+	<!--Med Answers-->
+	<div ng-show = "showAnswer">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Your selection: </div>
+					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
+					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+				</div>
+			</div> 
+		</div>
+		
+		<div class = "panel" ng-if="vm.hasEnterStrain">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
+				</div> 
+			</div>
+		</div>
+
+		<div class = "panel" >
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12">{{vm.EffectsProductName[0]}} is known to produce the following effects:</div>
+					<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+						<li ng-style = "thisCond(name)">{{name}}</li>
+					</div>
+				</div> 
+			</div>
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goBack()"> Back </div>
+			</div>
+		</div>
+	</div>
+	<!--Med Answers end-->
+
+</div>
