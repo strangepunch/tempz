@@ -824,268 +824,263 @@
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 96,
+			{"strainId": 97,
 			 "strainName": "707 Headband", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 97,
+			{"strainId": 98,
 			 "strainName": "Acapulco Gold", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 98,
+			{"strainId": 99,
 			 "strainName": "Alien OG", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 99,
+			{"strainId": 100,
 			 "strainName": "Alien Rock Candy", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 100,
+			{"strainId": 101,
 			 "strainName": "Amnesia Haze", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 101,
+			{"strainId": 102,
 			 "strainName": "ATF", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 102,
+			{"strainId": 103,
 			 "strainName": "Bay Cookies", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 103,
+			{"strainId": 104,
 			 "strainName": "Berry Queen", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 104,
+			{"strainId": 105,
 			 "strainName": "Berry White", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 105,
+			{"strainId": 106,
 			 "strainName": "Black Cherry Soda", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 106,
+			{"strainId": 107,
 			 "strainName": "Blue Dream", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 107,
+			{"strainId": 108,
 			 "strainName": "Blue Moonshine", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 108,
+			{"strainId": 109,
 			 "strainName": "Blueberry Trainwreck", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 109,
+			{"strainId": 110,
 			 "strainName": "Canatonic #4", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 110,
+			{"strainId": 111,
 			 "strainName": "Candy Jack", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 111,
+			{"strainId": 112,
 			 "strainName": "CandyLand", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 112,
+			{"strainId": 113,
 			 "strainName": "Cannalope Haze", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 113,
+			{"strainId": 114,
 			 "strainName": "Cataract Kush", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 114,
+			{"strainId": 115,
 			 "strainName": "Chemdawg", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 115,
+			{"strainId": 116,
 			 "strainName": "Cherry Pie", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 116,
+			{"strainId": 117,
 			 "strainName": "Chocolate Thai", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 117,
+			{"strainId": 118,
 			 "strainName": "Clear Lake", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 118,
+			{"strainId": 119,
 			 "strainName": "Dubtech", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 119,
+			{"strainId": 120,
 			 "strainName": "Ghost OG", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 120,
+			{"strainId": 121,
 			 "strainName": "Grape Cookies", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 121,
+			{"strainId": 120,
 			 "strainName": "Grape Kool Aid", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 122,
+			{"strainId": 121,
 			 "strainName": "Jupiter Kush", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 123,
+			{"strainId": 122,
 			 "strainName": "L.A. Confidential", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 124,
+			{"strainId": 123,
 			 "strainName": "Lemon Jack", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 125,
+			{"strainId": 124,
 			 "strainName": "Lemon OG Kush", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 126,
+			{"strainId": 125,
 			 "strainName": "Mad Max", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 127,
+			{"strainId": 126,
 			 "strainName": "Mafia OG", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 128,
+			{"strainId": 127,
 			 "strainName": "Mango Maui", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 129,
+			{"strainId": 128,
 			 "strainName": "May Weather Kush", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 130,
+			{"strainId": 129,
 			 "strainName": "Phantom OG", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 131,
+			{"strainId": 130,
 			 "strainName": "Pineapple Hogsbreath", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 132,
+			{"strainId": 131,
 			 "strainName": "Silverback Gorilla", 
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 133,
+			{"strainId": 132,
 			 "strainName": "Sugar Plum", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 134,
+			{"strainId": 133,
 			 "strainName": "Super Lemon Haze", 
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 135,
+			{"strainId": 134,
 			 "strainName": "The White", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 136,
+			{"strainId": 135,
 			 "strainName": "White Fire OG", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 137,
+			{"strainId": 138,
 			 "strainName": "White Walker OG", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 138,
+			{"strainId": 139,
 			 "strainName": "Cherry Bomb", 
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 139,
+			{"strainId": 140,
 			 "strainName": "DJ Short Blueberry",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 140,
+			{"strainId": 141,
 			 "strainName": "El Alquimista",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 141,
+			{"strainId": 142,
 			 "strainName": "Godfather OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 142,
+			{"strainId": 143,
 			 "strainName": "Herojuana",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 143,
+			{"strainId": 144,
 			 "strainName": "Lavender",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 144,
+			{"strainId": 145,
 			 "strainName": "Purple Coma",
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 145,
+			{"strainId": 146,
 			 "strainName": "Purple Passion",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 146,
+			{"strainId": 147,
 			 "strainName": "Sour Bubble",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 147,
-			 "strainName": "Sour Dub",
-			 "strainType": "Sativa"
-
-			},
 			{"strainId": 148,
-			 "strainName": "Strawberry Mist",
+			 "strainName": "Sour Dub",
 			 "strainType": "Sativa"
 
 			},
@@ -1095,255 +1090,260 @@
 
 			},
 			{"strainId": 150,
+			 "strainName": "Strawberry Mist",
+			 "strainType": "Sativa"
+
+			},
+			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 151,
+			{"strainId": 152,
 			 "strainName": "Afgoo",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 152,
+			{"strainId": 153,
 			 "strainName": "Afgooey",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 153,
+			{"strainId": 154,
 			 "strainName": "AK-47",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 154,
+			{"strainId": 155,
 			 "strainName": "AK-48",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 155,
+			{"strainId": 156,
 			 "strainName": "Kalashnikova",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 156,
+			{"strainId": 157,
 			 "strainName": "Black Buddah",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 157,
+			{"strainId": 158,
 			 "strainName": "OG Cheese",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 158,
+			{"strainId": 159,
 			 "strainName": "Mercury OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 159,
+			{"strainId": 160,
 			 "strainName": "Silver Surfer",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 160,
+			{"strainId": 161,
 			 "strainName": "Sour OG",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 161,
+			{"strainId": 162,
 			 "strainName": "Mars OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 162,
+			{"strainId": 163,
 			 "strainName": "Cannatonic #4",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 163,
+			{"strainId": 164,
 			 "strainName": "Green Dream",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 164,
+			{"strainId": 165,
 			 "strainName": "Green Dynamite",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 165,
+			{"strainId": 166,
 			 "strainName": "J1",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 166,
+			{"strainId": 167,
 			 "strainName": "Krytonite",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 167,
+			{"strainId": 168,
 			 "strainName": "Master Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 168,
+			{"strainId": 169,
 			 "strainName": "Black Magic Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 169,
+			{"strainId": 170,
 			 "strainName": "Blackberry Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 170,
+			{"strainId": 171,
 			 "strainName": "Blue Diesel",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 171,
+			{"strainId": 172,
 			 "strainName": "Blue Haze",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 172,
+			{"strainId": 173,
 			 "strainName": "Brutus OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 173,
+			{"strainId": 174,
 			 "strainName": "Bubba Kush",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 174,
+			{"strainId": 175,
 			 "strainName": "Cheese",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 175,
+			{"strainId": 176,
 			 "strainName": "Cinderella 99",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 176,
+			{"strainId": 177,
 			 "strainName": "Diablo Haze",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 177,
+			{"strainId": 178,
 			 "strainName": "Diamond OG",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 178,
+			{"strainId": 179,
 			 "strainName": "Grandaddy Purple",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 179,
+			{"strainId": 180,
 			 "strainName": "Fire OG",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 180,
+			{"strainId": 181,
 			 "strainName": "Girl Scout Cookies",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 181,
+			{"strainId": 182,
 			 "strainName": "Grape Ape",
 			 "strainType": "Indica"
 
 			},
-			{"strainId": 182,
+			{"strainId": 183,
 			 "strainName": "Headband",
 			 "strainType": "Hybrid"
 
 			}, 
-			{"strainId": 183,
+			{"strainId": 184,
 			 "strainName": "Island Sweet Skunk",
 			 "strainType": "Sativa"
 
 			},
-			{"strainId": 184,
+			{"strainId": 185,
 			 "strainName": "LA Kush",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 185,
+			{"strainId": 186,
 			 "strainName": "Gorilla Glue #4",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 186,
+			{"strainId": 187,
 			 "strainName": "Jack Frost",
 			 "strainType": "Hybrid"
 
 			},
-			{"strainId": 187,
+			{"strainId": 188,
 			 "strainName": "Kali Mist",
 			 "strainType": "Hybrid"
 			},
-		 	{"strainId": 188,
+		 	{"strainId": 189,
 			 "strainName": "NY Sour Diesel",
 			 "strainType": "Hybrid"
 
 			},
-		 	{"strainId": 189,
+		 	{"strainId": 190,
 		 	"strainName": "Skunk #1",
 		 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 190,
+			{"strainId": 191,
 			 	"strainName": "Snowcap",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 191,
+			{"strainId": 192,
 			 	"strainName": "Super Silver Haze",
 			 	"strainType": "Sativa"
 
 			},
-			{"strainId": 192,
+			{"strainId": 193,
 			 	"strainName": "Neptune OG",
 			 	"strainType": "Indica"
 
 			},
-			{"strainId": 193,
+			{"strainId": 194,
 			 	"strainName": "Organic OG",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 194,
+			{"strainId": 195,
 			 	"strainName": "Kandy Kush",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 195,
+			{"strainId": 196,
 			 	"strainName": "King Louis XIII",
 			 	"strainType": "Sativa"
 
 			},
-			{"strainId": 196,
+			{"strainId": 197,
 			 	"strainName": "Kryptonite",
 			 	"strainType": "Indica"
 
 			},
-			{"strainId": 197,
+			{"strainId": 198,
 			 	"strainName": "Legend OG",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 198,
+			{"strainId": 199,
 			 	"strainName": "Lemon Diesel",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 199,
+			{"strainId": 200,
 			 	"strainName": "Lemon Kush",
 			 	"strainType": "Hybrid"
 
 			},
-			{"strainId": 200,
+			{"strainId": 201,
 			 	"strainName": "Blackwater",
 			 	"strainType": "Indica"
 			 	
