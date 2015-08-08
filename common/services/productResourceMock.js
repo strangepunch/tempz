@@ -181,12 +181,12 @@
 		{ 
 			"tasteId": 1,
 			"taste": "Earthy",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Earthy.png"
 		},
 		{ 
 			"tasteId": 2,
 			"taste": "Pine",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Pine.png"
 		},
 		{ 
 			"tasteId": 3,
@@ -226,7 +226,7 @@
 		{ 
 			"tasteId": 10,
 			"taste": "Diesel",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Diesel.png"
 		},
 		{ 
 			"tasteId": 11,
@@ -236,17 +236,17 @@
 		{ 
 			"tasteId": 12,
 			"taste": "Honey",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Honey.png"
 		},
 		{ 
 			"tasteId": 13,
 			"taste": "Citrus",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Citrus.png"
 		},
 		{ 
 			"tasteId": 14,
 			"taste": "Lemon",
-			"imageUrl": "1.png"
+			"imageUrl": "Lemon.png"
 		},
 		{ 
 			"tasteId": 15,
@@ -291,12 +291,12 @@
 		{ 
 			"tasteId": 23,
 			"taste": "Herbal",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Herbal.png"
 		},
 		{ 
 			"tasteId": 24,
 			"taste": "Flowery",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Flowery.png"
 		}, 
 		{ 
 			"tasteId": 25,
@@ -306,12 +306,12 @@
 		{ 
 			"tasteId": 26,
 			"taste": "Grapefruit",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Grapefruit.png"
 		},
 		{ 
 			"tasteId": 27,
 			"taste": "Fruity",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Fruity.png"
 		},
 		{ 
 			"tasteId": 28,
@@ -331,7 +331,7 @@
 		{ 
 			"tasteId": 31,
 			"taste": "Chestnut",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Chestnut.png"
 		},
 		{ 
 			"tasteId": 32,
@@ -341,12 +341,12 @@
 		{ 
 			"tasteId": 33,
 			"taste": "Coffee",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Coffee.png"
 		},
 		{ 
 			"tasteId": 34,
 			"taste": "Dank",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Dank.png"
 		},
 		{ 
 			"tasteId": 35,
@@ -360,17 +360,18 @@
 		},
 		{ 
 			"tasteId": 37,
-			"taste": "Plum"
+			"taste": "Plum",
+			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 38,
 			"taste": "Lavender",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Lavender.png"
 		},
 		{ 
 			"tasteId": 39,
 			"taste": "Exotic",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Exotic.png"
 		},
 		{ 
 			"tasteId": 40,
