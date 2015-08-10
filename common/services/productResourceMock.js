@@ -196,7 +196,7 @@
 		{ 
 			"tasteId": 4,
 			"taste": "Woody",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Woody.png"
 		},
 		{ 
 			"tasteId": 5,
@@ -206,7 +206,7 @@
 		{ 
 			"tasteId": 6,
 			"taste": "Sweet",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Sweet.png"
 		},
 		{ 
 			"tasteId": 7,
@@ -216,7 +216,7 @@
 		{ 
 			"tasteId": 8,
 			"taste": "Tropical",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Tropical.png"
 		},
 		{ 
 			"tasteId": 9,
@@ -251,12 +251,12 @@
 		{ 
 			"tasteId": 15,
 			"taste": "Tea",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Tea.png"
 		},
 		{ 
 			"tasteId": 16,
 			"taste": "Strawberry",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Strawberry.png"
 		},
 		{ 
 			"tasteId": 17,
@@ -286,7 +286,7 @@
 		{ 
 			"tasteId": 22,
 			"taste": "Spicy",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Spicy.png"
 		},
 		{ 
 			"tasteId": 23,
@@ -321,12 +321,12 @@
 		{ 
 			"tasteId": 29,
 			"taste": "Hash",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Hash.png"
 		},
 		{ 
 			"tasteId": 30,
 			"taste": "Sour",
-			"imageUrl": "Grape.png"
+			"imageUrl": "Sour.png"
 		},
 		{ 
 			"tasteId": 31,
@@ -381,7 +381,7 @@
 		{ 
 			"tasteId": 41,
 			"taste": "Tree Fruit",
-			"imageUrl": "Grape.png"
+			"imageUrl": "TreeFruit.png"
 		}
 
 	];
