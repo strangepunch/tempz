@@ -10,7 +10,32 @@
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
 		var modes = [1, 2, 3, 4, 5, 6]; //Flavor, Effect, Buds, Pos, Neg, Rand
+		
+		/** temp ranges  - 0 - 355 = Low, 356 - 385 Med, 386 - 470 = High **/
 
+
+		/** VTempType is a flag that indicates when a vape has specific temps available - Y or has a variable range of temps - N  **/
+		/** When a variable range is available - N, the min and max temps are listed in VTempType **/
+		var vapeTemps = [
+			{"VId": 1,
+			 "VName": "The Crafty", 
+			 "VManufacturer" : "Storz & Bickels",
+			 "VType": "Portable",
+			 "VTempType": "N",
+			 "VTempsF": ["356", "383"],
+			 "VTempsC": ["180", "195"],
+			 "VImageUrl": "images/vapes/crafty1.png"
+			},
+			{"VId": 2,
+			 "VName": "The Mighty", 
+			 "VManufacturer" : "Storz & Bickels",
+			 "VType": "Portable",
+			 "VTempType": "N",
+			 "VTempsF": ["104", "410"],
+			 "VTempsC": ["40", "210"],
+			 "VImageUrl": "images/vapes/mighty1.png"
+			}
+		];
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
 		
@@ -1069,7 +1094,7 @@
 
 			},
 			{"strainId": 134,
-			 "strainName": "The White", 
+			 "strainName": "Lemon Marmalade", 
 			 "strainType": "Hybrid"
 
 			},
@@ -11181,15 +11206,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.50
+			 		"value": 23.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.09
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.95
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -11217,15 +11242,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.30
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.30
+			 		"value": 0.72
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -11237,7 +11262,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.09
+			 		"value": 1.16
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -11272,12 +11297,12 @@
 			 		"value": 0.20
 			 	} 	
 		 	], 
-		 	"taste": ["Earthy", "Pine", "Sweet"],
-		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Depression", "Pain", "Headache"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Sleepy"],
+		 	"taste": ["Earthy", "Pine", "Pungent"],
+		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Cancer", "Nausea", "Headache"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "The White strain is a 2009 IC420 cup winner named for the color of the buds when ripe.",
+			 "descriptionAbbrev":  "The White strain is a 2009 IC420 cup winner named for the color of the buds when ripe.",
 			 "tags": ["Hybrid", "The White", "Cancer"],
 			 "imageUrl": "images/strains/the-white_100x100.jpg"
 			},
@@ -15734,20 +15759,20 @@
 			 "imageUrl": "images/strains/super-lemon-haze_100x100.jpg"
 			},
 			{"strainId": 136,
-			 "strainName": "The White", 
+			 "strainName": "Lemon Marmalade", 
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 24.50
+			 		"value": 30.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.43
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.05
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -15830,14 +15855,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],   
-		 	"taste": ["Earthy", "Pine", "Pungent"],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sleepy"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
-			 "descriptionDetailed": "The White strain is a 2009 IC420 cup winner.",
-			 "descriptionAbbrev":  "The White strain is a 2009 IC420 cup winner.",
+		 	"taste": ["Citrus", "Lemon", "Pine"],
+		 	 "conditions": ["Depression", "Stress", "Hypertension"],
+			 "positiveEffects": ["Euphoric", "Energetic", "Relaxed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "The effects from Lemon Marmalade come on quick with a euphoric burst of heady energy that quickly levels off into a more relaxing full-bodied experience.",
+			 "descriptionAbbrev":  "The effects from Lemon Marmalade come on quick with a euphoric burst of heady energy that quickly levels off into a more relaxing full-bodied experience.",
 			 "tags": ["Hybrid", "The White", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/the-white_100x100.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 137,
 			 "strainName": "White Fire OG", 
