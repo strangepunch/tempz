@@ -58,12 +58,14 @@
       <!-- Controllers-->
       <script src="app/easy/easyViewCtrl.js"></script>
       <script src="app/rec/recViewCtrl.js"></script>
+      <!--
       <script src="app/temps/tempsViewCtrl.js"></script>
       <script src="app/effects/effectsViewCtrl.js"></script>
       <script src="app/conditions/conditionsViewCtrl.js"></script>
       <script src="app/strains/strainsViewCtrl.js"></script>
       <script src="app/tips/tipListCtrl.js"></script>
       <script src="app/tips/tipViewCtrl.js"></script>
+      -->
       
     </head>
     <body ng-app = "productManagement">
@@ -76,9 +78,10 @@
                     </div>
                     
                     <ul>
-                        <li><a ui-sref="easy">Easy Mode</a></li>
-                        <li><a ui-sref="main.temps">Advance Mode</a></li>
-                        <li><a ui-sref="tipsView">Vaporizers</a></li>
+                        <li><a ui-sref="easy">Med Mode</a></li>
+                         <li><a ui-sref="rec">Rec Mode</a></li>
+                        <!--<li><a ui-sref="main.temps">Advance Mode</a></li>-->
+                        <!--<li><a ui-sref="tipsView">Vaporizers</a></li>-->
                         <!--
                         <li><a ui-sref="conditions">Condition</a></li>
                         <li><a ui-sref="effects">Effect</a></li>
@@ -91,7 +94,7 @@
                       <li><a ui-sref="theme">Night</a></li>
                     </ul>
                     <div>
-                        <p>Legal disclaimer</p>
+                        <p><a ui-sref="home">Legal disclaimer</a></p>
                     </div>
                 </div>
             </div>

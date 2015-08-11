@@ -21,6 +21,22 @@ html, body {
 .table > thead > tr > th, .table > thead > tr > td {
     border: 0;
 }
+.snap-drawers a{
+	text-decoration: none;
+	color: white;
+}
+.snap-drawers a:link{
+	text-decoration: none;
+	color: white;
+}
+.snap-drawers a:hover{
+	text-decoration: none;
+	color: white;
+}
+.snap-drawers a:visited{
+	text-decoration: none;
+	color: white;
+}
 
 /**--------------MAIN VIEW------------------**/
 #mainView {
@@ -134,7 +150,7 @@ html, body {
 /**----------Easy View---------------**/
 #easyView{
 	padding: 5px;
-	padding-top: 0px;
+	padding-top: 50px;
 	width: 100%;
 	float:left;
 }
@@ -342,6 +358,7 @@ html, body {
 
 
 /**----------Temps View---------------**/
+/**
 #tempsView{
 	padding: 5px;
 	padding-top: 0px;
@@ -438,10 +455,10 @@ html, body {
 	border-style: solid;
 	border-color: white;
 	background: -webkit-linear-gradient(90deg, #660066 , #FF0000, #FF9900); /* For Safari 5.1 to 6.0 */
-	background: -o-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(90deg, #660066 , #FF0000, #FF9900); /* Standard syntax */
-    border-width: 3px;
+/**	background: -o-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Opera 11.1 to 12.0 */
+/**    background: -moz-linear-gradient(90deg, #0000FF , #FF3300, #FFFF00); /* For Firefox 3.6 to 15 */
+/**    background: linear-gradient(90deg, #660066 , #FF0000, #FF9900); /* Standard syntax */
+/**    border-width: 3px;
 	height: 35px;
 	color: white;
 }
@@ -475,15 +492,16 @@ html, body {
 	background-repeat: no-repeat;
 	/*background:url('images/strains/acapulcoGold.jpg') center ;*/
 
-}
+/**}
 #tempsView .active{
 	border-color: rgba(255, 163, 25,0.8);
 	border-width: 5px;
 	width: 70px;
 	height: 75px;
-}
+}**/
 
 /**----------Conditions View---------------**/
+/**
 #condView{
 	padding: 5px;
 	padding-top: 0px;
@@ -655,7 +673,7 @@ html, body {
 	padding-top: 20px;
 	background-repeat: no-repeat;
 	/*background:url('images/strains/acapulcoGold.jpg') center ;*/
-
+/**
 }
 #condView .active{
 	border-color: rgba(3,22,5,0.8);
@@ -663,8 +681,9 @@ html, body {
 	width: 70px;
 	height: 75px;
 }
-
+**/
 /**----------Strains View---------------**/
+/**
 #strainsView{
 	padding: 5px;
 	padding-top: 0px;
@@ -794,8 +813,9 @@ html, body {
     border-width: 2px;
     border-radius: 50%;
 }
-
+**/
 /**----------Effects View---------------**/
+/**
 #effView{
 	padding: 5px;
 	padding-top: 0px;
@@ -946,8 +966,9 @@ html, body {
 	height: 65px;
 	font-size: 0.9em;
 }
-
+**/
 /**-------------TIP main VIEW--------------**/
+/**
 #tipsView{
 	width: 100%;
 	padding: 10px;
@@ -1049,8 +1070,9 @@ html, body {
 	padding-left: 5px;
 	float: left;
 }
-
+**/
 /**--------------TIP List------------------**/
+/**
 #tips{
 	width: 100%;
 	float:left;
@@ -1188,7 +1210,7 @@ html, body {
 #tips .btn-heading:focus {
   color:#00FF00;
 }
-
+**/
 /*----------------------------------**/
 .paddingBottom{
 	margin-top: 10%;
