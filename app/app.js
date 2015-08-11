@@ -52,6 +52,7 @@
 							controller: "RecViewCtrl as vm"
 						})
 
+						/**
 						//Main
 						.state("main", {
 							url: "/main",
@@ -112,7 +113,7 @@
 							}
 							
 						})
-
+						**/
 						//Theme
 						.state("themes", {
 							url: "/themes",
