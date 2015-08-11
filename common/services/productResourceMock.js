@@ -206,211 +206,337 @@
 		{ 
 			"tasteId": 1,
 			"taste": "Earthy",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Earthy.png"
 		},
 		{ 
 			"tasteId": 2,
 			"taste": "Pine",
+			"compound": "Pinene",
+			"tempF": "313",
+			"tempC": "156",			
 			"imageUrl": "Pine.png"
 		},
 		{ 
 			"tasteId": 3,
 			"taste": "Pungent",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Pungent.png"
 		},
 		{ 
 			"tasteId": 4,
 			"taste": "Woody",
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Woody.png"
 		},
 		{ 
 			"tasteId": 5,
 			"taste": "Sage",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Sage.png"
 		},
 		{ 
 			"tasteId": 6,
 			"taste": "Sweet",
+			"compound": "Linalool",
+			"tempF": "388",
+			"tempC": "198",			
 			"imageUrl": "Sweet.png"
 		},
 		{ 
 			"tasteId": 7,
 			"taste": "Berry",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Berry.png"
 		},
 		{ 
 			"tasteId": 8,
 			"taste": "Tropical",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Tropical.png"
 		},
 		{ 
 			"tasteId": 9,
 			"taste": "Mango",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",
 			"imageUrl": "Mango.png"
 		},
 		{ 
 			"tasteId": 10,
 			"taste": "Diesel",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Diesel.png"
 		},
 		{ 
 			"tasteId": 11,
 			"taste": "Skunk",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Skunk.png"
 		},
 		{ 
 			"tasteId": 12,
 			"taste": "Honey",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Honey.png"
 		},
 		{ 
 			"tasteId": 13,
 			"taste": "Citrus",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",		
 			"imageUrl": "Citrus.png"
 		},
 		{ 
 			"tasteId": 14,
 			"taste": "Lemon",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",		
 			"imageUrl": "Lemon.png"
 		},
 		{ 
 			"tasteId": 15,
 			"taste": "Tea",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Tea.png"
 		},
 		{ 
 			"tasteId": 16,
 			"taste": "Strawberry",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Strawberry.png"
 		},
 		{ 
 			"tasteId": 17,
 			"taste": "Pineapple",
+			"compound": "Myrcene",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Pineapple.png"
 		},
 		{ 
 			"tasteId": 18,
 			"taste": "Cheese",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Cheese.png"
 		},
 		{ 
 			"tasteId": 19,
 			"taste": "Grape",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 20,
 			"taste": "Mint",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Mint.png"
 		},
 		{ 
 			"tasteId": 21,
 			"taste": "Chemical",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Chemical.png"
 		},
 		{ 
 			"tasteId": 22,
 			"taste": "Spicy",
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Spicy.png"
 		},
 		{ 
 			"tasteId": 23,
 			"taste": "Herbal",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Herbal.png"
 		},
 		{ 
 			"tasteId": 24,
 			"taste": "Flowery",
+			"compound": "Linalool",
+			"tempF": "388",
+			"tempC": "198",			
 			"imageUrl": "Flowery.png"
 		}, 
 		{ 
 			"tasteId": 25,
 			"taste": "Pepper",
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Pepper.png"
 		},
 		{ 
 			"tasteId": 26,
 			"taste": "Grapefruit",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",			
 			"imageUrl": "Grapefruit.png"
 		},
 		{ 
 			"tasteId": 27,
 			"taste": "Fruity",
+			"compound": "Linalool",
+			"tempF": "388",
+			"tempC": "198",			
 			"imageUrl": "Fruity.png"
 		},
 		{ 
 			"tasteId": 28,
 			"taste": "Orange",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",			
 			"imageUrl": "Orange.png"
 		},
 		{ 
 			"tasteId": 29,
 			"taste": "Hash",
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Hash.png"
 		},
 		{ 
 			"tasteId": 30,
 			"taste": "Sour",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",			
 			"imageUrl": "Sour.png"
 		},
 		{ 
 			"tasteId": 31,
 			"taste": "Chestnut",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Chestnut.png"
 		},
 		{ 
 			"tasteId": 32,
 			"taste": "Blueberry",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Blueberry.png"
 		},
 		{ 
 			"tasteId": 33,
 			"taste": "Coffee",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Coffee.png"
 		},
 		{ 
 			"tasteId": 34,
 			"taste": "Dank",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Dank.png"
 		},
 		{ 
 			"tasteId": 35,
 			"taste": "Lime",
+			"compound": "Limonene",
+			"tempF": "351",
+			"tempC": "177",			
 			"imageUrl": "Lime.png"
 		},
 		{ 
 			"tasteId": 36,
 			"taste": "Menthol",
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Menthol.png"
 		},
 		{ 
 			"tasteId": 37,
 			"taste": "Plum",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Plum.png"
 		},
 		{ 
 			"tasteId": 38,
 			"taste": "Lavender",
+			"compound": "Linalool",
+			"tempF": "388",
+			"tempC": "198",			
 			"imageUrl": "Lavender.png"
 		},
 		{ 
 			"tasteId": 39,
 			"taste": "Exotic",
+			"compound": "Myrcene",
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Exotic.png"
 		},
 		{ 
 			"tasteId": 40,
 			"taste": "Nutty",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Nutty.png"
 		},
 		{ 
 			"tasteId": 41,
 			"taste": "Tree Fruit",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "TreeFruit.png"
 		},
 		{ 
 			"tasteId": 42,
 			"taste": "Chocolate",
+			"compound": "",
+			"tempF": "",
+			"tempC": "",			
 			"imageUrl": "Grape.png"
 		}
 
@@ -23562,17 +23688,17 @@
 			},
 			{
 				"tasteId": 10,
-				"tasteName": "Beta-myrcene",
-				"tasteDescription": "None"
+				"tasteName": "Myrcene",
+				"tasteDescription": "Mango"
 			},
 			{
 				"tasteId": 11,
-				"tasteName": "Beta-caryophyllene",
+				"tasteName": "Caryophyllene",
 				"tasteDescription": "None"
 			},
 			{
 				"tasteId": 12,
-				"tasteName": "d-limonene",
+				"tasteName": "Limonene",
 				"tasteDescription": "Citrus"
 			},
 			{
