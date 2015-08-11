@@ -1,10 +1,3 @@
-<!--<div id="mainView">
-	<div class = "panel panel-primary">
-		<div class ="btn btn-primary" ui-sref="easy"> E </div>
-		<div class ="btn btn-primary" ui-sref="main.temps"> Adv </div>
-	</div>
-</div>-->
-
 <div id="easyView">
 	<!--the temperature display -->
 	<div class = "panel panel-primary">
@@ -55,13 +48,15 @@
 			</table>
 		</div>
 	</div>
-	<!--Med Questions-->
-	<div ng-show = "showQuestion">
+	<!--the temperature display end-->
+	<!--Rec Questions-->
+	<!--Flavor-->
+	<div ng-show = "showQuestion1">
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
-						<SS> 1. </SS>Pick your flavor <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
+						<SS> + </SS>Pick your flavor <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
@@ -75,48 +70,130 @@
 
 		<div class = "panel panel-buttons">
 			<div class = "row">
-				<div class="btn" ng-click="goEasy()"> GO </div>
+				<div class="btn" ng-click="goEasy('Q1')"> GO </div>
 			</div>
 		</div>
 	</div>
-	<!--Med Questions end-->
-	<!--Med Answers-->
-	<div ng-show = "showAnswer">
+	<!--Effect-->
+	<div ng-show = "showQuestion2">
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Your selection: </div>
-					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
-					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
-				</div>
-			</div> 
-		</div>
-		
-		<div class = "panel" ng-if="vm.hasEnterStrain">
-			<div class="row">
-				<div class="panel-body">
-					<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
-				</div> 
-			</div>
-		</div>
-
-		<div class = "panel" >
-			<div class="row">
-				<div class="panel-body">
-					<div class="col-xs-12">{{vm.EffectsProductName[0]}} is known to produce the following effects:</div>
-					<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
-						<li ng-style = "thisCond(name)">{{name}}</li>
+					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
+						<SS> + </SS>Pick your effect <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
 					</div>
-				</div> 
+					<div role="presentation" class="divider"></div>
+					<div ng-if = "vm.showQ2">
+					    <ul class="col-xs-7" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
+							<li><div ng-click="selectTaste(tasteList.taste)">{{tasteList.taste}}</div></li>
+						</ul>
+					</div> 
+				</div>
 			</div>
 		</div>
 
 		<div class = "panel panel-buttons">
 			<div class = "row">
-				<div class="btn" ng-click="goBack()"> Back </div>
+				<div class="btn" ng-click="goEasy('Q2')"> GO </div>
 			</div>
 		</div>
 	</div>
-	<!--Med Answers end-->
+	<!--Strain-->
+	<div ng-show = "showQuestion3">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q3')">
+						<SS> + </SS>Pick your strain <span class="caret"></span> <div>{{vm.selectedStrain}}</div>
+					</div>
+					<div role="presentation" class="divider"></div>
+					<div ng-if = "vm.showQ3">
+						<div class = "row row-padding">
+				 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input>
+				 				<a class="clear" ng-click="searchStrain(vm.searchAll)">
+	    							<span class="glyphicon glyphicon-search"></span>
+								</a> 
+				 				<a class="clear" ng-click="clearSearch()">
+	    							<span class="glyphicon glyphicon-remove"></span>
+								</a>
+							</label>
+						</div> 
+			 			<div class = "row row-padding">
+					 		<div class="btn" ng-click="searchStrain('All')"> All </div>
+					 		<div class="btn" ng-click="searchStrain('Sativa')"> Sativa </div>   
+					 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
+					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
+					 	</div>
+					 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
+							<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
+						</ul>
+				 	</div>
+				</div>
+			</div>
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goEasy('Q3')"> GO </div>
+			</div>
+		</div>
+	</div>
+	<!--Rec Questions end-->
+
+	<!--Rec Answers-->
+	<!--Flavor-->
+	<div ng-show = "showAnswer1">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Your flavor selection: </div>
+					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
+				</div>
+			</div> 
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goBack('A1')"> Back </div>
+			</div>
+		</div>
+	</div>
+	<!--Effect-->
+	<div ng-show = "showAnswer2">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Your effect selection: </div>
+					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
+					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+				</div>
+			</div> 
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goBack('A2')"> Back </div>
+			</div>
+		</div>
+	</div>
+
+	<!--Strain-->
+	<div ng-show = "showAnswer3">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> Your strain selection: </div>
+					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+				</div>
+			</div> 
+		</div>
+
+		<div class = "panel panel-buttons">
+			<div class = "row">
+				<div class="btn" ng-click="goBack('A3')"> Back </div>
+			</div>
+		</div>
+	</div>
+	<!--Rec Answers end-->
 
 </div>
