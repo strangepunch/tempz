@@ -17218,7 +17218,7 @@
 			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 			},
 			{"strainId": 150,
-			 "strainName": " LA Chocolat",
+			 "strainName": "LA Chocolat",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
