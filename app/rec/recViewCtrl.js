@@ -5,13 +5,14 @@
 						["$scope",
 						 "modeResource",
 						 "tasteResource",
+						 "recEffectResource",
 						 "strainNamesResource",
 						 "productResource",
 						 "strainResource",
 						 "ngProgress",
 							RecViewCtrl]);
 	
-	function RecViewCtrl($scope, modeResource, tasteResource, strainNamesResource, productResource, strainResource, ngProgress){
+	function RecViewCtrl($scope, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
 		var vm = this;
 
 		//set the ng-style of the mode selection
@@ -24,7 +25,7 @@
 		vm.discMode = "Taste";
 
 		//Storage space for goEasy seach
-		vm.userSelect = [{"condName":"", "strnName":""}];
+		//vm.userSelect = [{"condName":"", "strnName":""}];
 
 		//setup display of questions
     	$scope.showQuestion1 = true;
@@ -34,6 +35,8 @@
     	$scope.showAnswer2 = false;
     	$scope.showAnswer3 = false;
     	
+    	//make sure they select something
+    	vm.selectedSomething = 0;
 
 		//Populate modes
 		modeResource.query(function(data){
@@ -55,6 +58,8 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.selectedSomething = 0;
+    				vm.selectedTaste = null;
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
@@ -66,6 +71,8 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.selectedSomething = 0;
+    				vm.selectedEffect = null;
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
@@ -77,11 +84,13 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.selectedSomething = 0;
+    				vm.selectedStrain = null;
 			        break;
 			    case 4:
-			    	vm.modeName = "Postive";
+			    	vm.modeName = "Positive";
 			    	vm.centerImage = "4.png";
-			    	vm.discMode = "Postive";
+			    	vm.discMode = "Positive";
 			        break;
 			    case 5:
 			    	vm.modeName = "Negative";
@@ -100,7 +109,10 @@
 			}
 
 		};
+
+
 /**---------Selecting answers in Flavor, Effect, Strain mode-------------**/
+/**---------Flavor Mode-------------**/
 		//Populate FLAVOR selection display
 		tasteResource.query(function(data){
 			vm.tasteList = data;
@@ -115,8 +127,65 @@
 					vm.modeName = vm.tasteList[i].taste;
 				}
 			};
+			vm.selectedSomething = 1;
 		};
-
+/**---------Effect Mode-------------**/
+		//Populate EFFECT selection display
+		recEffectResource.query(function(data){
+			vm.recEffectList = data;
+		});
+		//select an effect 
+		$scope.selectEffect = function(name){
+			vm.showQ2 = !vm.showQ2; //toggle the questions display off
+			vm.selectedEffect = name;
+			for (var i = 0; i<vm.recEffectList.length; i++){
+				if(vm.recEffectList[i].recEffectName === name){
+					vm.centerImage = vm.recEffectList[i].imageUrl;
+					vm.modeName = vm.recEffectList[i].recEffectName;
+				}
+			};
+			vm.selectedSomething = 1;
+		};
+		//search and filter effects
+	    vm.searchAll = "";
+    	$scope.searchEffect = function(name){
+    		vm.searchAll = name;
+    	 	switch(name){
+    	 		case 'All':
+    	 			vm.searchAll = "";
+    	 			recEffectResource.query(function(data){
+						vm.recEffectList = data;
+					});
+					break;	
+    	 		case 'Positive':
+    	 			vm.searchAll = "";
+    	 			recEffectResource.query(function(data){
+    	 				var num = 0;
+						vm.recEffectList = [];
+						for(var i=0; i<data.length; i++){
+    	 					if(data[i].recEffectType === 'P'){
+    	 						vm.recEffectList[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+					});
+					break;	   
+				case 'Negative':
+					vm.searchAll = "";
+    	 			recEffectResource.query(function(data){
+    	 				var num = 0;
+						vm.recEffectList = [];
+						for(var i=0; i<data.length; i++){
+    	 					if(data[i].recEffectType === 'N'){
+    	 						vm.recEffectList[num] = data[i];
+    	 						num++;
+    	 					}
+    	 				}
+					});
+					break;	
+    	 	} 
+    	};
+/**---------Strain Mode-------------**/
 		//inititial list of STRAIN names for selecting
 	    strainNamesResource.query(function(data){
 			vm.strainNames = data;
@@ -125,6 +194,7 @@
 		$scope.selectStrain = function(name){
 	     	vm.showQ3 = !vm.showQ3; //toggle the questions display off
 	     	vm.selectedStrain = name;
+	     	vm.selectedSomething = 1;
 	    }
 	    //search and filter strains
 	    vm.searchAll = "";
@@ -202,6 +272,34 @@
 	    };
 /**---------Selecting answers in Flavor, Effect, Strain mode END------------**/
 
+/**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
+		//Flavor
+		$scope.searchForTaste = function (Flavor){
+
+			strainResource.query(function(data){
+				var num = 0;
+ 				vm.strainSuggestions = [];
+ 				for(var i=0; i<data.length; i++){
+ 					for(var x=0; x<data[i].taste.length; x++){
+ 						if(data[i].taste[x] === Flavor){
+ 							vm.strainSuggestions[num] = data[i];
+ 							num++;
+ 						}
+ 					}
+ 				}
+				//console.log("list of Seached", vm.strainSuggestions);
+			});
+
+		};
+		//Effect
+		$scope.searchForFeel = function (Effect){
+
+		};
+		//Strain
+		$scope.searchForBud = function (Strain){
+
+		};
+/**---------SEARCH FUNCTION for Flavor, Effect, Strain mode END------------**/
 
 		//this sets the ng-class to active
 		$scope.active = function(item){
@@ -227,14 +325,20 @@
     			case 'A1':
     				$scope.showAnswer1 = false;
 					$scope.showQuestion1 = true;
+					vm.selectedSomething = 0;
+    				vm.selectedTaste = null;
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
 					$scope.showQuestion2 = true;
+					vm.selectedSomething = 0;
+    				vm.selectedEffect = null;
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
 					$scope.showQuestion3 = true;
+					vm.selectedSomething = 0;
+    				vm.selectedStrain = null;
 					break;
     		}
    
@@ -243,10 +347,16 @@
     	//the GO button
     	$scope.goEasy = function(mode){
 
+    		//make sure user input a medical condition
+    		if(vm.selectedSomething === 0){
+    			return alert("Please select something.");
+    		};
+
     		switch (mode){
     			case 'Q1':
     				$scope.showAnswer1 = true;
 					$scope.showQuestion1 = false;
+					$scope.searchForTaste(vm.selectedTaste);
 					break;
 				case 'Q2':
 					$scope.showAnswer2 = true;

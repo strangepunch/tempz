@@ -80,12 +80,17 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
-						<SS> + </SS>Pick your effect <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
+						<SS> + </SS>Pick your effect <span class="caret"></span> <div>{{vm.selectedEffect}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ2">
-					    <ul class="col-xs-7" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
-							<li><div ng-click="selectTaste(tasteList.taste)">{{tasteList.taste}}</div></li>
+						<div class = "row row-padding">
+					 		<div class="btn" ng-click="searchEffect('All')"> All </div>
+					 		<div class="btn" ng-click="searchEffect('Positive')"> Positive </div>   
+					 		<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>  
+					 	</div>
+					    <ul class="col-xs-7" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
+							<li><div ng-click="selectEffect(effectList.recEffectName)">{{effectList.recEffectName}}</div></li>
 						</ul>
 					</div> 
 				</div>
@@ -164,8 +169,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12"> Your effect selection: </div>
-					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
-					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
+					<div class="col-xs-6"> {{vm.selectedEffect}} </div>
 				</div>
 			</div> 
 		</div>

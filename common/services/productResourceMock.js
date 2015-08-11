@@ -43,162 +43,162 @@
 			{"recEffectId": 1,
 			 "recEffectName": "Euphoric",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			}, 
 			{"recEffectId": 2,
 			 "recEffectName": "Happy",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 3,
 			 "recEffectName": "Uplifted",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 4,
 			 "recEffectName": "Relaxed",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 6,
 			 "recEffectName": "Energetic",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 7,
 			 "recEffectName": "Long lasting",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 8,
 			 "recEffectName": "Very potent",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 9,
 			 "recEffectName": "Mind and body balance",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 10,
 			 "recEffectName": "Mental calmness",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 11,
 			 "recEffectName": "Productive",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			}, 
 			{"recEffectId": 12,
 			 "recEffectName": "Pain relief",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 13,
 			 "recEffectName": "Mild psychoactive effects",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 14,
 			 "recEffectName": "Mellow effects with mental clarity",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 15,
 			 "recEffectName": "Intense effects",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 16,
 			 "recEffectName": "Mind and Body Buzz",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Enhance conversation",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 18,
 			 "recEffectName": "Therapeutic potency",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 19,
 			 "recEffectName": "Tingly",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 20,
 			 "recEffectName": "Stimulate Hunger",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 22,
 			 "recEffectName": "Dry Eyes",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 23,
 			 "recEffectName": "Paranoid",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 25,
 			 "recEffectName": "Anxious",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 26,
 			 "recEffectName": "Munchies",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 28,
 			 "recEffectName": "Sleepy",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 30,
 			 "recEffectName": "Clear-headed",  
 			 "recEffectType": "N",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 31,
 			 "recEffectName": "Sexual",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 32,
 			 "recEffectName": "Giggly",  
 			 "recEffectType": "P",
-			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
+			 "imageUrl": "6.png"
 			}
 		];
 
@@ -25678,6 +25678,7 @@
 		var conditionUrl = "/api/conditions";
 		var strainNameUrl = "/api/strainNames";
 		var tasteUrl = "/api/tastes";
+		var recEffectUrl = "/api/recEffects";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
@@ -25690,6 +25691,7 @@
 		$httpBackend.whenGET(conditionUrl).respond(conditions);
 		$httpBackend.whenGET(strainNameUrl).respond(strainNames);
 		$httpBackend.whenGET(tasteUrl).respond(tastes);
+		$httpBackend.whenGET(recEffectUrl).respond(recEffects);
 
 		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
 
