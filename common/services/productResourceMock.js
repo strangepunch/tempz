@@ -17223,7 +17223,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBD", 
