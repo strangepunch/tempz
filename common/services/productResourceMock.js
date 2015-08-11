@@ -382,6 +382,11 @@
 			"tasteId": 41,
 			"taste": "Tree Fruit",
 			"imageUrl": "TreeFruit.png"
+		},
+		{ 
+			"tasteId": 42,
+			"taste": "Chocolate",
+			"imageUrl": "Grape.png"
 		}
 
 	];
@@ -1134,8 +1139,8 @@
 
 			},
 			{"strainId": 150,
-			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa"
+			 "strainName": "LA Chocolat",
+			 "strainType": "Hybrid"
 
 			},
 			{"strainId": 151,
@@ -1219,7 +1224,7 @@
 
 			},
 			{"strainId": 167,
-			 "strainName": "Krytonite",
+			 "strainName": "Kryptonite",
 			 "strainType": "Indica"
 
 			},
@@ -1368,8 +1373,8 @@
 
 			},
 			{"strainId": 197,
-			 	"strainName": "Kryptonite",
-			 	"strainType": "Indica"
+			 	"strainName": "White Kryptonite",
+			 	"strainType": "Hybrid"
 
 			},
 			{"strainId": 198,
@@ -1391,7 +1396,27 @@
 			 	"strainName": "Blackwater",
 			 	"strainType": "Indica"
 			 	
-			 }
+			}, 
+			{"strainId": 202,
+			 	"strainName": "UltraViolet OG",
+			 	"strainType": "Indica"
+			 	
+			}, 
+			{"strainId": 203,
+			 	"strainName": "Face Off OG",
+			 	"strainType": "Indica"
+			 	
+			},
+			{"strainId": 204,
+			 	"strainName": "Citrix",
+			 	"strainType": "Hybrid"
+			 	
+			},
+			{"strainId": 205,
+			 	"strainName": "Grapefruit",
+			 	"strainType": "Sativa"
+			 	
+			}
 		]; 
 
 
@@ -17193,7 +17218,7 @@
 			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 			},
 			{"strainId": 150,
-			 "strainName": " ",
+			 "strainName": " LA Chocolat",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
@@ -17289,14 +17314,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	"taste": [""],
-		 	 "conditions": ["Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Strawberry Mist", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Lemon", "Lime"],
+		 	 "conditions": ["Pain", "Stress", "Appetite Loss"],
+			 "positiveEffects": ["Soothing", "Relaxing", "Hungry"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "Its soothing physical effects sink through the body, keeping you relaxed while kindling the appetite.",
+			 "descriptionAbbrev":  "Its soothing physical effects sink through the body, keeping you relaxed while kindling the appetite.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/la-chocolat_100x100.jpg"
 			},
 			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
@@ -19093,10 +19118,10 @@
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps"],
-			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Giggly"],
+			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
+			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "tags": ["Indica", "Krytonite", "PMS"],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
@@ -22175,8 +22200,8 @@
 			 "imageUrl": "images/strains/king-louis-xiii_100x100.jpg"
 			},
 			{"strainId": 196,
-			 	"strainName": "Kryptonite",
-			 	"strainType": "Indica",
+			 	"strainName": "White Kryptonite",
+			 	"strainType": "Hybrid",
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
@@ -22271,14 +22296,14 @@
 			 		"value": 0.00
 			 	}	
 		 	], 
-		 	"taste": ["Sweet", "Pungent", "Earthy"],
-		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress", "Fatigue", "Depression"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Sleepy", "Euphoric", "Tingly"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
-			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
-			 "tags": ["Sweet", "Earthy", "Pungent"],
-			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
+		 	"taste": ["Flowery", "Pungent", "Spicy", "Herbal"],
+		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Fatigue"],
+			 "positiveEffects": ["Energetic", "Relaxed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "The powerful euphoria dealt by White Kryptonite borders on hypnotic and trance-like at times, making this strain a good choice for meditative, introspective evenings.",
+			 "descriptionAbbrev":  "The powerful euphoria dealt by White Kryptonite borders on hypnotic and trance-like at times, making this strain a good choice for meditative, introspective evenings.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/white-kryptonite_100x100.jpg"
 			},
 			{"strainId": 197,
 			 	"strainName": "Legend OG",
@@ -22703,6 +22728,536 @@
 			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
 			 "tags": ["Earthy", "Sweet", "Berry"],
 			 "imageUrl": "images/strains/blackwater_100x100.jpg"
+			},
+			{"strainId": 201,
+			 	"strainName": "UltraViolet OG",
+			 	"strainType": "Indica",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Pungent"],
+		 	 "conditions": ["Insomnia", "Stress", "Depression"],
+			 "positiveEffects": ["Euphoric", "Dreamy", "Sleepy"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "This powerful indica strain delivers dreamy, sleepy euphoria that gives your eyelids some heaviness at night while giving your mood a burst of positivity.",
+			 "descriptionAbbrev": "This powerful indica strain delivers dreamy, sleepy euphoria that gives your eyelids some heaviness at night while giving your mood a burst of positivity.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/UltravioletOG.jpg"
+			},
+			{"strainId": 202,
+			 	"strainName": "Face Off OG",
+			 	"strainType": "Indica",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Earthy"],
+		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Pain", "Arthritis", "Fibromyalgia", "Headache", "Hangover", "Appetite Loss"],
+			 "positiveEffects": ["Euphoric", "Dreamy", "Sleepy", "Peaceful"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
+			 "descriptionAbbrev": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/face-off-og_100x100.jpg"
+			},
+			{"strainId": 203,
+			 	"strainName": "Sunset Sherbet",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Citrus", "Sweet", "Berry", "Mint", "Fruity"],
+		 	 "conditions": ["Stress", "Hypertension", "Bipolar", "Anxiety"],
+			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Happy", "Uplifting"],
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": " Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
+			 "descriptionAbbrev": " Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
+			},
+			{"strainId": 204,
+			 	"strainName": "Citrix",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Grapefruit", "Lemon", "Citrus"],
+		 	 "conditions": ["Stress", "Hypertension", "Depression"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Citrix entices the senses before drawing you into its active, clear-headed euphoria.",
+			 "descriptionAbbrev": "Citrix entices the senses before drawing you into its active, clear-headed euphoria.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/Citrix.jpg"
+			},
+			{"strainId": 205,
+			 "strainName": "Grapefruit",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Grapefruit", "Citrus", "Sweet"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Nausea"],
+			 "positiveEffects": ["Uplifting", "Happy", "Energetic", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Headache"],
+			 "descriptionDetailed": "The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
+			 "descriptionAbbrev": "The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/grapefruit_100x100.jpg"
 			}
 		];
 		
