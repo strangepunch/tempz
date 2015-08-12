@@ -56,7 +56,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
-						<SS> + </SS>Pick your flavor <span class="caret"></span> <div>{{vm.selectedTaste}}</div>
+						<SS ng-style="vm.alert"> + </SS>Pick your flavor <span class="caret"></span> <div>{{vm.selectedTaste}}</div> <div ng-style="vm.alert">{{vm.alertMsg}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
@@ -80,7 +80,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q2')">
-						<SS> + </SS>Pick your effect <span class="caret"></span> <div>{{vm.selectedEffect}}</div>
+						<SS ng-style="vm.alert"> + </SS>Pick your effect <span class="caret"></span> <div>{{vm.selectedEffect}}</div> <div ng-style="vm.alert">{{vm.alertMsg}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ2">
@@ -109,7 +109,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q3')">
-						<SS> + </SS>Pick your strain <span class="caret"></span> <div>{{vm.selectedStrain}}</div>
+						<SS ng-style="vm.alert"> + </SS>Pick your strain <span class="caret"></span> <div>{{vm.selectedStrain}}</div><div ng-style="vm.alert">{{vm.alertMsg}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ3">

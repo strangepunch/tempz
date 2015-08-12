@@ -306,9 +306,17 @@
     	//the GO button
     	$scope.goEasy = function(){
     		vm.showA1 = false;
-    		//vm.selectedStrain
-    		//vm.selectedCond
-    		//vm.userSelect
+
+    		//Hide or display the "more or less" button depend on if suggested straing button is pressed 
+    		if(vm.suggested == false){
+    			vm.thereIsMore = false;
+    			vm.MoreStrains = 3;
+				vm.MoreOrLess = false;
+    		}else{
+    			vm.thereIsMore = true;
+    			vm.MoreStrains = 3;
+				vm.MoreOrLess = false;
+    		}
     		
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
