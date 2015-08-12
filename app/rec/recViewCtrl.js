@@ -440,7 +440,8 @@
 
     		//make sure user input a medical condition
     		if(vm.selectedSomething === 0){
-    			return alert("Please select something.");
+    			vm.alert = {"color":"red"};
+    			return vm.alertMsg = "Please select something.";
     		};
 
     		switch (mode){
@@ -475,14 +476,20 @@
     			case 'Q1':
     				//console.log("Q1");
 					vm.showQ1 = !vm.showQ1;
+					vm.alert = {"color":"white"};
+					vm.alertMsg = "";
 					break;
 				case 'Q2':
 					//console.log("Q2");
 					vm.showQ2 = !vm.showQ2;
+					vm.alert = {"color":"white"};
+					vm.alertMsg = "";
 					break;
 				case 'Q3':
 					//console.log("Q2");
 					vm.showQ3 = !vm.showQ3;
+					vm.alert = {"color":"white"};
+					vm.alertMsg = "";
 					break;
     		}
 		}
