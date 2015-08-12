@@ -38,6 +38,10 @@
     	//make sure they select something
     	vm.selectedSomething = 0;
 
+    	//initial display of strains limited to 3
+    	vm.MoreStrains = 3;
+    	vm.thereIsMore = false;
+
 		//Populate modes
 		modeResource.query(function(data){
 			vm.Modes = data;
@@ -60,6 +64,7 @@
     				$scope.showAnswer3 = false;
     				vm.selectedSomething = 0;
     				vm.selectedTaste = null;
+    				vm.strainSuggestions=[];
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
@@ -73,6 +78,7 @@
     				$scope.showAnswer3 = false;
     				vm.selectedSomething = 0;
     				vm.selectedEffect = null;
+    				vm.strainSuggestions=[];
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
@@ -86,6 +92,7 @@
     				$scope.showAnswer3 = false;
     				vm.selectedSomething = 0;
     				vm.selectedStrain = null;
+    				vm.strainSuggestions=[];
 			        break;
 			    case 4:
 			    	vm.modeName = "Positive";
@@ -98,9 +105,9 @@
 			    	vm.discMode = "Negative";
 			        break;
 			    case 6:
-			    	vm.modeName = "Random";
+			    	vm.modeName = "Vape Name";
 			    	vm.centerImage = "6.png";
-			    	vm.discMode = "Random";
+			    	vm.discMode = "Vape Tip";
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
@@ -275,8 +282,8 @@
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
 		//Flavor
 		$scope.searchForTaste = function (Flavor){
-
 			strainResource.query(function(data){
+				ngProgress.complete();
 				var num = 0;
  				vm.strainSuggestions = [];
  				for(var i=0; i<data.length; i++){
@@ -287,16 +294,67 @@
  						}
  					}
  				}
+ 				
+ 				if(vm.strainSuggestions.length > 3){
+	    			vm.thereIsMore = true;
+	    		}else{
+	    			vm.thereIsMore = false;	
+	    		}
 				//console.log("list of Seached", vm.strainSuggestions);
 			});
 
 		};
 		//Effect
 		$scope.searchForFeel = function (Effect){
+			strainResource.query(function(data){
+				ngProgress.complete();
+				var num = 0;
+ 				vm.strainSuggestions = [];
+ 				for(var i=0; i<data.length; i++){
+ 					for(var x=0; x<data[i].positiveEffects.length; x++){
+ 						if(data[i].positiveEffects[x] === Effect){
+ 							vm.strainSuggestions[num] = data[i];
+ 							num++;
+ 						}
+ 					}
+ 				}
+ 				for(var i=0; i<data.length; i++){
+ 					for(var x=0; x<data[i].negativeEffects.length; x++){
+ 						if(data[i].negativeEffects[x] === Effect){
+ 							vm.strainSuggestions[num] = data[i];
+ 							num++;
+ 						}
+ 					}
+ 				}
+
+ 				if(vm.strainSuggestions.length > 3){
+	    			vm.thereIsMore = true;
+	    		}else{
+	    			vm.thereIsMore = false;	
+	    		}
+				//console.log("list of Seached", vm.strainSuggestions);
+			});
 
 		};
 		//Strain
 		$scope.searchForBud = function (Strain){
+			strainResource.query(function(data){
+				ngProgress.complete();
+				var num = 0;
+ 				vm.strainSuggestions = [];
+ 				for(var i=0; i<data.length; i++){
+					if(data[i].strainName === Strain){
+						vm.strainSuggestions[num] = data[i];
+						num++;
+					}
+ 				}
+
+ 				if(vm.strainSuggestions.length > 3){
+	    			vm.thereIsMore = true;
+	    		}else{
+	    			vm.thereIsMore = false;	
+	    		}
+			});
 
 		};
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode END------------**/
@@ -327,18 +385,45 @@
 					$scope.showQuestion1 = true;
 					vm.selectedSomething = 0;
     				vm.selectedTaste = null;
+    				vm.strainSuggestions=[];
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
 					$scope.showQuestion2 = true;
 					vm.selectedSomething = 0;
     				vm.selectedEffect = null;
+    				vm.strainSuggestions=[];
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
 					$scope.showQuestion3 = true;
 					vm.selectedSomething = 0;
     				vm.selectedStrain = null;
+    				vm.strainSuggestions=[];
+					break;
+    		}
+   
+    	}
+
+    	//display more
+    	$scope.goMore = function(mode){
+
+    		switch (mode){
+    			case 'A1':
+    				vm.MoreStrains = vm.strainSuggestions.length;
+    				vm.MoreOrLess = true;
+					break;
+				case 'A2':
+					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreOrLess = true;
+					break;
+				case 'A3':
+					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreOrLess = true;
+					break;
+				default:
+					vm.MoreStrains = 3;
+					vm.MoreOrLess = false;
 					break;
     		}
    
@@ -354,17 +439,25 @@
 
     		switch (mode){
     			case 'Q1':
+    				ngProgress.start();
+    				vm.MoreStrains = 3;
     				$scope.showAnswer1 = true;
 					$scope.showQuestion1 = false;
 					$scope.searchForTaste(vm.selectedTaste);
 					break;
 				case 'Q2':
+					ngProgress.start();
+					vm.MoreStrains = 3;
 					$scope.showAnswer2 = true;
 					$scope.showQuestion2 = false;
+					$scope.searchForFeel(vm.selectedEffect);
 					break;
 				case 'Q3':
+					ngProgress.start();
+					vm.MoreStrains = 3;
 					$scope.showAnswer3 = true;
 					$scope.showQuestion3 = false;
+					$scope.searchForBud(vm.selectedStrain);
 					break;
     		}
 

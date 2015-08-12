@@ -8,7 +8,7 @@
 						<div ng-repeat="mode in vm.Modes|limitTo:3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li ng-click="selectMode(mode)"> 
-								<img style="width:35px;" ng-src="images/Rec/{{mode}}.png"> 
+								<img ng-src="images/Rec/{{mode}}.png"> 
 							</li>
 						</div>
 					</td>
@@ -38,7 +38,7 @@
 						<div ng-repeat="mode in vm.Modes|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li ng-click="selectMode(mode)" style="text-align:right">
-								<img style="width:35px;" ng-src="images/Rec/{{mode}}.png">
+								<img ng-src="images/Rec/{{mode}}.png">
 							</li>	
 						</div>
 						
@@ -148,41 +148,108 @@
 	<!--Rec Answers-->
 	<!--Flavor-->
 	<div ng-show = "showAnswer1">
+		
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Your flavor selection: </div>
-					<div class="col-xs-6"> {{vm.selectedTaste}} </div>
+					<div class="col-xs-12"> Suggested: </div>
+					<!--<div class="col-xs-6"> {{vm.selectedTaste}} </div>-->
 				</div>
 			</div> 
 		</div>
-
-		<div class = "panel panel-buttons">
-			<div class = "row">
-				<div class="btn" ng-click="goBack('A1')"> Back </div>
+		
+		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
+			<div class="row">
+				<div class="panel-heading">
+					{{suggestedStrains.strainName}}
+				</div>
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-3">
+							<div class="imgStrains"> 
+								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
+							</div>
+						</div>
+						<div class="col-xs-6">
+							<div> 
+								{{suggestedStrains.descriptionAbbrev}} 
+							</div>
+						</div>
+						<div class="col-xs-3">
+							<div class="btn btn-primary"> More > </div>  
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons">
+					<div class="btn" ng-click="goBack('A1')"> Back </div>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
+					<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
+					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+				</div>
 			</div>
 		</div>
 	</div>
 	<!--Effect-->
 	<div ng-show = "showAnswer2">
+		
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Your effect selection: </div>
-					<div class="col-xs-6"> {{vm.selectedEffect}} </div>
+					<div class="col-xs-12"> Suggested: </div>
+					<!--<div class="col-xs-6"> {{vm.selectedEffect}} </div>-->
 				</div>
 			</div> 
 		</div>
-
-		<div class = "panel panel-buttons">
-			<div class = "row">
-				<div class="btn" ng-click="goBack('A2')"> Back </div>
+		
+		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
+			<div class="row">
+				<div class="panel-heading">
+					{{suggestedStrains.strainName}}
+				</div>
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-3">
+							<div class="imgStrains"> 
+								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
+							</div>
+						</div>
+						<div class="col-xs-6">
+							<div> 
+								{{suggestedStrains.descriptionAbbrev}} 
+							</div>
+						</div>
+						<div class="col-xs-3">
+							<div class="btn btn-primary"> More > </div>  
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons">
+					<div class="btn" ng-click="goBack('A2')"> Back </div>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
+					<div class="btn" ng-click="goMore('A2')" ng-if="!vm.MoreOrLess"> More </div>
+					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+				</div>
 			</div>
 		</div>
 	</div>
 
 	<!--Strain-->
 	<div ng-show = "showAnswer3">
+		<!--
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
@@ -191,12 +258,45 @@
 				</div>
 			</div> 
 		</div>
-
-		<div class = "panel panel-buttons">
-			<div class = "row">
-				<div class="btn" ng-click="goBack('A3')"> Back </div>
+		-->
+		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
+			<div class="row">
+				<div class="panel-heading">
+					{{suggestedStrains.strainName}}
+				</div>
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-3">
+							<div class="imgStrains"> 
+								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
+							</div>
+						</div>
+						<div class="col-xs-6">
+							<div> 
+								{{suggestedStrains.descriptionAbbrev}} 
+							</div>
+						</div>
+						<div class="col-xs-3">
+							<div class="btn btn-primary"> More > </div>  
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons">
+					<div class="btn" ng-click="goBack('A3')"> Back </div>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
+					<div class="btn" ng-click="goMore('A3')" ng-if="!vm.MoreOrLess"> More </div>
+					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 	<!--Rec Answers end-->
 
