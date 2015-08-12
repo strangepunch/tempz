@@ -5939,8 +5939,8 @@
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Nausea"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
-			 "descriptionAbbrev":  "Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
+			 "descriptionDetailed": "Forum Cut Girl Scout Cookie is what the majority of medical patients consider true GSC.",
+			 "descriptionAbbrev":  "Forum Cut Girl Scout Cookie is what the majority of medical patients consider true GSC.",
 			 "tags": ["Hybrid", "Forum Cookies/GSC", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/forum_cookies.jpg"
 			},
@@ -10181,7 +10181,7 @@
 			 "positiveEffects": ["Focused", "Happy", "Relaxed", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Axious", "Paranoid"],
 			 "descriptionDetailed": "Charlotte’s powerful web may cause dizziness for some patients, so new users should be cautious. Overall, the flowers of this strain have a fresh pine aroma.",
-			 "descriptionAbbrev":  "This strain is effective with little to no psychoactive effects, making it great for those who don’t want their medication to affect their daily tasks.",
+			 "descriptionAbbrev":  "This strain is effective with little to no psychoactive effects, making it great for those who don't want their medication to affect their daily tasks.",
 			 "tags": ["Sativa", "Charlotte's Web", "Cancer", "Epilepsy", "Stress"],
 			 "imageUrl": "images/strains/charlotte-s-web_100x100.jpg"
 			},
@@ -12301,7 +12301,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "With earthy flavors of lemons and citrus, Amnesia Haze is a perfect strain to start your day with a smile.",
-			 "descriptionAbbrev":  "The uplifting, energetic buzz is one you won’t soon forget.",
+			 "descriptionAbbrev":  "The uplifting, energetic buzz is one you won't soon forget.",
 			 "tags": ["Sativa", "Amnesia Haze", "Depression", "Stress"],
 			 "imageUrl": "images/strains/amnesia-haze_100x100.jpg"
 			},
@@ -20780,8 +20780,8 @@
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
 			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache"],
-			 "descriptionDetailed": "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
-			 "descriptionAbbrev":  "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space.",
+			 "descriptionDetailed": "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria's top floor where full-body relaxation meets a time-bending cerebral space.",
+			 "descriptionAbbrev":  "With a sweet and earthy aroma, Girl Scout Cookies launches you to euphoria's top floor where full-body relaxation meets a time-bending cerebral space.",
 			 "tags": ["Hybrid", "Girl Scout Cookies", "Stress", "Pain", "Depression"],
 			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 			},
