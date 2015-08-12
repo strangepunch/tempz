@@ -312,7 +312,8 @@
     		
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
-    			return alert("Please select a medical condition.");
+    			vm.alert = {"color":"red"};
+    			return vm.alertMsg = "Please select a medical condition.";
     		}
 
     		//hide the question screen and display solution screen
@@ -525,6 +526,11 @@
     	//find and suggest strains based one selected temp for the condition
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
+    		//make sure user input a medical condition
+    		if(vm.userSelect[0].condName===''){
+    			vm.alert = {"color":"red"};
+    			return vm.alertMsg = "Please select a medical condition.";
+    		}
     		vm.suggested = true;
     		$scope.goEasy();
     		//console.log("vm.productNameArrayU",vm.productNameArrayU);
@@ -590,6 +596,8 @@
     			case 'Q1':
     				//console.log("Q1 A");
 					vm.showQ1 = !vm.showQ1;
+					vm.alert = {"color":"white"};
+					vm.alertMsg = "";
 					break;
 				case 'Q2':
 					//console.log("Q2");

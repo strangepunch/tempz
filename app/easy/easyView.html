@@ -47,7 +47,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12" ng-click = "vm.toggleQuestion('Q1')">
-						<SS> 1. </SS>Choose a medical condition <span class="caret"></span> <div>{{vm.selectedCond}}</div>
+						<SS ng-style="vm.alert"> 1. </SS>Choose a medical condition <span class="caret"></span> <div>{{vm.selectedCond}}</div> <div ng-style="vm.alert">{{vm.alertMsg}}</div>
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
@@ -67,8 +67,9 @@
 						<SS> 2. </SS> Choose a strain <span class="caret"></span>
 						<div>{{vm.selectedStrain}}</div>
 					</div>
-					<div class="col-xs-6" ng-click = "getSuggestStrain()">
-						<SS> [ </SS> Get Suggestions <SS> ] </SS>
+					<span class="col-xs-2">OR</span>
+					<div class="col-xs-4" ng-click = "getSuggestStrain()">
+						 <SS> </SS> Suggest <span class="caret"></span>
 					</div>
 					<div ng-if = "vm.showQ2">
 						<div class = "row row-padding">
@@ -172,7 +173,7 @@
 					</div>
 				</div>
 				<div  class = "panel-footer">
-					<div class="btn" ng-click="goBack()"> Back </div>
+					<div class="btn" ng-click="goBack()"> <span class="glyphicon glyphicon-chevron-left"> </div>
 					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
 					<!--
 					<div class = "btn" style = "float:right" ng-if="vm.thereIsMore">
@@ -184,9 +185,17 @@
 			</div> 
 		</div>
 
-		<div class = "panel panel-buttons">
-			<div class = "row">
-				<div class="btn" ng-click="goBack()"> Back </div>
+		<div class="row">
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons">
+					<div class="btn" ng-click="goBack()"> Back </div>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
+					<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
+					<div class="btn" ng-click="goMore('A2')" ng-if="vm.MoreOrLess"> Less </div>
+				</div>
 			</div>
 		</div>
 	</div>
