@@ -1567,6 +1567,31 @@
 			 	"strainName": "Grapefruit",
 			 	"strainType": "Sativa"
 			 	
+			},
+			{"strainId": 206,
+			 	"strainName": "Chocolate Kush",
+			 	"strainType": "Sativa"
+			 	
+			},
+			{"strainId": 207,
+			 	"strainName": "Chocolate Chunk",
+			 	"strainType": "Indica"
+			 	
+			},
+			{"strainId": 208,
+			 	"strainName": "Chocolope",
+			 	"strainType": "Sativa"
+			 	
+			},
+			{"strainId": 209,
+			 	"strainName": "Cinex",
+			 	"strainType": "Hybrid"
+			 	
+			},
+			{"strainId": 210,
+			 	"strainName": "Shiskaberry",
+			 	"strainType": "Indica"
+			 	
 			}
 		]; 
 
@@ -17374,11 +17399,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.01
+			 		"value": 15.40
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -17465,12 +17490,12 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Lemon", "Lime"],
+		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Fruity"],
 		 	 "conditions": ["Pain", "Stress", "Appetite Loss"],
-			 "positiveEffects": ["Soothing", "Relaxing", "Hungry"],
+			 "positiveEffects": ["Soothing", "Relaxing", "Hungry", "Long Lasting", "Very potent"],
 			 "negativeEffects": ["Sleepy"],
-			 "descriptionDetailed": "Its soothing physical effects sink through the body, keeping you relaxed while kindling the appetite.",
-			 "descriptionAbbrev":  "Its soothing physical effects sink through the body, keeping you relaxed while kindling the appetite.",
+			 "descriptionDetailed": "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
+			 "descriptionAbbrev":  "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
 			 "tags": [""],
 			 "imageUrl": "images/strains/la-chocolat_100x100.jpg"
 			},
@@ -18752,23 +18777,23 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.00
+			 		"value": 19.51
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -22886,11 +22911,11 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.00
+			 		"value": 15.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.90
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -22992,23 +23017,23 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 0.01
+			 		"value": 19.99
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -23409,6 +23434,536 @@
 			 "descriptionAbbrev": "The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/grapefruit_100x100.jpg"
+			},
+			{"strainId": 206,
+			 "strainName": "Chocolate Kush",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.98
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Chocolate", "Earthy", "Pungent", "Sweet"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Hungry", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "Also known as Chocolope Kush, the buds on Chocolate Kush are dense and dark colored with a large amount of white crystals. It is known to have the aroma of vanilla mixed with chocolate.",
+			 "descriptionAbbrev": "Also known as Chocolope Kush, the buds on Chocolate Kush are dense and dark colored with a large amount of white crystals. It is known to have the aroma of vanilla mixed with chocolate.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/chocolate-kush_100x100.jpg"
+			},
+			{"strainId": 207,
+			 "strainName": "Chocolate Chunk",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 12.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Chocolate", "Earthy", "Pungent", "Coffee"],
+		 	 "conditions": ["Stress", "Insomnia", "Depression", "Nausea", "Pain"],
+			 "positiveEffects": ["Relaxed", "Happy", "Sleepy", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Chocolate Chunk gives a quick and heavy hit which will leave you relaxed and even a little bit sleepy. It has a hashy flavor reminiscent of the slightly bitter taste of top quality dark chocolate and the smell combines sweet and earthy notes.",
+			 "descriptionAbbrev": "Chocolate Chunk gives a quick and heavy hit which will leave you relaxed and even a little bit sleepy. It has a hashy flavor reminiscent of the slightly bitter taste of top quality dark chocolate and the smell combines sweet and earthy notes.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/chocolate-chunk_100x100.jpg"
+			},
+			{"strainId": 208,
+			 "strainName": "Chocolope",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 15.82
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Earthy", "Coffee", "Sweet"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "The hefty sativa buds give earthy, sweet coffee flavors that provide a dreamy, cerebral effect.",
+			 "descriptionAbbrev": "The hefty sativa buds give earthy, sweet coffee flavors that provide a dreamy, cerebral effect.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/chocolope_100x100.jpg"
+			},
+			{"strainId": 209,
+			 "strainName": "Cinex",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 11.19
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Earthy", "Citrus", "Sweet"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Nausea", "Fatigue"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "The effects are clear-headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
+			 "descriptionAbbrev": "The effects are clear-headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cinex_100x100.jpg"
+			},
+			{"strainId": 210,
+			 "strainName": "Shiskaberry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 20.10
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.61
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Blueberry"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Headache"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Sleepy", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
+			 "descriptionAbbrev": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/shishkaberry_100x100.jpg"
 			}
 		];
 		
