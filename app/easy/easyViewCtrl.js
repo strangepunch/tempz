@@ -16,6 +16,7 @@
 		vm.userTempArrayU = [];
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
+		
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
 		vm.tempDisplay = 126;
@@ -291,6 +292,15 @@
     	$scope.goBack = function(){
     		$scope.showAnswer = false;
     		$scope.showQuestion = true;
+
+    		//clear selections
+    		vm.userSelect = [{"condName":"", "strnName":""}];
+    		vm.selectedCond = "";
+    		vm.selectedStrain = ""; 
+
+    		//clear data
+    		vm.suggested = false;
+    		vm.finalSuggestedStrains = [];
     	}
 
     	//the GO button
@@ -393,7 +403,7 @@
 
     		} else {
     			vm.hasEnterStrain = false;
-    			return alert("Please select a strain for better info.");
+    			//return alert("Please select a strain for better info.");
     		}
 
     		
@@ -494,9 +504,9 @@
     			}
     		}
     		
-    		console.log("selected temp", temp)
-    		console.log("vm.userTempArrayU", vm.userTempArrayU)
-    		console.log("vm.userTempArrayUC", vm.userTempArrayU)
+    		//console.log("selected temp", temp)
+    		//console.log("vm.userTempArrayU", vm.userTempArrayU)
+    		//console.log("vm.userTempArrayUC", vm.userTempArrayU)
     		
     	}
 
@@ -510,6 +520,68 @@
 				}
 			}
 	    	
+    	}
+
+    	//find and suggest strains based one selected temp for the condition
+    	vm.suggested = false;
+    	$scope.getSuggestStrain = function(){
+    		vm.suggested = true;
+    		$scope.goEasy();
+    		//console.log("vm.productNameArrayU",vm.productNameArrayU);
+    		var num = 0;
+    		var isMatch = 0;
+    		vm.suggestedStains = [];
+    		vm.finalSuggestedStrains = [{"matches":0, "strnData":[]}];
+    		strainResource.query(function(data){
+    			for (var x=0; x < data.length; x++){
+    				for(var i=0; i < vm.productNameArrayU.length; i++){
+    					for (var y=0; y < data[x].components.length; y++){
+    						if(data[x].components[y].name === vm.productNameArrayU[i]){
+    							if(data[x].components[y].value > 0){
+    								isMatch++;
+    							}
+
+    						}
+    					}
+
+    				}
+    				//console.log("isMatch", isMatch);
+    				if(isMatch != 0 && isMatch <= vm.productNameArrayU.length){
+    					//console.log("Yes", isMatch);
+    					vm.suggestedStains[num] = data[x];
+    					vm.finalSuggestedStrains[num] = {"matches":isMatch, "strnData":vm.suggestedStains[num]};
+    					num++;
+    					isMatch = 0;
+    				}else{
+    					isMatch = 0;
+    				}
+    			}
+    			
+    		});
+
+    		console.log("vm.suggestedStains", vm.suggestedStains);
+    		console.log("vm.finalSuggestedStrains",vm.finalSuggestedStrains);
+    	}
+
+    	//display more
+    	vm.thereIsMore = true;
+    	vm.MoreStrains = 3;
+    	$scope.goMore = function(mode){
+    		switch (mode){
+    			case 'A1':
+    				vm.MoreStrains = vm.finalSuggestedStrains.length;
+    				vm.MoreOrLess = true;
+					break;
+				case 'A2':
+					vm.MoreStrains = 3;
+					vm.MoreOrLess = false;
+					break;
+				default:
+					vm.MoreStrains = 3;
+					vm.MoreOrLess = false;
+					break;
+    		}
+   
     	}
 
     	//toggle the questions display on/off

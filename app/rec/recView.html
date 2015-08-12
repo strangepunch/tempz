@@ -152,7 +152,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Suggested: </div>
+					<div class="col-xs-12"> Suggested for {{vm.selectedTaste}}: </div>
 					<!--<div class="col-xs-6"> {{vm.selectedTaste}} </div>-->
 				</div>
 			</div> 
@@ -170,15 +170,16 @@
 								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-xs-8">
 							<div> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
-						<div class="col-xs-3">
-							<div class="btn btn-primary"> More > </div>  
-						</div>
 					</div>
+				</div>
+				<div  class = "panel-footer">
+					<div class="btn" ng-click="goBack('A1')"> Back </div>
+					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
 				</div>
 			</div> 
 		</div>
@@ -202,7 +203,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Suggested: </div>
+					<div class="col-xs-12"> Suggested for {{vm.selectedEffect}}: </div>
 					<!--<div class="col-xs-6"> {{vm.selectedEffect}} </div>-->
 				</div>
 			</div> 
@@ -220,15 +221,16 @@
 								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-xs-8">
 							<div> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
-						<div class="col-xs-3">
-							<div class="btn btn-primary"> More > </div>  
-						</div>
 					</div>
+				</div>
+				<div  class = "panel-footer">
+					<div class="btn" ng-click="goBack('A2')"> Back </div>
+					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
 				</div>
 			</div> 
 		</div>
@@ -271,15 +273,16 @@
 								<img class="img-circle" src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-xs-8">
 							<div> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
-						<div class="col-xs-3">
-							<div class="btn btn-primary"> More > </div>  
-						</div>
 					</div>
+				</div>
+				<div  class = "panel-footer">
+					<div class="btn" ng-click="goBack('A3')"> Back </div>
+					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
 				</div>
 			</div> 
 		</div>

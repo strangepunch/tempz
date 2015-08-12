@@ -386,6 +386,8 @@
 					vm.selectedSomething = 0;
     				vm.selectedTaste = null;
     				vm.strainSuggestions=[];
+    				vm.MoreOrLess = false;
+    				vm.thereIsMore = false;
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
@@ -393,6 +395,8 @@
 					vm.selectedSomething = 0;
     				vm.selectedEffect = null;
     				vm.strainSuggestions=[];
+    				vm.MoreOrLess = false;
+    				vm.thereIsMore = false;
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
@@ -400,6 +404,8 @@
 					vm.selectedSomething = 0;
     				vm.selectedStrain = null;
     				vm.strainSuggestions=[];
+    				vm.MoreOrLess = false;
+    				vm.thereIsMore = false;
 					break;
     		}
    
