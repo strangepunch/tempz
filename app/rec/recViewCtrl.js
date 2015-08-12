@@ -94,21 +94,6 @@
     				vm.selectedStrain = null;
     				vm.strainSuggestions=[];
 			        break;
-			    case 4:
-			    	vm.modeName = "Positive";
-			    	vm.centerImage = "4.png";
-			    	vm.discMode = "Positive";
-			        break;
-			    case 5:
-			    	vm.modeName = "Negative";
-			    	vm.centerImage = "5.png";
-			    	vm.discMode = "Negative";
-			        break;
-			    case 6:
-			    	vm.modeName = "Vape Name";
-			    	vm.centerImage = "6.png";
-			    	vm.discMode = "Vape Tip";
-			        break;
 			    default:
 			        vm.modeName = "Select Mode";
 			        vm.centerImage = "1.png";

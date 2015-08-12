@@ -9,7 +9,7 @@
 	app.run(function ($httpBackend){
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
-		var modes = [1, 2, 3, 4, 5, 6]; //Flavor, Effect, Buds, Pos, Neg, Rand
+		var modes = [1, 2, 3, 'Hi', 'Mi', 'Lo']; //Flavor, Effect, Buds, Pos, Neg, Rand
 		
 		/** temp ranges  - 0 - 355 = Low, 356 - 385 Med, 386 - 470 = High **/
 
@@ -537,7 +537,7 @@
 			"compound": "",
 			"tempF": "",
 			"tempC": "",			
-			"imageUrl": "Grape.png"
+			"imageUrl": "Chocolate.png"
 		}
 
 	];
