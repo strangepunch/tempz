@@ -87,7 +87,7 @@
 						<div class = "row row-padding">
 					 		<div class="btn" ng-click="searchEffect('All')"> All </div>
 					 		<div class="btn" ng-click="searchEffect('Positive')"> Positive </div>   
-					 		<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>  
+					 		<!--<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>-->  
 					 	</div>
 					    <ul class="col-xs-7" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
 							<li><div ng-click="selectEffect(effectList.recEffectName)">{{effectList.recEffectName}}</div></li>

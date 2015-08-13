@@ -300,22 +300,25 @@
 
     		//clear data
     		vm.suggested = false;
+    		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
+    		vm.ShowStrains = false;
     	}
 
     	//the GO button
     	$scope.goEasy = function(){
-    		vm.showA1 = false;
+    		//vm.showA1 = false;
 
-    		//Hide or display the "more or less" button depend on if suggested straing button is pressed 
+    		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
     			vm.thereIsMore = false;
     			vm.MoreStrains = 3;
 				vm.MoreOrLess = false;
+				vm.ShowStrains = false;
     		}else{
-    			vm.thereIsMore = true;
     			vm.MoreStrains = 3;
 				vm.MoreOrLess = false;
+				vm.ShowStrains = true;
     		}
     		
     		//make sure user input a medical condition
@@ -357,7 +360,7 @@
 	    		}	
     		}
     		vm.userTempArrayU = vm.userTempArray.unique(); 
-			vm.productNameArrayU = vm.productNameArray.unique();
+			vm.productNameArrayU = vm.productNameArray.unique(); //used for suggest strains later
 
 			//change the display to reflect the lowest temp value from the user's selected condition
 			if(vm.userTempArrayU != 0){
@@ -418,6 +421,7 @@
     		
 
     	};
+
     	//grab the array of components from choosen strain array
     	$scope.getComp = function(obj){
     		var num = 0;
@@ -531,21 +535,37 @@
 	    	
     	}
 
-    	//find and suggest strains based one selected temp for the condition
-    	vm.suggested = false;
-    	$scope.getSuggestStrain = function(){
+//------find and suggest strains based one selected temp for the condition-------------//
+		//The button "Need A Strain" on the first page
+    	$scope.goSuggest = function(){
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
     			vm.alert = {"color":"red"};
     			return vm.alertMsg = "Please select a medical condition.";
     		}
     		vm.suggested = true;
+    		vm.ShowStrains = true; //show button on
+    		vm.thereIsMore = false;
     		$scope.goEasy();
-    		//console.log("vm.productNameArrayU",vm.productNameArrayU);
+    	}
+
+    	//The button "Show" in suggested strain in the second screen
+    	vm.suggested = false;
+    	$scope.getSuggestStrain = function(){
+
+    		ngProgress.start();
+
+    		//make sure somethings are hidden at the beginning
+    		vm.ShowStrains = false; //show button off after it's pressed once
+    		vm.noMatchMSG = "";
+    		vm.thereIsMore = false;
+    		vm.hasMatches = true;
+
+    		//Find strains by using components from conditions search that would treat the conditions
     		var num = 0;
     		var isMatch = 0;
     		vm.suggestedStains = [];
-    		vm.finalSuggestedStrains = [{"matches":0, "strnData":[]}];
+    		vm.finalSuggestedStrains = [];
     		strainResource.query(function(data){
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
@@ -570,15 +590,31 @@
     					isMatch = 0;
     				}
     			}
-    			
+    			ngProgress.complete();
+
+    			//decide if the "More" button will show or not
+    			//display message for strains found or not
+	    		if(vm.finalSuggestedStrains.length > 3){
+	    			console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
+	    			vm.hasMatches = true;
+					//vm.ShowStrains = true;
+					vm.thereIsMore = true;
+				}else if(vm.finalSuggestedStrains.length === 0){
+					console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
+					vm.hasMatches = false;
+					vm.noMatchMSG = "Sorry. No matches found."
+					vm.thereIsMore = false;
+					//vm.ShowStrains = false;
+				}
+
     		});
 
-    		console.log("vm.suggestedStains", vm.suggestedStains);
-    		console.log("vm.finalSuggestedStrains",vm.finalSuggestedStrains);
+    		//console.log("vm.suggestedStains", vm.suggestedStains);
+    		//console.log("vm.finalSuggestedStrains",vm.finalSuggestedStrains);
     	}
 
     	//display more
-    	vm.thereIsMore = true;
+    	//vm.thereIsMore = false;
     	vm.MoreStrains = 3;
     	$scope.goMore = function(mode){
     		switch (mode){

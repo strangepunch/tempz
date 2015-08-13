@@ -64,11 +64,11 @@
 				<div class="panel-body">
 
 					<div class="col-xs-6" ng-click = "vm.toggleQuestion('Q2')">
-						<SS> 2. </SS> Choose a strain <span class="caret"></span>
+						<SS> 2. </SS> Have a strain <span class="caret"></span>
 						<div>{{vm.selectedStrain}}</div>
 					</div>
-					<div class="col-xs-6" ng-click = "getSuggestStrain()">
-						 <SS> </SS> Suggest strain<span class="caret"></span>
+					<div class="col-xs-6" ng-click = "goSuggest()">
+						 <SS> </SS> Need a strain<span class="caret"></span>
 					</div>
 					<div ng-if = "vm.showQ2">
 						<div class = "row row-padding">
@@ -138,22 +138,22 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-6"> Suggested Strains: </div>
-					<!--
+					
 					<div class="col-xs-6"> 
-						<div class = "btn" style = "float:right" ng-if="vm.thereIsMore">
-							<div ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
-							<div ng-click="goMore('A2')" ng-if="vm.MoreOrLess"> Less </div>
+						<div ng-if="!vm.ShowStrains"> {{vm.noMatchMSG}} </div>
+						<div class = "btn" style = "float:right" ng-if="vm.ShowStrains">
+							<div ng-click="getSuggestStrain()"> Show </div>
 						</div>
 					</div>
-					-->
+					
 				</div>
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:'-matches'|limitTo:vm.MoreStrains">
+		<div class = "panel" ng-if="vm.hasMatches" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:'-matches'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					{{suggestedStrains.strnData.strainName}} has {{suggestedStrains.matches}} matches
+					{{suggestedStrains.strnData.strainName}} <!--has {{suggestedStrains.matches}} matches-->
 				</div>
 				<div class="panel-body">
 					<div class = "row">
@@ -174,8 +174,8 @@
 					</div>
 				</div>
 				<div  class = "panel-footer">
-					<div class="btn" ng-click="goBack()"> <span class="glyphicon glyphicon-chevron-left"> </div>
-					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
+					<div class="btn" ng-click="goBack()"> <span class="glyphicon glyphicon-chevron-left"></span> Back  </div>
+					<div class="btn" style="float:right" ng-click=""> Detail<span class="glyphicon glyphicon-chevron-right"></span> </div>
 					<!--
 					<div class = "btn" style = "float:right" ng-if="vm.thereIsMore">
 						<div ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
