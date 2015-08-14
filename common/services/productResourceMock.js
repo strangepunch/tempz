@@ -545,1052 +545,1264 @@
 		var strainNames = [
 			{"strainId": 1,
 			 "strainName": "Trainwreck", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 
 			},
 			{"strainId": 2,
 			 "strainName": "White Widow", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/white-widow_100x100.jpg"
 
 			},
 			{"strainId": 3,
 			 "strainName": "Sage", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/sage_100x100.jpg"
 
 			},
 			{"strainId": 4,
 			 "strainName": "Skywalker OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/skywalker-og_100x100.jpg"
 
 			},
 			{"strainId": 5,
 			 "strainName": "Permafrost", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/permafrost_100x100.jpg"
 
 			},
 			{"strainId": 6,
 			 "strainName": "Querkle", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/querkle_100x100.jpg"
 
 			},
 			{"strainId": 7,
 			 "strainName": "Papaya", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/papaya_100x100.jpg"
 
 			},
 			{"strainId": 8,
 			 "strainName": "Pennywise", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 
 			},
 			{"strainId": 9,
 			 "strainName": "OG #18", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/og--18_100x100.jpg"
 
 			},
 			{"strainId": 10,
 			 "strainName": "OG Kush", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/og-kush_100x100.jpg"
 
 			},
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 12,
 			 "strainName": "Nebula", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/nebula_100x100.jpg"
 
 			},
 			{"strainId": 13,
 			 "strainName": "XJ-13", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/xj-13_100x100.jpg"
 
 			},
 			{"strainId": 14,
 			 "strainName": "Yumbodlt", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/yumboldt_100x100.jpg"
 
 			},
 			{"strainId": 15,
 			 "strainName": "Vortex", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/vortex_100x100.jpg"
 
 			},
 			{"strainId": 16,
 			 "strainName": "Warlock", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/warlock_100x100.jpg"
 
 			},
 			{"strainId": 17,
 			 "strainName": "Strawberry Cough", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/strawberry-cough_100x100.jpg"
 
 			},
 			{"strainId": 18,
 			 "strainName": "Stardawg", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/stardawg_100x100.jpg"
+
 
 			},
 			{"strainId": 19,
 			 "strainName": "Strawberry", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/strawberry_100x100.jpg"
 
 			},
 			{"strainId": 20,
 			 "strainName": "Sour Diesel", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/sour-diesel_100x100.jpg"
 
 			},
 			{"strainId": 21,
 			 "strainName": "Shipwreck", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/Shipwreck_100x100.jpg"
 
 			},
 			{"strainId": 22,
 			 "strainName": "Skywalker", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/skywalker_100x100.jpg"
 
 			},
 			{"strainId": 23,
 			 "strainName": "Romulan", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/romulan_100x100.jpg"
 
 			},
 			{"strainId": 24,
 			 "strainName": "Purple Wreck", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/purple-wreck_100x100.jpg"
 
 			},
 			{"strainId": 25,
 			 "strainName": "Pineapple", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/pineapple_100x100.jpg"
 
 			},
 			{"strainId": 26,
 			 "strainName": "Purple Cheese", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/purple-cheese_100x100.jpg"
 
 			},
 			{"strainId": 27,
 			 "strainName": "ACDC", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acdc_100x100.jpg"
 
 			},
 			{"strainId": 28,
 			 "strainName": "Shark Shock", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/shark-shock_100x100.jpg"
 
 			},
 			{"strainId": 29,
 			 "strainName": "Superman OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/superman-og_100x100.jpg"
 
 			},
 			{"strainId": 30,
 			 "strainName": "Thin Mint", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/thin-mint-girl-scout-cookies_100x100.jpg"
 
 			},
 			{"strainId": 31,
 			 "strainName": "Banana Diesel", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/banana-diesel_100x100.jpg"
 
 			},
 			{"strainId": 32,
 			 "strainName": "Candy OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/Candy-Og.jpg"
 
 			},
 			{"strainId": 33,
 			 "strainName": "Chem Valley Kush", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/chem-valley-kush_100x100.jpg"
 
 			},
 			{"strainId": 34,
 			 "strainName": "Confidential Cheese", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/confidential-cheese_100x100.jpg"
 
 			},
 			{"strainId": 35,
 			 "strainName": "Deadhead OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 
 			},
 			{"strainId": 36,
 			 "strainName": "Diablo", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/diablo_100x100.jpg"
 
 			},
 			{"strainId": 37,
 			 "strainName": "Dutch Passion", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/dutch-passion.JPG"
 
 			},
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 39,
 			 "strainName": "Euphoria", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/euphoria_100x100.jpg"
 
 			},
 			{"strainId": 40,
 			 "strainName": "Fire Bomb", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/fire_bomb.jpg"
 
 			},
 			{"strainId": 41,
 			 "strainName": "Forum Cookies/GSC", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/forum_cookies.jpg"
 
 			},
 			{"strainId": 42,
 			 "strainName": "Gooey Wreck", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/gooey-wreck.jpg"
 
 			},
 			{"strainId": 43,
 			 "strainName": "Grapefruit Haze", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/grapefruit-haze_100x100.jpg"
 
 			},
 			{"strainId": 44,
 			 "strainName": "Green Crack", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/green-crack_100x100.jpg"
 
 			},
 			{"strainId": 45,
 			 "strainName": "Green Dream", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/green-dream_100x100.jpg"
 
 			},
 			{"strainId": 46,
 			 "strainName": "Green Thailand", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/thai_100x100.jpg"
 
 			},
 			{"strainId": 47,
 			 "strainName": "H-Train Wreck", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/H-trainwreck.jpg"
 
 			},
 			{"strainId": 48,
 			 "strainName": "Hawaiian Hulk", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/bruce-banner_100x100.jpg"
 
 			},
 			{"strainId": 49,
 			 "strainName": "Jack Chemdawg", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 
 			},
 			{"strainId": 50,
 			 "strainName": "Jack Herer", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/jack-herer_100x100.jpg"
 
 			},
 			{"strainId": 51,
 			 "strainName": "Jillybean", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/jillybean_100x100.jpg"
 
 			},
 			{"strainId": 52,
 			 "strainName": "Lamb's Bread", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/lamb-s-bread_100x100.jpg"
 
 			},
 			{"strainId": 53,
 			 "strainName": "Lemon Haze", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/lemon-haze_100x100.jpg"
 
 			},
 			{"strainId": 54,
 			 "strainName": "Lemon Head OG", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/super-lemon-og_100x100.jpg"
 
 			},
 			{"strainId": 55,
 			 "strainName": "Lulu", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 56,
 			 "strainName": "Magic Jack", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/Magic-Jack-300.jpg"
 
 			},
 			{"strainId": 57,
 			 "strainName": "Mike Tyson", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/mike-tyson-marijuana-strain.jpg"
 
 			},
 			{"strainId": 58,
 			 "strainName": "Moon Candy", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/moon_candy.jpg"
 
 			},
 			{"strainId": 59,
 			 "strainName": "Moonshine Diesel", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/moonshine-Deisel.jpg"
 
 			},
 			{"strainId": 60,
 			 "strainName": "Northern Lights", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/northern-lights_100x100_7d43.jpg"
 
 			},
 			{"strainId": 61,
 			 "strainName": "Pineapple Express", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/pineapple-express_100x100.jpg"
 
 			},
 			{"strainId": 62,
 			 "strainName": "Platinum Trinity Kush", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 
 			},
 			{"strainId": 63,
 			 "strainName": "Private Reserve OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/private_reserve_OG.jpg"
 
 			},
 			{"strainId": 64,
 			 "strainName": "Purple Haze", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/purple-haze_100x100.jpg"
 
 			},
 			
 			{"strainId": 65,
 			 "strainName": "Purple Urkle", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/purple-urkle_100x100.jpg"
 
 			},
 			{"strainId": 66,
 			 "strainName": "Raskal OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/raskal-og_100x100.jpg"
 
 			},
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 68,
 			 "strainName": "Saturn OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/saturn-og_100x100.jpg"
 
 			},
 			{"strainId": 69,
 			 "strainName": "Sherbet Cookies", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
 
 			},
 			{"strainId": 70,
 			 "strainName": "Sour Cherry", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/Sour_Cherry_Kush.jpg"
 
 			},
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 72,
 			 "strainName": "Super Grandaddy", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/Super_GDP.jpg"
 
 			},
 			{"strainId": 73,
 			 "strainName": "Tangerine", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/tangerine_100x100jpg"
 
 			},
 			{"strainId": 74,
 			 "strainName": "Tangilope", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/tangilope_100x100.jpg"
 
 			},
 			{"strainId": 75,
 			 "strainName": "Tropical OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/Tropical_OG.jpg"
 
 			},
 			{"strainId": 76,
-			 "strainName": "ACDC Super CBD Oil", 
-			 "strainType": "Hybrid"
+			 "strainName": "Ancient OG", 
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/ancient-og_100x100.jpg"
 
 			},
 			{"strainId": 77,
 			 "strainName": "Afghani", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/afghani_100x100_902b.jpg"
 
 			},
 			{"strainId": 78,
 			 "strainName": "Avi-Dekel", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/avi-dekel_100x100.jpg"
 
 			},
 			{"strainId": 79,
 			 "strainName": "Bull Rider", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/bull-rider-1498.jpg"
 
 			},
 			{"strainId": 80,
 			 "strainName": "Cannatonic", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 
 			},
 			{"strainId": 81,
 			 "strainName": "Charlotte's Web", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/charlotte-s-web_100x100.jpg"
 
 			},
 			{"strainId": 82,
 			 "strainName": "G13 Haze", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/g13-haze_100x100.jpg"
 
 			},
 			{"strainId": 83,
 			 "strainName": "Great White Shark", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/great-white-shark_100x100.jpg"
 
 			},
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 85,
 			 "strainName": "Harlequin", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/harlequin_100x100.jpg"
 
 			},
 			{"strainId": 86,
 			 "strainName": "Hog", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/hog_100x100.jpg"
 
 			},
 			{"strainId": 87,
 			 "strainName": "King's Kush", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/king-s-kush_100x100.jpg"
 
 			},
 			{"strainId": 88,
 			 "strainName": "Kosher Kush", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/kosher-kush_100x100.jpg"
 
 			},
 			{"strainId": 89,
 			 "strainName": "Lemon Larry OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/larry-og_100x100.jpg"
 
 			},
 			{"strainId": 90,
 			 "strainName": "Master Bubba", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/master-bubba_100x100jpg"
 
 			},
 			{"strainId": 91,
 			 "strainName": "Pineapple Thai", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/pineapple-thai_100x100.jpg"
 
 			},
 			{"strainId": 92,
 			 "strainName": "Sour Tsunami", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/sour-tsunami_100x100.jpg"
 
 			},
 			{"strainId": 93,
 			 "strainName": "The White", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/the-white_100x100.jpg"
 
 			},
 			{"strainId": 94,
 			 "strainName": "Valentine X", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/Valentine-X.jpg"
 
 			},
 			{"strainId": 95,
 			 "strainName": "White Fire Alien OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/white-fire-alien-og_100x100.jpg"
 
 			},
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 97,
 			 "strainName": "707 Headband", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/707-headband_100x100.jpg"
 
 			},
 			{"strainId": 98,
 			 "strainName": "Acapulco Gold", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 99,
 			 "strainName": "Alien OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/alien-og_100x100.jpg"
 
 			},
 			{"strainId": 100,
 			 "strainName": "Alien Rock Candy", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/alien-rock-candy_100x100.jpg"
 
 			},
 			{"strainId": 101,
 			 "strainName": "Amnesia Haze", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/amnesia-haze_100x100.jpg"
 
 			},
 			{"strainId": 102,
 			 "strainName": "ATF", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/alaskan-thunder-fuck_100x100.jpg"
 
 			},
 			{"strainId": 103,
 			 "strainName": "Bay Cookies", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/bay_cookies.jpg"
 
 			},
 			{"strainId": 104,
 			 "strainName": "Berry Queen", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/berryQueen.jpg"
 
 			},
 			{"strainId": 105,
 			 "strainName": "Berry White", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/berry-white_100x100.jpg"
 
 			},
 			{"strainId": 106,
 			 "strainName": "Black Cherry Soda", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/black-cherry-soda_100x100.jpg"
 
 			},
 			{"strainId": 107,
 			 "strainName": "Blue Dream", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/blue-dream_100x100.jpg"
 
 			},
 			{"strainId": 108,
 			 "strainName": "Blue Moonshine", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 
 			},
 			{"strainId": 109,
 			 "strainName": "Blueberry Trainwreck", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/blueberry_100x100.jpg"
 
 			},
 			{"strainId": 110,
-			 "strainName": "Canatonic #4", 
-			 "strainType": "Hybrid"
+			 "strainName": "Cannatonic #4", 
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 
 			},
 			{"strainId": 111,
 			 "strainName": "Candy Jack", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/candy-jack_100x100.jpg"
 
 			},
 			{"strainId": 112,
 			 "strainName": "CandyLand", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/candyland_100x100.jpg"
 
 			},
 			{"strainId": 113,
 			 "strainName": "Cannalope Haze", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/cannalope-haze_100x100.jpg"
 
 			},
 			{"strainId": 114,
 			 "strainName": "Cataract Kush", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cataract-kush_100x100.jpg"
 
 			},
 			{"strainId": 115,
 			 "strainName": "Chemdawg", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 
 			},
 			{"strainId": 116,
 			 "strainName": "Cherry Pie", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cherry-pie_100x100.jpg"
 
 			},
 			{"strainId": 117,
 			 "strainName": "Chocolate Thai", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/chocolate-thai_100x100.jpg"
 
 			},
 			{"strainId": 118,
 			 "strainName": "Clear Lake", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/clear_lake.jpg"
 
 			},
 			{"strainId": 119,
 			 "strainName": "Dubtech", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 120,
 			 "strainName": "Ghost OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/ghost-og_100x100.jpg"
 
 			},
 			{"strainId": 121,
 			 "strainName": "Grape Cookies", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/grape_Cookies.jpg"
 
 			},
 			{"strainId": 120,
 			 "strainName": "Grape Kool Aid", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/Purple Wreck-578x433.jpg"
 
 			},
 			{"strainId": 121,
 			 "strainName": "Jupiter Kush", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/jupiter-kush_100x100.jpg"
 
 			},
 			{"strainId": 122,
 			 "strainName": "L.A. Confidential", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/la-confidential_100x100.jpg"
 
 			},
 			{"strainId": 123,
 			 "strainName": "Lemon Jack", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/lemon-jack_100x100.jpg"
 
 			},
 			{"strainId": 124,
 			 "strainName": "Lemon OG Kush", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/lemon-og-kush_100x100.jpg"
 
 			},
 			{"strainId": 125,
 			 "strainName": "Mad Max", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 126,
 			 "strainName": "Mafia OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 127,
 			 "strainName": "Mango Maui", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/mango-maui-578x385.jpg"
 
 			},
 			{"strainId": 128,
 			 "strainName": "May Weather Kush", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/May-weather-kush.jpg"
 
 			},
 			{"strainId": 129,
 			 "strainName": "Phantom OG", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/phantom-og_100x100.jpg"
 
 			},
 			{"strainId": 130,
 			 "strainName": "Pineapple Hogsbreath", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/hog-s-breath_100x100.jpg"
 
 			},
 			{"strainId": 131,
 			 "strainName": "Silverback Gorilla", 
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/silverback-gorilla_100x100.jpg"
 
 			},
 			{"strainId": 132,
 			 "strainName": "Sugar Plum", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/sugar-plum_100x100.jpg"
 
 			},
 			{"strainId": 133,
 			 "strainName": "Super Lemon Haze", 
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/super-lemon-haze_100x100.jpg"
 
 			},
 			{"strainId": 134,
 			 "strainName": "Lemon Marmalade", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 135,
 			 "strainName": "White Fire OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/white-fire-og_100x100.jpg"
 
 			},
 			{"strainId": 138,
 			 "strainName": "White Walker OG", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 139,
 			 "strainName": "Cherry Bomb", 
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cherry-bomb_100x100.jpg"
 
 			},
 			{"strainId": 140,
 			 "strainName": "DJ Short Blueberry",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/dj-short-blueberry_100x100.jpg"
 
 			},
 			{"strainId": 141,
 			 "strainName": "El Alquimista",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/El-Alquimista.jpg"
 
 			},
 			{"strainId": 142,
 			 "strainName": "Godfather OG",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/godfather-og_100x100.jpg"
 
 			},
 			{"strainId": 143,
-			 "strainName": "Herojuana",
-			 "strainType": "Indica"
+			 "strainName": "Herijuana",
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/herijuana_100x100.jpg"
 
 			},
 			{"strainId": 144,
 			 "strainName": "Lavender",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/lavender_100x100.jpg"
 
 			},
 			{"strainId": 145,
 			 "strainName": "Purple Coma",
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/purple-coma.jpg"
 
 			},
 			{"strainId": 146,
 			 "strainName": "Purple Passion",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/purple-passion_100x100.jpg"
 
 			},
 			{"strainId": 147,
 			 "strainName": "Sour Bubble",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/sour-bubble_100x100.jpg"
 
 			},
 			{"strainId": 148,
 			 "strainName": "Sour Dub",
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/SourDub.jpg"
 
 			},
 			{"strainId": 149,
 			 "strainName": "Strawberry Mist",
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 
 			},
 			{"strainId": 150,
 			 "strainName": "LA Chocolat",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/la-chocolat_100x100.jpg"
 
 			},
 			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/afghani-bullrider_100x100.jpg"
 
 			},
 			{"strainId": 152,
 			 "strainName": "Afgoo",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/afgoo_100x100.jpg"
 
 			},
 			{"strainId": 153,
 			 "strainName": "Afgooey",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/afgooey_100x100.jpg"
 
 			},
 			{"strainId": 154,
 			 "strainName": "AK-47",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/ak-47_100x100.jpg"
 
 			},
 			{"strainId": 155,
 			 "strainName": "AK-48",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/ak-48_100x100.jpg"
 
 			},
 			{"strainId": 156,
 			 "strainName": "Kalashnikova",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/kalashnikova_100x100.jpg"
 
 			},
 			{"strainId": 157,
 			 "strainName": "Black Buddah",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/Black-Budha.jpg"
 
 			},
 			{"strainId": 158,
 			 "strainName": "OG Cheese",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 159,
 			 "strainName": "Mercury OG",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/mercury-og_100x100.jpg"
 
 			},
 			{"strainId": 160,
 			 "strainName": "Silver Surfer",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/silver-surfer_100x100.jpg"
 
 			},
 			{"strainId": 161,
 			 "strainName": "Sour OG",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/sour-og_100x100.jpg"
 
 			},
 			{"strainId": 162,
 			 "strainName": "Mars OG",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/acapulcoGold.jpg"
 
 			},
 			{"strainId": 163,
 			 "strainName": "Cannatonic #4",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 
 			},
 			{"strainId": 164,
 			 "strainName": "Green Dream",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/green-dream_100x100.jpg"
 
 			},
 			{"strainId": 165,
 			 "strainName": "Green Dynamite",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/dynamite_100x100.jpg"
 
 			},
 			{"strainId": 166,
 			 "strainName": "J1",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/j1_100x100.jpg"
 
 			},
 			{"strainId": 167,
 			 "strainName": "Kryptonite",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 
 			},
 			{"strainId": 168,
 			 "strainName": "Master Kush",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/master-kush_100x100.jpg"
 
 			},
 			{"strainId": 169,
 			 "strainName": "Black Magic Kush",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/black-magic-kush.jpg"
 
 			},
 			{"strainId": 170,
 			 "strainName": "Blackberry Kush",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/blackberry-kush_100x100.jpg"
 
 			},
 			{"strainId": 171,
 			 "strainName": "Blue Diesel",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/blue-diesel_100x100.jpg"
 
 			}, 
 			{"strainId": 172,
 			 "strainName": "Blue Haze",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/blue-haze_100x100.jpg"
 
 			},
 			{"strainId": 173,
 			 "strainName": "Brutus OG",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/brutus-og-3.png"
 
 			},
 			{"strainId": 174,
 			 "strainName": "Bubba Kush",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/bubba-kush_100x100.jpg"
 
 			},
 			{"strainId": 175,
 			 "strainName": "Cheese",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cheese_100x100.jpg"
 
 			}, 
 			{"strainId": 176,
 			 "strainName": "Cinderella 99",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/cinderella-99_100x100.jpg"
 
 			}, 
 			{"strainId": 177,
 			 "strainName": "Diablo Haze",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/diablo_100x100.jpg"
 
 			},
 			{"strainId": 178,
 			 "strainName": "Diamond OG",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/diamond-og_100x100.jpg"
 
 			},
 			{"strainId": 179,
 			 "strainName": "Grandaddy Purple",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/grandaddy-purple.jpg"
 
 			},
 			{"strainId": 180,
 			 "strainName": "Fire OG",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/fire-og_100x100.jpg"
 
 			}, 
 			{"strainId": 181,
 			 "strainName": "Girl Scout Cookies",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 
 			},
 			{"strainId": 182,
 			 "strainName": "Grape Ape",
-			 "strainType": "Indica"
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/grape-ape_100x100.jpg"
 
 			},
 			{"strainId": 183,
 			 "strainName": "Headband",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/headband_100x100.jpg"
 
 			}, 
 			{"strainId": 184,
 			 "strainName": "Island Sweet Skunk",
-			 "strainType": "Sativa"
+			 "strainType": "Sativa",
+			 "imageUrl": "images/strains/island-sweet-skunk_100x100.jpg"
 
 			},
 			{"strainId": 185,
 			 "strainName": "LA Kush",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/la-kush_100x100.jpg"
 
 			},
 			{"strainId": 186,
 			 "strainName": "Gorilla Glue #4",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/gorilla-glue--4_100x100.jpg"
 
 			},
 			{"strainId": 187,
 			 "strainName": "Jack Frost",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/jack-frost_100x100.jpg"
 
 			},
 			{"strainId": 188,
 			 "strainName": "Kali Mist",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/kali-mist_100x100.jpg"
+
 			},
 		 	{"strainId": 189,
 			 "strainName": "NY Sour Diesel",
-			 "strainType": "Hybrid"
+			 "strainType": "Hybrid",
+			 "imageUrl": "images/strains/nyc-sour-diesel.jpg"
 
 			},
 		 	{"strainId": 190,
 		 	"strainName": "Skunk #1",
-		 	"strainType": "Hybrid"
+		 	"strainType": "Hybrid",
+		 	"imageUrl": "images/strains/skunk--1_100x100.jpg"
 
 			},
 			{"strainId": 191,
 			 	"strainName": "Snowcap",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/snowcap_100x100.jpg"
 
 			},
 			{"strainId": 192,
 			 	"strainName": "Super Silver Haze",
-			 	"strainType": "Sativa"
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/super-silver-haze_100x100.jpg"
 
 			},
 			{"strainId": 193,
 			 	"strainName": "Neptune OG",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/neptune-og_100x100.jpg"
 
 			},
 			{"strainId": 194,
 			 	"strainName": "Organic OG",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/organic-og-kush.JPG"
 
 			},
 			{"strainId": 195,
 			 	"strainName": "Kandy Kush",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/kandy-kush_100x100.jpg"
 
 			},
 			{"strainId": 196,
 			 	"strainName": "King Louis XIII",
-			 	"strainType": "Sativa"
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/king-louis-xiii_100x100.jpg"
 
 			},
 			{"strainId": 197,
 			 	"strainName": "White Kryptonite",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/white-kryptonite_100x100.jpg"
 
 			},
 			{"strainId": 198,
 			 	"strainName": "Legend OG",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/kryptonite_100x100.jpg"
 
 			},
 			{"strainId": 199,
 			 	"strainName": "Lemon Diesel",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/lemon-diesel_100x100.jpg"
 
 			},
 			{"strainId": 200,
 			 	"strainName": "Lemon Kush",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/lemon-kush_100x100.jpg"
 
 			},
 			{"strainId": 201,
 			 	"strainName": "Blackwater",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/blackwater_100x100.jpg"
 			 	
 			}, 
 			{"strainId": 202,
 			 	"strainName": "UltraViolet OG",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/UltravioletOG.jpg"
 			 	
 			}, 
 			{"strainId": 203,
 			 	"strainName": "Face Off OG",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/face-off-og_100x100.jpg"
 			 	
 			},
 			{"strainId": 204,
 			 	"strainName": "Citrix",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/Citrix.jpg"
 			 	
 			},
 			{"strainId": 205,
 			 	"strainName": "Grapefruit",
-			 	"strainType": "Sativa"
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/grapefruit_100x100.jpg"
 			 	
 			},
 			{"strainId": 206,
 			 	"strainName": "Chocolate Kush",
-			 	"strainType": "Sativa"
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/chocolate-kush_100x100.jpg"
 			 	
 			},
 			{"strainId": 207,
 			 	"strainName": "Chocolate Chunk",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/chocolate-chunk_100x100.jpg"
 			 	
 			},
 			{"strainId": 208,
 			 	"strainName": "Chocolope",
-			 	"strainType": "Sativa"
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/chocolope_100x100.jpg"
 			 	
 			},
 			{"strainId": 209,
 			 	"strainName": "Cinex",
-			 	"strainType": "Hybrid"
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/cinex_100x100.jpg"
 			 	
 			},
 			{"strainId": 210,
 			 	"strainName": "Shiskaberry",
-			 	"strainType": "Indica"
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/shishkaberry_100x100.jpg"
 			 	
 			}
 		]; 
@@ -5730,7 +5942,7 @@
 			 "descriptionDetailed": "Effects of this strain are upbeat and social overall, so much so that it might be too energetic for some users, especially if sleep is the goal. Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
 			 "descriptionAbbrev":  "Effects of this strain are upbeat and social overall.",
 			 "tags": ["Sativa", "Euphoria", "Bipolar"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/euphoria_100x100.jpg"
 			},
 			{"strainId": 40,
 			 "strainName": "Fire Bomb", 
@@ -7740,9 +7952,9 @@
 		 	"taste": ["Sweet", "Fruity"], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "negativeEffects": ["Sleepy"],
+			 "descriptionDetailed": "With a sweet and fruity taste, Moon Candy will make you feel happy and creative while relieving stress and pain.",
+			 "descriptionAbbrev":  "With a sweet and fruity taste, Moon Candy will make you feel happy and creative while relieving stress and pain.",
 			 "tags": ["Sativa", "Moon Candy", "Bipolar"],
 			 "imageUrl": "images/strains/moon_candy.jpg"
 			},
@@ -9449,15 +9661,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.80
+			 		"value": 26.05
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.35
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -9485,15 +9697,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.30
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.33
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -9505,7 +9717,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.32
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -9541,25 +9753,25 @@
 			 	} 	
 		 	], 
 		 	"taste": ["Tropical", "Pungent"],
-		 	 "conditions": ["Bipolar", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Stress", "PMS", "Pain", "Appetite Loss", "Depression", "Bipolar", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Motivated"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "Tropical OG has an exceptional high which is very clear & uplifting. Tropical OG offers a very good strength and a mixed physical and mental medicinal effect.",
+			 "descriptionAbbrev":  "Tropical OG has an exceptional high which is very clear & uplifting. Tropical OG offers a very good strength and a mixed physical and mental medicinal effect.",
 			 "tags": ["Indica", "Tropical OG", "OG", "Bipolar", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/Tropical_OG.jpg"
 			},
 			{"strainId": 76,
-			 "strainName": "ACDC Super CBD Oil", 
-			 "strainType": "Hybrid",
+			 "strainName": "Ancient OG", 
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 9.32
+			 		"value": 20.30
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 61.45
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -9646,14 +9858,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	"taste": ["Earthy", "Skunk", "Sweet"],
-		 	 "conditions": ["Cancer", "Epilepsy", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "ACDC Super CBD Oil", "CBD", "Cancer", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	"taste": ["Mango", "Citrus", "Sweet", "Lemon", "Tropical"],
+		 	 "conditions": ["Insomnia", "Depression", "Stress"],
+			 "positiveEffects": ["Happy", "Relaxed", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Couch Lock", "Munchies"],
+			 "descriptionDetailed": "Its thickly resinous buds exude aromatic notes of earthy pine and sweet citrus that are fully realized in Ancient OG’s taste.",
+			 "descriptionAbbrev":  "Its thickly resinous buds exude aromatic notes of earthy pine and sweet citrus that are fully realized in Ancient OG’s taste.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/ancient-og_100x100.jpg"
 			},
 			{"strainId": 77,
 			 "strainName": "Afghani", 
@@ -9873,15 +10085,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 7.60
+			 		"value": 19.62
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 16.42
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -9909,15 +10121,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.42
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 2.61
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.14
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -9929,7 +10141,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.97
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -9966,12 +10178,12 @@
 		 	],
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Cancer", "Epilepsy", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Relaxed", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Couch Lock"],
+			 "descriptionDetailed": " It has a very heavy initial cerebral punch to the head that eventually fades into a very nice, but extremely heavy body sedation.",
+			 "descriptionAbbrev":  " It has a very heavy initial cerebral punch to the head that eventually fades into a very nice, but extremely heavy body sedation.",
 			 "tags": ["Hybrid", "Bull Rider", "Cancer", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/bull-rider-1498.jpg"
 			},
 			{"strainId": 80,
 			 "strainName": "Cannatonic", 
@@ -9979,27 +10191,27 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 10.60
+			 		"value": 14.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 10.24
+			 		"value": 23.40
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.08
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 1.60
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.54
 			 	},
 			 	{ 
 			 		"name": "THCV", 
-			 		"value": 0.00
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "THCA", 
@@ -10015,19 +10227,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.68
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.26
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10035,7 +10247,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.41
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10070,14 +10282,14 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	"taste": ["Earthy", "Pine", "Pungent"],
-		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Cannatonic", "Cancer", "Depression", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+		 	"taste": ["Earthy", "Woody", "Pungent", "Pine"],
+		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress", "Pain", "Inflammation", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Focused", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Headache"],
+			 "descriptionDetailed": "It's recommended for one to use this as a daytime or wake and bake strain. You will likely be able to medicate throughout the day without feeling bogged down.",
+			 "descriptionAbbrev":  "It's recommended for one to use this as a daytime or wake and bake strain. You will likely be able to medicate throughout the day without feeling bogged down.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 			},
 			{"strainId": 81,
 			 "strainName": "Charlotte's Web", 
@@ -24016,10 +24228,10 @@
 			{"conditionId": 6,
 			 "conditionName": "Pain", 
 			 "treatment": "Pain Treatment description here.",
-			 "strains": ["Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "ACDC Super CBD Oil", "Afghani", "707 Headband", "Acapulco Gold", "Blackwater", "Bull Rider"],
+			 "strains": ["Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "Afghani", "707 Headband", "Acapulco Gold", "Blackwater", "Bull Rider"],
 			 "descriptionDetailed": "Pain Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Pain Short description here.",
-			 "tags": ["Pain","Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "ACDC Super CBD Oil", "Afghani", "707 Headband", "Acapulco Gold" ],
+			 "tags": ["Pain","Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "Afghani", "707 Headband", "Acapulco Gold" ],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 7,
@@ -24070,10 +24282,10 @@
 			{"conditionId": 12,
 			 "conditionName": "Epilepsy", 
 			 "treatment": "Epilepsy Treatment description here.",
-			 "strains": ["Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "ACDC Super CBD Oil", "Avi-Dekel"],
+			 "strains": ["Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "Avi-Dekel"],
 			 "descriptionDetailed": "Epilepsy Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Epilepsy Short description here.",
-			 "tags": ["Epilepsy", "Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "ACDC Super CBD Oil", "Avi-Dekel" ],
+			 "tags": ["Epilepsy", "Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "Avi-Dekel" ],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 13,
@@ -24088,10 +24300,10 @@
 			{"conditionId": 14,
 			 "conditionName": "Cancer", 
 			 "treatment": "Cancer Treatment description here.",
-			 "strains": ["White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "ACDC Super CBD Oil", "Afghani"],
+			 "strains": ["White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "Afghani"],
 			 "descriptionDetailed": "Cancer Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Cancer Short description here.",
-			 "tags": ["Cancer", "White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "ACDC Super CBD Oil", "Afghani"],
+			 "tags": ["Cancer", "White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "Afghani"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"conditionId": 15,
@@ -24187,7 +24399,7 @@
 			{"conditionId": 25,
 			 "conditionName": "Coronary Heart Disease", 
 			 "treatment": "Treat or prevent conditions associated with heart disease.",
-			 "strains": ["ACDC Super CBD Oil", "Valentine X", "ACDC", "Bull Rider", "Avi-Dekel", "Cannatonic #4", "Green Dream", "Harlequin", "Cannatonic", "Harle-Tsu", "Canna-Tsu", "Lemon Larry OG", "Master Bubba", "Sour Cherry", "Sour Tsunami", "Charlotte’s Web", "Pineapple Thai", "Lamb's Bread", "Afgoo", "Cannalope Haze", "Kali Mist", "Warlock", "Strawberry Cough", "Skunk #1", "Kosher Kush", "Super Lemon Haze", "Permafrost", "Cataract Kush", "Purple Cheese", "Deadhead OG", "ATF", "Nebula", "Pineapple", "Sour OG", "Purple Haze", "Lemon Haze", "Querkle", "Vortex", "Stardawg", "Cheese", "Bubba Kush", "Super Silver Haze", "Trainwreck", "Pineapple Express", "Blue Dream", "OG Kush", "White Widow", "Confidential Cheese", "Skywalker OG", "Strawberry", "Superman OG",  "Green Crack", "Jillybean", "Girl Scout Cookies", "Sour Diesel", "Alien OG", "Berry White", "The White", "Chemdawg", "Grandaddy Purple", "Jack Herer", "Island Sweet Skunk", "L.A. Kush", "Cherry Pie", "Fire OG", "Headband"],
+			 "strains": ["Valentine X", "ACDC", "Bull Rider", "Avi-Dekel", "Cannatonic #4", "Green Dream", "Harlequin", "Cannatonic", "Harle-Tsu", "Canna-Tsu", "Lemon Larry OG", "Master Bubba", "Sour Cherry", "Sour Tsunami", "Charlotte’s Web", "Pineapple Thai", "Lamb's Bread", "Afgoo", "Cannalope Haze", "Kali Mist", "Warlock", "Strawberry Cough", "Skunk #1", "Kosher Kush", "Super Lemon Haze", "Permafrost", "Cataract Kush", "Purple Cheese", "Deadhead OG", "ATF", "Nebula", "Pineapple", "Sour OG", "Purple Haze", "Lemon Haze", "Querkle", "Vortex", "Stardawg", "Cheese", "Bubba Kush", "Super Silver Haze", "Trainwreck", "Pineapple Express", "Blue Dream", "OG Kush", "White Widow", "Confidential Cheese", "Skywalker OG", "Strawberry", "Superman OG",  "Green Crack", "Jillybean", "Girl Scout Cookies", "Sour Diesel", "Alien OG", "Berry White", "The White", "Chemdawg", "Grandaddy Purple", "Jack Herer", "Island Sweet Skunk", "L.A. Kush", "Cherry Pie", "Fire OG", "Headband"],
 			 "descriptionDetailed": "Recent resarch indicates chronic inflammation is a leading contributor to conditions like cornonary heart disease. In addition, anti-oxidants have also been proven to help prevent conditions associated wiht heart diease. .",
 			 "descriptionAbbrev":  "Treat heart disease.",
 			 "tags": ["Coronary Heart Disease"],
@@ -26331,12 +26543,12 @@
 			  			  "images/vapes/pinnacleprodlx5.png",
 			  			  "images/vapes/pinnacleprodlx6.png",
 			  			  "images/vapes/pinnacleprodlx7.png"]
-			}/**,
+			},
 			{"tipId": 25,
 			 "tipCatagory":"", 
 			 "tipName": "",
 			 "manufacturer" : "",
-			 "price": ,
+			 "price": "",
 			 "weight": "",
 			 "manufacturersWarranty": "",
 			 "temps": ["NA F", "NA F", "NA C", "NA C"],
@@ -26345,13 +26557,13 @@
 			 "tipDescriptionDetailed":[],
 			 "tags": [],
 			 "imageUrl":[]
-			}**/
-		];
+			}
+		]; 
 
 		var conditionsUrl = "/api/conditions";
 		var productUrl = "/api/products";
 		var effectUrl = "/api/effects";
-		var vapeUrl = "/api/vapes";
+		var vapeUrl = "/api/vapes"; 
 		var tipUrl = "/api/tips";
 		var temperatureUrl = "/api/temperatures";
 		var modeUrl = "/api/modes";
@@ -26391,7 +26603,7 @@
 				};
 			}
 			return [200, tip, {}];
-		});
+		}); 
 		
 		/*
 		$httpBackend.whenGET(editingRegex).respond(function (method, url, data){
