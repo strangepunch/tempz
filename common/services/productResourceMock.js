@@ -5526,15 +5526,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.70
+			 		"value": 15.12
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.23
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.09
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5562,23 +5562,23 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.04
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.15
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.27
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.29
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
@@ -5618,11 +5618,11 @@
 			 	} 	
 		 	],  
 		 	"taste": [""],
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "Nausea"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Stress", "Seizures", "Pain", "Nausea", "Migraines", "Appetite Loss", "Depression", "Bipolar", "Anxiety"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry"],
+			 "negativeEffects": ["Hungry"],
+			 "descriptionDetailed": "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
+			 "descriptionAbbrev":  "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -5738,15 +5738,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 14.96
+			 		"value": 28.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.29
+			 		"value": 0.42
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.14
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5774,19 +5774,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.04
+			 		"value": 0.89
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.23
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.60
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5794,7 +5794,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 3.66
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5829,12 +5829,12 @@
 			 		"value": 0.0
 			 	} 	
 		 	],  
-		 	"taste": [""],
-		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Migraines", "Headache", "Appetite Loss", "PMS", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	"taste": ["Fruity"],
+		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry", "Potent", "Sleepy"],
+			 "negativeEffects": ["Munchies", "Couch Lock"],
+			 "descriptionDetailed": "This plant is tall with resinous, fruity, potent buds.",
+			 "descriptionAbbrev":  "This plant is tall with resinous, fruity, potent buds.",
 			 "tags": ["Hybrid", "Fire Bomb", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/fire_bomb.jpg"
 			},
@@ -7328,15 +7328,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 28.20
+			 		"value": 19.02
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.29
+			 		"value": 0.38
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -7364,15 +7364,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.29
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.99
+			 		"value": 2.07
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 1.01
+			 		"value": 1.62
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -7384,7 +7384,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.09
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7419,13 +7419,13 @@
 			 		"value": 0.00
 			 	} 	
 		 	], 
-		 	"taste": [""],
-		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Fibromyalgia", "Hypertension", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Sativa", "Lulu", "Bipolar", "Migraines", "Headache", "Hypertension", "PMS"],
+		 	"taste": ["Earthy", "Chocloate", "Lemon"],
+		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Insomnia", "Hypertension", "Fibromyalgia", "Depression", "Bipolar", "Arthritis", "Anxiety"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Motivated"],
+			 "negativeEffects": ["Talkative"],
+			 "descriptionDetailed": "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
+			 "descriptionAbbrev":  "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
 			{"strainId": 56,
@@ -7737,7 +7737,7 @@
 			 		"value": 0.00
 			 	} 	
 		 	],
-		 	"taste": [""], 
+		 	"taste": ["Sweet", "Fruity"], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
@@ -7845,10 +7845,10 @@
 		 	],   
 		 	"taste": ["Citrus", "Flowery", "Diesel", "Grapefruit"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Fibromyalgia", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "positiveEffects": ["Happy", "Long lasting", "Focused", "Sleepy", "Hungry"],
+			 "negativeEffects": ["Munchies", "Couch Lock"],
+			 "descriptionDetailed": "The high is long lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
+			 "descriptionAbbrev":  "The high is long lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
 			 "tags": ["Sativa", "Moonshine Diesel", "Diesel", "Bipolar", "Migraines", "Headache", "Nausea", "PMS"],
 			 "imageUrl": "images/strains/moonshine-Deisel.jpg"
 			},
@@ -8165,8 +8165,8 @@
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+			 "descriptionDetailed": "A clear-headed, happy high develops into a mellow contentment.",
+			 "descriptionAbbrev":  "A clear-headed, happy high develops into a mellow contentment.",
 			 "tags": ["Sativa", "Platinum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
 			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 			},
@@ -8481,13 +8481,13 @@
 			 	} 	
 		 	], 
 		 	"taste": ["Sweet", "Grape", "Berry"],
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS", "Insomnia", "Pain", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Euphoric", "Happy", "Hungry"],
+			 "negativeEffects": ["Couch Lock", "Sleepy", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief.",
+			 "descriptionAbbrev":  "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief.",
 			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/purple-urkle_100x100.jpg"
 			},
 			{"strainId": 66,
 			 "strainName": "Raskal OG", 
@@ -8587,13 +8587,13 @@
 			 	} 	
 		 	], 
 		 	"taste": ["Earthy", "Citrus", "Lemon"],
-		 	 "conditions": ["Bipolar", "Nausea", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Depression", "Stress", "Pain", "Fatigue", "Headache", "Bipolar", "Nausea", "PMS"],
+			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Focused"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Raskal OG smells of lemon and pine with a musty and grassy taste.",
+			 "descriptionAbbrev":  "Raskal OG smells of lemon and pine with a musty and grassy taste.",
 			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar", "Nausea", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/raskal-og_100x100.jpg"
 			},
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
@@ -8693,11 +8693,11 @@
 			 	} 	
 		 	],
 		 	"taste": ["Sweet", "Lemon"],
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Bipolar", "Migraines", "Pain", "Anxiety", "Headache"],
+			 "positiveEffects": ["Balanced", "Cerebral", "Relaxed"],
+			 "negativeEffects": ["Mild"],
+			 "descriptionDetailed": "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
+			 "descriptionAbbrev":  "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
 			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/acapulcoGold.jpg"
 			},
@@ -8707,15 +8707,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.40
+			 		"value": 23.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.37
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.15
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -8743,19 +8743,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.79
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8763,7 +8763,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8799,13 +8799,13 @@
 			 	} 	
 		 	],
 		 	"taste": ["Earthy", "Citrus", "Pungent"],
-		 	 "conditions": ["Bipolar", "Hypertension", "PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Stress", "PMS", "Pain", "Hypertension", "Fibromyalgia", "Bipolar", "Anxiety", "Anorexia", "ADD/ADHD"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry", "Giggly"],
+			 "negativeEffects": ["Hungry"],
+			 "descriptionDetailed": "Effects are most commonly described as hybrid-like in its balanced calm and moderate cerebral effects.",
+			 "descriptionAbbrev":  "Effects are most commonly described as hybrid-like in its balanced calm and moderate cerebral effects.",
 			 "tags": ["Hybrid", "Saturn OG", "OG", "Bipolar", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/saturn-og_100x100.jpg"
 			},
 			{"strainId": 69,
 			 "strainName": "Sherbet Cookies", 
@@ -8813,15 +8813,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.20
+			 		"value": 25.60
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.23
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.25
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -8849,11 +8849,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.29
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -8869,7 +8869,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8905,13 +8905,13 @@
 			 	} 	
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Earthy"],
-		 	 "conditions": ["Bipolar", "Migraines", "Headache"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
+		 	 "conditions": ["Stress", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry"],
+			 "negativeEffects": ["Giggly", "Munchies"],
+			 "descriptionDetailed": "It is the perfect strain for users that want to get motivated, and stay awake.",
+			 "descriptionAbbrev":  "It is the perfect strain for users that want to get motivated, and stay awake.",
 			 "tags": ["Hybrid", "Sherbet Cookies", "Cookies", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
 			},
 			{"strainId": 70,
 			 "strainName": "Sour Cherry", 
