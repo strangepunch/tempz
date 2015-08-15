@@ -255,8 +255,8 @@
 			"tasteId": 7,
 			"taste": "Berry",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Berry.png"
 		},
 		{ 
@@ -279,24 +279,24 @@
 			"tasteId": 10,
 			"taste": "Diesel",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Diesel.png"
 		},
 		{ 
 			"tasteId": 11,
 			"taste": "Skunk",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Skunk.png"
 		},
 		{ 
 			"tasteId": 12,
 			"taste": "Honey",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Honey.png"
 		},
 		{ 
@@ -319,56 +319,56 @@
 			"tasteId": 15,
 			"taste": "Tea",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Tea.png"
 		},
 		{ 
 			"tasteId": 16,
 			"taste": "Strawberry",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Strawberry.png"
 		},
 		{ 
 			"tasteId": 17,
 			"taste": "Pineapple",
 			"compound": "Myrcene",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "334",
+			"tempC": "168",			
 			"imageUrl": "Pineapple.png"
 		},
 		{ 
 			"tasteId": 18,
 			"taste": "Cheese",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Cheese.png"
 		},
 		{ 
 			"tasteId": 19,
 			"taste": "Grape",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Grape.png"
 		},
 		{ 
 			"tasteId": 20,
 			"taste": "Mint",
-			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"compound": "Caryophyllene",
+			"tempF": "246",
+			"tempC": "119",			
 			"imageUrl": "Mint.png"
 		},
 		{ 
 			"tasteId": 21,
 			"taste": "Chemical",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Chemical.png"
 		},
 		{ 
@@ -447,24 +447,24 @@
 			"tasteId": 31,
 			"taste": "Chestnut",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Chestnut.png"
 		},
 		{ 
 			"tasteId": 32,
 			"taste": "Blueberry",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Blueberry.png"
 		},
 		{ 
 			"tasteId": 33,
 			"taste": "Coffee",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Coffee.png"
 		},
 		{ 
@@ -519,24 +519,24 @@
 			"tasteId": 40,
 			"taste": "Nutty",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Nutty.png"
 		},
 		{ 
 			"tasteId": 41,
 			"taste": "Tree Fruit",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "TreeFruit.png"
 		},
 		{ 
 			"tasteId": 42,
 			"taste": "Chocolate",
 			"compound": "",
-			"tempF": "",
-			"tempC": "",			
+			"tempF": "0",
+			"tempC": "0",			
 			"imageUrl": "Chocolate.png"
 		}
 

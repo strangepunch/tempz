@@ -4,12 +4,48 @@
 		"selected_items":
 		[
 			[
-				"Hy",
-				"Hypertension"
+				"Pine",
+				"Pine"
+			],
+			[
+				"Clear",
+				"Clear-headed"
+			],
+			[
+				"Long",
+				"long-lasting"
 			],
 			[
 				"Choc",
-				"Chocolat"
+				"Chocloate"
+			],
+			[
+				"Lo",
+				"Loss"
+			],
+			[
+				"Hy",
+				"Hybrid"
+			],
+			[
+				"citr",
+				"Citrus"
+			],
+			[
+				"frui",
+				"Fruity"
+			],
+			[
+				"cOFEE",
+				"Coffee"
+			],
+			[
+				"chun",
+				"Chunk"
+			],
+			[
+				"Rela",
+				"Relaxed"
 			],
 			[
 				"choc",
@@ -70,10 +106,6 @@
 			[
 				"woo",
 				"Woody"
-			],
-			[
-				"Rela",
-				"Relaxing"
 			],
 			[
 				"HArl",
@@ -292,10 +324,6 @@
 				"Harlequin"
 			],
 			[
-				"Pine",
-				"Pineapple"
-			],
-			[
 				"Wa",
 				"Walker"
 			],
@@ -486,34 +514,6 @@
 			[
 				"Goo",
 				"Gooey"
-			],
-			[
-				"Dub",
-				"Dubtech"
-			],
-			[
-				"D",
-				"Diesel"
-			],
-			[
-				"Sa",
-				"Sativa"
-			],
-			[
-				"Harle",
-				"Harle-Tsu"
-			],
-			[
-				"Ukulele_G",
-				"Ukulele_Gsus"
-			],
-			[
-				"Ukulele_F",
-				"Ukulele_Fsus"
-			],
-			[
-				"Ukulele_E",
-				"Ukulele_E9"
 			]
 		]
 	},
@@ -523,7 +523,15 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 677860,
+				"buffer_size": 705733,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Two \"The White\"\n93\n134",
+			"settings":
+			{
+				"buffer_size": 22,
 				"line_ending": "Windows"
 			}
 		},
@@ -737,134 +745,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"vape",
-			"LA Chocolat",
-			"Grapefruit",
-			"707 Headband",
-			"707",
-			"Grape",
-			"205",
-			"Grapefruit",
-			"203",
+			"vapes",
+			"vapes = ",
+			"vapes",
+			"Shiskaberry",
+			"Cinex",
+			"Chocolope",
+			"Chocolate Chunk",
+			"Chocolate Kush",
 			"Grapefruit",
 			"Citrix",
-			"201",
-			"202",
-			"\"strainId\": 200",
-			"\"strainId\": 201",
-			"strainId\": 201",
-			"201",
-			"202",
+			"Face Off OG",
 			"UltraViolet OG",
-			"Kryptonite",
-			"White Kryptonite",
-			"Kryptonite",
-			"strains = ",
-			"Kryptonite",
-			"strain names = ",
-			"\"strainName\": \"\"",
-			"empty strain",
-			"white rhino",
-			"\"conditions\": [\"\"],",
-			"Purple Cheese",
-			"\"strainid\": \" \"",
-			"Candy OG",
-			"Banana Diesel",
-			"Banana Dies",
-			"euphoria",
-			"\"strainId\": 1",
-			"Ostiopererosis",
-			"Stimulates Bone Growth",
-			"Bone-stimulant",
-			"Promote bone growth",
-			"Bone-stimulant",
-			"effects = ",
-			"osteoperosis",
+			"Blackwater",
+			"Lemon Kush",
+			"Lemon Diesel",
 			"Legend OG",
-			"neptune",
+			"White Kryptonite",
+			"King Louis XIII",
+			"Kandy Kush",
+			"Organic OG",
+			"Neptune OG",
+			"Super Silver Haze",
+			"Snowcap",
+			"Skunk #1",
+			"NY Sour Diesel",
+			"Kali Mist",
+			"Jack Frost",
+			"Gorilla Glue #4",
 			"LA Kush",
-			"diamon",
-			"diamong",
-			"black budd",
-			"sour bubble",
-			"lavender",
-			"lavenda",
-			"Sugar",
-			"Phantom",
-			"Lemon Jack",
-			"Dank",
-			"Ghost OG",
-			"coronary",
-			"Coffee",
-			"96",
-			"taste",
-			"Super Lemon Haze",
-			"Harlequin",
-			"Strawberry",
-			"coronary",
-			"corno",
-			"Candyland",
-			"CandyLand",
-			"169",
+			"Island Sweet Skunk",
+			"Headband",
+			"Grape Ape",
+			"Girl Scout Cookies",
+			"Fire OG",
+			"Grandaddy Purple",
+			"Diamond OG",
+			"Diablo Haze",
+			"Cinderella 99",
+			"Cheese",
+			"Bubba Kush",
+			"Brutus OG",
+			"Blue Haze",
+			"Blue Diesel",
+			"Blackberry Kush",
+			"Black Magic Kush",
+			"Master Kush",
+			"Kryptonite",
+			"J1",
+			"Green Dynamite",
+			"Green Dream",
 			"Cannatonic #4",
-			"Valentine-X",
-			"Valentine X",
-			"Valentine-X",
-			"sand flea",
-			"Antioxidant",
-			"heart disease",
-			"Antiischemic",
-			"Anti-ischemic",
-			"Antiischemic",
-			"heart ",
-			"Beta-sitosterol",
-			"Heart Disease",
-			"Effects",
-			"Type II Diabetes",
+			"Mars OG",
+			"Sour OG",
+			"Silver Surfer",
+			"Mercury OG",
+			"OG Cheese",
+			"Black Buddah",
+			"Kalashnikova",
+			"AK-48",
+			"AK-47",
+			"Afgooey",
+			"Afgoo",
+			"Afghani Bullrider",
+			"LA Chocolat",
+			"Strawberry Mist",
+			"Sour Dub",
+			"Sour Bubble",
+			"Purple Passion",
+			"Purple Coma",
+			"Lavender",
+			"Herijuana",
+			"Herojuana",
+			"Godfather OG",
+			"El Alquimista",
+			"DJ Short Blueberry",
+			"Cherry Bomb",
+			"White Walker OG",
+			"White Fire OG",
+			"Lemon Marmalade",
+			"Super Lemon Haze",
+			"Sugar Plum",
+			"Silverback Gorilla",
+			"Pineapple Hogsbreath",
+			"Phantom OG",
+			"May Weather Kush",
+			"Mango Maui",
+			"Mafia OG",
+			"Mad Max",
+			"Lemon OG Kush",
+			"Lemon Jack",
+			"L.A.",
+			"\"imageUrl\": \"images/strains/la-confidential_100x100.jpg\"",
+			"L.A. Confidential",
+			"Jupiter Kush",
+			"Grape Kool Aid",
+			"Grape Cookies",
+			"Ghost OG",
+			"Dubtech",
+			"Clear Lake",
+			"Chocolate Thai",
+			"Cherry Pie",
+			"\"\n",
+			"Chemdawg",
+			"Cataract Kush",
+			"Cannalope Haze",
+			"CandyLand",
+			"Candy Jack",
+			"Cannatonic #4",
+			"Canatonic #4",
+			"Blueberry Trainwreck",
+			"Blue Moonshine",
+			"Blue Dream",
+			"Black Cherry Soda",
 			"Berry White",
-			"Honey",
-			"Chestnut",
-			"Tanger",
-			"Private",
-			"plat",
-			"tyson",
-			"Jack Herer",
-			"Magic Jack",
-			"JAck Herer",
-			"Lemon Haze",
-			"Jilly",
-			"Jillybean",
-			"Green Thai",
-			"Grapefruit Haze",
-			"],   \"taste\": [\"\"],",
-			"],  \n		 	 \"conditions\":",
-			"Euphoria",
-			"Diablo",
-			"banana",
-			"thin mint",
-			"thin",
-			"Purple Cheese",
-			"pineapple",
-			"Strawberry",
-			"Strawberry Cough",
-			"warlock",
-			"Vortex",
-			"XJ",
-			"tastes",
-			"OG Kush",
-			"strainnames",
-			"Papa",
-			"tastes",
-			"Querkle",
-			"Permafrost",
-			"Skywalker OG",
-			"Sage",
-			"White Widow",
-			"trainwreck",
-			"Chinese",
-			"yoda OG",
-			"Stress",
-			"XJ-13"
+			"Berry Queen",
+			"Bay Cookies",
+			"ATF",
+			"Amnesia Haze",
+			"alien og",
+			"\"imageUrl\": \"images/strains/alien-rock-candy_100x100.jpg\"",
+			"Alien Rock Candy",
+			"Alien OG",
+			"Acapulco Gold",
+			"707 Headband",
+			"Yoda OG",
+			"White Fire Alien OG",
+			"Valentine X",
+			"The White"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -947,15 +955,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 677860,
+						"buffer_size": 705733,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								335,
-								335
+								703072,
+								703072
 							]
 						],
 						"settings":
@@ -964,7 +972,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 583522.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -972,6 +980,33 @@
 				},
 				{
 					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
@@ -994,11 +1029,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1021,7 +1056,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
