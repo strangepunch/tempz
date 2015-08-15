@@ -9,7 +9,7 @@
 	app.run(function ($httpBackend){
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
-		var modes = [1, 2, 3, 'Hi', 'Mi', 'Lo']; //Flavor, Effect, Buds, Pos, Neg, Rand
+		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h']; //Flavor, Effect, Buds, Pos, Neg, Rand
 		
 		/** temp ranges  - 0 - 355 = Low, 356 - 385 Med, 386 - 470 = High **/
 
@@ -43,12 +43,12 @@
 			{"recEffectId": 1,
 			 "recEffectName": "Euphoric",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Euphoric.png"
 			}, 
 			{"recEffectId": 2,
 			 "recEffectName": "Happy",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Happy.png"
 			},
 			{"recEffectId": 3,
 			 "recEffectName": "Uplifted",  
@@ -63,12 +63,12 @@
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Creative.png"
 			},
 			{"recEffectId": 6,
 			 "recEffectName": "Energetic",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Energetic.png"
 			},
 			{"recEffectId": 7,
 			 "recEffectName": "Long lasting",  
@@ -113,7 +113,7 @@
 			{"recEffectId": 15,
 			 "recEffectName": "Intense effects",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "IntenseEff.png"
 			},
 			{"recEffectId": 16,
 			 "recEffectName": "Mind and Body Buzz",  
@@ -123,7 +123,7 @@
 			{"recEffectId": 17,
 			 "recEffectName": "Enhance conversation",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "EnhanceConv.png"
 			},
 			{"recEffectId": 18,
 			 "recEffectName": "Therapeutic potency",  
@@ -143,12 +143,12 @@
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "DryMouth.png"
 			},
 			{"recEffectId": 22,
 			 "recEffectName": "Dry Eyes",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "DryEyes.png"
 			},
 			{"recEffectId": 23,
 			 "recEffectName": "Paranoid",  
@@ -158,12 +158,12 @@
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Dizzy.png"
 			},
 			{"recEffectId": 25,
 			 "recEffectName": "Anxious",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Anxious.png"
 			},
 			{"recEffectId": 26,
 			 "recEffectName": "Munchies",  
@@ -173,7 +173,7 @@
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Headache.png"
 			},
 			{"recEffectId": 28,
 			 "recEffectName": "Sleepy",  
@@ -183,12 +183,12 @@
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "CouchLocked.png"
 			},
 			{"recEffectId": 30,
 			 "recEffectName": "Clear-headed",  
 			 "recEffectType": "N",
-			 "imageUrl": "6.png"
+			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,
 			 "recEffectName": "Sexual",  
@@ -198,7 +198,7 @@
 			{"recEffectId": 32,
 			 "recEffectName": "Giggly",  
 			 "recEffectType": "P",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Giggly.png"
 			}
 		];
 
@@ -25270,7 +25270,7 @@
 			 "weight": "",
 			 "type": "Portable",
 			 "manufacturersWarranty": "",
-			 "temps": ["356 F", "374 F", "392 F", "401 F", "410 F"],
+			 "temps": ["365 F", "383 F", "392 F", "401 F", "410 F"],
 			 "descriptionDetailed1": "The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size. ",
 			 "descriptionDetailed2": "Made by vapor veterans Arizer, this pocket size powerhouse answers all of the fans requests and then some. ",
 			 "descriptionDetailed3": "Use while plugged in, check. Intuitive and easy to use design, check. Small and travel friendly design, check. Replaceable battery, check. ",

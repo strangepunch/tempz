@@ -223,13 +223,14 @@ html, body {
 #easyView img{
 	width: 35px;
 }
-
+/**
 #radios{
 	display:block;
 	padding: 0px;
 	margin: 0px;
 	padding-right: 0px;
 }
+**/
 
 #easyView .tCircle {
 	border-style: solid;
@@ -364,6 +365,236 @@ html, body {
 } 
 
 #easyView .collapse{
+	border-style: none;
+	background-color: transparent;
+	color:white;
+}
+/**----------Rec View---------------**/
+#recView{
+	padding: 5px;
+	padding-top: 50px;
+	width: 100%;
+	float:left;
+}
+
+#recView .panel {
+	background-color:rgba(0,0,0,0.2);
+	padding: 5px;
+	margin-bottom: 5px;
+	color: white;
+}
+
+#recView .panel SS{
+	font-size: 2em;
+}
+
+#recView .panel-body {
+	padding-left: 0px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 5px;
+}
+
+#recView .panel-heading {
+	background-color: rgba(0,0,0,0.2);
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -5px;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+#recView .panel-footer {
+	background-color: rgba(0,0,0,0.2);
+	border-style: none;
+	color: white;
+	width: 100;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: -5px;
+	margin-top: 10px;
+	padding: 5px;
+	font-size: .7em;
+}
+
+#recView .panel-primary{
+	background-color: transparent;
+	border-style: none;
+	box-shadow: none;
+}
+
+#recView table{
+	border: none;
+	color: white;
+	width: 100%;
+}
+
+#recView tr td li{
+	list-style: none;
+	padding: 10px;
+}
+
+#recView ul li{
+	list-style: none;
+}
+#recView ul li img{
+	list-style: none;
+	padding-right: 5px;
+}
+
+#recView a{
+	font-style: none;
+	color: white;
+	text-decoration: none;
+}
+
+#recView img{
+	width: 35px;
+}
+
+/**
+#radios{
+	display:block;
+	padding: 0px;
+	margin: 0px;
+	padding-right: 0px;
+}**/
+
+#recView .tCircle {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 5px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 200px;
+	height: 205px;
+	font-size: 2em;
+	text-align: center;
+	vertical-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+}
+#recView .tCircle span{
+	font-size: 3em;
+}
+#recView .center {
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: #b0e0e6;*/
+}
+
+#recView .imgStrains img {
+	margin-left: 10px;
+	vertical-align: center;
+	width: 50px;
+	height: 50px;
+}
+
+/**#recView .imgStrains a img {
+	vertical-align: center;
+}**/
+
+#recView .imgStrains h6 {
+	text-align: left;
+	padding-left: 0px;
+}
+#recView .pushDown{
+	padding-top: 10px;
+}
+#recView .tCircle2 {
+	border-style: solid;
+	border-color: white;
+	background-color:rgba(0,0,0,0.2);
+    border-width: 2px;
+    border-radius: 50%;
+	padding: 20px;
+	width: 60px;
+	height: 65px;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	padding: 0px;
+	padding-top: 20px;
+	background-repeat: no-repeat;
+}
+#recView .active{
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	border-right:10px solid yellow; 
+
+	margin-top: 10px;
+	float:right;
+}
+
+#recView .active2{
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	border-left:10px solid yellow;
+
+	margin-top: 10px;
+	float:left; 	
+}
+
+#recView .btn{
+	border-style: none;
+	background-color: transparent;
+}
+
+#recView .row-padding{
+	margin-left: 20px;
+}
+
+#recView .btn-primary{
+	border-style: solid;
+	border-color: white;
+	color:white;
+}
+#recView .btn input{
+	color:black;
+}
+#recView .btn:hover {
+  	color:#009900;
+}
+
+#recView .dropdown .btn-default{
+	border-style: none;
+	background-color: transparent;
+	color:white;
+	outline:none;
+	box-shadow: none;
+}
+#recView .dropdown .btn-default:hover {
+  	color:#009900;
+}
+
+#recView .dropdown ul li a{
+	color:black;
+}
+
+#recView .panel-buttons{
+	width: 45%;
+	text-align: center;
+	vertical-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+} 
+
+#recView .collapse{
 	border-style: none;
 	background-color: transparent;
 	color:white;

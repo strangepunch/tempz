@@ -23,6 +23,8 @@
 		vm.centerImage = "1.png";
 		vm.modeName = "Flavor";
 		vm.discMode = "Taste";
+		vm.taste = true;
+		vm.strain = false;
 
 		//Storage space for goEasy seach
 		//vm.userSelect = [{"condName":"", "strnName":""}];
@@ -45,6 +47,8 @@
 		//Populate modes
 		modeResource.query(function(data){
 			vm.Modes = data;
+			vm.ModeT = [data[3],data[4],data[5]];
+			vm.ModeS = [data[6],data[7],data[8]];
 			vm.currentMode = vm.Modes[0]; //initiate mode
 		});
 
@@ -56,6 +60,8 @@
 			    	vm.modeName = "Flavor";
 			    	vm.centerImage = "1.png";
 			    	vm.discMode = "Taste";
+			    	vm.taste = true;
+					vm.strain = false;
 			    	$scope.showQuestion1 = true;
     				$scope.showQuestion2 = false;
     				$scope.showQuestion3 = false;
@@ -70,6 +76,8 @@
 			    	vm.modeName = "Effect";
 			    	vm.centerImage = "2.png";
 			    	vm.discMode = "Feel";
+			    	vm.taste = true;
+					vm.strain = false;
 			    	$scope.showQuestion1 = false;
     				$scope.showQuestion2 = true;
     				$scope.showQuestion3 = false;
@@ -84,6 +92,8 @@
 			    	vm.modeName = "Buds";
 			    	vm.centerImage = "3.png";
 			    	vm.discMode = "Strain";
+			    	vm.taste = false;
+					vm.strain = true;
 			    	$scope.showQuestion1 = false;
     				$scope.showQuestion2 = false;
     				$scope.showQuestion3 = true;
@@ -117,6 +127,7 @@
 				if(vm.tasteList[i].taste === name){
 					vm.centerImage = vm.tasteList[i].imageUrl;
 					vm.modeName = vm.tasteList[i].taste;
+					vm.tasteTemp = vm.tasteList[i].tempF;
 				}
 			};
 			vm.selectedSomething = 1;
@@ -187,6 +198,11 @@
 	     	vm.showQ3 = !vm.showQ3; //toggle the questions display off
 	     	vm.selectedStrain = name;
 	     	vm.selectedSomething = 1;
+	     	for(var i=0; i<vm.strainNames.length; i++){
+	     		if(vm.strainNames[i].strainName === name){
+	     			vm.strainT = vm.strainNames[i].strainType;
+	     		}
+	     	}
 	    }
 	    //search and filter strains
 	    vm.searchAll = "";
@@ -355,6 +371,36 @@
 				    	return "active2";
 				    }
 			        break;
+			    case 'Lo':
+			    	if(vm.tasteTemp <= 365){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'Md':
+			    	if(365 < vm.tasteTemp && vm.tasteTemp < 392){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'Hi':
+			    	if(vm.tasteTemp >= 392){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'i':
+			    	if(vm.strainT === 'Indica'){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 's':
+			    	if(vm.strainT === 'Sativa'){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'h':
+			    	if(vm.strainT === 'Hybrid'){
+			    		return "active2";
+			    	}
+			    	break;
 			    default:
 			        return "!active";
 			}

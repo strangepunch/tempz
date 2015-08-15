@@ -1,4 +1,4 @@
-<div id="easyView">
+<div id="recView">
 	<!--the temperature display -->
 	<div class = "panel panel-primary">
 		<div class = "row">
@@ -35,9 +35,16 @@
 					
 					<td class="col-xs-1"> 
 					
-						<div ng-repeat="mode in vm.Modes|limitTo:-3 track by $index">
+						<div ng-if="vm.taste" ng-repeat="mode in vm.ModeT|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
-							<li ng-click="selectMode(mode)" style="text-align:right">
+							<li  style="text-align:right">
+								<img ng-src="images/Rec/{{mode}}.png">
+							</li>	
+						</div>
+
+						<div ng-if="vm.strain" ng-repeat="mode in vm.ModeS|limitTo:-3 track by $index">
+							<div ng-class="active(mode)"></div>
+							<li  style="text-align:right">
 								<img ng-src="images/Rec/{{mode}}.png">
 							</li>	
 						</div>
@@ -60,8 +67,8 @@
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
-					    <ul class="col-xs-7" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
-							<li><div ng-click="selectTaste(tasteList.taste)">{{tasteList.taste}}</div></li>
+					    <ul class="col-xs-10" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
+							<li><div ng-click="selectTaste(tasteList.taste)"><img src="images/Rec/{{tasteList.imageUrl}}">{{tasteList.taste}}</div></li>
 						</ul>
 					</div> 
 				</div>
@@ -89,8 +96,8 @@
 					 		<div class="btn" ng-click="searchEffect('Positive')"> Positive </div>   
 					 		<!--<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>-->  
 					 	</div>
-					    <ul class="col-xs-7" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
-							<li><div ng-click="selectEffect(effectList.recEffectName)">{{effectList.recEffectName}}</div></li>
+					    <ul class="col-xs-10" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
+							<li><div ng-click="selectEffect(effectList.recEffectName)"><img src="images/Rec/{{effectList.imageUrl}}"> {{effectList.recEffectName}}</div></li>
 						</ul>
 					</div> 
 				</div>
@@ -130,7 +137,7 @@
 					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
 					 	</div>
 					 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
-							<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
+							<li><div ng-click="selectStrain(sName.strainName)"><img src="{{sName.imageUrl}}" class="img-circle"> {{sName.strainName}}</div></li>
 						</ul>
 				 	</div>
 				</div>
@@ -178,8 +185,8 @@
 					</div>
 				</div>
 				<div  class = "panel-footer">
-					<div class="btn" ng-click="goBack('A1')"> <span class="glyphicon glyphicon-chevron-left"> </div>
-					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
+					<div class="btn" ng-click="goBack('A1')"> <span class="glyphicon glyphicon-chevron-left"></span> Back </div>
+					<div class="btn" style="float:right" ng-click="">Details <span class="glyphicon glyphicon-chevron-right"></span> </div>
 				</div>
 			</div> 
 		</div>
@@ -229,8 +236,8 @@
 					</div>
 				</div>
 				<div  class = "panel-footer">
-					<div class="btn" ng-click="goBack('A2')"> <span class="glyphicon glyphicon-chevron-left"> </div>
-					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
+					<div class="btn" ng-click="goBack('A2')"> <span class="glyphicon glyphicon-chevron-left"> </span> Back </div>
+					<div class="btn" style="float:right" ng-click="">Details <span class="glyphicon glyphicon-chevron-right"></span> </div>
 				</div>
 			</div> 
 		</div>
@@ -281,8 +288,8 @@
 					</div>
 				</div>
 				<div  class = "panel-footer">
-					<div class="btn" ng-click="goBack('A3')"> <span class="glyphicon glyphicon-chevron-left"> </div>
-					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
+					
+					<div class="btn" style="padding-left:83%;" ng-click="">Details<span class="glyphicon glyphicon-chevron-right"></span></div>
 				</div>
 			</div> 
 		</div>
