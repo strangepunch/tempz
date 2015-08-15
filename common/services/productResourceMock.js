@@ -191,7 +191,7 @@
 			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,
-			 "recEffectName": "Enahanced Sexual Desire",  
+			 "recEffectName": "Enhanced Sexual Desire",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
