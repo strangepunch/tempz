@@ -81,7 +81,7 @@
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 9,
-			 "recEffectName": "Mind and body balance",  
+			 "recEffectName": "Balanced",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
@@ -101,17 +101,17 @@
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 13,
-			 "recEffectName": "Mild psychoactive effects",  
+			 "recEffectName": "Mildly psychoactive",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 14,
-			 "recEffectName": "Mellow effects with mental clarity",  
+			 "recEffectName": "Mellow with mental clarity",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 15,
-			 "recEffectName": "Intense effects",  
+			 "recEffectName": "Intense",  
 			 "recEffectType": "P",
 			 "imageUrl": "IntenseEff.png"
 			},
@@ -121,12 +121,12 @@
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 17,
-			 "recEffectName": "Enhance conversation",  
+			 "recEffectName": "Conversational",  
 			 "recEffectType": "P",
 			 "imageUrl": "EnhanceConv.png"
 			},
 			{"recEffectId": 18,
-			 "recEffectName": "Therapeutic potency",  
+			 "recEffectName": "Therapeutic",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
@@ -136,7 +136,7 @@
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 20,
-			 "recEffectName": "Stimulate Hunger",  
+			 "recEffectName": "Enhanced Hunger",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
@@ -176,7 +176,7 @@
 			 "imageUrl": "Headache.png"
 			},
 			{"recEffectId": 28,
-			 "recEffectName": "Sleepy",  
+			 "recEffectName": "Enhanced Drowsiness",  
 			 "recEffectType": "N",
 			 "imageUrl": "6.png"
 			},
@@ -191,7 +191,7 @@
 			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,
-			 "recEffectName": "Sexual",  
+			 "recEffectName": "Enahanced Sexual",  
 			 "recEffectType": "P",
 			 "imageUrl": "6.png"
 			},
