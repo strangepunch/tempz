@@ -199,6 +199,11 @@
 			 "recEffectName": "Giggly",  
 			 "recEffectType": "P",
 			 "imageUrl": "Giggly.png"
+			},
+			{"recEffectId": 33,
+			 "recEffectName": "Less Social",  
+			 "recEffectType": "N",
+			 "imageUrl": "6.png"
 			}
 		];
 
@@ -1804,6 +1809,24 @@
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/shishkaberry_100x100.jpg"
 			 	
+			},
+			{"strainId": 211,
+			 	"strainName": "R4",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/R4-200x160.jpg"
+			 	
+			},
+			{"strainId": 212,
+			 	"strainName": "Super Sweet",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/super-sweet_100x100.jpg"
+			 	
+			},
+			{"strainId": 213,
+			 	"strainName": "Sweet Lavender Diesel",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/sweet-lavender-diesel.jpg"
+			 	
 			}
 		]; 
 
@@ -1905,6 +1928,14 @@
 				 	{ 
 				 		"name": "CBL", 
 				 		"value": 0.0
+				 	},
+				 	{ 
+				 		"name": "Humulene", 
+				 		"value": 0.00
+				 	},
+				 	{ 
+				 		"name": "Terpinolene", 
+				 		"value": 0.00
 				 	} 	
 		 	],
 		 	 "taste": ["Earthy","Pine","Pungent"],
@@ -2011,7 +2042,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	}
+			 	},
+			 	{ 
+				 		"name": "Humulene", 
+				 		"value": 0.00
+				},
+				{ 
+				 		"name": "Terpinolene", 
+				 		"value": 0.00
+				}
 			 ],
 			 "taste": ["Earthy","Woody","Pungent"],	 	
 		 	 "conditions": ["Anxiety","Depression", "Stress", "Pain", "Insomnia"],
@@ -2117,7 +2156,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}
 		 	],
 		 	 "taste": ["Sage","Earthy","Woody"],   
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
@@ -2223,7 +2270,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.7
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy","Pungent", "Sweet"],
 		 	 "conditions": ["Tension", "Anxiety", "Stress", "Pain"],
@@ -2329,7 +2384,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy","Pine", "Sweet"],
 			"conditions": ["Gastrointestinal Disorders", "ADD/ADHD", "Anxiety", "Arthritis", "Asthma", "Multiple Sclerosis", "Stress", "Pain", "Depression", "Insomnia", "Headache"],
@@ -2435,7 +2498,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet","Berry","Earthy"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Nausea", "Pain", "Stress"],
@@ -2541,7 +2612,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Tropical","Sweet","Mango"],
 		 	 "conditions": ["Stress", "Pain", "Headache", "Insomnia", "Nausea"],
@@ -2647,7 +2726,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy","Sweet","Woody", "Coffee", "Lemon"],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
@@ -2753,7 +2840,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
 		 	 "conditions": ["Pain", "Stress"],
@@ -2859,7 +2954,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
@@ -2965,7 +3068,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody", "Citrus", "Mint"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress", "Pain"],
@@ -3071,7 +3182,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Honey", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression", "Nausea", "Pain", "Fatigue"],
@@ -3177,7 +3296,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Sweet"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
@@ -3283,7 +3410,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Nausea", "Appetite Loss"],
@@ -3389,7 +3524,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pungent", "Citrus", "Lemon"],
 		 	 "conditions": ["Stress", "Depression", "Fatigue", "Appetite Loss", "Pain"],
@@ -3495,7 +3638,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Tea"],
 		 	 "conditions": ["Pain", "Stress", "Nausea", "Depression", "Insomnia", "ADD/ADHD"],
@@ -3601,7 +3752,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
@@ -3707,7 +3866,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pungent", "Diesel", "Earthy"],
 		 	 "conditions": ["Stress", "Anxiety", "Fatigue"],
@@ -3813,7 +3980,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Anxiety", "Stress", "Depression", "Insomnia", "Pain", "Nausea"],
@@ -3919,7 +4094,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.20
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Diesel", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia","Anxiety", "Depression", "Insomnia", "Appetite Loss","Pain", "Stress"],
@@ -4025,7 +4208,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Skunk", "Citrus"],
 		 	 "conditions": ["Pain", "Eye Pressure", "Fatigue", "Stress", "Headache"],
@@ -4131,7 +4322,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea"],
@@ -4237,7 +4436,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Depression", "Nausea"],
@@ -4343,7 +4550,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Pine"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Appetite Loss", "Depression"],
@@ -4449,7 +4664,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pineapple", "Sweet", "Tropical"],
 		 	 "conditions": ["PMS"],
@@ -4555,7 +4778,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Cheese", "Sweet", "Grape"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Pain", "PMS", "Stress"],
@@ -4661,7 +4892,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy", "Skunk", "Sweet"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Migraines", "Muscle Spasms", "Pain", "Stress", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Anxiety", "Multiple Sclerosis"],
@@ -4767,7 +5006,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Sweet", "Skunk", "Pungent"],
 		 	 "conditions": ["Asthma", "Nausea"],
@@ -4873,7 +5120,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Pine", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress" ],
@@ -4979,7 +5234,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Mint"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Nausea", "PMS", "Pain", "Swelling", "Insomnia", "Appetite Loss", "Stress"],
@@ -5085,7 +5348,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Diesel", "Sweet", "Chemical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Epilepsy", "Migraines", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
@@ -5191,7 +5462,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar", "Depression", "Nausea", "Pain", "PMS", "Stress"],
@@ -5297,7 +5576,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pine", "Earthy", "Sweet"], 
 		 	 "conditions": ["Bipolar", "Stress", "Pain", "Appetite Loss", "Insomnia", "Depression"],
@@ -5403,7 +5690,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Cheese", "Pungent", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD","Anorexia","Arthritis", "Pain","Bipolar","Depression", "Insomnia", "Appetite Loss", "Nausea", "Stress"],
@@ -5509,7 +5804,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Pungent", "Skunk", "Earthy"],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Bipolar", "Depression", "Migraines", "Headache", "Stress", "Insomnia", "Muscle Pain"],
@@ -5615,7 +5918,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
 		 	 "conditions": ["Bipolar", "Pain", "Insomnia", "Migraines", "Headache", "Nausea", "Stress", "Depression"],
@@ -5721,7 +6032,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Bipolar", "Pain", "PMS", "Stress"],
@@ -5827,7 +6146,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": [""],
 		 	 "conditions": ["Stress", "Seizures", "Pain", "Nausea", "Migraines", "Appetite Loss", "Depression", "Bipolar", "Anxiety"],
@@ -5933,7 +6260,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet","Flowery","Woody"], 
 		 	 "conditions": ["Bipolar", "Social Anxiety"],
@@ -6039,7 +6374,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Fruity"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
@@ -6145,7 +6488,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Nausea"],
@@ -6251,7 +6602,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Bipolar", "Migraines", "Headache", "Hypertension", "Depression", "Glaucoma", "Appetite Loss", "Muscle Spasms", "Pain", "PMS", "Stress"],
@@ -6357,7 +6716,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	 "taste": ["Pepper", "Grapefruit", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "PMS", "Stress", "Muscle Spasms"],
@@ -6463,7 +6830,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.50
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy"],   
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
@@ -6569,7 +6944,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Citrus"], 
 		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Stress"],
@@ -6675,16 +7058,24 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Fruity", "Sweet"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Glaucoma", "Appetite Loss", "Migraines", "Headache", "Nausea", "Stress", "Impotence"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Enhanced Sexual Desire"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand. It boasts as one of the highest THC contents of any cannabis variety in the world. Green Thailand is one of the most productive strains in Thailand helped by the relatively short flowering time compared to some other Thai strains.",
-			 "descriptionAbbrev":  "One of the highest THC contents of any cannabis variety in the world.",
+			 "descriptionAbbrev":  "One of the highest THC contents of any cannabis variety in the world. Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand.",
 			 "tags": ["Sativa", "Green Thailand", "Bipolar", "Migraines", "Headache", "Nausea", "Glaucoma"],
-			 "imageUrl": "images/strains/thai_100x100.jpg"
+			 "imageUrl": "images/strains/green-thai_100x100.jpg"
 			},
 			{"strainId": 47,
 			 "strainName": "H-Train Wreck", 
@@ -6781,7 +7172,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy", "Pine", "Pungent"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar", "Migraines", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -6887,7 +7286,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Sweet", "Tropical", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
@@ -6993,7 +7400,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy", "Diesel", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Migraines", "Headache", "PMS", "Pain", "Stress"],
@@ -7099,7 +7514,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"], 
 		 	 "conditions": ["Anorexia","Depression", "Stress", "Pain", "Fatigue", "Appetite Loss"],
@@ -7205,7 +7628,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Sweet", "Citrus", "Orange"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Fatigue", "Pain", "PMS", "Stress"],
@@ -7311,7 +7742,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Nausea"],
@@ -7417,7 +7856,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Sweet"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Insomnia"],
@@ -7523,7 +7970,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Lemon", "Diesel"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
@@ -7629,7 +8084,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Chocloate", "Lemon"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Insomnia", "Hypertension", "Fibromyalgia", "Depression", "Bipolar", "Arthritis", "Anxiety"],
@@ -7735,7 +8198,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Lemon", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
@@ -7841,7 +8312,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Sweet", "Skunk", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Depression", "Hypertension", "Appetite Loss", "Muscle Spasms", "Pain","PMS"],
@@ -7947,7 +8426,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Fruity"], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
@@ -8053,7 +8540,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Citrus", "Flowery", "Diesel", "Grapefruit"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Fibromyalgia", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
@@ -8159,7 +8654,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
@@ -8265,7 +8768,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Pineapple", "Sweet", "Tropical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Appetite Loss", "Pain", "PMS", "Stress", "Insomnia", "Headache"],
@@ -8371,7 +8882,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Hash"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
@@ -8477,7 +8996,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Sour", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
@@ -8583,7 +9110,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Muscle Spasms", "Pain", "Stress", "Fatigue", "Headache"],
@@ -8690,7 +9225,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.0
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Grape", "Berry"],
 		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS", "Insomnia", "Pain", "Depression", "Appetite Loss"],
@@ -8796,7 +9339,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Citrus", "Lemon"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Fatigue", "Headache", "Bipolar", "Nausea", "PMS"],
@@ -8902,7 +9453,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Lemon"],
 		 	 "conditions": ["Bipolar", "Migraines", "Pain", "Anxiety", "Headache"],
@@ -9008,7 +9567,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Citrus", "Pungent"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Hypertension", "Fibromyalgia", "Bipolar", "Anxiety", "Anorexia", "ADD/ADHD"],
@@ -9114,7 +9681,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Earthy"],
 		 	 "conditions": ["Stress", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
@@ -9220,7 +9795,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Berry"],
 		 	 "conditions": ["Anxiety", "Bipolar", "Depression", "Pain", "Stress"],
@@ -9326,7 +9909,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Lemon", "Earthy", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar","Depression", "Migraines", "Pain", "PMS", "Stress", "Impotence"],
@@ -9432,7 +10023,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Grape"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Hypertension", "Muscle Spasms", "Pain", "PMS"],
@@ -9538,7 +10137,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Orange", "Citrus", "Mango"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar","Fibromyalgia","Appetite Loss","Muscle Spasms", "Pain","PMS", "Stress", "Impotence"],
@@ -9644,7 +10251,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Orange", "Sweet", "Citrus"],
 		 	 "conditions": ["Anxiety","Bipolar","Depression","Appetite Loss", "PMS", "Stress"],
@@ -9750,7 +10365,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Tropical", "Pungent"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Appetite Loss", "Depression", "Bipolar", "Anxiety", "Anorexia"],
@@ -9856,7 +10479,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Mango", "Citrus", "Sweet", "Lemon", "Tropical"],
 		 	 "conditions": ["Insomnia", "Depression", "Stress"],
@@ -9962,7 +10593,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Sweet"], 
 		 	 "conditions": ["Anxiety", "Cancer", "Insomnia", "Migraines", "Pain", "Stress"],
@@ -10068,7 +10707,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Chestnut", "Earthy", "Woody"],
 		 	 "conditions": ["Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Muscle Spasms", "Nausea", "Inflammation"],
@@ -10174,7 +10821,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Cancer", "Epilepsy", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
@@ -10280,7 +10935,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Pungent", "Pine"],
 		 	 "conditions": ["Cancer", "Depression", "Epilepsy", "Stress", "Pain", "Inflammation", "Muscle Spasms"],
@@ -10386,7 +11049,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Stress", "Pain", "Depression", "Seizures", "Fatigue"],
@@ -10492,7 +11163,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pine", "Woody", "Pepper"],
 		 	 "conditions": ["Anxiety","Cancer", "Depression","Epilepsy", "Pain", "Stress"],
@@ -10598,7 +11277,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Citrus", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Depression", "Appetite Loss", "Pain", "Stress", "Fatigue", "Headache"],
@@ -10704,7 +11391,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Spicy", "Herbal", "Sweet"],
 		 	 "conditions": ["ADD/ADHD","Anorexia", "Anxiety", "Arthritis", "Asthma", "Cancer", "Migraines", "Depression", "Epilepsy", "Pain", "Stress"],
@@ -10810,7 +11505,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["Arthritis", "Cancer", "Nausea", "Epilepsy", "Pain", "Stress", "Inflammation", "Depression", "Headache"],
@@ -10916,7 +11619,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Cancer", "Migraines", "Headache"],
@@ -11022,7 +11733,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy"],
 		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss"],
@@ -11128,7 +11847,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Chronic Aches", "Depression", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
@@ -11234,7 +11961,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pineapple", "Pine", "Lemon"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Stress", "Pain", "Depression", "Appetite Loss", "Insomnia"],
@@ -11340,7 +12075,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Skunk", "Spicy", "Herbal"],
 		 	 "conditions": ["Cancer", "Insomnia", "Stress", "Pain", "Muscle Spasms", "Appetite Loss"],
@@ -11446,7 +12189,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pineapple", "Earthy", "Pepper"],
 		 	 "conditions": ["Cancer", "Depression", "Fatigue", "Stress", "Insomnia", "Pain"],
@@ -11552,7 +12303,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pine", "Citrus"],
 		 	 "conditions": ["Cancer", "Migraines", "Headache", "Epilepsy"],
@@ -11658,7 +12417,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.20
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Pungent"],
 		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Cancer", "Nausea", "Headache"],
@@ -11764,7 +12531,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Earthy", "Honey"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Impotence", "Muscle Spasms", "Seizures", "Spasticity", "Inflammation"],
@@ -11870,7 +12645,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pungent", "Earthy", "Lemon"],
 		 	 "conditions": ["Cancer", "Pain", "Anxiety", "Tension", "Stress"],
@@ -11976,7 +12759,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Pain", "Depression", "Appetite Loss"],
@@ -11985,7 +12776,7 @@
 			 "descriptionDetailed": "Seasoned consumers may be able to withstand its heaviness during the day, but Yoda OG is most popularly chosen for nighttime consumption.",
 			 "descriptionAbbrev":  "Its sedating, euphoric effects make it a popular medicine for anxiety and insomnia, and it also provides an extra kick to the appetite.",
 			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/yoda-og_100x100.jpg"
 			},
 			{"strainId": 97,
 			 "strainName": "707 Headband", 
@@ -12082,7 +12873,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pungent", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms", "Nausea" ],
@@ -12188,7 +12987,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Anorexia", "Depression", "Appetite Loss", "Stress", "Pain", "Headache", "Fatigue", "Arthritis"],
@@ -12294,7 +13101,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.20
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pine"],
 		 	 "conditions": ["Anxiety", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
@@ -12400,7 +13215,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Insomnia", "Pain", "Stress"],
@@ -12506,7 +13329,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Citrus"],
 		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -12612,7 +13443,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue","Insomnia", "Migraines",  ],
@@ -12718,7 +13557,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Nausea", "PTSD","OCD", "Pain", "Stress"],
@@ -12735,15 +13582,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 27.10
+			 		"value": 22.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.36
+			 		"value": 0.46
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -12771,19 +13618,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.16
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.89
+			 		"value": 1.90
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 1.61
+			 		"value": 3.86
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.45
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12791,7 +13638,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 3.14
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12824,15 +13671,23 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
-		 	"taste": ["Berry"],
-		 	 "conditions": ["Anorexia", "Anxiety","Depression", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": ["Anxious", "Enhanced Drowsiness", "Enhanced Hunger"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Short description here.",
-			 "tags": ["Hybrid", "Berry Queen", "Berry", "Depression", "Nausea", "Pain", "Stress"],
+		 	"taste": ["Berry", "Sweet", "Blueberry"],
+		 	 "conditions": ["Stress", "Pain", "Nausea", "Depression", "Anxiety", "Anorexia", "Insomnia",],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Enhanced Hunger", "Pain relief"],
+			 "negativeEffects": ["Enhanced Hunger", "Less Social"],
+			 "descriptionDetailed": "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
+			 "descriptionAbbrev":  "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/berryQueen.jpg"
 			},
 			{"strainId": 105,
@@ -12930,7 +13785,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Depression", "Pain", "Stress"],
@@ -13036,7 +13899,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Berry", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Depression", "Pain", "Stress"],
@@ -13142,7 +14013,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anxiety","Depression", "Insomnia", "Migraines", "Headache", "Nausea", "Pain", "Stress"],
@@ -13248,7 +14127,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Blueberry", "Berry"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Muscle Spasms", "Insomnia"],
@@ -13354,7 +14241,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Blueberry", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress"],
@@ -13460,7 +14355,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Depression", "Pain", "Stress", "Inflammation", "Muscle Spasms"],
@@ -13566,7 +14469,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Pine", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Fatigue", "Nausea", "Pain", "Stress"],
@@ -13672,7 +14583,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Spicy", "Herbal"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Fatigue","Headache", "Stress"],
@@ -13778,7 +14697,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Tropical", "Sweet", "Flowery"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Pain", "Stress"],
@@ -13884,7 +14811,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Skunk"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -13990,7 +14925,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Earthy", "Diesel", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Insomnia", "Nausea", "Appetite Loss", "Pain", "PMS", "Stress"],
@@ -14096,7 +15039,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.07
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Insomnia", "Headache"],
@@ -14202,7 +15153,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Coffee", "Sweet", "Earthy"],
 		 	 "conditions": ["Migraines", "Headache", "Stress"],
@@ -14308,7 +15267,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
@@ -14414,7 +15381,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
@@ -14520,7 +15495,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Citrus", "Earthy", "Pine"],
 		 	 "conditions": ["Migraines", "Headache", "Pain", "Insomnia", "Depression", "Anxiety"],
@@ -14626,7 +15609,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Grape", "Sweet", "Fruity"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Fibromyalgia", "Glaucoma", "Insomnia", "Appetite Loss","Migraines", "Nausea", "Pain", "Seizures", "PMS", "Stress"],
@@ -14732,7 +15723,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Grape", "Sour", "Dank"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Arthritis","Depression","Insomnia","Migraines", "Pain", "Nausea", "Stress", "Hypertension"],
@@ -14838,7 +15837,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Citrus", "Diesel"],
 		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
@@ -14944,7 +15951,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.05
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
@@ -15050,7 +16065,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Lime"],
 		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "Spasticity", "Fatigue"],
@@ -15156,7 +16179,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression"],
@@ -15262,7 +16293,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Woody", "Earthy"],
 		 	 "conditions": ["Migraines", "Headache", "ADD/ADHD"],
@@ -15368,7 +16407,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy", "Spicy", "Diesel"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
@@ -15474,7 +16521,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Diesel", "Lemon", "Pungent", "Mango", "Tropical"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
@@ -15580,7 +16635,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Diesel"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Insomnia", "Migraines", "Muscle Spasms", "Pain", "PMS", "Stress"],
@@ -15686,7 +16749,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Flowery", "Earthy", "Pine", "Menthol"],
 		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
@@ -15792,7 +16863,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pineapple", "Cheese"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Migraines", "Muscle Spasms", "Nausea", "Pain", "PMS", "Stress"],
@@ -15898,7 +16977,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Earthy", "Sweet"],
 		 	 "conditions": ["Migraines", "Headache"],
@@ -16004,7 +17091,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Berry", "Plum", "Spicy", "Herbal"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Cramps", "Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
@@ -16110,7 +17205,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
@@ -16216,7 +17319,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Depression", "Stress", "Hypertension"],
@@ -16322,7 +17433,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea"],
@@ -16428,7 +17547,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Citrus", "Earthy", "Pungent"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea"],
@@ -16534,7 +17661,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Nausea", "Pain", "PMS", "Stress"],
@@ -16640,7 +17775,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
@@ -16746,7 +17889,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": [""],
 		 	 "conditions": ["Nausea"],
@@ -16852,7 +18003,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress", "Depression", "Headache"],
@@ -16958,7 +18117,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Headache"],
@@ -17064,7 +18231,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Lavender", "Flowery", "Sweet"],
 		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Nausea", "Depression"],
@@ -17170,7 +18345,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Grape"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Fibromyalgia", "Nausea", "Stress"],
@@ -17276,7 +18459,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Grape", "Pungent", "Sweet"],
 		 	 "conditions": ["Nausea", "Stress", "Pain", "Insomnia", "Appetite Loss"],
@@ -17382,7 +18573,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Chestnut", "Sweet", "Earthy", "Diesel"],
 		 	 "conditions": ["Nausea", "Pain", "Insomnia", "Muscle Spasms", "Anxiety"],
@@ -17488,7 +18687,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Pine", "Earthy", "Dank"], 
 		 	 "conditions": ["Nausea", "Pain", "Insomnia", "Anxiety", "Appetite Loss"],
@@ -17594,7 +18801,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Depression","Nausea","Pain", "PMS", "Stress", "Impotence"],
@@ -17700,7 +18915,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Fruity"],
 		 	 "conditions": ["Pain", "Stress", "Appetite Loss"],
@@ -17806,7 +19029,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -17912,7 +19143,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -18018,7 +19257,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Migraines", "Pain", "Stress"],
@@ -18124,7 +19371,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pine", "Skunk"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -18230,7 +19485,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Sweet"],
 		 	 "conditions": ["Anorexia","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -18336,7 +19599,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Pain", "Stress"],
@@ -18442,7 +19713,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Exotic"],
 		 	 "conditions": ["Pain", "Stress"],
@@ -18548,7 +19827,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Skunk", "Cheese", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Arthritis", "Depression", "Hypertension", "Nausea", "Insomnia", "Pain", "PMS", "Stress"],
@@ -18654,7 +19941,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
@@ -18760,7 +20055,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Citrus", "Earthy", "Flowery"],
 		 	 "conditions": ["ADD/ADHD", "Arthritis", "Glaucoma", "Insomnia", "Pain", "Stress", "Muscle Spasms", "Depression" ],
@@ -18866,7 +20169,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Diesel", "Sweet"],
 		 	 "conditions": ["Anxiety","Depression", "Epilepsy", "Insomnia", "Pain", "Stress"],
@@ -18972,7 +20283,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Epilepsy", "Pain", "Appetite Loss", "Insomnia", "Stress", "Headache"],
@@ -19078,7 +20397,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
@@ -19184,7 +20511,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Fatigue"],
@@ -19290,7 +20625,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Grapefruit", "Earthy", "Grape"],
 		 	 "conditions": ["PMS", "Insomnia", "Stress", "Pain", "Depression", "Muscle spasms"],
@@ -19396,7 +20739,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Citrus", "Sweet", "Pungent"], 
 		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "PMS", "Fatigue", "Headache"],
@@ -19502,7 +20853,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps"],
@@ -19608,7 +20967,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["PMS", "Stress", "Insomnia", "Depression", "Appetite Loss"],
@@ -19714,7 +21081,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Fruity"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia"],
@@ -19820,7 +21195,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Berry", "Grape", "Lavender"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress"],
@@ -19926,7 +21309,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Blueberry", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Headache", "Appetite Loss"],
@@ -20032,7 +21423,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Earthy", "Blueberry", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Depression", "Headache"],
@@ -20138,7 +21537,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Citrus", "Lemon", "Pine", "Diesel"],
 		 	 "conditions": ["Stress", "Anxiety", "Arthritis", "Chronic Aches", "Muscle Spasms", "Pain"],
@@ -20244,7 +21651,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -20350,7 +21765,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Cheese", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -20456,7 +21879,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Citrus", "Sweet", "Tropical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Appetite Loss", "Fatigue", "Pain", "PMS", "Stress"],
@@ -20562,7 +21993,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
@@ -20668,7 +22107,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Muscle Spasms", "Depression"],
@@ -20774,7 +22221,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.10
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Grape", "Berry", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
@@ -20880,7 +22335,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.20
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Lack of Appetite"],
@@ -20986,7 +22449,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.13
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
@@ -21092,7 +22563,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.16
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Grape", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
@@ -21198,7 +22677,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.16
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	],   
 		 	"taste": ["Earthy", "Pungent", "Diesel"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
@@ -21304,7 +22791,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.12
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Sweet", "Skunk", "Tropical"],
 		 	 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Nausea"],
@@ -21410,7 +22905,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.16
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Nutty", "Menthol", "Mint"],
 		 	 "conditions": ["Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain"],
@@ -21516,7 +23019,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 	
 		 	], 
 		 	"taste": ["Pine", "Pungent", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Depression", "Fibromyalgia", "Muscle Spasms", "Appetite Loss","Pain", "Stress", "Headache"],
@@ -21622,7 +23133,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	} 
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				} 
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress"],
@@ -21728,7 +23247,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Flowery"],
 			"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
@@ -21834,7 +23361,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}
 		 	],
 		 	"taste": ["Diesel", "Pungent", "Earthy"],
 		 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -21940,7 +23475,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	],
 		 	"taste": ["Skunk", "Sweet", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Pain", "Stress"],
@@ -22046,7 +23589,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Lemon", "Earthy", "Citrus"],
 		 	 "conditions": ["Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
@@ -22152,7 +23703,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Citrus", "Sweet", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Nausea","Depression", "Appetite Loss", "Pain", "Stress", "Fatigue"],
@@ -22258,7 +23817,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Tropical", "Tree Fruit", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
@@ -22364,7 +23931,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress"],
@@ -22470,7 +24045,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Flowery"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
@@ -22576,7 +24159,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Pine", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
@@ -22682,7 +24273,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Flowery", "Pungent", "Spicy", "Herbal"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Fatigue"],
@@ -22788,7 +24387,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Sweet", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
@@ -22894,7 +24501,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Lemon", "Diesel", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
@@ -23000,7 +24615,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress", "Insomnia"],
@@ -23106,7 +24729,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss", "Stress"],
@@ -23212,7 +24843,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Insomnia", "Stress", "Depression"],
@@ -23318,7 +24957,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Pain", "Arthritis", "Fibromyalgia", "Headache", "Hangover", "Appetite Loss"],
@@ -23424,7 +25071,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Citrus", "Sweet", "Berry", "Mint", "Fruity"],
 		 	 "conditions": ["Stress", "Hypertension", "Bipolar", "Anxiety"],
@@ -23530,7 +25185,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Grapefruit", "Lemon", "Citrus"],
 		 	 "conditions": ["Stress", "Hypertension", "Depression"],
@@ -23636,7 +25299,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Grapefruit", "Citrus", "Sweet"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Nausea"],
@@ -23742,7 +25413,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Chocolate", "Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
@@ -23848,7 +25527,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Chocolate", "Earthy", "Pungent", "Coffee"],
 		 	 "conditions": ["Stress", "Insomnia", "Depression", "Nausea", "Pain"],
@@ -23954,7 +25641,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Earthy", "Coffee", "Sweet"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
@@ -24060,7 +25755,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Earthy", "Citrus", "Sweet"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Nausea", "Fatigue"],
@@ -24166,7 +25869,15 @@
 			 	{ 
 			 		"name": "CBL", 
 			 		"value": 0.00
-			 	}	
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
 		 	], 
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Headache"],
@@ -24176,6 +25887,348 @@
 			 "descriptionAbbrev": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/shishkaberry_100x100.jpg"
+			},
+			{"strainId": 211,
+			 "strainName": "R4",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 26.23
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.86
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.29
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 2.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": [""],
+		 	 "conditions": ["Epilepsy", "Nausea", "Pain"],
+			 "positiveEffects": ["Clear-headed", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "This is a strong medical choice that won't get patients high. In addition to seizure disorders, medical uses include treatment of pain and nausea.",
+			 "descriptionAbbrev": "This is a strong medical choice that won't get patients high. In addition to seizure disorders, medical uses include treatment of pain and nausea.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/R4-200x160.jpg"
+			},
+			{"strainId": 212,
+			 "strainName": "Super Sweet",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Flowery", "Sweet", "Honey"],
+		 	 "conditions": ["Anxiety", "Stress"],
+			 "positiveEffects": ["Mild", "Relaxed", "Long lasting", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "Super Sweet is a good choice for novice consumers or those looking for a less intoxicating buzz.",
+			 "descriptionAbbrev": "Super Sweet is a good choice for novice consumers or those looking for a less intoxicating buzz.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/super-sweet_100x100.jpg"
+			},
+			{"strainId": 213,
+			 "strainName": "Sweet Lavender Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.51
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.25	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Sweet", "Lavender"],
+		 	 "conditions": ["Seizures", "Fibromyalgia", "Nausea", "Insomnia"],
+			 "positiveEffects": ["Pain relief", "Enhanced Hunger", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Enhanced Hunger", "Enhanced Drowsiness"],
+			 "descriptionDetailed": "The first place the bud hits you is the in the eyes, an immediate creeper buzz kicks in.  The buzz then spreads to the rest of your head.  After you finish your smoke, the body buzz kicks in.",
+			 "descriptionAbbrev": "The first place the bud hits you is the in the eyes, an immediate creeper buzz kicks in.  The buzz then spreads to the rest of your head.  After you finish your smoke, the body buzz kicks in.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sweet-lavender-diesel.jpg"
 			}
 		];
 		
