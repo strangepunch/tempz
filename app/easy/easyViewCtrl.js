@@ -166,10 +166,10 @@
 			for(var i=0; i<data.length; i++){
 				for(var x=0; x<data[i].conditionsTreated.length; x++){
 					vm.conditionNames[num] = data[i].conditionsTreated[x];
+					num++;
 				}
-				num++;
 			}
-			//console.log("list of conditions", vm.conditionNames);
+			console.log("list of conditions", vm.conditionNames);
 		});
 		//display and store the user selected condition name
 		$scope.selectCondition = function(name){
