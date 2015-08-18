@@ -1827,6 +1827,66 @@
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/sweet-lavender-diesel.jpg"
 			 	
+			},
+			{"strainId": 214,
+			 	"strainName": "Cotton Candy Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/cotton-candy-kush_100x100.jpg"
+			 	
+			},
+			{"strainId": 215,
+			 	"strainName": "Larry OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/larry-og_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 216,
+			 	"strainName": "Flo",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/flo_100x100.jpg"
+			 	
+			},
+			{"strainId": 217,
+			 	"strainName": "Obama Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/obama-kush_100x100.jpg"
+			 	
+			},
+			{"strainId": 218,
+			 	"strainName": "Orange Crush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/orange-crush_100x100.jpg"
+			 	
+			},
+			{"strainId": 219,
+			 	"strainName": "Pink Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/pink-kush_100x100.jpg"
+			 	
+			},
+			{"strainId": 220,
+			 	"strainName": "Red Dragon",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/red-dragon_100x100.jpg"
+			 	
+			},
+			{"strainId": 221,
+			 	"strainName": "Purple Sour Diesel",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/purple-sour-diesel_100x100.jpg"
+			 	
+			},
+			{"strainId": 222,
+			 	"strainName": "Dream Queen",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/dream-queen_100x100.jpg"
+			 	
+			},
+			{"strainId": 223,
+			 	"strainName": "Willy's Wonder",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/willy-s-wonder_100x100.jpg"
+			 	
 			}
 		]; 
 
@@ -2167,11 +2227,11 @@
 				}
 		 	],
 		 	 "taste": ["Sage","Earthy","Woody"],   
-		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms"],
+		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms", "Fibromyalgia"],
 			 "positiveEffects": ["Long lasting", "Uplifting", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
-			 "descriptionAbbrev":  "A well balanced Haze crossed with a robust indica.",
+			 "descriptionAbbrev":  "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
 			 "tags": ["Hybrid", "Sage"],
 			 "imageUrl": "images/strains/sage_100x100.jpg"
 			},
@@ -2852,7 +2912,7 @@
 		 	],
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Pain", "Relaxed", "Social"],
+			 "positiveEffects": ["Pain", "Relaxed", "Conversational"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
@@ -3764,7 +3824,7 @@
 		 	], 
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
 			 "descriptionAbbrev":  "An aura of euphoria that is sure to leave a smile on your face.",
@@ -5360,7 +5420,7 @@
 		 	],  
 		 	"taste": ["Diesel", "Sweet", "Chemical"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Epilepsy", "Migraines", "Pain", "Stress", "Appetite Loss", "Mood Disorders"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "A slightly energizing kick followed by intense focus makes this a perfect strain for daytime consumption with effects that steer clear of undesirable lethargy. These thick, pale green buds reek a sweet, fruity aroma and preface the tangy taste to come.",
 			 "descriptionAbbrev":  "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders.",
@@ -6272,7 +6332,7 @@
 		 	], 
 		 	"taste": ["Sweet","Flowery","Woody"], 
 		 	 "conditions": ["Bipolar", "Social Anxiety"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache"],
 			 "descriptionDetailed": "Effects of this strain are upbeat and social overall, so much so that it might be too energetic for some users, especially if sleep is the goal. Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
 			 "descriptionAbbrev":  "Effects of this strain are upbeat and social overall.",
@@ -7298,7 +7358,7 @@
 		 	],  
 		 	"taste": ["Sweet", "Tropical", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Enhanced Sexual Desire"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "A great strain for relaxing with friends or listening to music.",
 			 "descriptionAbbrev":  "A great strain for relaxing with friends or listening to music.",
@@ -7640,7 +7700,7 @@
 		 	],  
 		 	"taste": ["Sweet", "Citrus", "Orange"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Fatigue", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Creative"],
+			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Creative", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Jillybean is described as being an upbeat and happy hybrid, with flavors of tangy orange and mango.",
 			 "descriptionAbbrev":  "A top choice for creative minds and social butterflies looking for unencumbered euphoria during daytime hours.",
@@ -7982,7 +8042,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Lemon", "Diesel"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Enhanced Sexual Desire"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Its complex terpene profile and heavy resin production make Super Lemon OG an excellent choice for producing top-notch concentrates, like the two extracts that took home prizes at the 2014 High Times’ Cannabis Cup in Amsterdam.",
 			 "descriptionAbbrev":  "Its taste and aroma carry a strong citrus note that is entangled with tones of spicy pepper and pungent diesel fuel.",
@@ -8096,7 +8156,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Chocloate", "Lemon"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Insomnia", "Hypertension", "Fibromyalgia", "Depression", "Bipolar", "Arthritis", "Anxiety"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social", "Creative", "Motivated"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Motivated"],
 			 "negativeEffects": ["Conversational"],
 			 "descriptionDetailed": "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "descriptionAbbrev":  "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
@@ -8324,7 +8384,7 @@
 		 	],   
 		 	"taste": ["Sweet", "Skunk", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety","Bipolar", "Depression", "Hypertension", "Appetite Loss", "Muscle Spasms", "Pain","PMS"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Creative"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Creative"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "This very heavy Indica, courtesy of Med 215 Collective, certainly looks like it will knock you out faster than you can say Arturo Gatti",
 			 "descriptionAbbrev":  "Certainly pays respect to the man with the greatest one hitter in the history of the sport.",
@@ -8666,7 +8726,7 @@
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Enhanced Drowsiness", "Uplifted", "Euphoric"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Enhanced Drowsiness", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Northern Lights stands among the most famous strains of all time, a pure indica cherished for its resinous buds, fast flowering, and resilience during growth.",
 			 "descriptionAbbrev":  "Comfortable laziness allows patients to relieve pain and sleeplessness, while its mellow contentment roots out depression and stress.",
@@ -10149,7 +10209,7 @@
 		 	],
 		 	"taste": ["Orange", "Citrus", "Mango"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar","Fibromyalgia","Appetite Loss","Muscle Spasms", "Pain","PMS", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Social", "Creative", "Enhanced Sexual Desire", "Fatigue"],
+			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Conversational", "Creative", "Enhanced Sexual Desire", "Fatigue"],
 			 "negativeEffects": ["Det Mouth", "Dry Eyes", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Indoor or outdoor grows can expect flowers between 7 and 8 weeks.",
 			 "descriptionAbbrev":  "The fruity tangerine aroma is accompanied with notes of mango and pineapple.",
@@ -11744,7 +11804,7 @@
 				} 	
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy"],
-		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss"],
+		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss", "Fibromyalgia"],
 			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Enhanced Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "With gradual but powerful effects, King's Kush is famous for its potency and shiny trichromes during flowering.",
@@ -13340,7 +13400,7 @@
 				} 	
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Citrus"],
-		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
+		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress", "Fibromyalgia"],
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Enhanced Hunger"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "With earthy flavors of lemons and citrus, Amnesia Haze is a perfect strain to start your day with a smile.",
@@ -13797,7 +13857,7 @@
 		 	], 
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Depression", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative", "Social"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
 			 "descriptionAbbrev":  "Berry is famous in its own right for its even, balanced effects that offer relaxation from stress and anxiety along with a sense of euphoria.",
@@ -14139,7 +14199,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Blueberry", "Berry"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Muscle Spasms", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused", "Enhanced Sexual Desire"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "While growing and after it’s harvested, these plants have a sharp and fruity smell that brings to mind fermentation.",
 			 "descriptionAbbrev":  "Blue Moonshine is a very potent blueberry indica strain that provides a nice body high.",
@@ -14253,7 +14313,7 @@
 		 	], 
 		 	"taste": ["Blueberry", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Social", "Creative"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This peculiar cannabis can be an exceptionally exciting fast-paced roller coaster, or a demonic heart-throbbing anxiety hell.",
 			 "descriptionAbbrev":  "Only takes a couple hits to get blazed for several hours.",
@@ -14595,7 +14655,7 @@
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Spicy", "Herbal"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Fatigue","Headache", "Stress"],
-			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Social", "Creative", "Relaxed"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Conversational", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "Golden hairs weave through Candyland’s thick coat of sugar-like trichomes and highlight the compact, camouflage-colored buds. This strain grows well indoors and out, and patients turn to Candyland to relieve pain, muscle tension, and sour moods.",
 			 "descriptionAbbrev":  "Strong sativa genetics give Candyland uplifting and stimulating effects, making it a perfect strain for social gatherings or creative passtimes.",
@@ -16533,7 +16593,7 @@
 		 	],   
 		 	"taste": ["Diesel", "Lemon", "Pungent", "Mango", "Tropical"],
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Social"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Sweet, with some sour aftertaste.",
 			 "descriptionAbbrev":  "Sweet, with some sour aftertaste.",
@@ -17445,7 +17505,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": ["Uplifted", "Focused", "Social", "Creative"],
+			 "positiveEffects": ["Uplifted", "Focused", "Conversational", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Daytime use of this strain won’t leave the consumer drowsy, making it a good choice for social and creative activities.",
 			 "descriptionAbbrev":  "Daytime use of this strain won’t leave the consumer drowsy, making it a good choice for social and creative activities.",
@@ -18813,7 +18873,7 @@
 		 	], 
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Depression","Nausea","Pain", "PMS", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Social", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Conversational", "Creative", "Enhanced Sexual Desire"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
 			 "descriptionAbbrev":  "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
@@ -19383,7 +19443,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pine", "Skunk"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Enhanced Hunger", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "This sativa-dominant hybrid delivers a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged in creative or social activities.",
 			 "descriptionAbbrev":  "AK-47 will leave you relaxed and mellow.",
@@ -19611,7 +19671,7 @@
 		 	],
 		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Clear-headed", "Long lasting", "Relaxed", "Creative", "Social"],
+			 "positiveEffects": ["Clear-headed", "Long lasting", "Relaxed", "Creative", "Conversational"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Couch lock"],
 			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
@@ -19953,7 +20013,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Social", "Enhanced Drowsiness", "Tingly", "Euphoric"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Enhanced Drowsiness", "Tingly", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Although uplifting, this indica is on the heavier side, appealing to experienced users who desire strong medicinal treatment.",
 			 "descriptionAbbrev":  "This strain is favored for its powerful effects that provide clarity and heightened sensory perception",
@@ -20067,7 +20127,7 @@
 		 	], 
 		 	"taste": ["Citrus", "Earthy", "Flowery"],
 		 	 "conditions": ["ADD/ADHD", "Arthritis", "Glaucoma", "Insomnia", "Pain", "Stress", "Muscle Spasms", "Depression" ],
-			 "positiveEffects": ["Happy", "Relaxed", "Social", "Energetic", "Uplifted"],
+			 "positiveEffects": ["Happy", "Relaxed", "Conversational", "Energetic", "Uplifted", "Conversational"],
 			 "negativeEffects": ["Paranoid", "Dry Mouth", "Anxious", "Dizzy", "Dry Eyes"],
 			 "descriptionDetailed": "Silver Surfer is a sativa-dominant hybrid whose potent cerebral effects may have you feeling like you’re zipping through the space with your super-hero powers.",
 			 "descriptionAbbrev":  "This strain is very energetic and motivates many to check things off their lists or inspires talkative social activities.",
@@ -20181,7 +20241,7 @@
 		 	],
 		 	"taste": ["Earthy", "Diesel", "Sweet"],
 		 	 "conditions": ["Anxiety","Depression", "Epilepsy", "Insomnia", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Social", "Creative", "Relaxed", "Euphoric"],
+			 "positiveEffects": ["Happy", "Energetic", "Conversational", "Creative", "Relaxed", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "A very nice weed to smoke, not overly powerful but provides a relaxing yet energetic high.",
 			 "descriptionAbbrev":  "Great for chilling with friends and laughing.",
@@ -20864,7 +20924,7 @@
 				} 	
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
-		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps"],
+		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps", "Fibromyalgia"],
 			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
@@ -22921,7 +22981,7 @@
 			 "negativeEffects": ["Anxious", "Dry Mouth"],
 			 "descriptionDetailed": "If you are looking to alleviate stress or need a spark of creativity, look to LA Kush.",
 			 "descriptionAbbrev":  "If you are looking to alleviate stress or need a spark of creativity, look to LA Kush.",
-			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
+			 "tags": ["Hybrid", "LA Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "imageUrl": "images/strains/la-kush_100x100.jpg"
 			},
 			{"strainId": 185,
@@ -23035,7 +23095,7 @@
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "This chunky, conic, crystal-covered strain flowers in 56 to 60 days, and is said to come from Chemsis, Sour Dubb, and Chocolate Diesel.",
 			 "descriptionAbbrev":  "A potent hybrid strain that won 1st place in the 2014 Los Angeles Cannabis Cup.",
-			 "tags": ["Hybrid", "L.A. Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
+			 "tags": ["Hybrid", "LA Kush", "Kush", "Stress", "Fatigue", "Insomnia", "Lack Of Appetite", "Pain", "Happy", "Relaxed", "Euphoric", "Creative", "Uplifted"],
 			 "imageUrl": "images/strains/gorilla-glue--4_100x100.jpg"
 			},
 			{"strainId": 186,
@@ -25881,7 +25941,7 @@
 		 	], 
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Headache"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Uplifted", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
 			 "descriptionAbbrev": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
@@ -26229,6 +26289,1146 @@
 			 "descriptionAbbrev": "The first place the bud hits you is the in the eyes, an immediate creeper buzz kicks in.  The buzz then spreads to the rest of your head.  After you finish your smoke, the body buzz kicks in.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sweet-lavender-diesel.jpg"
+			},
+			{"strainId": 214,
+			 "strainName": "Cotton Candy Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.91
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 2.08
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.49	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Flowery"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea", "Fibromyalgia", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Dizzy", "Headache",  "Enhanced Drowsiness", "Pain relief", "Enhanced Hunger"],
+			 "negativeEffects": ["Dry Mouth", "Dry Mouth", "Anxious", "Enhanced Drowsiness", "Munchies"],
+			 "descriptionDetailed": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
+			 "descriptionAbbrev": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cotton-candy-kush_100x100.jpg"
+			},
+			{"strainId": 215,
+			 "strainName": "Larry OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.59
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Flowery"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Insomnia", "Fibromyalgia"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Enhanced Appetite"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid", "Munchies"],
+			 "descriptionDetailed": "Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming.",
+			 "descriptionAbbrev": "Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/larry-og_100x100.jpg"
+			},
+			{"strainId": 216,
+			 "strainName": "Flo",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Citrus"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fibromyalgia", "Nausea", "Migraines"],
+			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Euphoric", "Energetic", "Clear-headed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes",  "Dizzy", "Anxious", "Headache"],
+			 "descriptionDetailed": " The effects of Flo are described as energetic yet subtle, making it ideal for many as a wake and bake. Flo can provide a perfect boost for creative types, sparking inspiration for artists and musicians.",
+			 "descriptionAbbrev": " The effects of Flo are described as energetic yet subtle, making it ideal for many as a wake and bake. Flo can provide a perfect boost for creative types, sparking inspiration for artists and musicians.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/flo_100x100.jpg"
+			},
+			{"strainId": 217,
+			 "strainName": "Obama Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.25	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Grape"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss", "Fibromyalgia", "Migraines"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Enhanced Drowsiness", "Balanced"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Paranoid", "Dry Eyes", "Headache", "Munchies"],
+			 "descriptionDetailed": "This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that does not stimulate appetite or put you to sleep.",
+			 "descriptionAbbrev": "This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that does not stimulate appetite or put you to sleep.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/obama-kush_100x100.jpg"
+			},
+			{"strainId": 218,
+			 "strainName": "Orange Crush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.49
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Orange", "Citrus", "Sweet"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Appetite Loss", "Fibromyalgia", "Migraines"],
+			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Orange Crush is a sativa-dominant cannabis strain with a super sweet tangy flavor and aroma.",
+			 "descriptionAbbrev": "Orange Crush is a sativa-dominant cannabis strain with a super sweet tangy flavor and aroma.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/orange-crush_100x100.jpg"
+			},
+			{"strainId": 219,
+			 "strainName": "Pink Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Flowery", "Earthy" ],
+		 	 "conditions": ["Pain", "Insomnia", "Anxiety", "Appetite Loss", "Fibromyalgia", "Epilepsy"],
+			 "positiveEffects": ["Intense", "Relaxed", "Euphoric", "Pain", "Enhanced Appetite", "Enhanced Drowsiness", "Enhanced Sexual Desire"],
+			 "negativeEffects": ["Dry Eyes", "Munchies", "Enhanced Drowsiness", "Couch Lock"],
+			 "descriptionDetailed": "Even for veteran consumers, the heaviness of this strain could be considered overpowering, and even small doses eliminate pain, insomnia, and appetite loss.",
+			 "descriptionAbbrev": "Even for veteran consumers, the heaviness of this  strain could be considered overpowering, and even small doses eliminate pain, insomnia, and appetite loss.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pink-kush_100x100.jpg"
+			},
+			{"strainId": 220,
+			 "strainName": "Red Dragon",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.15
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.11	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.27
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.67
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Pungent", "Spicy", "Herbal" ],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Fibromyalgia", "Fatigue"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Relaxed", "Conversational"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "Slightly sativa-dominant, this strain is giggly and upbeat. Great for those suffering from depression or stress, Red Dragon has a very happy and uplifting effect.",
+			 "descriptionAbbrev": "Slightly sativa-dominant, this strain is giggly and upbeat. Great for those suffering from depression or stress, Red Dragon has a very happy and uplifting effect.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/red-dragon_100x100.jpg"
+			},
+			{"strainId": 221,
+			 "strainName": "Purple Sour Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.15
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.11	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.27
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.67
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Earthy", "Pungent" ],
+		 	 "conditions": ["Stress", "Insomnia", "Pain", "Depression", "Headache", "Fibromyalgia"],
+			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Uplifted", "Enhanced Appetite"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy"],
+			 "descriptionDetailed": "Featuring heavy head effects and a slight body high, Purple Sour Diesel will energize your mind while leaving you physically relaxed. This strain features a sour, fruity aroma similar to sour grapes.",
+			 "descriptionAbbrev": "Featuring heavy head effects and a slight body high, Purple Sour Diesel will energize your mind while leaving you physically relaxed. This strain features a sour, fruity aroma similar to sour grapes.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-sour-diesel_100x100.jpg"
+			},
+			{"strainId": 222,
+			 "strainName": "Dream Queen",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.44
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.26	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.78
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.49
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 2.66
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 2.04
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.67
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Flowery" ],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea", "Fibromyalgia"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Euphoric", "Happy", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "With an aroma of bubblegum and slight hints of mango and pineapple, Dream Queen will provide a good cerebral high.",
+			 "descriptionAbbrev": "With an aroma of bubblegum and slight hints of mango and pineapple, Dream Queen will provide a good cerebral high.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/dream-queen_100x100.jpg"
+			},
+			{"strainId": 223,
+			 "strainName": "Willy's Wonder",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.88
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.07	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.41
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 2.66
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.48
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.67
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Flowery" ],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Fatigue", "Fibromyalgia"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Tingly", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
+			 "descriptionAbbrev": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/willy-s-wonder_100x100.jpg"
 			}
 		];
 		
@@ -26416,7 +27616,7 @@
 			{"conditionId": 21,
 			 "conditionName": "Fatigue", 
 			 "treatment": "Become energized when you feel fatigued.",
-			 "strains": ["Green Thailand", "Jillybean", "Lamb's Bread", "Purple Haze", "Great White Shark", "707 Headband", "Acapulco Gold", "ATF", "CandyLand", "Cannalope Haze", "Lemon Jack", "Super Lemon Haze", "J1", "Cinderella 99", "Island Sweet Skunk", "L.A. Kush", "Sage", "Strawberry Cough", "Stardawg", "Green Crack", "Jack Herer", "Tangerine", "Candy Jack", "Gorilla Glue #4", "Super Silver Haze"],
+			 "strains": ["Green Thailand", "Jillybean", "Lamb's Bread", "Purple Haze", "Great White Shark", "707 Headband", "Acapulco Gold", "ATF", "CandyLand", "Cannalope Haze", "Lemon Jack", "Super Lemon Haze", "J1", "Cinderella 99", "Island Sweet Skunk", "LA Kush", "Sage", "Strawberry Cough", "Stardawg", "Green Crack", "Jack Herer", "Tangerine", "Candy Jack", "Gorilla Glue #4", "Super Silver Haze"],
 			 "descriptionDetailed": "Relief from symptoms associated with fatigue.",
 			 "descriptionAbbrev":  "Relief from fatigue",
 			 "tags": ["Fatigue"],
@@ -26425,7 +27625,7 @@
 			{"conditionId": 22,
 			 "conditionName": "Appetite Loss", 
 			 "treatment": "Treat appetite loss.",
-			 "strains": ["Strawberry Cough","Sour Diesel", "Thin Mint", "Banana Diesel", "Chem Valley Kush", "Confidential Cheese", "Fire Bomb", "Forum Cookies/GSC", "Gooey Wreck", "Green Dream", "Green Thailand", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Pineapple Express", "Tangerine", "Tangilope", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Cannalope Haze", "Pineapple Hogsbreath", "Super Lemon Haze", "Afghani Bullrider", "Afgoo", "AK-47", "AK-48", "Cinderella 99", "Lemon Haze", "Sugar Plum", "Kali Mist", "NY Sour Diesel", "Snowcap", "Super Silver Haze", "Superman OG", "Green Crack", "H-Train Wreck", "Mike Tyson", "Platinum Trinity Kush", "Private Reserve OG", "Candy Jack", "Cataract Kush", "Chemdawg", "Grape Cookies", "Cherry Bomb", "DJ SHort Blueberry", "Mercury OG", "Blue Haze", "Bubba Kush", "Cheese", "L.A. Kush", "Neptune OG", "Organic OG Kush"],
+			 "strains": ["Strawberry Cough","Sour Diesel", "Thin Mint", "Banana Diesel", "Chem Valley Kush", "Confidential Cheese", "Fire Bomb", "Forum Cookies/GSC", "Gooey Wreck", "Green Dream", "Green Thailand", "Hawaiian Hulk", "Jack Herer", "Lamb's Bread", "Pineapple Express", "Tangerine", "Tangilope", "Great White Shark", "Acapulco Gold", "Amnesia Haze", "Cannalope Haze", "Pineapple Hogsbreath", "Super Lemon Haze", "Afghani Bullrider", "Afgoo", "AK-47", "AK-48", "Cinderella 99", "Lemon Haze", "Sugar Plum", "Kali Mist", "NY Sour Diesel", "Snowcap", "Super Silver Haze", "Superman OG", "Green Crack", "H-Train Wreck", "Mike Tyson", "Platinum Trinity Kush", "Private Reserve OG", "Candy Jack", "Cataract Kush", "Chemdawg", "Grape Cookies", "Cherry Bomb", "DJ SHort Blueberry", "Mercury OG", "Blue Haze", "Bubba Kush", "Cheese", "LA Kush", "Neptune OG", "Organic OG Kush"],
 			 "descriptionDetailed": "Relief from symptoms associated with appetite loss.",
 			 "descriptionAbbrev":  "Relief from appetite loss.",
 			 "tags": ["Appetite Loss"],
@@ -26452,7 +27652,7 @@
 			{"conditionId": 25,
 			 "conditionName": "Coronary Heart Disease", 
 			 "treatment": "Treat or prevent conditions associated with heart disease.",
-			 "strains": ["Valentine X", "ACDC", "Bull Rider", "Avi-Dekel", "Cannatonic #4", "Green Dream", "Harlequin", "Cannatonic", "Harle-Tsu", "Canna-Tsu", "Lemon Larry OG", "Master Bubba", "Sour Cherry", "Sour Tsunami", "Charlotte’s Web", "Pineapple Thai", "Lamb's Bread", "Afgoo", "Cannalope Haze", "Kali Mist", "Warlock", "Strawberry Cough", "Skunk #1", "Kosher Kush", "Super Lemon Haze", "Permafrost", "Cataract Kush", "Purple Cheese", "Deadhead OG", "ATF", "Nebula", "Pineapple", "Sour OG", "Purple Haze", "Lemon Haze", "Querkle", "Vortex", "Stardawg", "Cheese", "Bubba Kush", "Super Silver Haze", "Trainwreck", "Pineapple Express", "Blue Dream", "OG Kush", "White Widow", "Confidential Cheese", "Skywalker OG", "Strawberry", "Superman OG",  "Green Crack", "Jillybean", "Girl Scout Cookies", "Sour Diesel", "Alien OG", "Berry White", "The White", "Chemdawg", "Grandaddy Purple", "Jack Herer", "Island Sweet Skunk", "L.A. Kush", "Cherry Pie", "Fire OG", "Headband"],
+			 "strains": ["Valentine X", "ACDC", "Bull Rider", "Avi-Dekel", "Cannatonic #4", "Green Dream", "Harlequin", "Cannatonic", "Harle-Tsu", "Canna-Tsu", "Lemon Larry OG", "Master Bubba", "Sour Cherry", "Sour Tsunami", "Charlotte’s Web", "Pineapple Thai", "Lamb's Bread", "Afgoo", "Cannalope Haze", "Kali Mist", "Warlock", "Strawberry Cough", "Skunk #1", "Kosher Kush", "Super Lemon Haze", "Permafrost", "Cataract Kush", "Purple Cheese", "Deadhead OG", "ATF", "Nebula", "Pineapple", "Sour OG", "Purple Haze", "Lemon Haze", "Querkle", "Vortex", "Stardawg", "Cheese", "Bubba Kush", "Super Silver Haze", "Trainwreck", "Pineapple Express", "Blue Dream", "OG Kush", "White Widow", "Confidential Cheese", "Skywalker OG", "Strawberry", "Superman OG",  "Green Crack", "Jillybean", "Girl Scout Cookies", "Sour Diesel", "Alien OG", "Berry White", "The White", "Chemdawg", "Grandaddy Purple", "Jack Herer", "Island Sweet Skunk", "LA Kush", "Cherry Pie", "Fire OG", "Headband"],
 			 "descriptionDetailed": "Recent resarch indicates chronic inflammation is a leading contributor to conditions like cornonary heart disease. In addition, anti-oxidants have also been proven to help prevent conditions associated wiht heart diease. .",
 			 "descriptionAbbrev":  "Treat heart disease.",
 			 "tags": ["Coronary Heart Disease"],
@@ -26714,7 +27914,7 @@
 			 "highTempC": 168,
 			 "temp": "334",
 			 "tempC": "167",
-			 "descriptionDetailed": "Beta-Myrcene is found fresh mango fruit, hops, bay leaves, eucalyptus, lemongrass and many other plants. Beta-Myrcene is known to be anti-tumor, anti-inflammatory, and used in the treatment of spasms. It is also used to treat insomnia, and pain. High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
+			 "descriptionDetailed": "Beta-Myrcene is found in fresh mango fruit, hops, bay leaves, eucalyptus, lemongrass and many other plants. Beta-Myrcene is known to be anti-tumor, anti-inflammatory, and used in the treatment of spasms. It is also used to treat insomnia, and pain. High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
 			 "descriptionAbbrev":  "High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
 			 "tags": ["Terpene","Terpinoid","Analgesic", "Antiinflammatory", "Antibiotic", "Antimutagenic"],
 			 "imageUrl": "images/220px-Myrcene_beta_straight_acsv.svg.png"
@@ -26916,7 +28116,7 @@
 			},
 			{"effectId": 4,
 			 "effectName": "Analgesic", //compName
-			 "conditionsTreated": ["Pain", "Chronic Pain"],
+			 "conditionsTreated": ["Pain", "Chronic Pain", "Fibromyalgia"],
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
 			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["Analgesic", "pain", "painkiller" ],
@@ -26948,7 +28148,7 @@
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
-			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Type II Diabetes"],
+			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Type II Diabetes", "Fibromyalgia"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],

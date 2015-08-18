@@ -1,4 +1,4 @@
- Anxiolytic – reduces the symptoms of anxiety 
+    Anxiolytic – reduces the symptoms of anxiety 
     Neuroprotective – protects against nerve damage 
     Antispasmodic – relieves spasms and convulsions         
     Antiemetic – reduces vomiting and nausea 
@@ -10,7 +10,7 @@
     Neurogenesis – promotes growth of new nerve tissue                
     Neuroprotectant – protects nerves from damage
 
-   Anxiolytic – reduces the symptoms of anxiety. 
+    
     Antiepileptic - reduces seizures and convulsions 
     Neuroprotective – protects against nerve damage 
     Vasorelaxant – reduces tension in blood vessel walls 
@@ -28,7 +28,7 @@
     Antiproliferative anticancer – reduces spread of certain cancers 
     Immunosuppressant – reduces function in immune system
 
-Anti-inflammatory – reduces inflammation 
+    Anti-inflammatory – reduces inflammation 
     Analgesic – reduces pain 
     Bone Stimulant – promotes bone growth 
     Antimicrobial – kills bacteria or fungi 
