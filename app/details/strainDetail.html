@@ -49,6 +49,25 @@
 		</div>
 	</div>
 	<!--the temperature display end-->
+	<div ng-if="vm.Description">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-heading">Abbrev:</div>
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.currentStrain.descriptionAbbrev}} </div>
+				</div>
+			</div> 
+		</div>
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-heading">Detailed:</div>
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.currentStrain.descriptionDetailed}} </div>
+				</div>
+			</div> 
+		</div>
+	</div>
+
 	<div ng-if="vm.Positive">
 		<div class = "panel">
 			<div class="row">
@@ -73,6 +92,29 @@
 		</div>
 	</div>
 
+	<div ng-if="vm.Negative">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.selectedMode}}: </div>
+				</div>
+			</div> 
+		</div>
+		
+		<div class = "panel" ng-repeat = "list in vm.currentStrain.negativeEffects">
+			<div class="row">
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-8">
+							<div> 
+								{{list}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+	</div>
 
 	<div ng-if="vm.Percent">
 		<div class = "panel">
@@ -83,7 +125,7 @@
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "components in vm.currentStrain.components|orderBy:'-value'">
+		<div class = "panel" ng-repeat = "components in vm.currentComp|orderBy:'-value'">
 			<div class="row">
 				<div class="panel-body">
 					<div class = "row">
@@ -93,6 +135,64 @@
 							</div>
 						</div>
 					</div>
+				</div>
+			</div> 
+		</div>
+	</div>
+
+	<div ng-if="vm.Taste">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.selectedMode}}: </div>
+				</div>
+			</div> 
+		</div>
+		
+		<div class = "panel" ng-repeat = "list in vm.currentStrain.taste">
+			<div class="row">
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-8">
+							<div> 
+								{{list}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+	</div>
+
+	<div ng-if="vm.Conditions">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.selectedMode}}: </div>
+				</div>
+			</div> 
+		</div>
+		
+		<div class = "panel" ng-repeat = "list in vm.currentStrain.conditions">
+			<div class="row">
+				<div class="panel-body">
+					<div class = "row">
+						<div class="col-xs-8">
+							<div> 
+								{{list}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+	</div>
+
+	<div ng-if="vm.Vape">
+		<div class = "panel">
+			<div class="row">
+				<div class="panel-body">
+					<div class="col-xs-12"> {{vm.selectedMode}}: </div>
 				</div>
 			</div> 
 		</div>
