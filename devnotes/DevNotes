@@ -65,3 +65,23 @@ pressing 'GO'
 -display laymen terms for effect
 -display % of components for/(based on) each tempurature contain in the selected strain
 -display what other effects avalible (at each temp) for such component (in english/laymen terms)
+
+------------------
+v2.06
+UM...alot has happened
+
+EASY MODE
+-highlight useful condition treated
+-highlight useful temperature
+-suggest strains if user choose to
+
+MED MODE
+-user can choose question based on TASTE, EFFECT, or if they know a STRAIN
+-suggest strains
+-lots of cute images
+
+STRAIN DETAIL
+-display details for selected strain
+
+AND OTHER STUFF
+-Shane did a lot of data modification and update and improvements
