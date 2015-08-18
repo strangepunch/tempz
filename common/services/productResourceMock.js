@@ -9,10 +9,11 @@
 	app.run(function ($httpBackend){
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
-		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h']; //Flavor, Effect, Buds, Pos, Neg, Rand
+		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h', 4, 5, 6]; //Flavor, Effect, Buds, High, Mid, Low, indica, sativa, hybred
 		
 		/** temp ranges  - 0 - 355 = Low, 356 - 385 Med, 386 - 470 = High **/
 
+		var detailModes = ['Pos','Per',2,'Neg',3,'Vap'];
 
 		/** VTempType is a flag that indicates when a vape has specific temps available - Y or has a variable range of temps - N  **/
 		/** When a variable range is available - N, the min and max temps are listed in VTempType **/
@@ -28436,7 +28437,7 @@
 			}
 		];
 
-
+/**
 		var vapes = [
 			{"productId": 1,
 			 "productName": "The Crafty", 
@@ -29812,50 +29813,52 @@
 			 "imageUrl":[]
 			}
 		]; 
-
+**/
 		var conditionsUrl = "/api/conditions";
 		var productUrl = "/api/products";
 		var effectUrl = "/api/effects";
-		var vapeUrl = "/api/vapes"; 
-		var tipUrl = "/api/tips";
 		var temperatureUrl = "/api/temperatures";
 		var modeUrl = "/api/modes";
 		var strainUrl = "/api/strains";
-		var conditionUrl = "/api/conditions";
 		var strainNameUrl = "/api/strainNames";
 		var tasteUrl = "/api/tastes";
 		var recEffectUrl = "/api/recEffects";
+
+		//for strain details
+		var detailsUrl = "/api/details";
+		var detailModeUrl = "/api/detailModes";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
 		$httpBackend.whenGET(modeUrl).respond(modes);
 		$httpBackend.whenGET(effectUrl).respond(effects);
 		$httpBackend.whenGET(conditionsUrl).respond(conditions);
-		$httpBackend.whenGET(vapeUrl).respond(vapes);
-		$httpBackend.whenGET(tipUrl).respond(tips);
 		$httpBackend.whenGET(strainUrl).respond(strains);
-		$httpBackend.whenGET(conditionUrl).respond(conditions);
 		$httpBackend.whenGET(strainNameUrl).respond(strainNames);
 		$httpBackend.whenGET(tasteUrl).respond(tastes);
 		$httpBackend.whenGET(recEffectUrl).respond(recEffects);
 
-		var editingRegex = new RegExp(tipUrl + "/[0-9][0-9]*", '');
+		//for strain details
+		$httpBackend.whenGET(detailsUrl).respond(strains);
+		$httpBackend.whenGET(detailModeUrl).respond(detailModes);
+
+		var editingRegex = new RegExp(strainUrl + "/[0-9][0-9]*", '');
 
 		$httpBackend.whenGET(editingRegex).respond(function (method, url, data){
-			var tip = {"tipId": 0};
+			var strain = {"strainId": 0};
 			var parameters = url.split('/');
 			var length = parameters.length;
 			var id = parameters[length - 1];
 
 			if (id > 0){
-				for (var i = 0; i < tips.length; i++){
-					if(tips[i].tipId == id) {
-						tip = tips[i];
+				for (var i = 0; i < strains.length; i++){
+					if(strains[i].strainId == id) {
+						strain = strains[i];
 						break;
 					}
 				};
 			}
-			return [200, tip, {}];
+			return [200, strain, {}];
 		}); 
 		
 		/*
