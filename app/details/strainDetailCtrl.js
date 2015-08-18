@@ -23,14 +23,14 @@
     vm.centerImage = strain.imageUrl;
     vm.modeName = strain.strainName;
     vm.discMode = strain.strainType;
-    vm.selectedMode = "";
+    vm.selectedMode = "Flavors you can expect";
 
     //display on/off list
     vm.Description = true
     vm.Positive = false;
     vm.Negative = false;
     vm.Percent = false;
-    vm.Taste = false;
+    vm.Taste = true;
     vm.Conditions = false;
     vm.Vape = false;
  
@@ -55,7 +55,7 @@
               vm.Conditions = false;
               vm.Vape = false;
               vm.discMode = "Positive";
-              vm.selectedMode = "Positive Effects";
+              vm.selectedMode = "Positive effects";
               break;
           case 'Neg':
               vm.Description = false;
@@ -66,7 +66,7 @@
               vm.Conditions = false;
               vm.Vape = false;
               vm.discMode = "Negative";
-              vm.selectedMode = "Negative Effects";
+              vm.selectedMode = "Negative effects";
               break;
           case 'Per':
               vm.Description = false;
@@ -77,7 +77,7 @@
               vm.Conditions = false;
               vm.Vape = false;
               vm.discMode = "Percents";
-              vm.selectedMode = "Component Percentage"
+              vm.selectedMode = "Component percentage"
               $scope.getCompWithValue();
               break;
           case 2:
@@ -89,7 +89,7 @@
               vm.Conditions = false;
               vm.Vape = false;
               vm.discMode = "Tastes";
-              vm.selectedMode = "Tastes Contains"
+              vm.selectedMode = "Flavors you can expect"
               break;
           case 3:
               vm.Description = false;
@@ -100,7 +100,7 @@
               vm.Conditions = true;
               vm.Vape = false;
               vm.discMode = "Conditions";
-              vm.selectedMode = "Conditions Treated"
+              vm.selectedMode = "Conditions treated"
               break;
           case 'Vap':
               vm.Description = false;
@@ -121,7 +121,7 @@
               vm.Taste = false;
               vm.Conditions = false;
               vm.Vape = false;
-              vm.discMode = "Select Mode";
+              vm.discMode = "Select mode";
               break;
       }
 

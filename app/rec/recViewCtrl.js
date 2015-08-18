@@ -135,7 +135,14 @@
 /**---------Effect Mode-------------**/
 		//Populate EFFECT selection display
 		recEffectResource.query(function(data){
-			vm.recEffectList = data;
+			var num = 0;
+			vm.recEffectList = [];
+			for(var i=0; i<data.length; i++){
+				if(data[i].recEffectType === 'P'){
+					vm.recEffectList[num] = data[i];
+					num++;
+				}
+			}
 		});
 		//select an effect 
 		$scope.selectEffect = function(name){
