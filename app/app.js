@@ -94,26 +94,27 @@
 							templateUrl: "app/tips/tipView.html",
 							controller: "TipViewCtrl as vm"
 						})
+						**/
 
-						//Vapes - detailed
-						.state("tipsList", {
-							url: "/tips/:tipId",
-							templateUrl: "app/tips/tipList.html",
-							controller: "TipListCtrl as vm",
+						//Strains - detailed
+						.state("strainDetails", {
+							url: "/details/:strainId",
+							templateUrl: "app/details/strainDetail.html",
+							controller: "StrainDetailCtrl as vm",
 							
 							resolve:{
-								tipResource: "tipResource",
+								strainResource: "strainResource",
 
-								tip: function (tipResource, $stateParams){
-									var tipId = $stateParams.tipId;
+								strain: function (strainResource, $stateParams){
+									var strainId = $stateParams.strainId;
 									//console.log($stateParams);
-									return tipResource.get(
-										{ tipId: tipId }).$promise;
+									return strainResource.get(
+										{ strainId: strainId }).$promise;
 								}
 							}
 							
 						})
-						**/
+						
 						//Theme
 						.state("themes", {
 							url: "/themes",
