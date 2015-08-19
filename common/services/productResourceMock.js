@@ -25,6 +25,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["356", "383"],
 			 "VTempsC": ["180", "195"],
+			 "descriptionDetailed1": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
 			},
 			{"VId": 2,
@@ -34,6 +35,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["104", "410"],
 			 "VTempsC": ["40", "210"],
+			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
 			{"VId": 2,
@@ -43,6 +45,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["122", "365", "374", "383", "393", "401", "410"],
 			 "VTempsC": ["50", "185", "190", "195", "200", "205", "210"],
+			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
 			 "VImageUrl": "images/vapes/solo1.png"
 			},
 			{"VId": 3,
@@ -52,6 +55,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["356", "374", "392", "401", "410"],
 			 "VTempsC": ["180", "190", "200", "205", "210"],
+			 "descriptionAbbrev": "The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size.",
 			 "VImageUrl": "images/vapes/solo1.png"
 			},
 			{"VId": 4,
@@ -61,6 +65,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["370", "395", "420", "445", "470"],
 			 "VTempsC": ["188", "201", "215", "229", "243"],
+			 "descriptionAbbrev": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
 			 "VImageUrl": "images/vapes/pinnaclepro1.png"
 			},
 			{"VId": 5,
@@ -70,6 +75,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "descriptionAbbrev": "Silver Surfer is a highly customizable, top performing desktop vaporizer. Choose from a wide array of colors, designs, and heater cover options to create your perfect vaporizer.",
 			 "VImageUrl": "images/vapes/ssv2.png"
 			},
 			{"VId": 6,
@@ -79,6 +85,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "descriptionAbbrev":  "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA.",
 			 "VImageUrl": "images/vapes/dabuddah2.png"
 			},
 			{"VId": 7,
@@ -88,6 +95,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "descriptionAbbrev": "This vape has been designed to within an inch of its life, and it shows. This is a thing of beauty which you will enjoy using and probably enjoy showing off to your friends even more.",
 			 "VImageUrl": "images/vapes/dabuddah1.png"
 			},
 			{"VId": 8,
@@ -97,6 +105,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
+			 "descriptionAbbrev": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world’s smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
 			 "VImageUrl": "images/vapes/mflb1.png"
 			},
 			{"VId": 9,
@@ -106,6 +115,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["122", "500"],
 			 "VTempsC": ["50", "260"],
+			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
 			},
 			{"VId": 10,
@@ -115,6 +125,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["122", "500"],
 			 "VTempsC": ["50", "260"],
+			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/vtower.gif"
 			},
 			{"VId": 11,
@@ -124,6 +135,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["104", "446"],
 			 "VTempsC": ["40", "230"],
+			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano2.png"
 			},
 			{"VId": 12,
@@ -133,6 +145,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["266", "446"],
 			 "VTempsC": ["130", "230"],
+			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano1.png"
 			},
 			{"VId": 13,
@@ -142,6 +155,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["100", "420"],
 			 "VTempsC": ["37", "215"],
+			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
 			 "VImageUrl": "images/vapes/plenty1.png"
 			},
 			{"VId": 14,
@@ -151,6 +165,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["0", "430"],
 			 "VTempsC": ["0", "221"],
+			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "VImageUrl": "images/vapes/ascent1.png"
 			},
 			{"VId": 15,
@@ -160,6 +175,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["250", "430"],
 			 "VTempsC": ["121", "221"],
+			 "descriptionAbbrev":  "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
 			 "VImageUrl": "images/vapes/puffit1.png"
 			},
 			{"VId": 16,
@@ -169,6 +185,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["365", "380", "390", "415"],
 			 "VTempsC": ["185", "193", "198", "212"],
+			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
 			 "VImageUrl": "images/vapes/haze1.png"
 			},
 			{"VId": 17,
@@ -178,176 +195,312 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
+			 "descriptionAbbrev":  "The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
 			 "VImageUrl": "images/vapes/firefly1.png"
+			},
+			{"VId": 18,
+			 "VName": "The Hot Box", 
+			 "VManufacturer" : "Hot Box Vapors",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["0", "400"],
+			 "VTempsC": ["0", "204"],
+			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
+			 "VImageUrl": "images/vapes/hotbox1.png"
+			},
+			{"VId": 20,
+			 "VName": "Vapir Rise 2.0", 
+			 "VManufacturer" : "Vapir",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["0", "420"],
+			 "VTempsC": ["0", "215"],
+			 "descriptionAbbrev":  "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
+			 "imageUrl1": "images/vapes/vapirrise1.png",
+			},
+			{"VId": 21,
+			 "VName": "The Pax", 
+			 "VManufacturer" : "Ploom",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["370", "390","410"],
+			 "VTempsC": ["187", "199", "210"],
+			 "descriptionAbbrev": "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor. Small and lightweight, Pax is easily taken out and about and heats in under a minute. Its refined design is sleek, stylish, and durable, making Pax the ultimate choice for on-the-go vaporization.",
+			 "imageUrl1": "images/vapes/pax1.png",
+			},
+			{"VId": 22,
+			 "VName": "The Pax 2.0", 
+			 "VManufacturer" : "Ploom",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["360", "380","400", "420"],
+			 "VTempsC": ["182", "193", "204", "216"],
+			 "descriptionAbbrev": "PAX 2 has four temperature settings with lip-sensing, motion-sensing, and auto-cooling technologies that intelligently self-optimize power and temperature during use. With a one-button operation and minimal maintenance required, PAX 2's interface is simple and efficient.",
+			 "imageUrl1": "images/vapes/pax2black.jpg",
+			},
+			{"VId": 23,
+			 "VName": "Phantom", 
+			 "VManufacturer" : "Cloud V",
+			 "VType": "Pen",
+			 "VTempType": "N",
+			 "VTempsF": ["428"],
+			 "VTempsC": ["220"],
+			 "descriptionAbbrev": "Known for their essential oil vaporizers such as the Cloud and the second generation Cloud Platinum, Cloud V Enterprises now introduces a powerful vape pen to the industry, specifically for dry herbs.",
+			 "imageUrl1": "images/vapes/pax2black.jpg",
+			},
+			{"VId": 24,
+			 "VName": "Alfa", 
+			 "VManufacturer" : "Goboof",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["374", "410", "446"],
+			 "VTempsC": ["190", "210", "230"],
+			 "descriptionAbbrev": "Want nice vapor from a short draw? The Alfa is one to consider. This mid-priced portable vape is made by a new company that goes by the name of Goboof, and it has a few unique features that make it stand out.",
+			 "imageUrl1": "images/vapes/alfa.jpg",
+			},
+			{"VId": 25,
+			 "VName": "Summit", 
+			 "VManufacturer" : "Vapium",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["320", "338", "356", "374", "392", "410", "428", "450"],
+			 "VTempsC": ["160", "170", "180", "190", "200", "210", "220", "230"],
+			 "descriptionAbbrev": "Want nice vapor from a short draw? The Alfa is one to consider. This mid-priced portable vape is made by a new company that goes by the name of Goboof, and it has a few unique features that make it stand out.",
+			 "imageUrl1": "images/vapes/alfa.jpg",
+			},
+			{"VId": 26,
+			 "VName": "Cloud Evo", 
+			 "VManufacturer" : "VapeXhale",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["0", "450"],
+			 "VTempsC": ["0", "230"],
+			 "descriptionAbbrev": "A top-tier desktop unit with an all-glass air path that produces excellent quality vapor. A huge advantage this model has is that the performance is superb with both dry herbs and concentrates.",
+			 "imageUrl1": "images/vapes/cloud-evo.png",
+			},
+			{"VId": 27,
+			 "VName": "Herbal Aire", 
+			 "VManufacturer" : "VapeXhale",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["250", "400"],
+			 "VTempsC": ["121", "204"],
+			 "descriptionAbbrev": "The Aire allows users the option of three different settings, whip style, balloon bag and direct draw. The temperature control on this unit is also great as it allows you to vape at anywhere between 250 F and 400F.",
+			 "imageUrl1": "images/vapes/Herbal-Aire-1.jpg",
+			},
+			{"VId": 28,
+			 "VName": "The Herbalizer", 
+			 "VManufacturer" : "Herbalizer",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["0", "445"],
+			 "VTempsC": ["0", "229"],
+			 "descriptionAbbrev": "The Herbalizer, or Herbie for short, is a high-tech medical device for cannabis patients seeking consistency in dosage and effects. Achieve consistent and precise temperatures to heat specific cannabinoids for your desired medicinal effects.",
+			 "imageUrl1": "images/vapes/herbalizer.png",
 			}
+
 		];
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
-		
+
+		/** temp ranges are L= 0-330F, M= 331-390F H= 391-445F**/
 		var recEffects = [
 			{"recEffectId": 1,
 			 "recEffectName": "Euphoric",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "Euphoric.png"
 			}, 
 			{"recEffectId": 2,
 			 "recEffectName": "Happy",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "Happy.png"
 			},
 			{"recEffectId": 3,
 			 "recEffectName": "Uplifted",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 4,
 			 "recEffectName": "Relaxed",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "Creative.png"
 			},
 			{"recEffectId": 6,
 			 "recEffectName": "Energetic",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "Energetic.png"
 			},
 			{"recEffectId": 7,
 			 "recEffectName": "Long lasting",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 8,
 			 "recEffectName": "Very potent",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 9,
 			 "recEffectName": "Balanced",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 10,
 			 "recEffectName": "Mental calmness",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 11,
 			 "recEffectName": "Productive",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "6.png"
 			}, 
 			{"recEffectId": 12,
 			 "recEffectName": "Pain relief",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 13,
 			 "recEffectName": "Mildly psychoactive",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 14,
 			 "recEffectName": "Mellow with mental clarity",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 15,
 			 "recEffectName": "Intense",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "IntenseEff.png"
 			},
 			{"recEffectId": 16,
 			 "recEffectName": "Mind and Body Buzz",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Conversational",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "EnhanceConv.png"
 			},
 			{"recEffectId": 18,
 			 "recEffectName": "Therapeutic",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 19,
 			 "recEffectName": "Tingly",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 20,
 			 "recEffectName": "Enhanced Hunger",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "DryMouth.png"
 			},
 			{"recEffectId": 22,
 			 "recEffectName": "Dry Eyes",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "DryEyes.png"
 			},
 			{"recEffectId": 23,
 			 "recEffectName": "Paranoid",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "Dizzy.png"
 			},
 			{"recEffectId": 25,
 			 "recEffectName": "Anxious",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "Anxious.png"
 			},
 			{"recEffectId": 26,
 			 "recEffectName": "Munchies",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "Headache.png"
 			},
 			{"recEffectId": 28,
 			 "recEffectName": "Enhanced Drowsiness",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "CouchLocked.png"
 			},
 			{"recEffectId": 30,
 			 "recEffectName": "Clear-headed",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "L",
 			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,
 			 "recEffectName": "Enhanced Sexual Desire",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 32,
 			 "recEffectName": "Giggly",  
 			 "recEffectType": "P",
+			 "recEffectTempRange" : "M",
 			 "imageUrl": "Giggly.png"
 			},
 			{"recEffectId": 33,
 			 "recEffectName": "Less Social",  
 			 "recEffectType": "N",
+			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
 			}
 		];
@@ -2061,6 +2214,24 @@
 			 	"strainName": "Bubba OG",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/bubba-og_100x100.jpg"
+			 	
+			},
+			{"strainId": 229,
+			 	"strainName": "Hawaiian Snow",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/hawaiian-snow_100x100.jpg"
+			 	
+			},
+			{"strainId": 230,
+			 	"strainName": "Dr. Who",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/hawaiian-snow_100x100.jpg"
+			 	
+			},
+			{"strainId": 231,
+			 	"strainName": "Pineapple Chunk",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/pineapple-chunk_100x100.jpg"
 			 	
 			}
 
@@ -20646,7 +20817,7 @@
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Dry Mouth" "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "The buds give off a strong and heady high. The plant's parentage hails from Afghanistan, Brazil, and India.",
 			 "descriptionAbbrev":  "The buds give off a strong and heady high. The plant's parentage hails from Afghanistan, Brazil, and India.",
 			 "tags": [""],
@@ -20760,7 +20931,7 @@
 		 	"taste": ["Pungent", "Sweet", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Muscle Spasms", "Insomnia"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Dry Mouth" "Dry Eyes", "Anxious", "Headache", "Dizzy", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy", "Enhanced Drowsiness"],
 			 "descriptionDetailed": "Green Queen is gold and yellow in color and known to provide a strong body buzz.",
 			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz",
 			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
@@ -28289,6 +28460,234 @@
 			 "descriptionAbbrev": "This cannabis strain has been known to incite long rounds of giggles, great for hanging out with friends.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/hawaiian-snow_100x100.jpg"
+			},
+			{"strainId": 230,
+			 "strainName": "Dr. Who",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.21
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.48	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.18
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Pungent", "Earthy"],
+		 	 "conditions": ["Pain", "Stress", "Appetite Loss", "Multiple Sclerosis", "ADHD", "Bipolar", "Depression", "Nausea", "Fibromyalgia"],
+			 "positiveEffects": ["Pain Relief", "Relaxed", "Uplifted", "Enhanced Appetite", "Peaceful", "Productive"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "This 60 percent indica strain can deliver swift relief to pain, stress, appetite loss, multiple sclerosis, ADHD, mood disorders, and nausea without lethargy or sedation, making Dr. Who a good choice for any time of the day.",
+			 "descriptionAbbrev": "This 60 percent indica strain can deliver swift relief to pain, stress, appetite loss, multiple sclerosis, ADHD, mood disorders, and nausea without lethargy or sedation, making Dr. Who a good choice for any time of the day.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/dr--who_100x100.jpg"
+			}, 
+			{"strainId": 231,
+			 "strainName": "Pinneapple Chunk",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.51
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.71	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.86
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.40
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pineapple", "Sweet", "Skunk"],
+		 	 "conditions": ["Pain", "Chronic Pain"],
+			 "positiveEffects": ["Intense", "Energetic", "Relaxed", "Pain Relief"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "Pineapple Chunk will deliver a small dose of CBD with its crushing THC content, resulting in powerful painkilling and stress-relieving properties.",
+			 "descriptionAbbrev": "Pineapple Chunk will deliver a small dose of CBD with its crushing THC content, resulting in powerful painkilling and stress-relieving properties.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pineapple-chunk_100x100.jpg"
 			}
 
 		];
