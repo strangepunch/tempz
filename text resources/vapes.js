@@ -365,7 +365,7 @@
 			},
 			{"productId": 15,
 			 "productName": "The Magic flight Launch Box", //compName
-			 "manufacturer" : "",
+			 "manufacturer" : "Magic Flight",
 			 "price": 119.00,
 			 "weight": "",
 			 "type": "Portable",
