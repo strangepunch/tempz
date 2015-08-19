@@ -443,7 +443,7 @@
 			},
 			{"productId": 18,
 			 "productName": "The Firefly", //compName
-			 "manufacturer" : "",
+			 "manufacturer" : "Firefly Vaporizers",
 			 "price": 269.95,
 			 "weight": "",
 			 "construction": "Portable",

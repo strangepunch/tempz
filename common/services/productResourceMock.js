@@ -143,6 +143,42 @@
 			 "VTempsF": ["100", "420"],
 			 "VTempsC": ["37", "215"],
 			 "VImageUrl": "images/vapes/plenty1.png"
+			},
+			{"VId": 14,
+			 "VName": "Ascent", 
+			 "VManufacturer" : "DaVinci  Vaporizers",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["0", "430"],
+			 "VTempsC": ["0", "221"],
+			 "VImageUrl": "images/vapes/ascent1.png"
+			},
+			{"VId": 15,
+			 "VName": "PUFFiT 2", 
+			 "VManufacturer" : "Discreet Vape",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["250", "430"],
+			 "VTempsC": ["121", "221"],
+			 "VImageUrl": "images/vapes/puffit1.png"
+			},
+			{"VId": 16,
+			 "VName": "The Haze", 
+			 "VManufacturer" : "Haze Vaporizers",
+			 "VType": "Portable",
+			 "VTempType": "Y",
+			 "VTempsF": ["365", "380", "390", "415"],
+			 "VTempsC": ["185", "193", "198", "212"],
+			 "VImageUrl": "images/vapes/haze1.png"
+			},
+			{"VId": 17,
+			 "VName": "The Firefly", 
+			 "VManufacturer" : "Firefly Vaporizers",
+			 "VType": "Portable",
+			 "VTempType": "N",
+			 "VTempsF": ["0", "400"],
+			 "VTempsC": ["0", "204"],
+			 "VImageUrl": "images/vapes/firefly1.png"
 			}
 		];
 
@@ -720,7 +756,7 @@
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 12,
@@ -883,7 +919,7 @@
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 39,
@@ -985,7 +1021,7 @@
 			{"strainId": 55,
 			 "strainName": "Lulu", 
 			 "strainType": "Sativa",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 56,
@@ -1058,7 +1094,7 @@
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 68,
@@ -1082,7 +1118,7 @@
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 72,
@@ -1160,7 +1196,7 @@
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 85,
@@ -1232,7 +1268,7 @@
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 97,
@@ -1244,7 +1280,7 @@
 			{"strainId": 98,
 			 "strainName": "Acapulco Gold", 
 			 "strainType": "Sativa",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 99,
@@ -1370,7 +1406,7 @@
 			{"strainId": 119,
 			 "strainName": "Dubtech", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 120,
@@ -1418,13 +1454,13 @@
 			{"strainId": 125,
 			 "strainName": "Mad Max", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 126,
 			 "strainName": "Mafia OG", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 127,
@@ -1484,7 +1520,7 @@
 			{"strainId": 138,
 			 "strainName": "White Walker OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 139,
@@ -1604,7 +1640,7 @@
 			{"strainId": 158,
 			 "strainName": "OG Cheese",
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 159,
@@ -1628,7 +1664,7 @@
 			{"strainId": 162,
 			 "strainName": "Mars OG",
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 
 			},
 			{"strainId": 163,
@@ -1638,9 +1674,9 @@
 
 			},
 			{"strainId": 164,
-			 "strainName": "Green Dream",
+			 "strainName": "Green Queen",
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/green-dream_100x100.jpg"
+			 "imageUrl": "images/strains/green-queen_100x100.jpg"
 
 			},
 			{"strainId": 165,
@@ -3285,7 +3321,7 @@
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
 			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 12,
 			 "strainName": "Nebula", 
@@ -6363,7 +6399,7 @@
 			 "descriptionDetailed": "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "descriptionAbbrev":  "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 39,
 			 "strainName": "Euphoria", 
@@ -7154,12 +7190,12 @@
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Earthy", "Sweet", "Citrus"], 
-		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Energetic", "Relaxed", "Creative", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dizzy", "Dry Eyes", "Anxious", "Munchies"],
-			 "descriptionDetailed": "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
-			 "descriptionAbbrev":  "A sativa-dominant hybrid cross of Green Crack and Blue Dream.",
+		 	"taste": ["Earthy", "Sweet", "Blueberry"], 
+		 	 "conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Bipolar", "PMS", "Appetite Loss", "Pain", "Muscle Spasms", "Stress", "Insomnia"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
+			 "descriptionDetailed": "A sativa-dominant hybrid cross of Green Crack and Blue Dream. The green crack intensity and energetic buzz compliments the blue dreams soulfulness.",
+			 "descriptionAbbrev":  "A sativa-dominant hybrid cross of Green Crack and Blue Dream. The green crack intensity and energetic buzz compliments the blue dreams soulfulness.",
 			 "tags": ["Hybrid", "Green Dream", "Bipolar"],
 			 "imageUrl": "images/strains/green-dream_100x100.jpg"
 			},
@@ -8301,7 +8337,7 @@
 			 "descriptionDetailed": "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "descriptionAbbrev":  "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 56,
 			 "strainName": "Magic Jack", 
@@ -8409,11 +8445,11 @@
 				} 	
 		 	],   
 		 	"taste": ["Lemon", "Woody"],
-		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "This is a perfect daytime strain – energetic but not too racy – and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
+		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress", "Fibromyalgia", "Nausea"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Enhanced Appetite", "Pain Relief"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "This is a perfect daytime strain - energetic but not too racy - and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
+			 "descriptionAbbrev":  "This is a perfect daytime strain - energetic but not too racy - and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
 			 "tags": ["Lemon"],
 			 "imageUrl": "images/strains/Magic-Jack-300.jpg"
 			},
@@ -9670,7 +9706,7 @@
 			 "descriptionDetailed": "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
 			 "descriptionAbbrev":  "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
 			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 68,
 			 "strainName": "Saturn OG", 
@@ -10126,7 +10162,7 @@
 			 "descriptionDetailed": "Another rock hard resin machine that will sit on the top shelf all day.",
 			 "descriptionAbbrev":  "Indica dominant phenotypes are perfect for relaxation and healing.",
 			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 72,
 			 "strainName": "Super Grandaddy", 
@@ -11608,7 +11644,7 @@
 			 "descriptionDetailed": "Harle-Tsu, bred by the Southern Humboldt Seed Collective, is a high-CBD hybrid cross between Harlequin and Sour Tsunami. With a CBD content 20 times higher than its THC content, Harle-Tsu brings relief to pain and inflammation without psychoactivity.",
 			 "descriptionAbbrev":  "Brings relief to pain and inflammation without psychoactivity.",
 			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 85,
 			 "strainName": "Harlequin", 
@@ -13204,7 +13240,7 @@
 			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
 			 "descriptionAbbrev":  "Acapulco Gold has a reputation for being one of the best cannabis strains ever created.",
 			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 99,
 			 "strainName": "Alien OG", 
@@ -13771,8 +13807,8 @@
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Nausea", "PTSD","OCD", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Anxiety", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
-			 "descriptionDetailed": "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade.",
-			 "descriptionAbbrev":  "The delicate terpene profile created a sweet-tasting vapor that may reminded you of pink lemonade.",
+			 "descriptionDetailed": "The delicate terpene profile created a sweet-tasting vapor that may remind you of pink lemonade.",
+			 "descriptionAbbrev":  "The delicate terpene profile created a sweet-tasting vapor that may remind you of pink lemonade.",
 			 "tags": ["Sativa", "Bay Cookies", "Depression", "Nausea", "Pain", "Stress"],
 			 "imageUrl": "images/strains/bay_cookies.jpg"
 			},
@@ -15598,7 +15634,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 120,
 			 "strainName": "Ghost OG", 
@@ -16510,7 +16546,7 @@
 			 "descriptionDetailed": "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
 			 "descriptionAbbrev":  "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
 			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 128,
 			 "strainName": "Mafia OG", 
@@ -16624,7 +16660,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 129,
 			 "strainName": "Mango Maui", 
@@ -17764,7 +17800,7 @@
 			 "descriptionDetailed": "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
 			 "descriptionAbbrev":  "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
 			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 139,
 			 "strainName": "Cherry Bomb", 
@@ -20044,7 +20080,7 @@
 			 "descriptionDetailed": "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese. OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "descriptionAbbrev":  "OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 159,
 			 "strainName": "Mercury OG",
@@ -20500,7 +20536,7 @@
 			 "descriptionDetailed": "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "descriptionAbbrev":  "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "tags": ["Indica", "Mars OG", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"strainId": 163,
 			 "strainName": "White Rhino",
@@ -20609,15 +20645,15 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
-			 "descriptionDetailed": "White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
-			 "descriptionAbbrev":  "White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
+			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth" "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "The buds give off a strong and heady high. The plant's parentage hails from Afghanistan, Brazil, and India.",
+			 "descriptionAbbrev":  "The buds give off a strong and heady high. The plant's parentage hails from Afghanistan, Brazil, and India.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-rhino_100x100.jpg"
 			},
 			{"strainId": 164,
-			 "strainName": "Green Dream",
+			 "strainName": "Green Queen",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
@@ -20721,14 +20757,14 @@
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Earthy", "Sweet", "Berry"],
-		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Fatigue"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "Green Dream is a sativa-dominant hybrid cross of Green Crack and Blue Dream.",
-			 "descriptionAbbrev":  "Green Dream is a sativa-dominant hybrid cross of Green Crack and Blue Dream.",
+		 	"taste": ["Pungent", "Sweet", "Woody"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Muscle Spasms", "Insomnia"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth" "Dry Eyes", "Anxious", "Headache", "Dizzy", "Enhanced Drowsiness"],
+			 "descriptionDetailed": "Green Queen is gold and yellow in color and known to provide a strong body buzz.",
+			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz",
 			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
-			 "imageUrl": "images/strains/green-dream_100x100.jpg"
+			 "imageUrl": "images/strains/green-queen_100x100.jpg"
 			},
 			{"strainId": 165,
 			 "strainName": "Green Dynamite",
@@ -28265,7 +28301,7 @@
 			 "descriptionDetailed": "When you're having trouble sleeping on a regular basis the condition is referred to as insomnia. If it continues for a period of time the lack of REM sleep will cause problems with memory and the ability to focus. Both physical and emotional stress also accompanies prplonged sleep depravation.",
 			 "descriptionAbbrev":  "Insomnia patients have trouble falling asleep at night.",
 			 "tags": ["Insomnia","Sleep","Indica", "Sedative", "Trainwreck", "White Widow", "Sage", "Skywalker OG", "Permafrost", "Querkle", "Papaya", "Pennywise", "OG #18", "OG Kush", "Canna-Tsu", "Nebula"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 2,
 			 "conditionName": "Arthritis", 
@@ -28274,7 +28310,7 @@
 			 "descriptionDetailed": "Arthritis Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Arthritis Short description here.",
 			 "tags": ["Arthritis","Pain","Indica", "White Walker OG", "White Fire OG", "Super Lemno Haze", "Super Grandaddy", "Sugar Plum", "Sour Tsunami", "Silver Surfer", "Pennywise", "Pineapple", "Pineapple Hogsbreath", "Private Reserve", "Purple Haze", "Purple Kush", "Purple Urkle", "Querkle", "Ramona OG", "Sherbet Cookies", "Lemon Haze", "Lemon Larry OG", "Lemon OG Kush", "Lulu", "Mad Max", "May Weather Kush", "Neptune OG", "Northern Lights", "OG Cheese", "Ogre", "Diablo", "El Alquimista", "Fire Bomb", "God's Gift", "Gorilla Glue #4", "Grape Kool Aid", "Green Thailand", "Harle-Tsu", "Harlequin", "Jack Frost", "Black Cherry Soda", "Blackwater", "Brutus OG", "Bullrider", "Canna-Tsu", "Cannatonic", "Charlotte's Web", "Chemdawg", "Cinderella 99", "Confidential Cheese"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 3,
 			 "conditionName": "Anxiety", 
@@ -28283,7 +28319,7 @@
 			 "descriptionDetailed": "Anxiety Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anxiety Short description here.",
 			 "tags": ["Anxiety","Stress", "Relaxation", "XJ-13", "Yumbodlt", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Stardawg", "Strawberry", "Skywalker OG", "Sour Dielsel", "Shipwreck", "Skywalker", "Romulan", "Sage", "Purple Wreck", "Querkle", "Pennywise", "Permafrost", "Pineapple", "Papaya", "OGiesel", "Ogre", "OG #18", "OG Kush", "Nebula", "Nothern Lights", "Killing Fields", "LVPK", "God's Gift", "Grapefruit", "Double Purple Doja", "El-Jeffe", "Church OG", "Critical Mass", "Canna-Tsu", "Chiesel", "ACDC", "Blue Dream"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 4,
 			 "conditionName": "Anorexia", 
@@ -28292,7 +28328,7 @@
 			 "descriptionDetailed": "Anorexia Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Anorexia nervosa is a serious, potentially life-threatening eating disorder characterized by self-starvation and excessive weight loss.",
 			 "tags": ["Anorexia","Appetite","Munchies", "Yumbodlt", "Zen", "Strawberry Cough", "Warlock", "Shipwreck", "Sour Diesel", "Pineapple", "Sage N Sour", "OG #18", "Ogre", "LVPK", "Mango", "Ice", "Jasmin", "Hashberry", "HOG", "Harle-Tsu", "Harlequin", "Edelweiss", "Goo", "Chiesel", "Critical Kush", "Cheese", "Chemo", "Bubba Kush", "Charlotte's Web", "Ak-48", "Amnesia"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 5,
 			 "conditionName": "ADD/ADHD", 
@@ -28301,7 +28337,7 @@
 			 "descriptionDetailed": "ADD/ADHD Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "ADD/ADHD Short description here.",
 			 "tags": ["ADD","ADHD","Relaxing", "Zen", "White Widow", "XJ-13", "Vortex", "Warlock", "Strawberry Cough", "Trainwreck", "Sour Diesel", "Strawberry", "Skywalker", "Skywalker OG", "Sage N Sour", "Shipwreck", "Plushberry", "Querkle", "Pineapple", "OG Kush", "Permafrost", "Northern Lights #5", "OG #18", "Harle-Tsu", "Nebula", "Blue Dream", "Canna-Tsu", "El-Jeffe"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 6,
 			 "conditionName": "Pain", 
@@ -28310,7 +28346,7 @@
 			 "descriptionDetailed": "Pain Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Pain Short description here.",
 			 "tags": ["Pain","Black Buddah", "Black Cherry Soda", "Berry Queen", "Berry White", "Banana Diesel", "Bay Cookies", "ATF", "Avi-Dekel", "Alien Rock Candy", "Amnesia Haze", "AK-48", "Alien OG", "Afgooey", "AK-47", "Afgani Bullrider", "Afgoo", "Afghani", "707 Headband", "Acapulco Gold" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 7,
 			 "conditionName": "Nausea", 
@@ -28319,7 +28355,7 @@
 			 "descriptionDetailed": "Nausea Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Nausea Short description here.",
 			 "tags": ["Nausea", "White Fire OG", "White Walker OG", "Sugar Plum", "Thin Mint", "Sour Dub", "Strawberry Mist", "Shark Shock", "Sour Bubble", "Querkle", "Raskal OG", "Purple Coma", "Puple Passion", "Moonshine Diesel", "Pineapple Hogsbreath", "Mango Maui", "Moon Candy", "Lavender", "Mafia OG", "Harlequin", "Herojuana", "Grape Kool Aid", "Green Thailand", "El Alquimista", "Grape Cookies", "Dubtech", "Eden OG", "Confidential Cheese", "DJ Shortberry", "Canna-Tsu", "Cherry Bomb", "Blue Dream", "Candy OG", "Berry Queen", "ACDC", "Bay Cookies"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 8,
 			 "conditionName": "Migraines", 
@@ -28328,7 +28364,7 @@
 			 "descriptionDetailed": "Migraines Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Migraines Short description here.",
 			 "tags": ["Migraines", "Headache", "White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocloate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 9,
 			 "conditionName": "Hypertension", 
@@ -28337,7 +28373,7 @@
 			 "descriptionDetailed": "Hypertension Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Treat Hypertension.",
 			 "tags": ["Hypertension", "Saturn OG", "Super Grandaddy", "Pennywise", "Phantom OG", "Mike Tyson", "OG Cheese", "Lulu", "Mercury OG", "ACDC", "Gooey Wreck"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 10,
 			 "conditionName": "HIV/AIDS", 
@@ -28346,7 +28382,7 @@
 			 "descriptionDetailed": "HIV/AIDS Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "HIV/AIDS Short description here.",
 			 "tags": ["HIV", "AIDS", "ACDC"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 11,
 			 "conditionName": "Glaucoma", 
@@ -28355,7 +28391,7 @@
 			 "descriptionDetailed": "Glaucoma Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Glaucoma Short description here.",
 			 "tags": ["Glaucoma", "Silver Surfer", "Sugar Plum", "Mafia OG", "Grape Cookies", "Green Thailand", "ACDC", "Gooey Wreck" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 12,
 			 "conditionName": "Epilepsy", 
@@ -28364,7 +28400,7 @@
 			 "descriptionDetailed": "Epilepsy Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Epilepsy Short description here.",
 			 "tags": ["Epilepsy", "Sour Tsunami", "Valentine X", "Sour OG", "Lemon Larry OG", "Mars OG", "Harlequin", "Jupiter Kush", "G13 Haze", "Harle-Tsu", "Cannatonic", "Charlotte's Web", "Cannatonic #4", "Canna-Tsu", "Banana Diesel", "Bull Rider", "Avi-Dekel" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 13,
 			 "conditionName": "Depression", 
@@ -28373,7 +28409,7 @@
 			 "descriptionDetailed": "Depression Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Depression Short description here.",
 			 "tags": ["Depression", "WiFi OG", "Willy's Wonder", "XJ-13", "White Walker OG", "White Widow", "White Fire OG", "White Skunk", "Tropical OG", "True OG", "Trainwreck", "Trinity OG", "The Flav", "Thin Mint", "Tahoe OG", "Tangilope", "Super Silver Haze", "Superman OG", "Super Grandaddy", "Super Lemon Haze", "Sugar Plum", "Sour OG", "Stratosphere", "Strawberry Mist", "Sour Cherry", "Sour Diesel", "Skywalker", "Snowcap", "Sherbet Cookies", "Skunk #1", "SFV OG", "Shark Shock", "Raskal OG", "Regulator OG", "Querkle", "Ramona OG", "Purple Nepal", "Purple Passion", "Purple Haze", "Purple Kush", "Private Reserve OG", "Purple Cheese", "Pineapple Thai", "Platnum Trinity Kush", "Pineapple Express", "Pineapple Hogsbreath", "Phantom OG", "Pineapple", "Paris OG", "Pennywise", "OG Cheese", "Organic OG", "Northern Lights", "NY Sour Diesel", "Moonshine Diesel", "Mr. Nice", "Mike Tyson", "Moon Candy", "May Weather Kush", "Mercury OG", "Master Bubba", "Magic Jack", "Mango Maui", "Lulu", "Mad Max", "Lemon Kush", "Lemon Larry OG", "Lemon Head OG", "Lemon Jack", "Lemon Diesel", "Lemon Haze", "Larry OG", "Kosher Kush", "Lamb's Bread", "Jupiter Kush", "Kali Mist", "Jack Herer", "Jillybean", "Jack Chemdawg", "Jack Frost", "Headband", "J1", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Train Wreck", "Green Cross", "Green Dream", "Great White Shark", "Green Crack", "Grape Kool Aid", "Grapefruit Haze", "Gorilla Glue #4", "Grape Cookies", "Gooey Wreck", "Gorilla Glue", "Girl Scout Cookies", "God's Gift", "G13 Haze", "Ghost OG", "Fire OG", "Forum Cookies/GSC", "Euphoria", "Fire Bomb", "Eden OG", "El Alquimista", "Euphoria", "Dubtech", "Dutch Passion", "Deadhead OG", "Diamond OG", "Cinderella 99", "Confidential Cheese", "Cherry Pie", "Chocolate Thai", "Cataract Kush", "Chemdawg", "Cannalope Haze", "Cannatonic", "Candy OG", "Candyland", "Cannatonic #4", "Blue Moonshine", "Blueberry Trainwreck", "Blue Dream", "Berry White", "Black Cherry Soda", "Bay Cookies", "Berry Queen", "Amnesia Haze", "ATF", "Alien OG", "Alien Rock Candy", "ACDC", "AK-48", "707 Headband", "Acapulco Gold"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 14,
 			 "conditionName": "Cancer", 
@@ -28382,7 +28418,7 @@
 			 "descriptionDetailed": "Cancer Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Cancer Short description here.",
 			 "tags": ["Cancer", "White Fire Alien OG", "Yoda OG", "The White", "Valenine X", "Pineapple Thai", "Sour Tsunami", "Lemon Larry OG", "Master Bubba", "King's Kush", "Kosher Kush", "Harlequin", "Hog", "Great White Shark", "Harle-Tsu", "Charlotte's Web", "G13 Haze", "Canna-Tsu", "Cannatonic", "Avi-Dekel", "Bull Rider", "Afghani"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 15,
 			 "conditionName": "Bipolar Disorder", 
@@ -28391,7 +28427,7 @@
 			 "descriptionDetailed": "Bipolar Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Bipolar Short description here.",
 			 "tags": ["Bipolar", "Disorder", "Trainwreck", "Tropical OG", "Tangilope", "Thin Mint", "Super Grandaddy", "Tangerine", "Sour Cherry", "Stratosphere", "Saturn OG", "Sherbet Cookies", "Regulator OG", "Purple Urkle", "Raskal OG", "Private Reserve OG", "Purple Haze", "Platnum Trinity Kush", "Northern Lights", "Pineapple Express", "Moon Candy", "Moonshine Diesel", "Magic Jack", "Mike Tyson", "Lemon Head OG", "Lulu", "Lamb's Bread", "Lemon Haze", "Jack Herer", "Jillybean", "Hawaiian Hulk", "Jack Chemdawg", "Green Thailand", "H-Train Wreck", "Green Crack", "Green Dream", "Gooey Wreck", "Grapefruit Haze", "Fire Bomb", "Forum Cookies/GSC", "Eden OG", "Euphoria", "Diablo", "Dutch Passion", "Confidential Cheese", "Deadhead OG", "Candy OG", "Chem Valley Kush", "ACDC", "Banana Diesel"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 16,
 			 "conditionName": "Asthma", 
@@ -28400,7 +28436,7 @@
 			 "descriptionDetailed": "Asthma Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Asthma Short description here.",
 			 "tags": ["Asthma", "Bronchodilator", "Breathing", "Superman OG", "Thin Mint", "Purple Cheese", "Shark Shock", " NY Sour Diesel", "Lemon Haze", "Lemon Head OG", "Green Dream", "Harle-Tsu", "Jack Frost", "Clear Lake", "Euphoria"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 17,
 			 "conditionName": "PTSD", 
@@ -28409,7 +28445,7 @@
 			 "descriptionDetailed": "Researchers think marijuana pharmaceuticals might bring PTSD patients relief from their memories.",
 			 "descriptionAbbrev":  "Relieve PTSD",
 			 "tags": ["Trainwreck", "PTSD", "Snxiety", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 18,
 			 "conditionName": "Fibromyalgia", 
@@ -28418,7 +28454,7 @@
 			 "descriptionDetailed": "Relief from pain due to muscle soreness of the connective tissues associated with Fibromyalgia.",
 			 "descriptionAbbrev":  "Relieve Fibromyalgia",
 			 "tags": ["Fibromyalgia"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 19,
 			 "conditionName": "Muscle Spasms", 
@@ -28427,7 +28463,7 @@
 			 "descriptionDetailed": "Relief from muscle spasms.",
 			 "descriptionAbbrev":  "Muscle Spasms",
 			 "tags": ["Trainwreck", "Fibromyalgia", "Snxiety", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 20,
 			 "conditionName": "Impotence", 
@@ -28436,7 +28472,7 @@
 			 "descriptionDetailed": "Relief from symptoms associated with impotence and sexual dysfunction.",
 			 "descriptionAbbrev":  "Relief from Impotence",
 			 "tags": ["Trainwreck", "Impotence", "Snxiety", "Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 21,
 			 "conditionName": "Fatigue", 
@@ -28445,7 +28481,7 @@
 			 "descriptionDetailed": "Relief from symptoms associated with fatigue.",
 			 "descriptionAbbrev":  "Relief from fatigue",
 			 "tags": ["Fatigue"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 22,
 			 "conditionName": "Appetite Loss", 
@@ -28454,7 +28490,7 @@
 			 "descriptionDetailed": "Relief from symptoms associated with appetite loss.",
 			 "descriptionAbbrev":  "Relief from appetite loss.",
 			 "tags": ["Appetite Loss"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 23,
 			 "conditionName": "Chronic Aches", 
@@ -28463,7 +28499,7 @@
 			 "descriptionDetailed": "Relief from symptoms associated with chronic aches and pains.",
 			 "descriptionAbbrev":  "Relief from chronic pain.",
 			 "tags": ["Chronic aches"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 24,
 			 "conditionName": "Stress", 
@@ -28472,7 +28508,7 @@
 			 "descriptionDetailed": "Hypertension Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Relieve stress.",
 			 "tags": ["Stress"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 25,
 			 "conditionName": "Coronary Heart Disease", 
@@ -28481,7 +28517,7 @@
 			 "descriptionDetailed": "Recent resarch indicates chronic inflammation is a leading contributor to conditions like cornonary heart disease. In addition, anti-oxidants have also been proven to help prevent conditions associated wiht heart diease. .",
 			 "descriptionAbbrev":  "Treat heart disease.",
 			 "tags": ["Coronary Heart Disease"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}    	
 		];
 
@@ -28616,7 +28652,7 @@
 			 "descriptionDetailed": "Pulegone is a naturally occurring organic compound obtained from the essential oils of a variety of plants such as catnip, Mentha piperita, and pennyroyal. It is classified as a monoterpene. Pulegone is a clear colorless oily liquid and has a pleasant odor similar to pennyroyal, peppermint and camphor. It is used in flavoring agents, in perfumery, and in aromatherapy.",
 			 "descriptionAbbrev":  "Pulegone has a pleasant odor similar to peppermint.",
 			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
@@ -28921,7 +28957,7 @@
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
 			 "descriptionAbbrev":  "Protect against nervous system degeneration",
 			 "tags": ["Neuroprotective", "nerves"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 2,
 			 "effectName": "Antispasmodic", //compName
@@ -28929,7 +28965,7 @@
  			 "descriptionDetailed": "Medical cannabis strains high in CBD have been shown to relieve spasms and convulsions associated with Epilepsy and other nerve related conditions.",
 			 "descriptionAbbrev":  "Suppress muscle spasms",
 			 "tags": ["Antispasmodic", "spasms", "convulsions"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 3,
 			 "effectName": "Antiemetic", //compName
@@ -28937,7 +28973,7 @@
  			 "descriptionDetailed": "Reduces vomiting and nausea",
 			 "descriptionAbbrev":  "Reduce vomiting and nausea",
 			 "tags": ["Antiemetic", "vomiting", "nausea"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 4,
 			 "effectName": "Analgesic", //compName
@@ -28945,7 +28981,7 @@
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
 			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["Analgesic", "pain", "painkiller" ],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 5,
 			 "effectName": "Antioxidant", //compName
@@ -28953,7 +28989,7 @@
  			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness among others.",
 			 "descriptionAbbrev":  "Fight free radicals",
 			 "tags": ["Antioxidant"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 6,
 			 "effectName": "Neuropathic Analgesic", //compName
@@ -28961,7 +28997,7 @@
  			 "descriptionDetailed": "Reduces pain associated with nerve damage including spinal injuries",
 			 "descriptionAbbrev":  "Reduce nerve pain", 
 			 "tags": ["nerve damage", "Neuropathic analgesic", "Neuropathic", "Analgesic"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 7,
 			 "effectName": "Treats IBS", //compName
@@ -28969,7 +29005,7 @@
  			 "descriptionDetailed": "Irritable bowel syndrome commonly causes cramping, abdominal pain, bloating, gas, diarrhea and constipation. IBS is a chronic condition that you will need to manage long term.",
 			 "descriptionAbbrev":  "Treat IBS",
 			 "tags": ["Antineoplastic", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
@@ -28977,7 +29013,7 @@
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 9,
 			 "effectName": "Neurogenesis", //compName
@@ -28985,7 +29021,7 @@
  			 "descriptionDetailed": "Neurogenesis is the process by which neurons are generated from neural stem cells and progenitor cells. Recent studies suggest that stress-induced atrophy and loss of hippocampal neurons may contribute to the pathophysiology of depression.",
 			 "descriptionAbbrev":  "Grow new nerve tissue",
 			 "tags": ["Neurogenesis", "nerve tissue growth", "Chronic Depression", "ADHD"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 10,
 			 "effectName": "Anxiolytic", //compName
@@ -28993,7 +29029,7 @@
  			 "descriptionDetailed": "Anxiolytic medications have been used for the treatment of anxiety and its related psychological and physical symptoms. Anxiolytics have been shown to be useful in the treatment of anxiety disorders.",
 			 "descriptionAbbrev":  "Reduce anxiety",
 			 "tags": ["Anxiolytic", "Anxiety", "Tranquilizer", "Bipolar", "Social Anxiety", "Separation Anxiety"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 11,
 			 "effectName": "Antiepileptic", //compName
@@ -29001,7 +29037,7 @@
  			 "descriptionDetailed": "Anti-epileptic drugs or AEDs are the main form of treatment for people with epilepsy. Certain compnonents in medical cannabis are being used as an effectve treatment for some forms of Epilepsy based on the relative strengths of components such as CBD and THC-A.",
 			 "descriptionAbbrev":  "Reduce seizures and convulsion",
 			 "tags": ["Antiepileptic", "Seizures", "Convulsions"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 12,
 			 "effectName": "Vasorelaxant", //compName
@@ -29009,7 +29045,7 @@
  			 "descriptionDetailed": "Reduces tension in blood vessel walls resultig in lower blood pressure and enhanced bloodflow in arteries, capillaries and blood vessels.",
 			 "descriptionAbbrev":  "Lower Blood Pressure",
 			 "tags": ["Vasorelaxant", "blood vessel", "High Blood Pressure", "Hypertension"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 13,
 			 "effectName": "Antiischemic", //compName
@@ -29017,7 +29053,7 @@
  			 "descriptionDetailed": "Reduces risk of artery blockage which could help prevent the conditions leading to coronary artery disease.",
 			 "descriptionAbbrev":  "Reduce risk of artery blockage",
 			 "tags": ["Anti ischemic", "artery blockage", "coronary", "heart", "Coronary artery disease"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 14,
 			 "effectName": "Antibacterial", //compName
@@ -29025,7 +29061,7 @@
  			 "descriptionDetailed": "Kills surface bacteria. Destroys bacteria or suppresses their growth or their ability to reproduce.",
 			 "descriptionAbbrev":  "Kill or slow bacteria growth",
 			 "tags": ["Antibacterial", "Bacteria", "Antibacterial"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 15,
 			 "effectName": "Antidiabetic", //compName
@@ -29033,7 +29069,7 @@
  			 "descriptionDetailed": "Helps reduce blood sugar levels.",
 			 "descriptionAbbrev":  "Lower blood sugar",
 			 "tags": ["Antidiabetic", "blood sugar", "diabetes"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 16,
 			 "effectName": "Antipsoriatic", //compName
@@ -29041,7 +29077,7 @@
  			 "descriptionDetailed": "Helps relieve the symptoms of psoriasis.",
 			 "descriptionAbbrev":  "Treat psoriasis",
 			 "tags": ["Antipsoriatic", "psoriasis"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 17,
 			 "effectName": "Antipsychotic", //compName
@@ -29049,7 +29085,7 @@
  			 "descriptionDetailed": "Helps reduce psychosis including delusions or hallucinations",
 			 "descriptionAbbrev":  "Tranquilizing effect",
 			 "tags": ["Antipsychotic", "psychosis", "delusions", "hallucinations"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 18,
 			 "effectName": "Stimulates Bone Growth", //compName
@@ -29057,7 +29093,7 @@
  			 "descriptionDetailed": "promotes bone growth",
 			 "descriptionAbbrev":  "Promote bone growth",
 			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 19,
 			 "effectName": "Intestinal anti-prokinetic", //compName
@@ -29065,7 +29101,7 @@
  			 "descriptionDetailed": "reduces contractions in the small intestine",
 			 "descriptionAbbrev":  "Reduce contractions in the small intestine",
 			 "tags": ["Intestinal anti-prokinetic", "contractions", "Intestinal"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 20,
 			 "effectName": "Immunosuppressant", //compName
@@ -29073,7 +29109,7 @@
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
 			 "descriptionAbbrev":  "Prevent the immune response",
 			 "tags": ["Immunosuppressant", "immune system"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 21,
 			 "effectName": "Antiproliferative", //compName
@@ -29081,7 +29117,7 @@
  			 "descriptionDetailed": "Inhibits cancer cell growth",
 			 "descriptionAbbrev":  "Slow cancer cell growth",
 			 "tags": ["Antiproliferative", "cell growth", "cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 22,
 			 "effectName": "Vasoconstriction", //compName
@@ -29089,7 +29125,7 @@
  			 "descriptionDetailed": "Vasoconstriction is the narrowing of the blood vessels resulting from contraction of the muscular wall of the vessels, in particular the large arteries and small arterioles. The process is particularly important in staunching hemorrhage and acute blood loss.",
 			 "descriptionAbbrev":  "Raise blood pressure",
 			 "tags": ["Vasoconstriction", "blood vessels"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 23,
 			 "effectName": "Memory booster", //compName
@@ -29097,7 +29133,7 @@
  			 "descriptionDetailed": "helps memory conditions",
 			 "descriptionAbbrev":  "Help boost memory",
 			 "tags": ["Memory booster", "memory", "Memory booster", "Alzheimers"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 24,
 			 "effectName": "AChE inhibitor", //compName
@@ -29105,7 +29141,7 @@
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
 			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 25,
 			 "effectName": "Sedative", //compName
@@ -29113,7 +29149,7 @@
  			 "descriptionDetailed": "Helps you sleep as it induces sedation by reducing irritability or excitement.",
 			 "descriptionAbbrev":  "Sleep aid",
 			 "tags": ["Sedative", "Insomnia"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 26,
 			 "effectName": "Antipyretic", //compName
@@ -29121,7 +29157,7 @@
  			 "descriptionDetailed": "Some components in medical cannabis can be effectve in reducing or preventing fever. The most common antipyretics in the United States are ibuprofen and aspirin, which are used primarily as pain relievers.",
 			 "descriptionAbbrev":  "Reduce or prevent fever",
 			 "tags": ["Antipyretic", "fever"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
@@ -29129,7 +29165,7 @@
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.  ",
 			 "descriptionAbbrev":  "Treat depression",
 			 "tags": ["Euphoriant", "Depression", "Anti-Depression"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 28,
 			 "effectName": "Antimalarial", //compName
@@ -29137,7 +29173,7 @@
  			 "descriptionDetailed": "Medical canabis has been used to prevent and treat malaria",
 			 "descriptionAbbrev":  "Treat Malaria",
 			 "tags": ["Antimalarial", "Malaria"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 29,
 			 "effectName": "Antifungal", //compName
@@ -29145,7 +29181,7 @@
  			 "descriptionDetailed": "Medical cannabis has been used to treat and prevent fungal mycoses.",
 			 "descriptionAbbrev":  "Prevent fungal growth",
 			 "tags": ["Antifungal", "athletes foot", "ringworm", "thrush", "meningitis"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 30,
 			 "effectName": "Anti-tumor", //compName
@@ -29153,7 +29189,7 @@
  			 "descriptionDetailed": "High CBD strains of medical cannabis have been successfully used to stop abnormal tumor cell growth associated with some skin, brain and prostate cancers.",
 			 "descriptionAbbrev":  "Stop or slow tumor growth",
 			 "tags": ["Anti-tumor", "cancer", "chemo"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 31,
 			 "effectName": "Stimulates brain cell growth", //compName
@@ -29161,7 +29197,7 @@
  			 "descriptionDetailed": "helps stimulate brain cell growth and memory functions",
 			 "descriptionAbbrev":  "Stimulate brain cell growth and memory function",
 			 "tags": ["Alzheimers", "cancer", "chemo"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 32,
 			 "effectName": "Anti-prostate cancer", //compName
@@ -29169,7 +29205,7 @@
  			 "descriptionDetailed": "Helps treat and prevent prostate cancer",
 			 "descriptionAbbrev":  "Treat prostate cancer",
 			 "tags": ["Anti-tumor", "Prostate cancer", "Prostate"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 33,
 			 "effectName": "Antinociceptive", //compName
@@ -29177,7 +29213,7 @@
  			 "descriptionDetailed": "helps prevent the sensation of pain",
 			 "descriptionAbbrev":  "Increase pain tolerance",
 			 "tags": ["Chronic Pain", "Pain"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 34,
 			 "effectName": "Antibiotic", //compName
@@ -29185,7 +29221,7 @@
  			 "descriptionDetailed": "destroys or slow down the growth of bacteria",
 			 "descriptionAbbrev":  "Destroy bacteria",
 			 "tags": ["Antibiotic", "Infection"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 35,
 			 "effectName": "Antimutagenic", //compName
@@ -29193,7 +29229,7 @@
  			 "descriptionDetailed": "Reduces or inhibits the rate of cell mutation",
 			 "descriptionAbbrev":  "Reduce cell mutation",
 			 "tags": ["Antimutagenic", "cancer"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 36,
 			 "effectName": "Bronchodilator", //compName
@@ -29201,7 +29237,7 @@
  			 "descriptionDetailed": "decreases resistance in the respiratory airway and increases airflow to the lungs",
 			 "descriptionAbbrev":  "Decrease resistance in the respiratory airway",
 			 "tags": ["Bronchodilator", "Asthma", "COPD"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 37,
 			 "effectName": "Antineoplastic", //compName
@@ -29209,7 +29245,7 @@
  			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
 			 "descriptionAbbrev":  "Slow down or inhibit tumors",
 			 "tags": ["Antineoplastic", "cancer", "tumors"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 38,
 			 "effectName": "Relieves Intraocular Pressure", //compName
@@ -29217,7 +29253,7 @@
  			 "descriptionDetailed": "Left untreated, high eye pressure can cause glaucoma and permanent vision loss in some individuals.",
 			 "descriptionAbbrev":  "Treat Glaucoma by reducing eye pressure",
 			 "tags": ["Antineoplastic", "Glaucoma"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 39,
 			 "effectName": "Antileishmanial", //compName
@@ -29225,7 +29261,7 @@
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
 			 "descriptionAbbrev":  "Treat sand flea infection",
 			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 40,
 			 "effectName": "AntiViral", //compName
@@ -29233,7 +29269,7 @@
  			 "descriptionDetailed": "Results suggest that modest cannabis use may offer symptomatic and virological benefit to some patients undergoing HCV treatment by helping them maintain adherence to the challenging medication regimen.",
 			 "descriptionAbbrev":  "Destroy viruses associated with HCV",
 			 "tags": ["HCV", "Antiviral"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 41,
 			 "effectName": "Cytoprotective", //compName
@@ -29241,7 +29277,7 @@
  			 "descriptionDetailed": "Fights ulcers by increasing mucosal protection.",
 			 "descriptionAbbrev":  "Treat ulcers by increasing mucosal protection",
 			 "tags": ["HCV", "Antiviral"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 42,
 			 "effectName": "LO inhibitor", //compName
@@ -29249,7 +29285,7 @@
  			 "descriptionDetailed": "Inhibits lipoxygenase enzyme, can help asthma.",
 			 "descriptionAbbrev":  "Treat asthma conditions",
 			 "tags": ["HCV", "Antiviral"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
 			{"effectId": 43,
 			 "effectName": "5-a-reductase inhibitor", //compName
@@ -29257,7 +29293,7 @@
  			 "descriptionDetailed": "Surpresses dihydrotestosterone, treats benign prostatic hyperplasia - prostate.",
 			 "descriptionAbbrev":  "Treat benign prostate conditions",
 			 "tags": ["Prostate"],
-			 "imageUrl": "images/strains/acapulcoGold.jpg"
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}
 		];
 
