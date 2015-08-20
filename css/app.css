@@ -600,6 +600,9 @@ html, body {
 	color:white;
 }
 
+#recView .sizeImage img{
+	width: 35%;
+}
 
 /**----------Temps View---------------**/
 /**
