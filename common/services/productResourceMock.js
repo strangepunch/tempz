@@ -502,6 +502,12 @@
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "H",
 			 "imageUrl": "6.png"
+			},
+			{"recEffectId": 34,
+			 "recEffectName": "Focused",  
+			 "recEffectType": "P",
+			 "recEffectTempRange" : "L",
+			 "imageUrl": "6.png"
 			}
 		];
 
@@ -4057,7 +4063,7 @@
 		 	],
 		 	"taste": ["Earthy", "Woody", "Tea"],
 		 	 "conditions": ["Pain", "Stress", "Nausea", "Depression", "Insomnia", "ADD/ADHD"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Tingly", "Uplifted", "Happy"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Tingly", "Uplifted", "Happy", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Headache", "Paranoid", "Dry Eyes"],
 			 "descriptionDetailed": "Its stimulating, focused buzz sharpens the mind against inattention and boredom, and may help those struggling with ADD/ADHD. With a sweet and sour aroma, Warlocks ushers in its mellow stress-relieving and engaged effects.",
 			 "descriptionAbbrev":  "Its stimulating, focused buzz sharpens the mind against inattention and boredom, and may help those struggling with ADD/ADHD.",
@@ -4741,7 +4747,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "The sativa side of this strain allows for a nice head high as well, but it isn't overly hazy or unfocused. Skywalker was created by Amsterdam's Dutch Passion Seeds to combine the sweet fruity aroma of Blueberry with the growing strengths of the hardy, high-yielding Mazar.",
 			 "descriptionAbbrev":  "Helps patients knock out pain and relax into sleep ",
