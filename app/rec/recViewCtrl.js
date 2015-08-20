@@ -168,7 +168,7 @@
 					vm.centerImage = vm.recEffectList[i].imageUrl;
 					vm.modeName = vm.recEffectList[i].recEffectName;
 					vm.effectT = vm.recEffectList[i].recEffectTempRange;
-					console.log("vm.effectT", vm.effectT)
+					//console.log("vm.effectT", vm.effectT)
 				}
 			};
 			vm.selectedSomething = 1;
