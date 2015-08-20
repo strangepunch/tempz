@@ -5,11 +5,13 @@
       .controller("StrainDetailCtrl",
             ["$scope",
              "strain",
-             "detailModeResource", 
+             "detailModeResource",
+             "tasteResource", 
+             "recEffectResource", 
              "strainResource",
               StrainDetailCtrl]);
   
-  function StrainDetailCtrl($scope,strain,detailModeResource,strainResource){
+  function StrainDetailCtrl($scope,strain,detailModeResource,tasteResource,recEffectResource,strainResource){
     var vm = this;
 
     //strain that is passed over
@@ -33,6 +35,21 @@
     vm.Taste = true;
     vm.Conditions = false;
     vm.Vape = false;
+    vm.currentMode = 1;
+
+    //initialize image for first screen
+    vm.combineImgAndWords = [];
+    tasteResource.query(function(data){
+       vm.tasteImages = [];
+       for(var i=0; i<vm.currentStrain.taste.length; i++){
+          for(var x=0; x<data.length; x++){
+            if(vm.currentStrain.taste[i] === data[x].taste){
+              vm.tasteImages[i] = data[x].imageUrl;
+              vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+            }
+          }
+       }
+    });
  
     //Populate modes
     detailModeResource.query(function(data){
@@ -54,6 +71,19 @@
               vm.Taste = false;
               vm.Conditions = false;
               vm.Vape = false;
+              vm.combineImgAndWords = [];
+              recEffectResource.query(function(data){
+                vm.posEffImages = [];
+                vm.combineImgAndWords = [];
+                for(var i=0; i<vm.currentStrain.positiveEffects.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.positiveEffects[i] === data[x].recEffectName){
+                      vm.posEffImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.posEffImages[i], "name":vm.currentStrain.positiveEffects[i]};
+                    }
+                  }
+                }
+              });
               vm.discMode = "Positive";
               vm.selectedMode = "Positive effects";
               break;
@@ -65,6 +95,19 @@
               vm.Taste = false;
               vm.Conditions = false;
               vm.Vape = false;
+              vm.combineImgAndWords = [];
+              recEffectResource.query(function(data){
+                vm.negEffImages = [];
+                vm.combineImgAndWords = [];
+                for(var i=0; i<vm.currentStrain.negativeEffects.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.negativeEffects[i] === data[x].recEffectName){
+                      vm.negEffImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.negEffImages[i], "name":vm.currentStrain.negativeEffects[i]};
+                    }
+                  }
+                }
+              });
               vm.discMode = "Negative";
               vm.selectedMode = "Negative effects";
               break;
@@ -80,7 +123,7 @@
               vm.selectedMode = "Component percentage"
               $scope.getCompWithValue();
               break;
-          case 2:
+          case 1:
               vm.Description = false;
               vm.Positive = false;
               vm.Negative = false;
@@ -88,10 +131,23 @@
               vm.Taste = true;
               vm.Conditions = false;
               vm.Vape = false;
+              vm.combineImgAndWords = [];
+              tasteResource.query(function(data){
+                vm.tasteImages = [];
+                vm.combineImgAndWords = [];
+                for(var i=0; i<vm.currentStrain.taste.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.taste[i] === data[x].taste){
+                      vm.tasteImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                    }
+                  }
+                }
+              });
               vm.discMode = "Tastes";
               vm.selectedMode = "Flavors you can expect"
               break;
-          case 3:
+          case 'Med':
               vm.Description = false;
               vm.Positive = false;
               vm.Negative = false;
@@ -146,13 +202,13 @@
                 return "active";
               }
               break;
-          case 2:
-              if(vm.currentMode == 2){
+          case 1:
+              if(vm.currentMode == 1){
                 return "active";
               }
             break;
-          case 3:
-              if(vm.currentMode == 3){
+          case 'Med':
+              if(vm.currentMode == 'Med'){
                 return "active2";
               }
             break;
@@ -183,13 +239,6 @@
        
       }
     };
-
-    //get some images
-    /**
-    $scope.getImages = function(name){
-
-    };**/
-
 
       
   }//end of StrainDetailCtrl function

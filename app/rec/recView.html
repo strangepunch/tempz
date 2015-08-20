@@ -34,14 +34,21 @@
 					</td>
 					
 					<td class="col-xs-1"> 
-					
+					<!--for Taste mode-->
 						<div ng-if="vm.taste" ng-repeat="mode in vm.ModeT|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  style="text-align:right">
 								<img ng-src="images/Rec/{{mode}}.png">
 							</li>	
 						</div>
-
+					<!--for Effect mode-->
+						<div ng-if="vm.effect" ng-repeat="mode in vm.ModeE|limitTo:-3 track by $index">
+							<div ng-class="active(mode)"></div>
+							<li  style="text-align:right">
+								<img ng-src="images/Rec/{{mode}}.png">
+							</li>	
+						</div>
+					<!--for Strain mode-->
 						<div ng-if="vm.strain" ng-repeat="mode in vm.ModeS|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  style="text-align:right">
@@ -93,7 +100,7 @@
 					<div ng-if = "vm.showQ2">
 						<div class = "row row-padding">
 					 		<div class="btn" ng-click="searchEffect('All')"> All </div>
-					 		<div class="btn" ng-click="searchEffect('Positive')"> Positive </div>   
+					 		<div class="btn" ng-style="vm.postiveStyle" ng-click="searchEffect('Positive')"> Positive </div>   
 					 		<!--<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>-->  
 					 	</div>
 					    <ul class="col-xs-10" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">

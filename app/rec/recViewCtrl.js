@@ -25,6 +25,7 @@
 		vm.discMode = "Taste";
 		vm.taste = true;
 		vm.strain = false;
+		vm.effect = false;
 
 		//Storage space for goEasy seach
 		//vm.userSelect = [{"condName":"", "strnName":""}];
@@ -49,6 +50,7 @@
 			vm.Modes = data;
 			vm.ModeT = [data[3],data[4],data[5]];
 			vm.ModeS = [data[6],data[7],data[8]];
+			vm.ModeE = [data[9],data[10],data[11]];
 			vm.currentMode = vm.Modes[0]; //initiate mode
 		});
 
@@ -62,6 +64,7 @@
 			    	vm.discMode = "Taste";
 			    	vm.taste = true;
 					vm.strain = false;
+					vm.effect = false;
 			    	$scope.showQuestion1 = true;
     				$scope.showQuestion2 = false;
     				$scope.showQuestion3 = false;
@@ -71,13 +74,17 @@
     				vm.selectedSomething = 0;
     				vm.selectedTaste = null;
     				vm.strainSuggestions=[];
+    				vm.tasteTemp = -1;
+    				vm.strainT = "";
+					vm.effectT="";
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
 			    	vm.centerImage = "2.png";
 			    	vm.discMode = "Feel";
-			    	vm.taste = true;
+			    	vm.taste = false;
 					vm.strain = false;
+					vm.effect = true;
 			    	$scope.showQuestion1 = false;
     				$scope.showQuestion2 = true;
     				$scope.showQuestion3 = false;
@@ -87,6 +94,9 @@
     				vm.selectedSomething = 0;
     				vm.selectedEffect = null;
     				vm.strainSuggestions=[];
+    				vm.tasteTemp = -1;
+    				vm.strainT = "";
+					vm.effectT="";
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
@@ -94,6 +104,7 @@
 			    	vm.discMode = "Strain";
 			    	vm.taste = false;
 					vm.strain = true;
+					vm.effect = false;
 			    	$scope.showQuestion1 = false;
     				$scope.showQuestion2 = false;
     				$scope.showQuestion3 = true;
@@ -103,6 +114,9 @@
     				vm.selectedSomething = 0;
     				vm.selectedStrain = null;
     				vm.strainSuggestions=[];
+    				vm.tasteTemp = -1;
+    				vm.strainT = "";
+					vm.effectT="";
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
@@ -141,6 +155,7 @@
 				if(data[i].recEffectType === 'P'){
 					vm.recEffectList[num] = data[i];
 					num++;
+					vm.postiveStyle = {"color":"green"};
 				}
 			}
 		});
@@ -152,6 +167,7 @@
 				if(vm.recEffectList[i].recEffectName === name){
 					vm.centerImage = vm.recEffectList[i].imageUrl;
 					vm.modeName = vm.recEffectList[i].recEffectName;
+					vm.effectT = vm.recEffectList[i].recEffectType;
 				}
 			};
 			vm.selectedSomething = 1;
@@ -166,6 +182,7 @@
     	 			recEffectResource.query(function(data){
 						vm.recEffectList = data;
 					});
+					vm.postiveStyle = {"color":"white"};
 					break;	
     	 		case 'Positive':
     	 			vm.searchAll = "";
@@ -179,6 +196,7 @@
     	 					}
     	 				}
 					});
+					vm.postiveStyle = {"color":"green"};
 					break;	   
 				case 'Negative':
 					vm.searchAll = "";
@@ -379,7 +397,7 @@
 				    }
 			        break;
 			    case 'Lo':
-			    	if(vm.tasteTemp <= 365){
+			    	if(vm.tasteTemp != -1 && vm.tasteTemp <= 365){
 			    		return "active2";
 			    	}
 			    	break;
@@ -408,12 +426,27 @@
 			    		return "active2";
 			    	}
 			    	break;
+			    case 'p':
+			    	if(vm.effectT === 'P'){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'n':
+			    	if(vm.effectT === 'N'){
+			    		return "active2";
+			    	}
+			    	break;
+			    case 'b':
+			    	if(vm.effectT === 'B'){
+			    		return "active2";
+			    	}
+			    	break;
 			    default:
 			        return "!active";
 			}
 			
     	};
-
+    	
     	//go back a step by hiding the solution screen and displaying question screen
     	$scope.goBack = function(mode){
 
