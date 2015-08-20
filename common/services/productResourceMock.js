@@ -9,7 +9,7 @@
 	app.run(function ($httpBackend){
 		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
 
-		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h', 'p', 'n', 'b']; //Flavor, Effect, Buds, High, Mid, Low, indica, sativa, hybred
+		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h', 'Hi', 'Md', 'Lo']; //Flavor, Effect, Buds, High, Mid, Low, indica, sativa, hybred
 		
 		/** temp ranges  - 0 - 355 = Low, 356 - 385 Med, 386 - 470 = High **/
 

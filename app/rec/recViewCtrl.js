@@ -167,7 +167,8 @@
 				if(vm.recEffectList[i].recEffectName === name){
 					vm.centerImage = vm.recEffectList[i].imageUrl;
 					vm.modeName = vm.recEffectList[i].recEffectName;
-					vm.effectT = vm.recEffectList[i].recEffectType;
+					vm.effectT = vm.recEffectList[i].recEffectTempRange;
+					console.log("vm.effectT", vm.effectT)
 				}
 			};
 			vm.selectedSomething = 1;
@@ -400,14 +401,23 @@
 			    	if(vm.tasteTemp != -1 && vm.tasteTemp <= 365){
 			    		return "active2";
 			    	}
+			    	else if(vm.effectT === 'L'){
+			    		return "active2";
+			    	}
 			    	break;
 			    case 'Md':
 			    	if(365 < vm.tasteTemp && vm.tasteTemp < 392){
 			    		return "active2";
 			    	}
+			    	else if(vm.effectT === 'M'){
+			    		return "active2";
+			    	}
 			    	break;
 			    case 'Hi':
 			    	if(vm.tasteTemp >= 392){
+			    		return "active2";
+			    	}
+			    	else if(vm.effectT === 'H'){
 			    		return "active2";
 			    	}
 			    	break;
@@ -423,21 +433,6 @@
 			    	break;
 			    case 'h':
 			    	if(vm.strainT === 'Hybrid'){
-			    		return "active2";
-			    	}
-			    	break;
-			    case 'p':
-			    	if(vm.effectT === 'P'){
-			    		return "active2";
-			    	}
-			    	break;
-			    case 'n':
-			    	if(vm.effectT === 'N'){
-			    		return "active2";
-			    	}
-			    	break;
-			    case 'b':
-			    	if(vm.effectT === 'B'){
 			    		return "active2";
 			    	}
 			    	break;
