@@ -69,6 +69,7 @@
 		</div>
 	</div>
 	-->
+	<!--Effect Positive-->
 	<div ng-if="vm.Positive">
 		<div class = "panel">
 			<div class="row">
@@ -78,13 +79,14 @@
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "list in vm.currentStrain.positiveEffects">
+		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-8">
-							<div> 
-								{{list}}
+							<div class="sizeImage"> 
+								<img ng-src="images/Rec/{{list.imageUrl}}"> 
+								{{list.name}}
 							</div>
 						</div>
 					</div>
@@ -92,7 +94,7 @@
 			</div> 
 		</div>
 	</div>
-
+	<!--Effect Negative-->
 	<div ng-if="vm.Negative">
 		<div class = "panel">
 			<div class="row">
@@ -102,13 +104,14 @@
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "list in vm.currentStrain.negativeEffects">
+		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-8">
-							<div> 
-								{{list}}
+							<div class="sizeImage"> 
+								<img ng-src="images/Rec/{{list.imageUrl}}"> 
+								{{list.name}}
 							</div>
 						</div>
 					</div>
@@ -116,7 +119,7 @@
 			</div> 
 		</div>
 	</div>
-
+	<!--Component Percent-->
 	<div ng-if="vm.Percent">
 		<div class = "panel">
 			<div class="row">
@@ -131,16 +134,16 @@
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-8">
-							<div> 
-								{{components.name}} : {{components.value}} 
-							</div>
+							<li> 
+								{{components.name}}: {{components.value}} %
+							</li>
 						</div>
 					</div>
 				</div>
 			</div> 
 		</div>
 	</div>
-
+	<!--Taste list-->
 	<div ng-if="vm.Taste">
 		<div class = "panel">
 			<div class="row">
@@ -150,13 +153,14 @@
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "list in vm.currentStrain.taste">
+		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-8">
-							<div> 
-								{{list}}
+							<div class="sizeImage">
+								<img ng-src="images/Rec/{{list.imageUrl}}"> 
+								{{list.name}}
 							</div>
 						</div>
 					</div>
@@ -164,7 +168,7 @@
 			</div> 
 		</div>
 	</div>
-
+	<!--Conditions treated-->
 	<div ng-if="vm.Conditions">
 		<div class = "panel">
 			<div class="row">
@@ -179,16 +183,16 @@
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-8">
-							<div> 
+							<li> 
 								{{list}}
-							</div>
+							</li>
 						</div>
 					</div>
 				</div>
 			</div> 
 		</div>
 	</div>
-
+	<!--Vape tip-->
 	<div ng-if="vm.Vape">
 		<div class = "panel">
 			<div class="row">

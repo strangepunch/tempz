@@ -532,7 +532,7 @@ html, body {
 	border-bottom: 10px solid transparent; 
 	border-right:10px solid yellow; 
 
-	margin-top: 10px;
+	margin-top: 18px;
 	float:right;
 }
 
@@ -543,7 +543,7 @@ html, body {
 	border-bottom: 10px solid transparent; 
 	border-left:10px solid yellow;
 
-	margin-top: 10px;
+	margin-top: 18px;
 	float:left; 	
 }
 
@@ -600,6 +600,9 @@ html, body {
 	color:white;
 }
 
+#recView .sizeImage img{
+	width: 35%;
+}
 
 /**----------Temps View---------------**/
 /**
