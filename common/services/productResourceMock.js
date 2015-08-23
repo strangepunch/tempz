@@ -105,7 +105,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
-			 "descriptionAbbrev": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world’s smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
+			 "descriptionAbbrev": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world's smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
 			 "VImageUrl": "images/vapes/mflb1.png"
 			},
 			{"VId": 9,
@@ -2301,7 +2301,7 @@
 			 	
 			}, 
 			{"strainId": 242,
-			 	"strainName": "Panama Red",
+			 	"strainName": "Purple Dragon",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/purple-dragon_100x100.jpg"
 			 	
@@ -5058,10 +5058,10 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Pine"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Appetite Loss", "Depression"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Productive", "Enhanced Drowsiness", "Enhanced Hunger"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "These flowers tend to smell both sweet and grassy and taste the same, with the sweet notes of the Purple Urkle dominating.",
-			 "descriptionAbbrev":  "Purple Wreck is the offspring of two very popular strains, Purple Urkle and Trainwreck.",
+			 "descriptionDetailed": "Relaxes the body but uplifting mentally. Active and motivating so you can stay productive if needed.",
+			 "descriptionAbbrev":  "Relaxes the body but uplifting mentally. Active and motivating so you can stay productive if needed.",
 			 "tags": ["Purple Wreck"],
 			 "imageUrl": "images/strains/purple-wreck_100x100.jpg"
 			},
@@ -5972,8 +5972,8 @@
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar", "Depression", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
-			 "descriptionDetailed": "The Candy OG hits right away, simultaneously hitting the body and mind with a strong burst of euphoric relaxation.",
-			 "descriptionAbbrev":  "Killer flavor, smell, and effects that had Ldog rocked after a few bowls.",
+			 "descriptionDetailed": "When consuming or smoking this cannabis strain in larger amounts, patients can expect the effects to be much more powerful and sedative, making it a great strain for late-night medicating sessions. It is currently being used to naturally battle insomnia and sleep apnea in patients.",
+			 "descriptionAbbrev":  "When consuming or smoking this cannabis strain in larger amounts, patients can expect the effects to be much more powerful and sedative, making it a great strain for late-night medicating sessions. It is currently being used to naturally battle insomnia and sleep apnea in patients.",
 			 "tags": ["Indica", "Candy OG", "OG", "Bipolar", "Depression", "Nausea", "Stress"],
 			 "imageUrl": "images/strains/Candy-Og.jpg"
 			},
@@ -8707,9 +8707,9 @@
 		 	"taste": ["Lemon", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress", "Fibromyalgia", "Nausea"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Enhanced Appetite", "Pain relief"],
-			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "This is a perfect daytime strain - energetic but not too racy - and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
-			 "descriptionAbbrev":  "This is a perfect daytime strain - energetic but not too racy - and amazing wonderful for helping relieve stress and promoting a sense of peace and relaxation.",
+			 "negativeEffects": ["Munchies", ""],
+			 "descriptionDetailed": "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
+			 "descriptionAbbrev":  "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
 			 "tags": ["Lemon"],
 			 "imageUrl": "images/strains/Magic-Jack-300.jpg"
 			},
@@ -29229,8 +29229,8 @@
 		 	 "conditions": ["Fibromyalgia", "Stress", "Pain", "Depression", "Insomnia", "Muscle Spasms"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Focused", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
-			 "descriptionDetailed": "A true hybrid, this train will have you feeling mellow and alert. Its diversity comes out in the strain’s unique flavor that includes spice and fruit notes.",
-			 "descriptionAbbrev": "A true hybrid, this train will have you feeling mellow and alert. Its diversity comes out in the strain’s unique flavor that includes spice and fruit notes.",
+			 "descriptionDetailed": "A true hybrid, this train will have you feeling mellow and alert. Its diversity comes out in the strain's unique flavor that includes spice and fruit notes.",
+			 "descriptionAbbrev": "A true hybrid, this train will have you feeling mellow and alert. Its diversity comes out in the strain's unique flavor that includes spice and fruit notes.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/qrazy-train_100x100.jpg"
 			},
@@ -29685,8 +29685,8 @@
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Depression", "Headache", "Appetite Loss"],
 			 "positiveEffects": ["Euphoric", "Happy", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
-			 "descriptionDetailed": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it’s no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
-			 "descriptionAbbrev": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it’s no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
+			 "descriptionDetailed": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it's no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
+			 "descriptionAbbrev": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it's no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/bio-diesel_100x100.jpg"
 			},
@@ -29909,12 +29909,12 @@
 			 		"value": 0.15
 				}	
 		 	], 
-		 	"taste": ["Earthy", "Tropical", "Peppermint"],
+		 	"taste": ["Earthy", "Tropical", "Mint"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Fibromyalgia", "Fatigue", "Nausea"],
 			 "positiveEffects": ["Happy","Energetic", "Uplifted", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Headache", "Dry Eyes", "Anxious", "Dizzy"],
-			 "descriptionDetailed": "Originating from Panama, this pure sativa rose to stardom in the late 1960’s thanks to its typical sativa effects: speedy and intense, bordering on psychedelic. Those who fondly recall days of its prominence love its smooth medicating experience and loftily contemplate its revival.",
-			 "descriptionAbbrev": "Originating from Panama, this pure sativa rose to stardom in the late 1960’s thanks to its typical sativa effects: speedy and intense, bordering on psychedelic. Those who fondly recall days of its prominence love its smooth medicating experience and loftily contemplate its revival.",
+			 "descriptionDetailed": "Originating from Panama, this pure sativa rose to stardom in the late 1960's thanks to its typical sativa effects: speedy and intense, bordering on psychedelic. Those who fondly recall days of its prominence love its smooth medicating experience and loftily contemplate its revival.",
+			 "descriptionAbbrev": "Originating from Panama, this pure sativa rose to stardom in the late 1960's thanks to its typical sativa effects: speedy and intense, bordering on psychedelic. Those who fondly recall days of its prominence love its smooth medicating experience and loftily contemplate its revival.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/panama-red_100x100.jpg"
 			},
