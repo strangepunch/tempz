@@ -487,13 +487,13 @@
 			 "recEffectName": "Uplifted",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Uplifted.png"
 			},
 			{"recEffectId": 4,
 			 "recEffectName": "Relaxed",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Relaxed.png"
 			},
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
@@ -517,7 +517,7 @@
 			 "recEffectName": "Very potent",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "VeryPotent.png"
 			},
 			{"recEffectId": 9,
 			 "recEffectName": "Balanced",  
@@ -535,13 +535,13 @@
 			 "recEffectName": "Productive",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Productive.png"
 			}, 
 			{"recEffectId": 12,
 			 "recEffectName": "Pain relief",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "PainRelief.png"
 			},
 			{"recEffectId": 13,
 			 "recEffectName": "Mildly psychoactive",  
@@ -565,7 +565,7 @@
 			 "recEffectName": "Mind and Body Buzz",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "MindAndBodyBuzz.png"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Conversational",  
@@ -577,19 +577,19 @@
 			 "recEffectName": "Therapeutic",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Therapeutic.png"
 			},
 			{"recEffectId": 19,
 			 "recEffectName": "Tingly",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "M",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Tingly.png"
 			},
 			{"recEffectId": 20,
 			 "recEffectName": "Enhanced Hunger",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "M",
-			 "imageUrl": "6.png"
+			 "imageUrl": "EnhanceHung.png"
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
