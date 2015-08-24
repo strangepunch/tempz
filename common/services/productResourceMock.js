@@ -345,7 +345,7 @@
 			 "recEffectName": "Long Lasting",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "LongLasting.png"
 			},
 			{"recEffectId": 8,
 			 "recEffectName": "Very potent",  
@@ -357,13 +357,13 @@
 			 "recEffectName": "Balanced",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Balanced.png"
 			},
 			{"recEffectId": 10,
 			 "recEffectName": "Mental calmness",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
-			 "imageUrl": "6.png"
+			 "imageUrl": "MentalCalmness.png"
 			},
 			{"recEffectId": 11,
 			 "recEffectName": "Productive",  
@@ -381,13 +381,13 @@
 			 "recEffectName": "Mildly psychoactive",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "M",
-			 "imageUrl": "6.png"
+			 "imageUrl": "MildlyPsyc.png"
 			},
 			{"recEffectId": 14,
 			 "recEffectName": "Mellow",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Mellow.png"
 			},
 			{"recEffectId": 15,
 			 "recEffectName": "Intense",  
@@ -471,7 +471,7 @@
 			 "recEffectName": "Enhanced Drowsiness",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "EnhanceDrow.png"
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
@@ -489,7 +489,7 @@
 			 "recEffectName": "Enhanced Sexual Desire",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "M",
-			 "imageUrl": "6.png"
+			 "imageUrl": "EnhanceSexu.png"
 			},
 			{"recEffectId": 32,
 			 "recEffectName": "Giggly",  
@@ -501,13 +501,13 @@
 			 "recEffectName": "Less Social",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "LessSocial.png"
 			},
 			{"recEffectId": 34,
 			 "recEffectName": "Focused",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Focused.png"
 			}
 		];
 
