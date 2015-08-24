@@ -25,6 +25,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["356", "383"],
 			 "VTempsC": ["180", "195"],
+			 "VColors": [""],
 			 "descriptionDetailed1": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
 			},
@@ -35,6 +36,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["104", "410"],
 			 "VTempsC": ["40", "210"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
@@ -45,6 +47,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["122", "365", "374", "383", "393", "401", "410"],
 			 "VTempsC": ["50", "185", "190", "195", "200", "205", "210"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
 			 "VImageUrl": "images/vapes/solo1.png"
 			},
@@ -55,8 +58,9 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["356", "374", "392", "401", "410"],
 			 "VTempsC": ["180", "190", "200", "205", "210"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size.",
-			 "VImageUrl": "images/vapes/solo1.png"
+			 "VImageUrl": "images/vapes/arizer_air2.png"
 			},
 			{"VId": 4,
 			 "VName": "Pinnacle Pro", 
@@ -65,6 +69,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["370", "395", "420", "445", "470"],
 			 "VTempsC": ["188", "201", "215", "229", "243"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
 			 "VImageUrl": "images/vapes/pinnaclepro1.png"
 			},
@@ -75,6 +80,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Silver Surfer is a highly customizable, top performing desktop vaporizer. Choose from a wide array of colors, designs, and heater cover options to create your perfect vaporizer.",
 			 "VImageUrl": "images/vapes/ssv2.png"
 			},
@@ -85,6 +91,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA.",
 			 "VImageUrl": "images/vapes/dabuddah2.png"
 			},
@@ -95,6 +102,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "900"],
 			 "VTempsC": ["0", "482"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "This vape has been designed to within an inch of its life, and it shows. This is a thing of beauty which you will enjoy using and probably enjoy showing off to your friends even more.",
 			 "VImageUrl": "images/vapes/dabuddah1.png"
 			},
@@ -105,6 +113,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world's smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
 			 "VImageUrl": "images/vapes/mflb1.png"
 			},
@@ -115,6 +124,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["122", "500"],
 			 "VTempsC": ["50", "260"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
 			},
@@ -125,6 +135,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["122", "500"],
 			 "VTempsC": ["50", "260"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/vtower.gif"
 			},
@@ -135,6 +146,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["104", "446"],
 			 "VTempsC": ["40", "230"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano2.png"
 			},
@@ -145,6 +157,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["266", "446"],
 			 "VTempsC": ["130", "230"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano1.png"
 			},
@@ -155,6 +168,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["100", "420"],
 			 "VTempsC": ["37", "215"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
 			 "VImageUrl": "images/vapes/plenty1.png"
 			},
@@ -165,6 +179,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["0", "430"],
 			 "VTempsC": ["0", "221"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "VImageUrl": "images/vapes/ascent1.png"
 			},
@@ -175,6 +190,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["250", "430"],
 			 "VTempsC": ["121", "221"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
 			 "VImageUrl": "images/vapes/puffit1.png"
 			},
@@ -185,6 +201,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["365", "380", "390", "415"],
 			 "VTempsC": ["185", "193", "198", "212"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
 			 "VImageUrl": "images/vapes/haze1.png"
 			},
@@ -195,6 +212,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
 			 "VImageUrl": "images/vapes/firefly1.png"
 			},
@@ -205,6 +223,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "400"],
 			 "VTempsC": ["0", "204"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/hotbox1.png"
 			},
@@ -215,6 +234,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "420"],
 			 "VTempsC": ["0", "215"],
+			 "VColors": [""],
 			 "descriptionAbbrev":  "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
 			 "imageUrl1": "images/vapes/vapirrise1.png",
 			},
@@ -225,6 +245,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["370", "390","410"],
 			 "VTempsC": ["187", "199", "210"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor. Small and lightweight, Pax is easily taken out and about and heats in under a minute. Its refined design is sleek, stylish, and durable, making Pax the ultimate choice for on-the-go vaporization.",
 			 "imageUrl1": "images/vapes/pax1.png",
 			},
@@ -235,6 +256,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["360", "380","400", "420"],
 			 "VTempsC": ["182", "193", "204", "216"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "PAX 2 has four temperature settings with lip-sensing, motion-sensing, and auto-cooling technologies that intelligently self-optimize power and temperature during use. With a one-button operation and minimal maintenance required, PAX 2's interface is simple and efficient.",
 			 "imageUrl1": "images/vapes/pax2black.jpg",
 			},
@@ -245,6 +267,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["428"],
 			 "VTempsC": ["220"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Known for their essential oil vaporizers such as the Cloud and the second generation Cloud Platinum, Cloud V Enterprises now introduces a powerful vape pen to the industry, specifically for dry herbs.",
 			 "imageUrl1": "images/vapes/pax2black.jpg",
 			},
@@ -255,6 +278,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["374", "410", "446"],
 			 "VTempsC": ["190", "210", "230"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Want nice vapor from a short draw? The Alfa is one to consider. This mid-priced portable vape is made by a new company that goes by the name of Goboof, and it has a few unique features that make it stand out.",
 			 "imageUrl1": "images/vapes/alfa.jpg",
 			},
@@ -265,6 +289,7 @@
 			 "VTempType": "Y",
 			 "VTempsF": ["320", "338", "356", "374", "392", "410", "428", "450"],
 			 "VTempsC": ["160", "170", "180", "190", "200", "210", "220", "230"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "Want nice vapor from a short draw? The Alfa is one to consider. This mid-priced portable vape is made by a new company that goes by the name of Goboof, and it has a few unique features that make it stand out.",
 			 "imageUrl1": "images/vapes/alfa.jpg",
 			},
@@ -275,6 +300,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "450"],
 			 "VTempsC": ["0", "230"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "A top-tier desktop unit with an all-glass air path that produces excellent quality vapor. A huge advantage this model has is that the performance is superb with both dry herbs and concentrates.",
 			 "imageUrl1": "images/vapes/cloud-evo.png",
 			},
@@ -285,6 +311,7 @@
 			 "VTempType": "N",
 			 "VTempsF": ["250", "400"],
 			 "VTempsC": ["121", "204"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Aire allows users the option of three different settings, whip style, balloon bag and direct draw. The temperature control on this unit is also great as it allows you to vape at anywhere between 250 F and 400F.",
 			 "imageUrl1": "images/vapes/Herbal-Aire-1.jpg",
 			},
@@ -295,11 +322,150 @@
 			 "VTempType": "N",
 			 "VTempsF": ["0", "445"],
 			 "VTempsC": ["0", "229"],
+			 "VColors": [""],
 			 "descriptionAbbrev": "The Herbalizer, or Herbie for short, is a high-tech medical device for cannabis patients seeking consistency in dosage and effects. Achieve consistent and precise temperatures to heat specific cannabinoids for your desired medicinal effects.",
 			 "imageUrl1": "images/vapes/herbalizer.png",
 			}
 
 		];
+
+		var vTips = [
+			{
+				"VTipId": 1,
+				"VName": "The Arizer Solo",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "Before using your Arizer Solo for the first time be sure to let it warm to the highest temperature several times to eliminate any residues present from the manufacturing process and any taste associated with them.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "Although the Solo vaporizer is very easy to master, start with a higher temperature and work your way down as you gain experience. This will result in an optimal vaporizing experience.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "Even when you find your favorite temperature, remember it may be necessary to adjust as needed when using fresher material that contains moisture (higher temp) or extra dry herbs (lower temp). Generally speaking, temperature levels 3 and 4 will consistently yield the best results for Sativas and temperature levels 5 and 6 for Indicas.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "It sometimes may be easy to forget, but be sure to hold your Solo upside down while removing the glass stem to reload. Doing this when right side up may cause some material to fall onto the heating element and create residue or clog the small holes the air needs to pass through when using.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "Although it is not a requirement to grind your herb finely, it will improve the performance and efficiency of your Solo vaporizer. Increased grinding means increased surface area of the cannabis, which allows more hot air to interact with and vaporize the cannabis (remember to hold it upside down when emptying).",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "Whenever possible try to let your Solo charge to full capacity in between use. A full battery will go much further than one that is periodically recharged for short periods of time. A battery charge might last 3-4 hours. The charger that comes with the Solo can’t charge while the Solo is in use, so plan accordingly. There are chargers sold separately that allowing charging during use, and there are also car charging adapters available.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "Use an old school pipe cleaner to clean the Solo’s glass stems. Simply fold the pipe cleaner over on itself once to make it a bit thicker (more surface area) and insert. If done frequently you can almost completely avoid using any type of cleaner or solvent. Neglecting to clean your stems frequently will quickly result in slightly diminished performance due to clogging of the air holes. Soaking the stems overnight in rubbing alcohol then rinsing out with water is also very effective.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "Be sure to turn off your Solo vaporizer right away if taking a break “mid-bowl”. Even though the Solo has an automatic shut-off safety feature, it will continue to vaporize some of your material and cause it to taste stale when you resume use. Despite what many self-professed “vaporizer experts” online may claim, no quality vaporizer will ever result in a “burnt popcorn” type taste when used correctly.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "To disable the beeping noises on the Arizer Solo, hold the “up” button on the vaporizer until you hear it beep. This disables all further beeping from occurring.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "After you turn your Solo back on, if you hold the “down” button for a second it will go to last temperature setting you used before turning it off.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "Make sure you get any leftover material stuck to the bowl-end of the mouthpiece out of there so it doesn’t slowly build up and become a nuisance to clean later on. Also try to find something around the house, such as a toothpick, to poke the air holes in the bowl end of the mouthpiece. The last thing you need is those air holes getting clogged up.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "Always take a look in the hole at the top of the Arizer Solo where the heating element is to make sure no material is in there. It doesn’t happen often but sometimes there will be a small amount of vaporized material in there. It is really easy to get out using either a small brush, your finger (if it is not heated up), or blowing in it.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "13", 
+				 		"tipTxt": "The best way to make sure the Solo will be hot enough for your liking is select one level higher then you were planning on using and wait about 10 to 15 minutes before selecting the level you want and start vaping at you desired temperature.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			},
+			{
+				"VTipId": 2,
+				"VName": "The Arizer Air",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "Never touch the end of the removable mouthpiece that is closest to the Air when hot. This can result in burns and will definitely ruin your experience.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "To maximize your taste experience use low temps. The best way to do this is to insert your mouthpiece, turn the Air on to the lowest setting and begin using it as it warms up to the first temperature. This ensures you get all the low temp effects which typically is where the tastesin your strain are best experienced.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "Carry an extra prepacked mouthpiece or two with you in the travel case for quick changes when you're on the go and would like to be discreet. This works great for hikes, picnics, sunset cruises etc.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "To reach temps that are not specifically at one of the preset levels on the Air, try vaping between levels by while the Air is heating up to the next highest level.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "Remember the ghost hit. There is one hit typically still present when you turn the Air off.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "Using a domed screen in the Air mouthpiece can both save you herb and provide short but effective sessions. This also prevents ground herb from becoming lodged on the inside of the mouthpiece.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Air will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "Heating your well used mouthpiece in hot milk and then making hot chocolate can make a long lasting boost to your day. Just be sure to wathc the milk so it doesn't boil and stir often.",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/arizer_air2.png"
+				 	}
+			}
+		];  
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
 
@@ -1485,9 +1651,9 @@
 
 			},
 			{"strainId": 106,
-			 "strainName": "Black Cherry Soda", 
-			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/black-cherry-soda_100x100.jpg"
+			 "strainName": "UW", 
+			 "strainType": "Indica",
+			 "imageUrl": "images/strains/uw_100x100.jpg"
 
 			},
 			{"strainId": 107,
@@ -2259,7 +2425,7 @@
 			 	
 			},
 			{"strainId": 235,
-			 	"strainName": "Black Cherry Soda",
+			 	"strainName": "Qrazy Train",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/qrazy-train_100x100.jpg"
 			 	
@@ -2354,10 +2520,16 @@
 			 	"imageUrl": "images/strains/charlie-sheen_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 251,
+			{"strainId": 251                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
 			 	"strainName": "Rainbow",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/rainbow_100x100.jpg"
+			 	
+			},
+			{"strainId": 252                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Caramelicious",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/caramelicious_100x100.jpg"
 			 	
 			}
 		]; 
@@ -3169,19 +3341,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 8.12
+			 		"value": 20.52
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.03
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.0
+			 		"value": 0.56	
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -3205,11 +3377,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.0
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.0
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -3225,7 +3397,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.0
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -3261,20 +3433,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.24
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.50
 				} 	
 		 	],
 		 	"taste": ["Earthy","Sweet","Woody", "Coffee", "Lemon"],
-		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
+		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension", "Fibromyalgia"],
 			 "positiveEffects": ["Pain relief", "Mildly Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear-headed", "Euphoric"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
-			 "descriptionDetailed": "Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
-			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD.",
-			 "tags": ["Indica", "Pennywise", "Migraines", "Headache", "Hypertension"],
+			 "descriptionDetailed": "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
+			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 			},
 			{"strainId": 9,
@@ -9426,11 +9598,11 @@
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Hash"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
+			 "positiveEffects": ["Happy", "Focused", "Mellow", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "A clear-headed, happy high develops into a mellow contentment.",
 			 "descriptionAbbrev":  "A clear-headed, happy high develops into a mellow contentment.",
-			 "tags": ["Sativa", "Platinum Trinity Kush", "Kush", "Bipolar", "Migraines", "Headache", "PMS"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 			},
 			{"strainId": 63,
@@ -14337,16 +14509,16 @@
 			 "imageUrl": "images/strains/berry-white_100x100.jpg"
 			},
 			{"strainId": 106,
-			 "strainName": "Black Cherry Soda", 
-			 "strainType": "Hybrid",
+			 "strainName": "UW", 
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.76
+			 		"value": 19.69
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.34
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -14354,11 +14526,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.10
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -14378,15 +14550,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.65
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.89
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -14434,21 +14606,21 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.74
 				},
 				{ 
 			 		"name": "Terpinolene", 
 			 		"value": 0.00
 				} 	
 		 	],
-		 	"taste": ["Sweet", "Berry", "Pungent"],
-		 	 "conditions": ["Anxiety", "Arthritis", "Depression", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Uplifted", "Euphoric", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache"],
-			 "descriptionDetailed": "Black Cherry Soda by TGA Genetics is a hybrid strain named after its fruity, soda-like taste and unusually dark purple color.",
-			 "descriptionAbbrev":  "A potent medicine that hits without heavy sedation.",
-			 "tags": ["Hybrid", "Black Cherry Soda", "Depression", "Pain", "Stress"],
-			 "imageUrl": "images/strains/black-cherry-soda_100x100.jpg"
+		 	"taste": ["Earthy", "Sweet", "Woody"],
+		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Insomnia", "Inflammation", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "Almost entirely indica, this strain’s powerful high is sedative and popular for pain relief and insomnia.",
+			 "descriptionAbbrev":  "Almost entirely indica, this strain’s powerful high is sedative and popular for pain relief and insomnia.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/uw_100x100.jpg"
 			},
 			{"strainId": 107,
 			 "strainName": "Blue Dream", 
@@ -28921,7 +29093,7 @@
 		 	], 
 		 	"taste": ["Flowery", "Pungent", "Berry", "Hash"],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Appetite Loss", "Depression", "Fibromyalgia"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Hungry", "Euphoric", "Pain relief", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Pain relief", "Enhanced Hunger"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "Comes on quick and is very much a head stone. Usually very sticky and hard to break up by hand, definitely use a grinder for this variety.",
 			 "descriptionAbbrev": "Comes on quick and is very much a head stone. Usually very sticky and hard to break up by hand, definitely use a grinder for this variety.",
@@ -31085,7 +31257,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": [""],
+		 	"taste": ["Tropical", "Citrus", "Grapefruit"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Muscle Spasms", "Appetite Loss", "Nausea"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Mellow", "Uplifted", "Creative", "Enhanced Hunger", "Pain relief"],
 			 "negativeEffects": ["Enhanced Hunger", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
@@ -31093,6 +31265,120 @@
 			 "descriptionAbbrev": "Tastes similar to tropical Starburst with small dense purple, orange and green colored buds.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/rainbow_100x100.jpg"
+			},
+			{"strainId": 252,
+			 "strainName": "Caramelicious",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet"],
+		 	 "conditions": ["Depression", "Stress", "Pain", "Fibromyalgia", "Nausea", "Inflammation", "Fatigue"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Relaxed", "Mellow"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "The effect is a steady buzz, but not too strong. It lives up to its name as its' name as its' buds are sticky, and it tastes like caramel. Recommended for those who have depression.",
+			 "descriptionAbbrev": "The effect is a steady buzz, but not too strong. It lives up to its name as its' name as its' buds are sticky, and it tastes like caramel. Recommended for those who have depression.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/caramelicious_100x100.jpg"
 			}
 		];
 		
