@@ -399,7 +399,8 @@
 				 		"tipTxt": "The best way to make sure the Solo will be hot enough for your liking is select one level higher then you were planning on using and wait about 10 to 15 minutes before selecting the level you want and start vaping at you desired temperature.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
-			},
+				],
+			},	
 			{
 				"VTipId": 2,
 				"VName": "The Arizer Air",
@@ -464,6 +465,7 @@
 				 		"tipTxt": "",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	}
+				]
 			}
 		];  
 
