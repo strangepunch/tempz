@@ -384,7 +384,7 @@
 			 "imageUrl": "6.png"
 			},
 			{"recEffectId": 14,
-			 "recEffectName": "Mellow with mental clarity",  
+			 "recEffectName": "Mellow",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
 			 "imageUrl": "6.png"
@@ -2323,6 +2323,42 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/purple-arrow_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 246,
+			 	"strainName": "Pandora's Box",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/pandora-s-box_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 247,
+			 	"strainName": "Abusive OG",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/abusive-og_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 248,
+			 	"strainName": "Platinum Purple Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/Platinum-Purple-Kush_100x100.jpg"
+			 	
+			},
+			{"strainId": 249,
+			 	"strainName": "Black Tuna",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/black-tuna_100x100.jpg"
+			 	
+			},
+			{"strainId": 250,
+			 	"strainName": "Charlie Sheen",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/charlie-sheen_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 251,
+			 	"strainName": "Rainbow",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/rainbow_100x100.jpg"
+			 	
 			}
 		]; 
 
@@ -3120,7 +3156,7 @@
 		 	],  
 		 	"taste": ["Tropical","Sweet","Mango"],
 		 	 "conditions": ["Stress", "Pain", "Headache", "Insomnia", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Mental calmness", "Energetic", "Productive"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Mental calmness", "Mellow", "Energetic", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Headache"],
 			 "descriptionDetailed": "The indica element of this strain does provide a mental calmness, but many consumers also find that this strain makes them energetic and productive.",
 			 "descriptionAbbrev":  "Effects that might be more in line with a traditional sativa.",
@@ -3234,7 +3270,7 @@
 		 	],
 		 	"taste": ["Earthy","Sweet","Woody", "Coffee", "Lemon"],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": ["Pain relief", "Mildly Psychoactive", "Therapeutic", "Relaxed", "Clear-headed", "Euphoric"],
+			 "positiveEffects": ["Pain relief", "Mildly Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear-headed", "Euphoric"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD.",
@@ -3348,7 +3384,7 @@
 		 	],
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Pain relief", "Relaxed", "Conversational"],
+			 "positiveEffects": ["Pain relief", "Relaxed", "Mellow",  "Conversational"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
@@ -3576,7 +3612,7 @@
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody", "Citrus", "Mint"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress", "Pain"],
-			 "positiveEffects": ["Potent", "Clear-headed", "Enhanced Drowsiness", "Pain relief", "Relaxed"],
+			 "positiveEffects": ["Potent", "Clear-headed", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
@@ -3690,7 +3726,7 @@
 		 	], 
 		 	"taste": ["Honey", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression", "Nausea", "Pain", "Fatigue"],
-			 "positiveEffects": ["Intense", "Mind and Body Buzz", "Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
+			 "positiveEffects": ["Intense", "Mind and Body Buzz", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "Nebula has won many awards, including 3rd place in the sativa category at the High Times Cannabis Cup in 1999 and 2nd place in 2005.",
 			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic",
@@ -3804,7 +3840,7 @@
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Sweet"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Conversational", "Therapeutic", "Energetic", "Relaxed"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Conversational", "Therapeutic", "Energetic", "Relaxed", "Mellow"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "This hybrid cross of Jack Herer and G13 Haze induces unencumbered cerebral effects perfect for stimulating creativity and conversation.",
 			 "descriptionAbbrev":  "Cherished for both its therapeutic effects and enjoyable euphoric buzz.",
@@ -3918,7 +3954,7 @@
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Nausea", "Appetite Loss"],
-			 "positiveEffects": ["Enhanced Drowsiness", "Euphoric", "Relaxed", "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Enhanced Drowsiness", "Euphoric", "Relaxed", "Mellow",  "Uplifted", "Enhanced Hunger"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "Yumboldt is great at making you sleepy and content.",
 			 "descriptionAbbrev":  "Yumboldt is great at making you sleepy and content.",
@@ -4488,7 +4524,7 @@
 		 	],  
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Anxiety", "Stress", "Depression", "Insomnia", "Pain", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Mental Calmness", "Enhanced Drowsiness", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Mental Calmness", "Mellow", "Enhanced Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "Consumers prone to anxiety choose Strawberry for its stress-relieving qualities without the jarring paranoia common among high THC strains. ",
 			 "descriptionAbbrev":  "Comfortable and relaxing.",
@@ -26834,7 +26870,7 @@
 		 	"taste": ["Sweet", "Berry", "Flowery"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea", "Fibromyalgia", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Dizzy", "Headache",  "Enhanced Drowsiness", "Pain relief", "Enhanced Hunger"],
-			 "negativeEffects": ["Dry Mouth", "Dry Mouth", "Anxious", "Enhanced Drowsiness", "Munchies"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Enhanced Drowsiness", "Munchies"],
 			 "descriptionDetailed": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
 			 "descriptionAbbrev": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
 			 "tags": [""],
@@ -30373,6 +30409,690 @@
 			 "descriptionAbbrev": "This hybrid provides effective relief for severe pain while simultaneously inducing a sense of uplift and euphoria. When you need immediate relief and would like to stay off the couch, Purple Arrow is a fantastic choice.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-arrow_100x100.jpg"
+			},
+			{"strainId": 246,
+			 "strainName": "Pandora's Box",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 25.87
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.59	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.42
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.61
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.68
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.34
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.82
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Chemical", "Sweet", "Citrus"],
+		 	 "conditions": ["Depression", "Appetite Loss", "Pain", "Fibromyalgia"],
+			 "positiveEffects": ["Balanced", "Tingly", "Giggly", "Relaxed", "Uplifted", "Enhanced Appetite", "Pain relief", "Euphoric"],
+			 "negativeEffects": ["Enhanced Appetite"],
+			 "descriptionDetailed": "This strain has high THC levels and a citrus flavor.",
+			 "descriptionAbbrev": "This strain has high THC levels and a citrus flavor.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pandora-s-box_100x100.jpg"
+			},
+			{"strainId": 247,
+			 "strainName": "Abusive OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.83
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.72	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.53
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.70
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.20
+				}	
+		 	], 
+		 	"taste": ["Spicy", "Herbal", "Earthy", "Pungent"],
+		 	 "conditions": ["Pain", "Fibromyalgia", "Anxiety", "Appetite Loss", "Insomnia"],
+			 "positiveEffects": ["Pain relief", "Enhanced Drowsiness", "Relaxed", "Enhanced Appetite"],
+			 "negativeEffects": ["Enhanced Drowsiness", "Enhanced Appetite"],
+			 "descriptionDetailed": "Despite its violent name, Abusive OG will ease you into in a peaceful state of mind that fades over time to a full-body relaxation.",
+			 "descriptionAbbrev": "Despite its violent name, Abusive OG will ease you into in a peaceful state of mind that fades over time to a full-body relaxation.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/abusive-og_100x100.jpg"
+			},
+			{"strainId": 248,
+			 "strainName": "Platinum Purple Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 13.25
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.09	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.42
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.55
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.13
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": [""],
+		 	 "conditions": ["Stress", "Insomnia", "Appetite Loss", "Pain", "Fibromyalgia", "Depression"],
+			 "positiveEffects": ["Enhanced Drowsiness", "Relaxed", "Euphoric", "Happy", "Enhanced Appetite", "Pain relief", "Focused"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Anxious", "Paranoid",  "Enhanced Drowsiness", "Couch Lock"],
+			 "descriptionDetailed": "A great nighttime cannabis strain. If you suffer from insomnia or would like to wind down after a busy workday, this strain may be a good one to try.",
+			 "descriptionAbbrev": "A great nighttime cannabis strain. If you suffer from insomnia or would like to wind down after a busy workday, this strain may be a good one to try.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/Platinum-Purple-Kush_100x100.jpg"
+			},
+			{"strainId": 249,
+			 "strainName": "Black Tuna",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pungent", "Skunk"],
+		 	 "conditions": ["Pain", "Fibromyalgia", "Chronic Inflammation", "Stress", "Insomnia", "Nausea", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Pain relief", "Euphoric", "Relaxed", "Enhanced Drowsiness", "Enhanced Appetite",  "Uplifted"],
+			 "negativeEffects": ["Couch Lock", "Dry Mouth", "Dizzy", "Dry Eyes", "Anxious", "Enhanced Drowsiness", "Enhanced Appetite"],
+			 "descriptionDetailed": "Top strain for medical users and those that are looking for that extra punch which they havent found in the past years. This smoke can be to strong for some users.",
+			 "descriptionAbbrev": "Top strain for medical users and those that are looking for that extra punch which they havent found in the past years. This smoke can be to strong for some users.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/black-tuna_100x100.jpg"
+			},
+			{"strainId": 250,
+			 "strainName": "Charlie Sheen",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.34
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.45	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.09 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 1.27
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.58
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 3.87
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.59
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.35
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Citrus"],
+		 	 "conditions": ["Insomnia", "Pain", "Fibromyalgia", "Depression"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Long Lasting", "Enhanced Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Enhanced Drowsiness", "Couch Lock"],
+			 "descriptionDetailed": "The effects are relaxing and uplifted, with a lengthy, sleepy come-down great for pain relief and insomnia.",
+			 "descriptionAbbrev": "The effects are relaxing and uplifted, with a lengthy, sleepy come-down great for pain relief and insomnia.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/charlie-sheen_100x100.jpg"
+			}, 
+			{"strainId": 251,
+			 "strainName": "Rainbow",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.40
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.25	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 1.29
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.79
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": [""],
+		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Muscle Spasms", "Appetite Loss", "Nausea"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Mellow", "Uplifted", "Creative", "Enhanced Appetite", "Pain relief"],
+			 "negativeEffects": ["Enhanced Appetite", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "Tastes similar to tropical Starburst with small dense purple, orange and green colored buds.",
+			 "descriptionAbbrev": "Tastes similar to tropical Starburst with small dense purple, orange and green colored buds.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/rainbow_100x100.jpg"
 			}
 		];
 		
