@@ -1083,7 +1083,7 @@
 			{"strainId": 11,
 			 "strainName": "Canna-Tsu", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/canna-tsu_100x100.jpg"
 
 			},
 			{"strainId": 12,
@@ -2533,6 +2533,24 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/caramelicious_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 253                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Sour Cream",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/sour-cream_100x100.jpg"
+			 	
+			},
+			{"strainId": 254                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Apollo 11",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/apollo-11_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 255                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Green Crack Extreme",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/green-crack-extreme_100x100.jpg"
+			 	
 			}
 		]; 
 
@@ -3791,7 +3809,7 @@
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
 			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy", "Stress"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/canna-tsu_100x100.jpg"
 			},
 			{"strainId": 12,
 			 "strainName": "Nebula", 
@@ -13604,19 +13622,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.52
+			 		"value": 13.43
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.11
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.14
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.15
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -13640,11 +13658,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.71
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -13660,7 +13678,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.87
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -13708,7 +13726,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
-			 "descriptionAbbrev":  "Acapulco Gold has a reputation for being one of the best cannabis strains ever created.",
+			 "descriptionAbbrev":  "One of the most well-known strains, Acapulco Gold has been likened to dinner at a five-star restaurant.  An aroma of burnt toffee lingers when the bud is broken up.",
 			 "tags": ["Sativa", "Acapulco Gold", "Depression", "Pain", "Stress"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
@@ -31381,6 +31399,348 @@
 			 "descriptionAbbrev": "The effect is a steady buzz, but not too strong. It lives up to its name as its' name as its' buds are sticky, and it tastes like caramel. Recommended for those who have depression.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/caramelicious_100x100.jpg"
+			},
+			{"strainId": 253,
+			 "strainName": "Sour Cream",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.09	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Berry"],
+		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fibromyalgia"],
+			 "positiveEffects": ["Uplifted", "Happy", "Relaxed", "Enhanced Drowsiness", "Balanced"],
+			 "negativeEffects": ["Enhanced Drowsiness", "Dizzy"],
+			 "descriptionDetailed": "This strain is perfect for a relaxing night in, and anyone looking for instant stress relief will find it in Sour Cream. ",
+			 "descriptionAbbrev": "This strain is perfect for a relaxing night in, and anyone looking for instant stress relief will find it in Sour Cream.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sour-cream_100x100.jpg"
+			},
+			{"strainId": 254,
+			 "strainName": "Apollo 11",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.61
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Sweet", "Pungent"],
+		 	 "conditions": ["Fibromyalgia", "Stress", "Depression", "Headache", "Pain", "Fatigue"],
+			 "positiveEffects": ["Uplifted", "Energetic", "Euphoric", "Creative", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Effective for treating stress and moderate pain, for a few hours this strain will give you a first-class trip out of this world.",
+			 "descriptionAbbrev": "Effective for treating stress and moderate pain, for a few hours this strain will give you a first-class trip out of this world.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/apollo-11_100x100.jpg"
+			},
+			{"strainId": 255,
+			 "strainName": "Green Crack Extreme",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.42
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.49
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Skunk"],
+		 	 "conditions": ["Fibromyalgia", "Depression", "Fatigue", "Appetite Loss", "Headache", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Enhanced Hunger"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Enhanced Hunger"],
+			 "descriptionDetailed": "This is the more “extreme” sister of the original Green Crack that will leave you with the same creative mental effects but may not leave you quite as focused. Contrary to its extreme name, this strain is helpful in reducing stress and getting inspired.",
+			 "descriptionAbbrev": "This is the more “extreme” sister of the original Green Crack that will leave you with the same creative mental effects but may not leave you quite as focused. Contrary to its extreme name, this strain is helpful in reducing stress and getting inspired.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/green-crack-extreme_100x100.jpg"
 			}
 		];
 		
