@@ -197,9 +197,35 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> {{vm.selectedMode}}: </div>
+					<div class="col-xs-9" ng-click = "vm.toggleQuestion('Q1')">
+						Select a vape <span class="caret"></span> <div>{{vm.selectedVape}}</div> <div ng-style="vm.alert">{{vm.alertMsg}}</div>
+					</div>
+					<div ng-if = "vm.showQ1">
+						<div class = "row row-padding">
+				 			<label class="btn">Search: <input type="text" ng-model="vm.searchAll"></input>
+				 				<a class="clear" ng-click="searchVape(vm.searchAll)">
+	    							<span class="glyphicon glyphicon-search"></span>
+								</a> 
+				 				<a class="clear" ng-click="clearSearch()">
+	    							<span class="glyphicon glyphicon-remove"></span>
+								</a>
+							</label>
+						</div> 
+			 			<div class = "row row-padding">
+					 		<div class="btn" ng-click="searchVape('All')"> All </div>
+					 		<div class="btn" ng-click="searchVape('Desktop')"> Desktop </div>
+					 		<div class="btn" ng-click="searchVape('Portable')"> Portable </div>
+					 		<div class="btn" ng-click="searchVape('Pen')"> Pen </div> 
+					 	</div>
+					 	<ul class="col-xs-11" ng-repeat = "vapeName in vm.vapeNameList|orderBy:$index|filter:vm.searchAll:strict">
+							<li><div ng-click="selectVape(vapeName)">{{vapeName}}</div></li>
+						</ul>
+				 	</div>
+				 	<div class="col-xs-2" ng-if="vm.vapeSelected">
+						<div class="btn btn-inner" ng-click = ""> Go <span class="glyphicon glyphicon-chevron-right"></span></div>
+					</div>
 				</div>
-			</div> 
+			</div>
 		</div>
 	</div>
 

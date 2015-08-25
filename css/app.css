@@ -552,6 +552,10 @@ html, body {
 	background-color: transparent;
 }
 
+#recView .btn-inner{
+	background-color:rgba(0,0,0,0.2);
+}
+
 #recView .row-padding{
 	margin-left: 20px;
 }
