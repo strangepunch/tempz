@@ -74,7 +74,7 @@
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
-					    <ul class="col-xs-10" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
+					    <ul class="col-xs-11" ng-repeat = "tasteList in vm.tasteList|orderBy:'taste'">
 							<li><div ng-click="selectTaste(tasteList.taste)"><img src="images/Rec/{{tasteList.imageUrl}}">{{tasteList.taste}}</div></li>
 						</ul>
 					</div> 
@@ -103,7 +103,7 @@
 					 		<div class="btn" ng-style="vm.postiveStyle" ng-click="searchEffect('Positive')"> Positive </div>   
 					 		<!--<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>-->  
 					 	</div>
-					    <ul class="col-xs-10" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
+					    <ul class="col-xs-11" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
 							<li><div ng-click="selectEffect(effectList.recEffectName)"><img src="images/Rec/{{effectList.imageUrl}}"> {{effectList.recEffectName}}</div></li>
 						</ul>
 					</div> 
@@ -143,7 +143,7 @@
 					 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
 					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
 					 	</div>
-					 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
+					 	<ul class="col-xs-11" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
 							<li><div ng-click="selectStrain(sName.strainName)"><img src="{{sName.imageUrl}}" class="img-circle"> {{sName.strainName}}</div></li>
 						</ul>
 				 	</div>

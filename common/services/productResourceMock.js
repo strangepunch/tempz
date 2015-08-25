@@ -631,7 +631,7 @@
 			 "recEffectName": "Paranoid",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "H",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Paranoid.png"
 			},
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
@@ -649,7 +649,7 @@
 			 "recEffectName": "Munchies",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "M",
-			 "imageUrl": "6.png"
+			 "imageUrl": "Munchies.png"
 			},
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
@@ -34761,6 +34761,7 @@
 		//for strain details
 		var detailsUrl = "/api/details";
 		var detailModeUrl = "/api/detailModes";
+		var vapeTempUrl = "/api/vapeTemps";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
@@ -34775,6 +34776,7 @@
 		//for strain details
 		$httpBackend.whenGET(detailsUrl).respond(strains);
 		$httpBackend.whenGET(detailModeUrl).respond(detailModes);
+		$httpBackend.whenGET(vapeTempUrl).respond(vapeTemps);
 
 		var editingRegex = new RegExp(strainUrl + "/[0-9][0-9]*", '');
 

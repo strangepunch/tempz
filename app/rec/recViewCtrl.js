@@ -168,6 +168,7 @@
 					vm.centerImage = vm.recEffectList[i].imageUrl;
 					vm.modeName = vm.recEffectList[i].recEffectName;
 					vm.effectT = vm.recEffectList[i].recEffectTempRange;
+					vm.selectedEffectType = vm.recEffectList[i].recEffectType;
 					//console.log("vm.effectT", vm.effectT)
 				}
 			};
@@ -332,28 +333,30 @@
 
 		};
 		//Effect
-		$scope.searchForFeel = function (Effect){
+		$scope.searchForFeel = function (Effect,Type){
 			strainResource.query(function(data){
 				ngProgress.complete();
 				var num = 0;
  				vm.strainSuggestions = [];
- 				for(var i=0; i<data.length; i++){
- 					for(var x=0; x<data[i].positiveEffects.length; x++){
- 						if(data[i].positiveEffects[x] === Effect){
- 							vm.strainSuggestions[num] = data[i];
- 							num++;
- 						}
- 					}
+ 				if(Type === "N"){
+ 					for(var i=0; i<data.length; i++){
+	 					for(var x=0; x<data[i].negativeEffects.length; x++){
+	 						if(data[i].negativeEffects[x] === Effect){
+	 							vm.strainSuggestions[num] = data[i];
+	 							num++;
+	 						}
+	 					}
+	 				}
+ 				}else{
+ 					for(var i=0; i<data.length; i++){
+	 					for(var x=0; x<data[i].positiveEffects.length; x++){
+	 						if(data[i].positiveEffects[x] === Effect){
+	 							vm.strainSuggestions[num] = data[i];
+	 							num++;
+	 						}
+	 					}
+	 				}
  				}
- 				for(var i=0; i<data.length; i++){
- 					for(var x=0; x<data[i].negativeEffects.length; x++){
- 						if(data[i].negativeEffects[x] === Effect){
- 							vm.strainSuggestions[num] = data[i];
- 							num++;
- 						}
- 					}
- 				}
-
  				if(vm.strainSuggestions.length > 3){
 	    			vm.thereIsMore = true;
 	    		}else{
@@ -523,7 +526,7 @@
 					vm.MoreStrains = 3;
 					$scope.showAnswer2 = true;
 					$scope.showQuestion2 = false;
-					$scope.searchForFeel(vm.selectedEffect);
+					$scope.searchForFeel(vm.selectedEffect,vm.selectedEffectType);
 					break;
 				case 'Q3':
 					ngProgress.start();

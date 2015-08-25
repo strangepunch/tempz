@@ -51,7 +51,7 @@
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
-					    <ul class="col-xs-7" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
+					    <ul class="col-xs-11" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
 							<li><div ng-click="selectCondition(condName)">{{condName}}</div></li>
 						</ul>
 					</div> 
@@ -87,7 +87,7 @@
 					 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
 					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
 					 	</div>
-					 	<ul class="col-xs-7" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
+					 	<ul class="col-xs-11" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
 							<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
 						</ul>
 				 	</div>
