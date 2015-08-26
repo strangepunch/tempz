@@ -1,6 +1,6 @@
 {
 				"VTipId": 1,
-				"VName": "The Arizer Air",
+				"VName": "",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 

@@ -40,7 +40,7 @@
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
-			{"VId": 2,
+			{"VId": 3,
 			 "VName": "Arizer Solo", 
 			 "VManufacturer" : "Arizer",
 			 "VType": "Portable",
@@ -51,7 +51,7 @@
 			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
 			 "VImageUrl": "images/vapes/solo1.png"
 			},
-			{"VId": 3,
+			{"VId": 4,
 			 "VName": "Arizer Air", 
 			 "VManufacturer" : "Arizer",
 			 "VType": "Portable",
@@ -62,7 +62,7 @@
 			 "descriptionAbbrev": "The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size.",
 			 "VImageUrl": "images/vapes/arizer_air2.png"
 			},
-			{"VId": 4,
+			{"VId": 5,
 			 "VName": "Pinnacle Pro", 
 			 "VManufacturer" : "VaporBlunt",
 			 "VType": "Portable",
@@ -73,7 +73,7 @@
 			 "descriptionAbbrev": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
 			 "VImageUrl": "images/vapes/pinnaclepro1.png"
 			},
-			{"VId": 5,
+			{"VId": 6,
 			 "VName": "Silver Surfer", 
 			 "VManufacturer" : "7th Floor",
 			 "VType": "Desktop",
@@ -84,7 +84,7 @@
 			 "descriptionAbbrev": "Silver Surfer is a highly customizable, top performing desktop vaporizer. Choose from a wide array of colors, designs, and heater cover options to create your perfect vaporizer.",
 			 "VImageUrl": "images/vapes/ssv2.png"
 			},
-			{"VId": 6,
+			{"VId": 7,
 			 "VName": "Da Buddah", 
 			 "VManufacturer" : "7th Floor",
 			 "VType": "Desktop",
@@ -95,7 +95,7 @@
 			 "descriptionAbbrev":  "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA.",
 			 "VImageUrl": "images/vapes/dabuddah2.png"
 			},
-			{"VId": 7,
+			{"VId": 8,
 			 "VName": "LSV", 
 			 "VManufacturer" : "7th Floor",
 			 "VType": "Desktop",
@@ -106,7 +106,7 @@
 			 "descriptionAbbrev": "This vape has been designed to within an inch of its life, and it shows. This is a thing of beauty which you will enjoy using and probably enjoy showing off to your friends even more.",
 			 "VImageUrl": "images/vapes/dabuddah1.png"
 			},
-			{"VId": 8,
+			{"VId": 9,
 			 "VName": "Magic Flight Launch Box", 
 			 "VManufacturer" : "Magic Flight",
 			 "VType": "Portable",
@@ -117,7 +117,7 @@
 			 "descriptionAbbrev": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world's smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
 			 "VImageUrl": "images/vapes/mflb1.png"
 			},
-			{"VId": 9,
+			{"VId": 10,
 			 "VName": "Extreme Q", 
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
@@ -128,7 +128,7 @@
 			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
 			},
-			{"VId": 10,
+			{"VId": 11,
 			 "VName": "V Tower", 
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
@@ -139,7 +139,7 @@
 			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/vtower.gif"
 			},
-			{"VId": 11,
+			{"VId": 12,
 			 "VName": "Volcano Digit", 
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
@@ -150,7 +150,7 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano2.png"
 			},
-			{"VId": 12,
+			{"VId": 13,
 			 "VName": "Volcano Classic", 
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
@@ -161,7 +161,7 @@
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano1.png"
 			},
-			{"VId": 13,
+			{"VId": 14,
 			 "VName": "Plenty", 
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
@@ -172,7 +172,7 @@
 			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
 			 "VImageUrl": "images/vapes/plenty1.png"
 			},
-			{"VId": 14,
+			{"VId": 15,
 			 "VName": "Ascent", 
 			 "VManufacturer" : "DaVinci  Vaporizers",
 			 "VType": "Portable",
@@ -183,7 +183,7 @@
 			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "VImageUrl": "images/vapes/ascent1.png"
 			},
-			{"VId": 15,
+			{"VId": 16,
 			 "VName": "PUFFiT 2", 
 			 "VManufacturer" : "Discreet Vape",
 			 "VType": "Portable",
@@ -194,7 +194,7 @@
 			 "descriptionAbbrev":  "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
 			 "VImageUrl": "images/vapes/puffit1.png"
 			},
-			{"VId": 16,
+			{"VId": 17,
 			 "VName": "Haze", 
 			 "VManufacturer" : "Haze Vaporizers",
 			 "VType": "Portable",
@@ -205,7 +205,7 @@
 			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
 			 "VImageUrl": "images/vapes/haze1.png"
 			},
-			{"VId": 17,
+			{"VId": 18,
 			 "VName": "Firefly", 
 			 "VManufacturer" : "Firefly Vaporizers",
 			 "VType": "Portable",
@@ -216,7 +216,7 @@
 			 "descriptionAbbrev":  "The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
 			 "VImageUrl": "images/vapes/firefly1.png"
 			},
-			{"VId": 18,
+			{"VId": 19,
 			 "VName": "Hot Box", 
 			 "VManufacturer" : "Hot Box Vapors",
 			 "VType": "Desktop",
@@ -298,9 +298,9 @@
 			 "VManufacturer" : "VapeXhale",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "450"],
-			 "VTempsC": ["0", "230"],
-			 "VColors": ["L", "H"],
+			 "VTempsF": ["0", "370", "450"],
+			 "VTempsC": ["0", "187", "230"],
+			 "VColors": ["L", "M", "H"],
 			 "descriptionAbbrev": "A top-tier desktop unit with an all-glass air path that produces excellent quality vapor. A huge advantage this model has is that the performance is superb with both dry herbs and concentrates.",
 			 "VImageUrl": "images/vapes/cloud-evo.png",
 			},
@@ -358,14 +358,46 @@
 			 "VColors": ["L", "L", "M", "M", "H", "H","H","H", "H"],
 			 "descriptionAbbrev": "With innovative technology, high-quality construction and materials and intuitive functionality crafted specifically for on-the-go use, the Summit redefines industry standards of both utility and style that performs wherever the trail may lead, and beyond.",
 			 "VImageUrl": "images/vapes/summit-green-600x600.jpg",
+			},
+			{"VId": 32,
+			 "VName": "K-Vape Micro DX", 
+			 "VManufacturer" : "KandyPens",
+			 "VType": "Pen",
+			 "VTempType": "Y",
+			 "VTempsF": ["350", "370", "430"],
+			 "VTempsC": ["177", "187", "221"],
+			 "VColors": ["L", "M", "H"],
+			 "descriptionAbbrev": "The K-Vape Micro-DX is an extension of the K-Vape line, which is currently one of the top-selling vaporizer brands in the world. It has over 80 possible tempertaure settings and a 3 - 4 hr battery life.",
+			 "VImageUrl": "images/vapes/kvape_microDx.jpg",
+			},
+			{"VId": 33,
+			 "VName": "E-Nano", 
+			 "VManufacturer" : "Epic Vapes",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["350", "370", "430"],
+			 "VTempsC": ["177", "187", "221"],
+			 "VColors": ["L", "M", "H"],
+			 "descriptionAbbrev": "The Epic Vape E-Nano is a super efficient log vaporizer. Log vapes look just like a piece of wood and look great on any living room table.. Unlike most vapes which try to mimic spacecrafts and Apple products. It also heats up instantly and delivers milky clouds.",
+			 "VImageUrl": "images/vapes/Epic-Vape-E-Nano-Vape.jpg",
+			},
+			{"VId": 34,
+			 "VName": "Underdog", 
+			 "VManufacturer" : "Underdog Aromatherapy",
+			 "VType": "Desktop",
+			 "VTempType": "N",
+			 "VTempsF": ["350", "370", "430"],
+			 "VTempsC": ["177", "187", "221"],
+			 "VColors": ["L", "M", "H"],
+			 "descriptionAbbrev": "The Underdog has a stainless steel heating core. Air is drawn into the Underdog, around the heating core, and up through the herbs in the stem. You should use a voltage regulator is you would like control over a wide range of temperatures.",
+			 "VImageUrl": "images/vapes/Underdog-001-225x300.jpg",
 			}
-
 		];
 
 		var vTips = [
 			{
 				"VTipId": 1,
-				"VName": "The Arizer Solo",
+				"VName": "Arizer Solo",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
@@ -436,7 +468,7 @@
 			},	
 			{
 				"VTipId": 2,
-				"VName": "The Arizer Air",
+				"VName": "Arizer Air",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
@@ -499,6 +531,798 @@
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	}
 				]
+			},
+			{
+				"VTipId": 3,
+				"VName": "Crafty",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 4,
+				"VName": "Mighty",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]	
+			},
+			{
+				"VTipId": 5,
+				"VName": "Pinnacle Pro",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]	
+			},
+			{
+				"VTipId": 6,
+				"VName": "Silver Surfer",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 7,
+				"VName": "Da Buddah",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+				] 	
+			},
+			{
+				"VTipId": 8,
+				"VName": "LSV",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 9,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 10,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 11,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 12,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 13,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 14,
+				"VName": "",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
 			}
 		];  
 
