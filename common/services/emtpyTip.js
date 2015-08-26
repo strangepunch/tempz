@@ -62,4 +62,5 @@
 				 		"tipTxt": "",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
+			 	]
 			}

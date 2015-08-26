@@ -290,8 +290,8 @@
 			 "VTempsF": ["320", "338", "356", "374", "392", "410", "428", "450"],
 			 "VTempsC": ["160", "170", "180", "190", "200", "210", "220", "230"],
 			 "VColors": ["L", "L", "M", "M", "H", "H", "H", "H"],
-			 "descriptionAbbrev": "Want nice vapor from a short draw? The Alfa is one to consider. This mid-priced portable vape is made by a new company that goes by the name of Goboof, and it has a few unique features that make it stand out.",
-			 "VImageUrl": "images/vapes/alfa.jpg",
+			 "descriptionAbbrev": "With innovative technology, high-quality construction and materials and intuitive functionality crafted specifically for on-the-go use, the Summit redefines industry standards of both utility and style that performs wherever the trail may lead, and beyond.",
+			 "VImageUrl": "images/vapes/summit-green-600x600.jpg",
 			},
 			{"VId": 26,
 			 "VName": "Cloud Evo", 
@@ -349,15 +349,15 @@
 			 "VImageUrl": "images/vapes/v2pro7_thumb.jpg",
 			},
 			{"VId": 31,
-			 "VName": "Summit", 
-			 "VManufacturer" : "Vapium",
+			 "VName": "G-Pro", 
+			 "VManufacturer" : "Grenco Science",
 			 "VType": "Portable",
 			 "VTempType": "Y",
-			 "VTempsF": ["320", "338", "356", "374", "392", "410", "428", "450"],
-			 "VTempsC": ["160", "170", "180", "190", "200", "210", "220", "230"],
-			 "VColors": ["L", "L", "M", "M", "H", "H","H","H", "H"],
-			 "descriptionAbbrev": "With innovative technology, high-quality construction and materials and intuitive functionality crafted specifically for on-the-go use, the Summit redefines industry standards of both utility and style that performs wherever the trail may lead, and beyond.",
-			 "VImageUrl": "images/vapes/summit-green-600x600.jpg",
+			 "VTempsF": ["320", "380", "420"],
+			 "VTempsC": ["160", "193", "215"],
+			 "VColors": ["L", "M", "H"],
+			 "descriptionAbbrev": "Founded on the principles of performance and user-preference, the G Pro Vaporizer features three variable temperature settings, enabling a uniquely-fitted vaping experience.",
+			 "VImageUrl": "images/vapes/GPro-Pen-Solo.jpg",
 			},
 			{"VId": 32,
 			 "VName": "K-Vape Micro DX", 
@@ -512,22 +512,22 @@
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	}
 				]
@@ -538,62 +538,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
@@ -604,62 +604,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]	
@@ -670,62 +670,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]	
@@ -736,62 +736,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
@@ -802,62 +802,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 				] 	
@@ -868,462 +868,1783 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 9,
-				"VName": "",
+				"VName": "Magic Flight Launch Box",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 10,
-				"VName": "",
+				"VName": "Extreme Q",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 11,
-				"VName": "",
+				"VName": "V Tower",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 12,
-				"VName": "",
+				"VName": "Volcano Digit",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 13,
-				"VName": "",
+				"VName": "Volcano Classic",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
 			},
 			{
 				"VTipId": 14,
-				"VName": "",
+				"VName": "Plenty",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "",
+				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	}
 			 	]
-			}
+			},
+			{
+				"VTipId": 15,
+				"VName": "Ascent",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 16,
+				"VName": "PUFFiT 2",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 17,
+				"VName": "Haze",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 18,
+				"VName": "Firefly",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 19,
+				"VName": "Hot Box",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 20,
+				"VName": "Vapir Rise 2.0",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 21,
+				"VName": "Pax",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 22,
+				"VName": "Pax 2",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 23,
+				"VName": "Phantom",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 24,
+				"VName": "Alfa",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 25,
+				"VName": "Summit",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 26,
+				"VName": "Cloud Evo",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 27,
+				"VName": "Herbal Aire",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 28,
+				"VName": "Herbalizer",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 29,
+				"VName": "V2 Pro Series 3",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 30,
+				"VName": "V2 Pro Series 7",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 31,
+				"VName": "G-Pro",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 32,
+				"VName": "K-Vape Micro DX",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "For the best performance and most vapor production you should grind up your dry herbs fine and pack the chamber full, then tamp it down a tiny bit.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "For the best low temp flavors and effects, set your vape on the lowest temperature setting and begin inhaling as it heats up to the selected setting.",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 33,
+				"VName": "E-Nano",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+			{
+				"VTipId": 34,
+				"VName": "Underdog",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "7", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "8", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "9", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "10", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "11", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	},
+				 	{ 
+				 		"tipNum": "12", 
+				 		"tipTxt": "A Tip goes here",
+				 		"TipImg" : "images/vapes/herbalizer.png"
+				 	}
+			 	]
+			},
+
 		];  
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
