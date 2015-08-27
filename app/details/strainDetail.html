@@ -195,7 +195,7 @@
 	<!--Vape tip-->
 	<div ng-if="vm.Vape">
 		<div class = "panel">
-			<div class="row">
+			<div class="row" ng-if="vm.VapeQ">
 				<div class="panel-body">
 					<div class="col-xs-9" ng-click = "vm.toggleQuestion('Q1')">
 						Select a vape <span class="caret"></span> <div>{{vm.selectedVape}}</div> <div ng-style="vm.alert">{{vm.alertMsg}}</div>
@@ -217,12 +217,32 @@
 					 		<div class="btn" ng-click="searchVape('Portable')"> Portable </div>
 					 		<div class="btn" ng-click="searchVape('Pen')"> Pen </div> 
 					 	</div>
-					 	<ul class="col-xs-11" ng-repeat = "vapeName in vm.vapeNameList|orderBy:$index|filter:vm.searchAll:strict">
-							<li><div ng-click="selectVape(vapeName)">{{vapeName}}</div></li>
+					 	<ul class="col-xs-11" ng-repeat = "vape in vm.vapeComb|orderBy:'name'|filter:vm.searchAll:strict">
+							<li><div ng-click="selectVape(vape.name)"><img src="{{vape.image}}">{{vape.name}}</div></li>
 						</ul>
 				 	</div>
-				 	<div class="col-xs-2" ng-if="vm.vapeSelected">
-						<div class="btn btn-inner" ng-click = ""> Go <span class="glyphicon glyphicon-chevron-right"></span></div>
+				</div>
+			</div>
+			<div class="row" ng-if="vm.VapeA">
+				<div class="panel-heading">
+					{{vm.vapeDetails.descriptionAbbrev}}
+				</div>
+
+				<!--tips-->
+				<div class="panel-heading" style="padding-left:15px;" ng-click="vm.toggleQuestion('Q2')">{{vm.tipShow}}<span class="caret"></span></div>
+				<div class="panel-body" ng-if="vm.showQ2">
+					<div class="col-xs-10"> some tips </div>
+				</div>
+				<div class="panel-footer" ng-if="vm.showQ2">
+					<div class="btn" ng-click=""> <span class="glyphicon glyphicon-chevron-left"> </span></div>
+					<div class="btn" style="float:right" ng-click=""> <span class="glyphicon glyphicon-chevron-right"></span> </div>
+				</div>
+				<!--end tips-->	
+				
+				<div class="panel-body">
+					<div class="col-xs-12 vapeDetail" ng-repeat="tempList in vm.TempList">
+						<img src="images/Rec/{{tempList.image}}.png">
+						{{tempList.temp}}
 					</div>
 				</div>
 			</div>
@@ -234,6 +254,11 @@
 		<div class="col-xs-6">
 			<div class = "panel panel-buttons">
 				<div class="btn" ui-sref="rec"> Back </div>
+			</div>
+		</div>
+		<div class="col-xs-6" ng-if="vm.vapeSelected">
+			<div class = "panel panel-buttons">
+				<div class="btn" ng-click="goVape()"> Go </div>
 			</div>
 		</div>
 	</div>

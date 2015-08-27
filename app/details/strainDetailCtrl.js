@@ -90,6 +90,10 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
           case 'Neg':
               vm.Description = false;
@@ -117,6 +121,10 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
           case 'Per':
               vm.Description = false;
@@ -126,12 +134,16 @@
               vm.Taste = false;
               vm.Conditions = false;
               vm.Vape = false;
-              vm.discMode = "Percents";
+              vm.discMode = "Components";
               vm.selectedMode = "Component percentage";
               $scope.getCompWithValue();
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
           case 1:
               vm.Description = false;
@@ -159,6 +171,10 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
           case 'Med':
               vm.Description = false;
@@ -173,6 +189,10 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
           case 'Vap':
               vm.Description = false;
@@ -187,6 +207,8 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
               break;
           default:
               vm.Description = true
@@ -200,6 +222,10 @@
               vm.vapeSelected = false;
               vm.selectedVape = "";
               vm.showQ1 = false;
+              vm.VapeQ = true;
+              vm.VapeA = false;
+              vm.centerImage = strain.imageUrl;
+              vm.modeName = strain.strainName;
               break;
       }
 
@@ -267,8 +293,12 @@
     //--------Display Vape choices -------//
     vapeTempResource.query(function(data){
       vm.vapeNameList = [];
+      vm.vapeImageList = [];
+      vm.vapeComb = [];
       for(var i=0; i<data.length;i++){
         vm.vapeNameList[i] = data[i].VName;
+        vm.vapeImageList[i] = data[i].VImageUrl;
+        vm.vapeComb[i] = {"name":data[i].VName, "image":data[i].VImageUrl};
       }
     });
     //--------Search and Filter Vape List ------//
@@ -282,8 +312,12 @@
           vm.searchAll = "";
           vapeTempResource.query(function(data){
             vm.vapeNameList = [];
+            vm.vapeImageList = [];
+            vm.vapeComb = [];
             for(var i=0; i<data.length;i++){
               vm.vapeNameList[i] = data[i].VName;
+              vm.vapeImageList[i] = data[i].VImageUrl;
+              vm.vapeComb[i] = {"name":data[i].VName, "image":data[i].VImageUrl};
             }
           });
           break;  
@@ -292,9 +326,13 @@
           vapeTempResource.query(function(data){
             var num = 0;
             vm.vapeNameList = [];
+            vm.vapeImageList = [];
+            vm.vapeComb = [];
             for(var i=0; i<data.length; i++){
               if(data[i].VType === 'Desktop'){
                 vm.vapeNameList[num] = data[i].VName;
+                vm.vapeImageList[num] = data[i].VImageUrl;
+                vm.vapeComb[num] = {"name":data[i].VName, "image":data[i].VImageUrl};
                 num++;
               }
             }
@@ -305,9 +343,13 @@
           vapeTempResource.query(function(data){
             var num = 0;
             vm.vapeNameList = [];
+            vm.vapeImageList = [];
+            vm.vapeComb = [];
             for(var i=0; i<data.length; i++){
               if(data[i].VType === 'Portable'){
                 vm.vapeNameList[num] = data[i].VName;
+                vm.vapeImageList[num] = data[i].VImageUrl;
+                vm.vapeComb[num] = {"name":data[i].VName, "image":data[i].VImageUrl};
                 num++;
               }
             }
@@ -318,9 +360,13 @@
             vapeTempResource.query(function(data){
               var num = 0;
               vm.vapeNameList = [];
+              vm.vapeImageList = [];
+              vm.vapeComb = [];
               for(var i=0; i<data.length; i++){
                 if(data[i].VType === 'Pen'){
                   vm.vapeNameList[num] = data[i].VName;
+                  vm.vapeImageList[num] = data[i].VImageUrl;
+                  vm.vapeComb[num] = {"name":data[i].VName, "image":data[i].VImageUrl};
                   num++;
                 }
               }
@@ -331,9 +377,13 @@
           vapeTempResource.query(function(data){
             var num = 0;
             vm.vapeNameList = [];
+            vm.vapeImageList = [];
+            vm.vapeComb = [];
             for(var i=0; i<data.length; i++){
               if(data[i].VName == name){
                 vm.vapeNameList[num] = data[i].VName;
+                vm.vapeImageList[num] = data[i].VImageUrl;
+                vm.vapeComb[num] = {"name":data[i].VName, "image":data[i].VImageUrl};
                 num++;
               }
             }
@@ -351,10 +401,62 @@
       vm.showQ1 = false;
       vm.selectedVape = name;
       vm.vapeSelected = true;
+      /**
+      vapeTempResource.query(function(data){
+        for(var i=0; i<data.length; i++){
+          if(data[i].VName === name){
+            vm.vapeImg = data[i].VImageUrl;
+          }
+        }
+      });
+      vm.modeName = vm.selectedVape;
+      vm.centerImage = vm.vapeImg;
+      **/
     };
+    //--------Go function for Vape--------//
+    $scope.goVape = function (){
+      vm.VapeQ = false;
+      vm.VapeA = true;
+      vm.vapeSelected = false;
+      vm.vapeDetails = [];
+      vm.TempFList = [];
+      vm.TempCList = [];
+      vapeTempResource.query(function(data){
+        for(var i=0; i<data.length; i++){
+          if(data[i].VName === vm.selectedVape){
+            vm.vapeDetails = data[i];
+            vm.centerImage = data[i].VImageUrl;
+          }
+        }
+        for(var i=0; i<vm.vapeDetails.VTempsF.length; i++){
+          vm.TempFList[i] = {"image":vm.vapeDetails.VColors[i],"temp":vm.vapeDetails.VTempsF[i]};
+          vm.TempCList[i] = {"image":vm.vapeDetails.VColors[i],"temp":vm.vapeDetails.VTempsC[i]};
+        }
+
+      });
+      vm.modeName = vm.selectedVape;
+      vm.TempList = vm.TempFList;
+
+      vm.showQ2 = false;
+      vm.tipShow = "Show Tips";
+
+    };
+
     //--------Toggle Questions On/Off-----//
-    vm.toggleQuestion = function(name){
-      vm.showQ1 = true;
+    vm.toggleQuestion = function(choice){
+      switch (choice){
+        case 'Q1':
+          vm.showQ1 = !vm.showQ1;
+          break;
+        case 'Q2':
+          vm.showQ2 = !vm.showQ2;
+          if(vm.tipShow != "Hide Tips"){
+             vm.tipShow = "Hide Tips";
+          } else{
+            vm.tipShow = "Show Tips";
+          }
+          break;
+      }
     };
       
   }//end of StrainDetailCtrl function

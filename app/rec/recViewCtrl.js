@@ -26,6 +26,8 @@
 		vm.taste = true;
 		vm.strain = false;
 		vm.effect = false;
+		/**------maybe write a function to check if it's coming back from detail screen
+			and populating these above with previous info---------------------------**/
 
 		//Storage space for goEasy seach
 		//vm.userSelect = [{"condName":"", "strnName":""}];
