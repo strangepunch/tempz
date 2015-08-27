@@ -26,7 +26,7 @@
 			 "VTempsF": ["356", "383"],
 			 "VTempsC": ["180", "195"],
 			 "VColors": ["Lo", "Md"],
-			 "descriptionAbbrev": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go.", 
+			 "descriptionAbbrev": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go. Although the Crafty only has two temperature settings, with the free app you can set those temperatures to any two values you choose.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
 			},
 			{"VId": 2,
@@ -37,7 +37,7 @@
 			 "VTempsF": ["104", "370", "410"],
 			 "VTempsC": ["40", "187", "210"],
 			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
+			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below are just to indicate that it is capable of low, medum and high temperatures.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
 			{"VId": 3,
@@ -104,7 +104,7 @@
 			 "VTempsC": ["0", "187", "482"],
 			 "VColors": ["Lo", "Md", "Hi"],
 			 "descriptionAbbrev": "This vape has been designed to within an inch of its life, and it shows. This is a thing of beauty which you will enjoy using and probably enjoy showing off to your friends even more.",
-			 "VImageUrl": "images/vapes/dabuddah1.png"
+			 "VImageUrl": "images/vapes/life-saber-vaporizer-lsv.jpg"
 			},
 			{"VId": 9,
 			 "VName": "Magic Flight Launch Box", 
@@ -169,7 +169,7 @@
 			 "VTempsF": ["100", "370", "420"],
 			 "VTempsC": ["37", "187", "215"],
 			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
+			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer. The Plenty has an analgog temeprature gauge that let's you set a wide range of temperatures including low, medium and high values.",
 			 "VImageUrl": "images/vapes/plenty1.png"
 			},
 			{"VId": 15,
@@ -803,62 +803,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "Using a smaller wand can help you moderate your sessions and your tolerance. This will also extend the time your personal stash lasts potentially saving you money as well.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "Although there are no specific temperature settings on the DBV, if you are looking for low temp flavors or effects you can still get them. Set the SSV to a 12:00 position or less and while it is heating up begin vaping. Any low temp benefits should now be yours.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "Since the DBV is capable of very high temperatures, there is a risk of combusting your herb if you set it too high. This would both release dangerous chemicals such as benzene and toluene into your system as well as affect the taste of future sessions. Most SSV owners suggest a setting between 12:00 and 3:00 to prevent this but each device is made differently so be cautious and experiment to find your favorite setting.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "If you prefer concentrates, some SSV owners have found that placing the wax, hash or oil in a bed of herb can be a pleasant combination. Of course, higher temperatures will be needed to get the most from your concentrates.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "To minimize the risk of having herb enter the SSV heating chamber always remove the wand between draws.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	}
 				] 	
 			},
@@ -869,62 +869,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "Although there are no specific temperature settings on the LSV, if you are looking for low temp flavors or effects you can still get them. Set the SSV to a 12:00 position or less and while it is heating up begin vaping. Any low temp benefits should now be yours.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "If you prefer concentrates, some LSV owners have found that placing the wax, hash or oil in a bed of herb can be a pleasant combination. Of course, higher temperatures will be needed to get the most from your concentrates.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.jpg"
 				 	}
 			 	]
 			},
@@ -935,62 +935,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/mflb1.png"
 				 	}
 			 	]
 			},
@@ -1001,62 +1001,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	}
 			 	]
 			},
@@ -1067,62 +1067,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/vtower.gif"
 				 	}
 			 	]
 			},
@@ -1133,62 +1133,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano2.png"
 				 	}
 			 	]
 			},
@@ -1199,62 +1199,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/volcano1.png"
 				 	}
 			 	]
 			},
@@ -1265,62 +1265,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/plenty1.png"
 				 	}
 			 	]
 			},
@@ -1330,63 +1330,63 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"tipTxt": "A great option on the Ascent is that it allows you to pre-program a series of temeprature levels before you start your session. It will then stay at each level temporarily before automatically changing to the next temperature value in the series.",
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/ascent1.png"
 				 	}
 			 	]
 			},
@@ -1397,42 +1397,42 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
@@ -1442,17 +1442,17 @@
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	}
 			 	]
 			},
@@ -1462,63 +1462,63 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"tipTxt": "The Haze is designed to allow you to enjoy both concentrates and dry herbs with it's two chambers. You can also use dry herb for both chambers if you like extending your session and giving you the option of more tastes and effects with less hassle.",
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"tipTxt": "Haze Technologies helped ease the pain of not winning an Oscar by including the Haze vaporizer in the ACADEMY AWARDS Oscar Nominees gift bags.",
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/haze1.png"
 				 	}
 			 	]
 			},
@@ -1528,63 +1528,63 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"tipTxt": "Although there is no temperature setting on the Firefly, you can control the relative temperature by changing your draw rate and length. With a little practice, ths shoudl allow you to enjoy low, medium or high temperature effects.",
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/firefly1.png"
 				 	}
 			 	]
 			},
@@ -1594,7 +1594,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Although there is no actual temperature setting on the Hot Box, you can control the relative temperature by changing your draw rate and length. With a little practice, ths shoudl allow you to enjoy low, medium or high temperature effects. To enjoy low temp effects and flavors, begin your draw as the device heats up from it's off state at the beginning of your session.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -1726,27 +1726,27 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "One of the main things that affects how much vapor you get is how finely you grind your material and how you pack the oven. The grind consistency that everyone is used to from a common 2-piece or 4-piece grinder will work with most vaporizers, but if you really want maximum performance you need to grind your herbs even finer, almost to a powder or the consistency of coarse sand. If you have a coffee grinder lying around you could technically use that to try this out, but be sure to grind in short bursts.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The recommended way to use this vape for maximum vapor production is with a fully packed oven. Depending on how finely your material is ground up the amount needed to fill the chamber ranges from 0.3g to 0.4g. When you fully pack you can expect approximately 20 full draws before your herbs are spent.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The PAX's screen plays a critical role in the quality of your vapor. If you notice a change in the quality of your vapor, your screen is probably due for a cleaning.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Drawing a lot of air through the device won’t create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Most PAXers like to start on the low or medium temperature setting and work their way up to the highest temperature before finishing.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -1792,27 +1792,27 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "One of the main things that affects how much vapor you get is how finely you grind your material and how you pack the oven. The grind consistency that everyone is used to from a common 2-piece or 4-piece grinder will work with most vaporizers, but if you really want maximum performance you need to grind your herbs even finer, almost to a powder or the consistency of coarse sand. If you have a coffee grinder lying around you could technically use that to try this out, but be sure to grind in short bursts.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The recommended way to use this vape for maximum vapor production is with a fully packed oven. Depending on how finely your material is ground up the amount needed to fill the chamber ranges from 0.3g to 0.4g. When you fully pack you can expect approximately 20 full draws before your herbs are spent.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The PAX's screen plays a critical role in the quality of your vapor. If you notice a change in the quality of your vapor, your screen is probably due for a cleaning.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Drawing a lot of air through the device won’t create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Most PAXers like to start on the low or medium temperature setting and work their way up to the highest temperature before finishing.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
