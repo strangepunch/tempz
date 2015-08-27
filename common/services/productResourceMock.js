@@ -426,12 +426,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "Whenever possible try to let your Solo charge to full capacity in between use. A full battery will go much further than one that is periodically recharged for short periods of time. A battery charge might last 3-4 hours. The charger that comes with the Solo can’t charge while the Solo is in use, so plan accordingly. There are chargers sold separately that allowing charging during use, and there are also car charging adapters available.",
+				 		"tipTxt": "Whenever possible try to let your Solo charge to full capacity in between use. A full battery will go much further than one that is periodically recharged for short periods of time. A battery charge might last 3-4 hours. The charger that comes with the Solo can't charge while the Solo is in use, so plan accordingly. There are chargers sold separately that allowing charging during use, and there are also car charging adapters available.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "Use an old school pipe cleaner to clean the Solo’s glass stems. Simply fold the pipe cleaner over on itself once to make it a bit thicker (more surface area) and insert. If done frequently you can almost completely avoid using any type of cleaner or solvent. Neglecting to clean your stems frequently will quickly result in slightly diminished performance due to clogging of the air holes. Soaking the stems overnight in rubbing alcohol then rinsing out with water is also very effective.",
+				 		"tipTxt": "Use an old school pipe cleaner to clean the Solo's glass stems. Simply fold the pipe cleaner over on itself once to make it a bit thicker (more surface area) and insert. If done frequently you can almost completely avoid using any type of cleaner or solvent. Neglecting to clean your stems frequently will quickly result in slightly diminished performance due to clogging of the air holes. Soaking the stems overnight in rubbing alcohol then rinsing out with water is also very effective.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -451,12 +451,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "Make sure you get any leftover material stuck to the bowl-end of the mouthpiece out of there so it doesn’t slowly build up and become a nuisance to clean later on. Also try to find something around the house, such as a toothpick, to poke the air holes in the bowl end of the mouthpiece. The last thing you need is those air holes getting clogged up.",
+				 		"tipTxt": "Make sure you get any leftover material stuck to the bowl-end of the mouthpiece out of there so it doesn't slowly build up and become a nuisance to clean later on. Also try to find something around the house, such as a toothpick, to poke the air holes in the bowl end of the mouthpiece. The last thing you need is those air holes getting clogged up.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "Always take a look in the hole at the top of the Arizer Solo where the heating element is to make sure no material is in there. It doesn’t happen often but sometimes there will be a small amount of vaporized material in there. It is really easy to get out using either a small brush, your finger (if it is not heated up), or blowing in it.",
+				 		"tipTxt": "Always take a look in the hole at the top of the Arizer Solo where the heating element is to make sure no material is in there. It doesn't happen often but sometimes there will be a small amount of vaporized material in there. It is really easy to get out using either a small brush, your finger (if it is not heated up), or blowing in it.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -2826,8 +2826,8 @@
 			 "imageUrl": "CouchLocked.png"
 			},
 			{"recEffectId": 30,
-			 "recEffectName": "Clear-headed",  
-			 "recEffectType": "N",
+			 "recEffectName": "Clear headed",  
+			 "recEffectType": "P",
 			 "recEffectTempRange" : "L",
 			 "imageUrl": "ClearHeaded.png"
 			},
@@ -4097,7 +4097,7 @@
 			{"strainId": 150,
 			 "strainName": "LA Chocolat",
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/la-chocolat_100x100.jpg"
+			 "imageUrl": "images/strains/DNA_Genetics_Seeds_-_LA_Chocolat.jpg"
 
 			},
 			{"strainId": 151,
@@ -5684,7 +5684,7 @@
 		 	],
 		 	"taste": ["Earthy","Sweet","Woody", "Coffee", "Lemon"],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension", "Fibromyalgia"],
-			 "positiveEffects": ["Pain relief", "Mildly psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear-headed", "Euphoric"],
+			 "positiveEffects": ["Pain relief", "Mildly psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
 			 "negativeEffects": ["Enhanced Drowsiness"],
 			 "descriptionDetailed": "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
@@ -6026,7 +6026,7 @@
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody", "Citrus", "Mint"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress", "Pain", "Appetite Loss", "Inflammation", "Depression"],
-			 "positiveEffects": ["Potent", "Clear-headed", "Euphoric", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow", "Enhanced Hunger"],
+			 "positiveEffects": ["Very Potent", "Clear headed", "Euphoric", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow", "Enhanced Hunger"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
@@ -9332,7 +9332,7 @@
 		 	],  
 		 	"taste": ["Fruity"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Potent", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Very Potent", "Enhanced Drowsiness"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "This plant is tall with resinous, fruity, potent buds.",
 			 "descriptionAbbrev":  "This plant is tall with resinous, fruity, potent buds.",
@@ -10475,7 +10475,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Sensi Seeds created Jack Herer hoping to capture both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects.",
-			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
+			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, Clear headed, and creative.",
 			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "imageUrl": "images/strains/jack-herer_100x100.jpg"
 			},
@@ -11842,8 +11842,8 @@
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Mellow", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "A clear-headed, happy high develops into a mellow contentment.",
-			 "descriptionAbbrev":  "A clear-headed, happy high develops into a mellow contentment.",
+			 "descriptionDetailed": "A Clear headed, happy high develops into a mellow contentment.",
+			 "descriptionAbbrev":  "A Clear headed, happy high develops into a mellow contentment.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 			},
@@ -16859,8 +16859,8 @@
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Insomnia", "Inflammation", "Muscle Spasms"],
 			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Paranoid"],
-			 "descriptionDetailed": "Almost entirely indica, this strain’s powerful high is sedative and popular for pain relief and insomnia.",
-			 "descriptionAbbrev":  "Almost entirely indica, this strain’s powerful high is sedative and popular for pain relief and insomnia.",
+			 "descriptionDetailed": "Almost entirely indica, this strain's powerful high is sedative and popular for pain relief and insomnia.",
+			 "descriptionAbbrev":  "Almost entirely indica, this strain's powerful high is sedative and popular for pain relief and insomnia.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/uw_100x100.jpg"
 			},
@@ -21873,12 +21873,12 @@
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Fruity"],
 		 	 "conditions": ["Pain", "Stress", "Appetite Loss"],
-			 "positiveEffects": ["Soothing", "Relaxed", "Enhanced Hunger", "Long Lasting", "Very potent"],
+			 "positiveEffects": ["Peaceful", "Relaxed", "Enhanced Hunger", "Long Lasting", "Very potent"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
 			 "descriptionDetailed": "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
 			 "descriptionAbbrev":  "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
 			 "tags": [""],
-			 "imageUrl": "images/strains/la-chocolat_100x100.jpg"
+			 "imageUrl": "images/strains/DNA_Genetics_Seeds_-_LA_Chocolat.jpg"
 			},
 			{"strainId": 151,
 			 "strainName": "Afghani Bullrider",
@@ -22557,7 +22557,7 @@
 		 	],
 		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Clear-headed", "Long Lasting", "Relaxed", "Creative", "Conversational"],
+			 "positiveEffects": ["Clear headed", "Long Lasting", "Relaxed", "Creative", "Conversational"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Couch lock"],
 			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
@@ -23700,7 +23700,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "The flowers are emerald green and frosty with a sweet aroma resembling the unmistakable Jack Herer pungency. This strain's seemingly only flaw is the top-shelf price that tends to come with its exceptional quality.",
-			 "descriptionAbbrev":  "Best known for its strong, uplifting, clear-headed buzz that allows for mobility.",
+			 "descriptionAbbrev":  "Best known for its strong, uplifting, Clear headed buzz that allows for mobility.",
 			 "tags": ["Hybrid", "J1", "PMS"],
 			 "imageUrl": "images/strains/j1_100x100.jpg"
 			},
@@ -26208,7 +26208,7 @@
 		 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
 		 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 		 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
-		 	"descriptionAbbrev":  "Known to deliver clear-headed, energetic effects that can verge on psychedelic at times",
+		 	"descriptionAbbrev":  "Known to deliver Clear headed, energetic effects that can verge on psychedelic at times",
 		 	"tags": ["Kali Mist"],
 		 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
 		},
@@ -28145,8 +28145,8 @@
 		 	 "conditions": ["Stress", "Hypertension", "Depression"],
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Citrix entices the senses before drawing you into its active, clear-headed euphoria.",
-			 "descriptionAbbrev": "Citrix entices the senses before drawing you into its active, clear-headed euphoria.",
+			 "descriptionDetailed": "Citrix entices the senses before drawing you into its active, Clear headed euphoria.",
+			 "descriptionAbbrev": "Citrix entices the senses before drawing you into its active, Clear headed euphoria.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Citrix.jpg"
 			},
@@ -28715,8 +28715,8 @@
 		 	 "conditions": ["Stress", "Depression", "Pain", "Nausea", "Fatigue"],
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Dizzy"],
-			 "descriptionDetailed": "The effects are clear-headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
-			 "descriptionAbbrev": "The effects are clear-headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
+			 "descriptionDetailed": "The effects are Clear headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
+			 "descriptionAbbrev": "The effects are Clear headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cinex_100x100.jpg"
 			},
@@ -28941,7 +28941,7 @@
 		 	], 
 		 	"taste": [""],
 		 	 "conditions": ["Epilepsy", "Nausea", "Pain"],
-			 "positiveEffects": ["Clear-headed", "Pain relief"],
+			 "positiveEffects": ["Clear headed", "Pain relief"],
 			 "negativeEffects": ["Dry Mouth"],
 			 "descriptionDetailed": "This is a strong medical choice that won't get patients high. In addition to seizure disorders, medical uses include treatment of pain and nausea.",
 			 "descriptionAbbrev": "This is a strong medical choice that won't get patients high. In addition to seizure disorders, medical uses include treatment of pain and nausea.",
@@ -29511,7 +29511,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Citrus"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fibromyalgia", "Nausea", "Migraines"],
-			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Euphoric", "Energetic", "Clear-headed", "Creative"],
+			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Euphoric", "Energetic", "Clear headed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes",  "Dizzy", "Anxious", "Headache"],
 			 "descriptionDetailed": " The effects of Flo are described as energetic yet subtle, making it ideal for many as a wake and bake. Flo can provide a perfect boost for creative types, sparking inspiration for artists and musicians.",
 			 "descriptionAbbrev": " The effects of Flo are described as energetic yet subtle, making it ideal for many as a wake and bake. Flo can provide a perfect boost for creative types, sparking inspiration for artists and musicians.",
@@ -31563,7 +31563,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Pungent"],
 		 	 "conditions": ["Fibromyalgia", "Pain"],
-			 "positiveEffects": ["Energetic", "Pain relief", "Long Lasting", "Clear-headed"],
+			 "positiveEffects": ["Energetic", "Pain relief", "Long Lasting", "Clear headed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Black Cherry Soda is a potent medicine that hits without heavy sedation, making it popular among patients treating severe symptoms throughout the day.",
 			 "descriptionAbbrev": "Black Cherry Soda is a potent medicine that hits without heavy sedation, making it popular among patients treating severe symptoms throughout the day.",
@@ -31907,8 +31907,8 @@
 		 	 "conditions": ["Fibromyalgia","Stress", "Pain", "Depression", "Nausea", "Insomnia"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
-			 "descriptionDetailed": "Strong coffee,blueberry,sweet flavors and a smooth smoke with a heavy throat hit.",
-			 "descriptionAbbrev": "Strong coffee,blueberry,sweet flavors and a smooth smoke with a heavy throat hit.",
+			 "descriptionDetailed": "Strong coffee, blueberry, sweet flavors and a smooth smoke with a heavy throat hit.",
+			 "descriptionAbbrev": "Strong coffee, blueberry, sweet flavors and a smooth smoke with a heavy throat hit.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blueberry-cheesecake_100x100.jpg"
 			},
@@ -34073,8 +34073,8 @@
 		 	 "conditions": ["Pain", "Fibromyalgia", "Depression", "Stress", "Muscle Spasms", "Insomnia"],
 			 "positiveEffects": ["Relaxed", "Creative", "Uplifted", "Euphoric", "Happy", "Pain relief", "Enhanced Drowsiness"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Dry Mouth", "Paranoid", "Dizzy", "Headache", "Dry Eyes"],
-			 "descriptionDetailed": "Want pungent, tangy tasty weed that isn’t a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
-			 "descriptionAbbrev": "Want pungent, tangy tasty weed that isn’t a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
+			 "descriptionDetailed": "Want pungent, tangy tasty weed that isn't a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
+			 "descriptionAbbrev": "Want pungent, tangy tasty weed that isn't a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sour-cheese_100x100.jpg"
 			},
