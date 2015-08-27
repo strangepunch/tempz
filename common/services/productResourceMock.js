@@ -2828,7 +2828,7 @@
 			{"recEffectId": 30,
 			 "recEffectName": "Clear headed",  
 			 "recEffectType": "P",
-			 "recEffectTempRange" : "L",
+			 "recEffectTempRange" : "Lo",
 			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,

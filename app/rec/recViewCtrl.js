@@ -406,7 +406,7 @@
 			    	if(vm.tasteTemp != -1 && vm.tasteTemp <= 365){
 			    		return "active2";
 			    	}
-			    	else if(vm.effectT === 'L'){
+			    	else if(vm.effectT === 'Lo'){
 			    		return "active2";
 			    	}
 			    	break;
@@ -414,7 +414,7 @@
 			    	if(365 < vm.tasteTemp && vm.tasteTemp < 392){
 			    		return "active2";
 			    	}
-			    	else if(vm.effectT === 'M'){
+			    	else if(vm.effectT === 'Md'){
 			    		return "active2";
 			    	}
 			    	break;
@@ -422,7 +422,7 @@
 			    	if(vm.tasteTemp >= 392){
 			    		return "active2";
 			    	}
-			    	else if(vm.effectT === 'H'){
+			    	else if(vm.effectT === 'Hi'){
 			    		return "active2";
 			    	}
 			    	break;
