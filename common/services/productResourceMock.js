@@ -37513,6 +37513,7 @@
 		var detailsUrl = "/api/details";
 		var detailModeUrl = "/api/detailModes";
 		var vapeTempUrl = "/api/vapeTemps";
+		var vTipUrl = "/api/vTips";
 
 		$httpBackend.whenGET(productUrl).respond(products);
 		$httpBackend.whenGET(temperatureUrl).respond(temperatures);
@@ -37528,6 +37529,7 @@
 		$httpBackend.whenGET(detailsUrl).respond(strains);
 		$httpBackend.whenGET(detailModeUrl).respond(detailModes);
 		$httpBackend.whenGET(vapeTempUrl).respond(vapeTemps);
+		$httpBackend.whenGET(vTipUrl).respond(vTips);
 
 		var editingRegex = new RegExp(strainUrl + "/[0-9][0-9]*", '');
 
