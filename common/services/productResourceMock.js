@@ -335,7 +335,7 @@
 			 "VTempsC": ["177"],
 			 "VColors": ["Lo"],
 			 "descriptionAbbrev": "For dry herb, the Series 3 uses conduction heating with a temp range from 350-375 degrees Fahrenheit. The temperature is regulated based on a number of things to include your herbs, grind time and draw speed.",
-			 "VImageUrl": "images/vapes/v2pro_series3.jpg",
+			 "VImageUrl": "images/vapes/v2ProSeries3.jpg",
 			}, 
 			{"VId": 30,
 			 "VName": "V2 Pro Series 7", 
@@ -346,7 +346,7 @@
 			 "VTempsC": ["200", "215", "225"],
 			 "VColors": ["Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Series 7 is capable of vaporizing three, different mediums: e-liquid, loose leaf and wax. Allow the smart technology of your device to warm your chosen cartridge automatically, or use the variable voltage and temperature settings to tailor a custom vapor experience.",
-			 "VImageUrl": "images/vapes/v2pro7_thumb.jpg",
+			 "VImageUrl": "images/vapes/V2ProSeries7.jpg",
 			},
 			{"VId": 31,
 			 "VName": "G-Pro", 
@@ -2255,62 +2255,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/v2ProSeries3.jpg"
 				 	}
 			 	]
 			},
@@ -2321,62 +2321,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/V2ProSeries7.jpg"
 				 	}
 			 	]
 			},
@@ -2387,62 +2387,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/GPro-Pen-Solo.jpg"
 				 	}
 			 	]
 			},
@@ -2453,62 +2453,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "For the best performance and most vapor production you should grind up your dry herbs fine and pack the chamber full, then tamp it down a tiny bit.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "For the best low temp flavors and effects, set your vape on the lowest temperature setting and begin inhaling as it heats up to the selected setting.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/kvape_microDx.jpg"
 				 	}
 			 	]
 			},
@@ -2519,62 +2519,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.jpg"
 				 	}
 			 	]
 			},
@@ -2585,62 +2585,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Underdog-001-225x300.jpg"
 				 	}
 			 	]
 			},
@@ -4770,6 +4770,18 @@
 			 	"strainName": "The Truth",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/the-truth_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Triple Diesel",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/triple-diesel_100x100.jpg"
+			 	
+			},
+			{"strainId": 265                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Grape Crush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/grape-crush_100x100.jpg"
 			 	
 			}
 
@@ -34875,6 +34887,234 @@
 			 "descriptionAbbrev": "Its heavy painkilling properties are accented by an earthy, spicy aroma characteristic of Kush varieties.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/the-truth_100x100.jpg"
+			},
+			{"strainId": 264,
+			 "strainName": "Triple Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Earthy", "Tropical", "Chemical", "Pungent"],
+		 	 "conditions": ["Stress", "Pain", "Anxiety", "Fatigue", "Muscle Spasms", "Fibromyalgia", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Happy", "Euphoric", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Dry Eyes", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "A focused head high at small doses and a deeply relaxing head high at larger doses. The THC content of this workhorse can reach 22%, making it easily one of the strongest strains out there.",
+			 "descriptionAbbrev": "A focused head high at small doses and a deeply relaxing head high at larger doses. The THC content of this workhorse can reach 22%, making it easily one of the strongest strains out there.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/triple-diesel_100x100.jpg"
+			},
+			{"strainId": 265,
+			 "strainName": "Grape Crush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.46	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.06 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.71
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.16
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.37
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.86
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.36
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Grape", "Berry", "Sweet"],
+		 	 "conditions": ["Pain", "Fibromyalgia", "Insomnia", "Muscle Spasms", "Cramps", "Stress"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Pain relief", "Enhanced Hunger", "Conversational" ],
+			 "negativeEffects": ["Couch Lock", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Intended to produce a slow-moving high that relaxes the body and inspires the mind.",
+			 "descriptionAbbrev": "Intended to produce a slow-moving high that relaxes the body and inspires the mind.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/grape-crush_100x100.jpg"
 			}
 		];
 		
