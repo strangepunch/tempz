@@ -607,6 +607,11 @@ html, body {
 #recView .sizeImage img{
 	width: 35%;
 }
+#recView .vapeDetail{
+	display: list-item;
+	list-style: none;
+	padding-left: 45%;
+}
 
 /**----------Temps View---------------**/
 /**
