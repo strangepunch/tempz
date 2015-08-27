@@ -10,9 +10,10 @@
              "recEffectResource", 
              "strainResource",
              "vapeTempResource",
+             "vTipResource",
               StrainDetailCtrl]);
   
-  function StrainDetailCtrl($scope,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource){
+  function StrainDetailCtrl($scope,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource,vTipResource){
     var vm = this;
 
     //strain that is passed over
@@ -440,7 +441,30 @@
       vm.showQ2 = false;
       vm.tipShow = "Show Tips";
 
+      vm.tipList(vm.selectedVape);
+
+      //F or C select
+      vm.currentTemp = 'F';
+      vm.tempDisplay = 126;
+      //set the ng-style of the temperature selection
+      vm.styleF={"color":"Red","font-size": "1.2em"};
+      vm.styleC={"color":"white","font-size": "0.8em"};
+
     };
+    //----------Temp type-------------//
+    //change between F and C
+    $scope.selectTemp = function(name){
+      vm.currentTemp = name;
+      if(name === 'C'){
+        vm.styleF={"color":"white","font-size": "0.8em"};
+        vm.styleC={"color":"Red","font-size": "1.2em"};
+        vm.TempList = vm.TempCList;
+      }else if(name === 'F'){
+        vm.styleF={"color":"Red","font-size": "1.2em"};
+        vm.styleC={"color":"white","font-size": "0.8em"};
+        vm.TempList = vm.TempFList;
+      }
+    }
 
     //--------Toggle Questions On/Off-----//
     vm.toggleQuestion = function(choice){
@@ -458,6 +482,59 @@
           break;
       }
     };
+
+    //---------Pull up the tips--------//
+    //get that list of tips
+    vm.tipList = function(name){
+      vm.showNext = false;
+      vm.showBack = false;
+      vTipResource.query(function(data){
+        var tempArray = [];
+        for(var i=0; i<data.length; i++){
+          if(data[i].VName === name){
+            tempArray = data[i].VTipList;
+          }
+        }
+        vm.listOfTips = tempArray;
+        vm.currentTip = vm.listOfTips[0];
+        vm.currentIndex = 0;
+        vm.totalIndex = vm.listOfTips.length;
+        if(vm.listOfTips.length <= 1){
+          vm.showNext = false;
+          vm.showBack = false;
+        } else{
+          vm.showNext = true;
+        }
+
+      });
+
+    }
+    //scroll forward
+    vm.Next = function(){
+      if(vm.currentIndex < vm.listOfTips.length-2){
+        vm.currentIndex++;
+        vm.showNext = true;
+        vm.showBack = true;
+        vm.currentTip = vm.listOfTips[vm.currentIndex];
+      }else{
+        vm.currentIndex = vm.listOfTips.length-1;
+        vm.showNext = false;
+        vm.currentTip = vm.listOfTips[vm.currentIndex]; 
+      }
+    }
+    //scroll backward
+    vm.Back = function(){
+      if(vm.currentIndex > 1){
+        vm.currentIndex--;
+        vm.showNext = true;
+        vm.showBack = true;
+        vm.currentTip = vm.listOfTips[vm.currentIndex];
+      }else{
+        vm.currentIndex = 0;
+        vm.showBack = false;
+        vm.currentTip = vm.listOfTips[vm.currentIndex];
+      }
+    }
       
   }//end of StrainDetailCtrl function
     

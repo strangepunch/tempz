@@ -612,6 +612,37 @@ html, body {
 	list-style: none;
 	padding-left: 45%;
 }
+#recView .txtCentering{
+	display: list-item;
+	list-style: none;
+	text-align: center;
+}
+#recView .addPadding{
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#recView .tips .panel-footer{
+	height: 35px;
+}
+#recView .tips .panel-body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#recView .tips .panel-body div{
+	background-color: rgba(1,40,2,0.5);
+	background-size: cover;
+	/**background-color: rgba(255, 153, 204, .8);**/
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: -35px;
+	padding-left: 35px;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
 
 /**----------Temps View---------------**/
 /**
