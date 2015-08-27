@@ -34,8 +34,8 @@
 			 "VManufacturer" : "Storz & Bickels",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["104", "370" "410"],
-			 "VTempsC": ["40", "", "210"],
+			 "VTempsF": ["104", "370", "410"],
+			 "VTempsC": ["40", "187", "210"],
 			 "VColors": ["Lo", "Md", "Hi"],
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
 			 "VImageUrl": "images/vapes/mighty1.png"
