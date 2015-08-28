@@ -477,7 +477,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "To maximize your taste experience use low temps. The best way to do this is to insert your mouthpiece, turn the Air on to the lowest setting and begin using it as it warms up to the first temperature. This ensures you get all the low temp effects which typically is where the tastesin your strain are best experienced.",
+				 		"tipTxt": "To maximize your taste experience use low temps. The best way to do this is to insert your mouthpiece, turn the Air on to the lowest setting and begin using it as it warms up to the first temperature. This ensures you get all the low temp effects which typically are where the flavors in your strain are best experienced.",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
@@ -487,12 +487,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "To reach temps that are not specifically at one of the preset levels on the Air, try vaping between levels by while the Air is heating up to the next highest level.",
+				 		"tipTxt": "To reach temps that are not at one of the preset levels, try vaping between levels by setting your temperature to the level just below the temp your looking for. Then set it to the temp just above and vaporize while the Air is heating up to the next highest level.",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "Remember the ghost hit. There is one hit typically still present when you turn the Air off.",
+				 		"tipTxt": "Remember the ghost hit. There is one hit typically still there when you turn the Air off. While it is cooling off, grab the ghost hit. ",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
@@ -1775,7 +1775,7 @@
 				 		"TipImg" : "images/vapes/pax1.png"
 				 	},
 				 	{ 
-				 		"tipNum": "11", 
+				 	 	"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/pax1.png"
 				 	},
