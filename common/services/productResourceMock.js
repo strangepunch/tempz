@@ -37,7 +37,7 @@
 			 "VTempsF": ["104", "370", "410"],
 			 "VTempsC": ["40", "187", "210"],
 			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below are just to indicate that it is capable of low, medum and high temperatures.",
+			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below indicate that it is capable of low, medum and high temperatures.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
 			{"VId": 3,
@@ -48,7 +48,7 @@
 			 "VTempsF": ["122", "365", "374", "383", "393", "401", "410"],
 			 "VTempsC": ["50", "185", "190", "195", "200", "205", "210"],
 			 "VColors": ["Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
-			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
+ 			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
 			 "VImageUrl": "images/vapes/solo1.png"
 			},
 			{"VId": 4,
@@ -320,8 +320,8 @@
 			 "VManufacturer" : "Herbalizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "370", "445"],
-			 "VTempsC": ["0", "187", "229"],
+			 "VTempsF": ["290", "370", "445"],
+			 "VTempsC": ["143", "187", "229"],
 			 "VColors": ["Lo", "Md", "Hi"],
 			 "descriptionAbbrev": "The Herbalizer, or Herbie for short, is a high-tech medical device for cannabis patients seeking consistency in dosage and effects. Achieve consistent and precise temperatures to heat specific cannabinoids for your desired medicinal effects.",
 			 "VImageUrl": "images/vapes/herbalizer.png",
@@ -609,7 +609,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "When sharing the session with others you can prevent interruption by the automatic shutoff by suggesting each person press the on off button once when as soon as they take the Mighty.",
+				 		"tipTxt": "When sharing the session with others you can prevent interruption by the automatic shutoff by suggesting each person press the on off button as soon as they take their turn.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
@@ -624,7 +624,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Air will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
+				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Mighty will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
@@ -807,12 +807,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "Although there are no specific temperature settings on the DBV, if you are looking for low temp flavors or effects you can still get them. Set the SSV to a 12:00 position or less and while it is heating up begin vaping. Any low temp benefits should now be yours.",
+				 		"tipTxt": "Although there are no specific temperature settings on the DBV, if you are looking for low temp flavors or effects you can still get them. Set your DBV to a 12:00 position or less and while it is heating up begin vaping. Any low temp benefits should now be yours.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "Since the DBV is capable of very high temperatures, there is a risk of combusting your herb if you set it too high. This would both release dangerous chemicals such as benzene and toluene into your system as well as affect the taste of future sessions. Most SSV owners suggest a setting between 12:00 and 3:00 to prevent this but each device is made differently so be cautious and experiment to find your favorite setting.",
+				 		"tipTxt": "Since the DBV is capable of very high temperatures, there is a risk of combusting your herb if you set it too high. This would both release dangerous chemicals such as benzene and toluene into your system as well as affect the taste of future sessions. Most DBV owners suggest a setting between 12:00 and 3:00 to prevent this but each device is made differently so be cautious and experiment to find your favorite setting.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
@@ -822,7 +822,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "To minimize the risk of having herb enter the SSV heating chamber always remove the wand between draws.",
+				 		"tipTxt": "To minimize the risk of having herb enter the DBV heating chamber always remove the wand between draws.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
@@ -1437,7 +1437,7 @@
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
@@ -1858,12 +1858,12 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Without combustion none of the associated noxious gasses such as CO and CO2 are created. Vaporization releases the active ingredients of organic matter without combustion.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": " Apply 3-5 drops of essential oil to the aromapad by tapping your finger on the back of the bottle. Add a few extra drops for larger rooms.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -2056,27 +2056,27 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use this unit with your own water tool, or you can get it with one of their matching HydraTubes that fit on top. These glass pieces hold a little bit of water and allow you to further cool and condition the vapor to make it as comfortable as possible.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When using it with herbs you can pack the chamber with as little as .1g or as much as ~.5g. The more you pack the more draws you can take, just don’t pack it too tight and don’t pack it more than about 80% full so airflow doesn’t get restricted.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It may sound a bit odd, but using warm/hot water in your hydrotube while vaporizing will actually give you the best results.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "For personal sessions, it works well at about fifty percent full, or about one quarter of a gram. I really wouldn’t put more than half a gram in, because it will affect how well your material vaporizes.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The hydratubes can be cleaned just like any other water pipe. 99% isopropyl alcohol works wonders.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
@@ -2122,27 +2122,27 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It does seem to work better, and you’ll get better vapor and more vapor if you put a decent amount of material inside the chamber or the crucible.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": " Cleaning the chamber will avoid any vuild up over time of leftover material, giving you the quality you expect from the HerbalAire each time you use it.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When using just the mouthpiece, not the whip, for direct inhalation you will want to lower whatever normal vaporizing temperature you use slightly because the vapor going from the vaporizer itself straight to the mouthpiece for inhalation can leave it kind of hot.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "For direct inhalation, some owners like to start with 335 to get the flavor of the herb. You should see vapor at that temp. Take a couple of 2 breaths and then move up 10 degrees. Keep doing this until you get to 375.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Watch out for the crucible. It gets super hot for obvious reasons but cools down FAST. Within a minute or 2. Try to get an extra one if you can so you can reload quickly if need be.",
 				 		"TipImg" : "images/vapes/herbalizer.png"
 				 	},
 				 	{ 
