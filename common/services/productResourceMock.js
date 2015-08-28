@@ -6038,7 +6038,7 @@
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody", "Citrus", "Mint"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress", "Pain", "Appetite Loss", "Inflammation", "Depression"],
-			 "positiveEffects": ["Very Potent", "Clear headed", "Euphoric", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow", "Enhanced Hunger"],
+			 "positiveEffects": ["Very potent", "Clear headed", "Euphoric", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow", "Enhanced Hunger"],
 			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
@@ -7855,7 +7855,7 @@
 			 		"name": "Humulene", 
 			 		"value": 0.00
 				},
-				{ 
+					{ 
 			 		"name": "Terpinolene", 
 			 		"value": 0.00
 				} 	
@@ -7863,7 +7863,7 @@
 		 	"taste": ["Earthy", "Skunk", "Sweet"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Migraines", "Muscle Spasms", "Pain", "Stress", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Anxiety", "Multiple Sclerosis"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
-			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry eyes", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry Eyes", "Paranoid"],
 			 "descriptionDetailed": "Tests have put ACDC's CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
 			 "descriptionAbbrev":  "This strain induces no psychoactive effects.",
 			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
@@ -8661,7 +8661,7 @@
 		 	"taste": ["Cheese", "Pungent", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD","Anorexia","Arthritis", "Pain","Bipolar","Depression", "Insomnia", "Appetite Loss", "Nausea", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Conversational", "Creative"],
-			 "negativeEffects": ["Anxious", "Cotton Mouth", "Dry Eyes", "Dizzy", "Munchies"],
+			 "negativeEffects": ["Anxious", "Dry Mouth", "Dry Eyes", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Medical patients have used the potent and heavy effects of Confidential Cheese to treat severe pain, insomnia, and lost appetite..",
 			 "descriptionAbbrev":  "This indica-dominant strain has pale green crystal-covered buds with a sour cheese aroma inherited from its parent.",
 			 "tags": ["Indica", "Confidential Cheese", "Cheese", "Bipolar", "Nausea", "Stress"],
@@ -9229,9 +9229,9 @@
 				} 	
 		 	], 
 		 	"taste": ["Sweet","Flowery","Woody"], 
-		 	 "conditions": ["Bipolar", "Social Anxiety"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache"],
+		 	 "conditions": ["Bipolar", "Social Anxiety", "Stress", "Pain", "Insomnia"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational", "Enhanced Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Couch lock"],
 			 "descriptionDetailed": "Effects of this strain are upbeat and social overall, so much so that it might be too energetic for some users, especially if sleep is the goal. Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
 			 "descriptionAbbrev":  "Effects of this strain are upbeat and social overall.",
 			 "tags": ["Sativa", "Euphoria", "Bipolar"],
@@ -9344,7 +9344,7 @@
 		 	],  
 		 	"taste": ["Fruity"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Very Potent", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Very potent", "Enhanced Drowsiness"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "This plant is tall with resinous, fruity, potent buds.",
 			 "descriptionAbbrev":  "This plant is tall with resinous, fruity, potent buds.",
@@ -10941,7 +10941,7 @@
 		 	"taste": ["Sweet", "Lemon", "Diesel"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Enhanced Sexual Desire"],
-			 "negativeEffects": [""],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Its complex terpene profile and heavy resin production make Super Lemon OG an excellent choice for producing top-notch concentrates, like the two extracts that took home prizes at the 2014 High Times' Cannabis Cup in Amsterdam.",
 			 "descriptionAbbrev":  "Its taste and aroma carry a strong citrus note that is entangled with tones of spicy pepper and pungent diesel fuel.",
 			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar", "Migraines", "Headache"],
@@ -11052,14 +11052,14 @@
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Earthy", "Chocloate", "Lemon"],
+		 	"taste": ["Earthy", "Chocolate", "Lemon"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Insomnia", "Hypertension", "Fibromyalgia", "Depression", "Bipolar", "Arthritis", "Anxiety"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Motivated"],
 			 "negativeEffects": ["Conversational"],
 			 "descriptionDetailed": "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "descriptionAbbrev":  "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/lulu200x160.jpg"
 			},
 			{"strainId": 56,
 			 "strainName": "Magic Jack", 
@@ -17100,7 +17100,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused", "Enhanced Sexual Desire"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "While growing and after it's harvested, these plants have a sharp and fruity smell that brings to mind fermentation.",
-			 "descriptionAbbrev":  "Blue Moonshine is a very potent blueberry indica strain that provides a nice body high.",
+			 "descriptionAbbrev":  "Blue Moonshine is a Very potent blueberry indica strain that provides a nice body high.",
 			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
 			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
@@ -17110,15 +17110,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.50
+			 		"value": 25.75
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.18
+			 		"value": 3.86
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.13
+			 		"value": 1.13
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -17209,10 +17209,10 @@
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Blueberry", "Pungent", "Sweet"],
-		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative"],
-			 "negativeEffects": [""],
+		 	"taste": ["Blueberry", "Pungent", "Sweet", "Skunk"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative", "Enhanced Sexual Desire"],
+			 "negativeEffects": ["Couch lock", "Enhanced Drowsiness"],
 			 "descriptionDetailed": "This peculiar cannabis can be an exceptionally exciting fast-paced roller coaster, or a demonic heart-throbbing anxiety hell.",
 			 "descriptionAbbrev":  "Only takes a couple hits to get blazed for several hours.",
 			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
@@ -19493,8 +19493,8 @@
 		 	 "conditions": ["Anxiety", "Depression", "Migraines", "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "Sweet, with some sour aftertaste.",
-			 "descriptionAbbrev":  "Sweet, with some sour aftertaste.",
+			 "descriptionDetailed": "A flavorful mix of sweet mango and tropical flavors that invigorate the senses and uplift your mood.",
+			 "descriptionAbbrev":  "A flavorful mix of sweet mango and tropical flavors that invigorate the senses and uplift your mood.",
 			 "tags": ["Sativa", "Mango Maui", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/mango-maui-578x385.jpg"
 			},
@@ -23483,8 +23483,8 @@
 		 	 "conditions": ["Stress", "Pain", "Depression", "Muscle Spasms", "Insomnia"],
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Enhanced Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy", "Enhanced Drowsiness"],
-			 "descriptionDetailed": "Green Queen is gold and yellow in color and known to provide a strong body buzz.",
-			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz",
+			 "descriptionDetailed": "Green Queen is gold and yellow in color and known to provide a strong body buzz. Extremely stony but not lazy high at all. Great for a social meet up and just chillin as well.",
+			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz. Extremely stony but not lazy high at all. Great for a social meet up and just chillin as well.",
 			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
 			 "imageUrl": "images/strains/green-queen_100x100.jpg"
 			},
@@ -31574,9 +31574,9 @@
 				}	
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Pungent"],
-		 	 "conditions": ["Fibromyalgia", "Pain"],
-			 "positiveEffects": ["Energetic", "Pain relief", "Long Lasting", "Clear headed"],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Stress", "Anxiety", "Appetite Loss"],
+			 "positiveEffects": ["Energetic", "Pain relief", "Long Lasting", "Clear headed", "Balanced", "Creative", "Relaxed", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Munchies", "Anxious"],
 			 "descriptionDetailed": "Black Cherry Soda is a potent medicine that hits without heavy sedation, making it popular among patients treating severe symptoms throughout the day.",
 			 "descriptionAbbrev": "Black Cherry Soda is a potent medicine that hits without heavy sedation, making it popular among patients treating severe symptoms throughout the day.",
 			 "tags": [""],
