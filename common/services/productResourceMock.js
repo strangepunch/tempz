@@ -269,7 +269,7 @@
 			 "VTempsC": ["220"],
 			 "VColors": ["Hi"],
 			 "descriptionAbbrev": "Known for their essential oil vaporizers such as the Cloud and the second generation Cloud Platinum, Cloud V Enterprises now introduces a powerful vape pen to the industry, specifically for dry herbs.",
-			 "VImageUrl": "images/vapes/pax2black.png",
+			 "VImageUrl": "images/vapes/phantom.png",
 			},
 			{"VId": 24,
 			 "VName": "Alfa", 
@@ -507,7 +507,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "Heating your well used mouthpiece in hot milk and then making hot chocolate can make a long lasting boost to your day. Just be sure to wathc the milk so it doesn't boil and stir often.",
+				 		"tipTxt": "Heating your well used mouthpiece in hot milk and then making hot chocolate can make a long lasting boost to your day. Just be sure to watch the milk so it doesn't boil and stir often.",
 				 		"TipImg" : "images/vapes/arizer_air2.png"
 				 	},
 				 	{ 
@@ -563,37 +563,37 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Air will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
+				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Crafty will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use 100% Isopropyl alcohol & cotton tips to clean every 3-5 bowls.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Make sure you grind fine. The finer, the more vapour you get. It also makes me feel like the bowl lasts forever too. Just grind for double what you normally would, and test.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use the filling tool to stir the bowl half way through. It is also super important to re-compress the bowl with the flat part. The tigher the bowl, the better the vape experience will be.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When re-inserting the cooling chamber filter, bend it like a dome and then insert into place easily, you'll start ruining the mesh if you don't and you try to force it into the circular grooves with it angled flat straight.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Any amount of herb should be ok as long as you use the liquid pad to compress. It just needs to keep the herb compacted.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Start at lower temperatures and work your way up. Find a starting temp and vape until you can't see any more vapor, then increase 10C and repeat.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	}
 			 	]
@@ -629,37 +629,37 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use 100% Isopropyl alcohol & cotton tips to clean every 3-5 bowls.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Make sure you grind fine. The finer, the more vapour you get. It also makes me feel like the bowl lasts forever too. Just grind for double what you normally would, and test.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use the filling tool to stir the bowl half way through. It is also super important to re-compress the bowl with the flat part. The tigher the bowl, the better the vape experience will be.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When re-inserting the cooling chamber filter, bend it like a dome and then insert into place easily, you'll start ruining the mesh if you don't and you try to force it into the circular grooves with it angled flat straight.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Any amount of herb should be ok as long as you use the liquid pad to compress. It just needs to keep the herb compacted.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Start at lower temperatures and work your way up. Find a starting temp and vape until you can't see any more vapor, then increase 10C and repeat.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use a small Althoids container to hold your ABV when you're on the go.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	}
 			 	]	
@@ -715,17 +715,17 @@
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "To maximize the life of your PNP, use settings 1-3 most often. Although Vaporblunt advertises the unit is built to handle higher temps, a number of users have reported problems with the unit that result from repeated use at levels 4 and 5.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When cleaning your Mouthpieces, try not to leave it in isopropyl alcohol for more than 1-3 minutes at a time. Then rinse with water and allow to dry. This will keep the plastic in good condition over time.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Many PNP owners have found that using the pong mouthpiece gives more satisfying results.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	}
 			 	]	
@@ -761,32 +761,32 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Dont toke too slow as it can burn the herb, nice short fast puffs.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Be careful of banging out the glass wand on the table or ashtray, it will crack after a while.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The SSV has a pretty narrow air stream, you may want to rotate the wand as you're hitting it for a more even vape and try not to load the bowl more than half full.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use a medium fine grind and stir the bowl with the pick after every hit.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Both screens and tubing are a good deal from the 7th Floor site, and will be needed. It's also a good idea to get an extra wand, in case of an accident.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Take a smaller hit. Only fill up your lungs to like half capacity. Hold that in. Hold it in longer than you ever though you would need to hold your breath. When you finally do exhale, you should see nothing or next to nothing come out. Using this method, you can get medicated on next to nothing.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
@@ -817,7 +817,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "If you prefer concentrates, some SSV owners have found that placing the wax, hash or oil in a bed of herb can be a pleasant combination. Of course, higher temperatures will be needed to get the most from your concentrates.",
+				 		"tipTxt": "If you prefer concentrates, some DBV owners have found that placing the wax, hash or oil in a bed of herb can be a pleasant combination. Of course, higher temperatures will be needed to get the most from your concentrates.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
@@ -827,32 +827,32 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Both screens and tubing are a good deal from the 7th Floor site, and will be needed. It's also a good idea to get an extra wand, in case of an accident.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use a medium fine grind and stir the bowl with the pick after every hit.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Dont toke too slow as it can burn the herb, nice short fast puffs.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Be careful of banging out the glass wand on the table or ashtray, it will crack after a while.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "To minimize the risk of having herb enter the DBV heating chamber always remove the wand between draws.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Take a smaller hit. Only fill up your lungs to like half capacity. Hold that in. Hold it in longer than you ever though you would need to hold your breath. When you finally do exhale, you should see nothing or next to nothing come out. Using this method, you can get medicated on next to nothing.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	},
 				 	{ 
@@ -878,22 +878,22 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Take a smaller hit. Only fill up your lungs to like half capacity. Hold that in. Hold it in longer than you ever though you would need to hold your breath. When you finally do exhale, you should see nothing or next to nothing come out. Using this method, you can get medicated on next to nothing.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
-				 	},
+				 	}, 
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Have a 4 piece grinder with a bunch of kief? You can vaporize that, but it's so fine it will fly through the screen. Break off a little cotton ball/q-tip and use tweezers to roll it in the pollen. Stick that in your lsv, crank it up to like 3 o clock and enjoy.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Have someone you want to share your LSV with, but they have never vaped? Give them an empty wand that hasn't been cleaned thoroughly yet. Even with nothing in it you can get at least a few clouds. They can see first hand what it takes to pull vapor and there is no risk at all of messing anything up.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use a medium fine grind and stir the bowl with the pick after every hit.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
@@ -934,47 +934,47 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "$0.78 worth of clear PVC will give you a nice whip. The 5/16 inch is the size that fits perfectly",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Push your straw through a hookah mouth stem for a flat, clean hitting chamber.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use chapstick lids to cover the batteries.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use a tic tac container as a bud dispenser.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use a small Althoids container to hold your ABV when you're on the go.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Always keep your batteries covered to avoid contact with metal in your pocket or purse.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Don't use acrylic grinders. They wear down very quickly and become dangerous, grinding off tiny, sometimes even microscopic, plastic particles into your weed.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "To clean the mouthpiece stem, just dip a cotton swab in alcohol and push through the stem until it's clean, then rinse the stem and let dry.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
@@ -1000,7 +1000,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
@@ -1066,7 +1066,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
@@ -1335,7 +1335,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
@@ -1396,7 +1396,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
@@ -1472,7 +1472,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
@@ -1533,7 +1533,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
@@ -1599,7 +1599,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
@@ -1660,7 +1660,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
@@ -1751,7 +1751,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/pax1.png"
 				 	},
 				 	{ 
@@ -1817,7 +1817,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/pax2black.png"
 				 	},
 				 	{ 
@@ -1859,62 +1859,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "Without combustion none of the associated noxious gasses such as CO and CO2 are created. Vaporization releases the active ingredients of organic matter without combustion.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": " Apply 3-5 drops of essential oil to the aromapad by tapping your finger on the back of the bottle. Add a few extra drops for larger rooms.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/phantom.png"
 				 	}
 			 	]
 			},
@@ -1925,62 +1925,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	}
 			 	]
 			},
@@ -1991,62 +1991,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	}
 			 	]
 			},
@@ -2057,62 +2057,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "You can use this unit with your own water tool, or you can get it with one of their matching HydraTubes that fit on top. These glass pieces hold a little bit of water and allow you to further cool and condition the vapor to make it as comfortable as possible.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": "When using it with herbs you can pack the chamber with as little as .1g or as much as ~.5g. The more you pack the more draws you can take, just don’t pack it too tight and don’t pack it more than about 80% full so airflow doesn’t get restricted.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "It may sound a bit odd, but using warm/hot water in your hydrotube while vaporizing will actually give you the best results.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "For personal sessions, it works well at about fifty percent full, or about one quarter of a gram. I really wouldn’t put more than half a gram in, because it will affect how well your material vaporizes.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "The hydratubes can be cleaned just like any other water pipe. 99% isopropyl alcohol works wonders.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	}
 			 	]
 			},
@@ -2123,62 +2123,62 @@
 				 	{ 
 				 		"tipNum": "1", 
 				 		"tipTxt": "It does seem to work better, and you’ll get better vapor and more vapor if you put a decent amount of material inside the chamber or the crucible.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
 				 		"tipTxt": " Cleaning the chamber will avoid any vuild up over time of leftover material, giving you the quality you expect from the HerbalAire each time you use it.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
 				 		"tipTxt": "When using just the mouthpiece, not the whip, for direct inhalation you will want to lower whatever normal vaporizing temperature you use slightly because the vapor going from the vaporizer itself straight to the mouthpiece for inhalation can leave it kind of hot.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
 				 		"tipTxt": "For direct inhalation, some owners like to start with 335 to get the flavor of the herb. You should see vapor at that temp. Take a couple of 2 breaths and then move up 10 degrees. Keep doing this until you get to 375.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
 				 		"tipTxt": "Watch out for the crucible. It gets super hot for obvious reasons but cools down FAST. Within a minute or 2. Try to get an extra one if you can so you can reload quickly if need be.",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
 				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/herbalizer.png"
+				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	}
 			 	]
 			},
@@ -2254,42 +2254,42 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The V2 pro Series 3 e-cig has a dimple at the top to line it up with the raised area present on the side of the cartridge. This is instrumental in preventing improper insertion of cartridge.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The sleek window on the outer casing informs you the level of fluid as well as the type of cartridge being used.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Using the V2 Pro is as simple as inserting the cartridge and pressing the button for three seconds. Be ready to puff as the indicator light turns green from red. When you hold the button pressed again for three seconds, you will turn off the heating.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It has the lowest warm up time of 25-30 seconds for loose leaves unlike others in the category which take not less than several minutes to do so.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "o lock the Series 3, all you need to do is quickly push the button three times within 2 seconds. This will get the red LED perimeter flashing three times rendering your device unresponsive to accidental activation when not being used. To unlock the e-cigarette, just repeat the process to see the white LEDs flashing indicating an unlocked device.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The V2 Series 3 has a built in safety mechanism that shuts off the device by cutting off the power if you hold the fire button for more than 10 seconds.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When you use it as a loose leaf vaporizer, you can expect it to work at temperatures ranging from 160-180 degrees F. Such temperatures will allow you vaping sessions of approximately 12 hours between charges.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Bear in mind that the standard packing only has an e-liquid cartridge and hence if you are looking for vaping with other mediums, you will need to consider buying different cartridges. They are readily available on the official website of V2.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
@@ -2694,7 +2694,7 @@
 			 "imageUrl": "LongLasting.png"
 			},
 			{"recEffectId": 8,
-			 "recEffectName": "Very potent",  
+			 "recEffectName": "Potent",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
 			 "imageUrl": "VeryPotent.png"
@@ -2706,7 +2706,7 @@
 			 "imageUrl": "Balanced.png"
 			},
 			{"recEffectId": 10,
-			 "recEffectName": "Mental calmness",  
+			 "recEffectName": "Calmness",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
 			 "imageUrl": "MentalCalmness.png"
@@ -2724,7 +2724,7 @@
 			 "imageUrl": "PainRelief.png"
 			},
 			{"recEffectId": 13,
-			 "recEffectName": "Mildly psychoactive",  
+			 "recEffectName": "Psychoactive",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
 			 "imageUrl": "MildlyPsyc.png"
@@ -2742,7 +2742,7 @@
 			 "imageUrl": "IntenseEff.png"
 			},
 			{"recEffectId": 16,
-			 "recEffectName": "Mind and Body Buzz",  
+			 "recEffectName": "Body Buzz",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
 			 "imageUrl": "MindAndBodyBuzz.png"
@@ -2766,7 +2766,7 @@
 			 "imageUrl": "Tingly.png"
 			},
 			{"recEffectId": 20,
-			 "recEffectName": "Enhanced Hunger",  
+			 "recEffectName": "Hungry",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
 			 "imageUrl": "EnhanceHung.png"
@@ -2814,7 +2814,7 @@
 			 "imageUrl": "Headache.png"
 			},
 			{"recEffectId": 28,
-			 "recEffectName": "Enhanced Drowsiness",  
+			 "recEffectName": "Drowsiness",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
 			 "imageUrl": "EnhanceDrow.png"
@@ -2832,7 +2832,7 @@
 			 "imageUrl": "ClearHeaded.png"
 			},
 			{"recEffectId": 31,
-			 "recEffectName": "Enhanced Sexual Desire",  
+			 "recEffectName": "Sexual",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
 			 "imageUrl": "EnhanceSexu.png"
@@ -3193,6 +3193,14 @@
 			"tempF": "0",
 			"tempC": "0",			
 			"imageUrl": "Chocolate.png"
+		},
+		{ 
+			"tasteId": 44,
+			"taste": "Vanilla",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "6.png"
 		}
 
 	];
@@ -4783,8 +4791,37 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/grape-crush_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 266                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Holland's Hope",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/hollands-hope_100x100.jpg"
+			 	
+			},
+			{"strainId": 267                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Black Cherry OG",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/black-cherry-og_100x100.jpg"
+			 	
+			},
+			{"strainId": 268                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Blue Frost",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/blue-frost_100x100.jpg"
+			 	
+			},
+			{"strainId": 269                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "BC Sweet Tooth",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/bc-sweet-tooth_100x100.jpg"
+			 	
+			},
+			{"strainId": 270                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Pink Panther",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/pink-panther_100x100.jpg"
+			 	
 			}
-
 
 		]; 
 
@@ -5354,8 +5391,8 @@
 		 	],  
 		 	"taste": ["Earthy","Pine", "Sweet"],
 			"conditions": ["Gastrointestinal Disorders", "ADD/ADHD", "Anxiety", "Arthritis", "Asthma", "Multiple Sclerosis", "Stress", "Pain", "Depression", "Insomnia", "Headache"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Creative", "Euphoric", "Very potent", "Balanced", "Pain relief"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Creative", "Euphoric", "Potent", "Balanced", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Drowsiness"],
 			 "descriptionDetailed": "Larger doses demonstrate the strain's potency: as sensory detail peaks, attention becomes transfixed, and a full-body calm takes over. For this reason, Permafrost may help patients treating ADD/ADHD and anxiety symptoms, and others have reported its success in treating arthritis, asthma, multiple sclerosis, and gastrointestinal disorders.",
 			 "descriptionAbbrev":  "Permafrost's relaxing effects are balanced between mind and body.",
 			 "tags": ["Hybrid", "Permafrost"],
@@ -5582,9 +5619,9 @@
 		 	],  
 		 	"taste": ["Tropical","Sweet","Mango"],
 		 	 "conditions": ["Stress", "Pain", "Headache", "Insomnia", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Mental calmness", "Mellow", "Energetic", "Productive"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Calmness", "Mellow", "Energetic", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Headache"],
-			 "descriptionDetailed": "The indica element of this strain does provide a mental calmness, but many consumers also find that this strain makes them energetic and productive.",
+			 "descriptionDetailed": "The indica element of this strain does provide a Calmness, but many consumers also find that this strain makes them energetic and productive.",
 			 "descriptionAbbrev":  "Effects that might be more in line with a traditional sativa.",
 			 "tags": ["Hybrid", "Papaya"],
 			 "imageUrl": "images/strains/papaya_100x100.jpg"
@@ -5696,8 +5733,8 @@
 		 	],
 		 	"taste": ["Earthy","Sweet","Woody", "Coffee", "Lemon"],
 		 	 "conditions": ["Arthritis", "PTSD", "Epilepsy", "Cancer", "Migraines", "Headache", "Hypertension", "Fibromyalgia"],
-			 "positiveEffects": ["Pain relief", "Mildly psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Pain relief", "Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
 			 "tags": [""],
@@ -5811,7 +5848,7 @@
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
 		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": ["Pain relief", "Relaxed", "Mellow",  "Conversational"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
 			 "tags": ["Hybrid", "OG #18", "OG"],
@@ -6038,8 +6075,8 @@
 		 	],  
 		 	"taste": ["Earthy", "Pungent", "Woody", "Citrus", "Mint"],
 		 	 "conditions": ["Cancer", "Nausea", "Epilepsy", "Stress", "Pain", "Appetite Loss", "Inflammation", "Depression"],
-			 "positiveEffects": ["Very potent", "Clear headed", "Euphoric", "Enhanced Drowsiness", "Pain relief", "Relaxed", "Mellow", "Enhanced Hunger"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Potent", "Clear headed", "Euphoric", "Drowsiness", "Pain relief", "Relaxed", "Mellow", "Hungry"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Because of its high-CBD, low-THC cannabinoid profile, Canna-Tsu delivers its mellow effects with mental clarity.",
 			 "descriptionAbbrev":  "Mellow effects with mental clarity.",
 			 "tags": ["Hybrid", "Canna-Tsu", "Cancer", "Nausea", "Epilepsy", "Stress"],
@@ -6152,7 +6189,7 @@
 		 	], 
 		 	"taste": ["Honey", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression", "Nausea", "Pain", "Fatigue"],
-			 "positiveEffects": ["Intense", "Mind and Body Buzz", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
+			 "positiveEffects": ["Intense", "Body Buzz", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "Nebula has won many awards, including 3rd place in the sativa category at the High Times Cannabis Cup in 1999 and 2nd place in 2005.",
 			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic",
@@ -6380,7 +6417,7 @@
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Nausea", "Appetite Loss"],
-			 "positiveEffects": ["Enhanced Drowsiness", "Euphoric", "Relaxed", "Mellow",  "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Drowsiness", "Euphoric", "Relaxed", "Mellow",  "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Yumboldt is great at making you sleepy and content.",
 			 "descriptionAbbrev":  "Yumboldt is great at making you sleepy and content.",
@@ -6950,8 +6987,8 @@
 		 	],  
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["Anxiety", "Stress", "Depression", "Insomnia", "Pain", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Mental Calmness", "Mellow", "Enhanced Drowsiness", "Uplifted"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Calmness", "Mellow", "Drowsiness", "Uplifted"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Consumers prone to anxiety choose Strawberry for its stress-relieving qualities without the jarring paranoia common among high THC strains. ",
 			 "descriptionAbbrev":  "Comfortable and relaxing.",
 			 "tags": ["Strawberry"],
@@ -7292,7 +7329,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness", "Focused"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "The sativa side of this strain allows for a nice head high as well, but it isn't overly hazy or unfocused. Skywalker was created by Amsterdam's Dutch Passion Seeds to combine the sweet fruity aroma of Blueberry with the growing strengths of the hardy, high-yielding Mazar.",
 			 "descriptionAbbrev":  "Helps patients knock out pain and relax into sleep ",
@@ -7406,7 +7443,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Depression", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "A deep, sedating relaxation makes Romulan a favorite strain for patients treating muscle spasms and nerve damage.",
 			 "descriptionAbbrev":  "A full body calm with heavily intoxicating properties.",
@@ -7520,7 +7557,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Pine"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Appetite Loss", "Depression"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Productive", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Productive", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Relaxes the body but uplifting mentally. Active and motivating so you can stay productive if needed.",
 			 "descriptionAbbrev":  "Relaxes the body but uplifting mentally. Active and motivating so you can stay productive if needed.",
@@ -7976,8 +8013,8 @@
 		 	],  
 		 	"taste": ["Sweet", "Skunk", "Pungent"],
 		 	 "conditions": ["Pain", "Asthma", "Fibromyalgia", "Stress", "Appetite Loss", "Nausea", "Muscle Spasms"],
-			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Enhanced Drowsiness", "Enhanced Hunger", "Euphoric"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy"],
+			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy"],
 			 "descriptionDetailed": "Has a fruity taste and carries intense stoney effects. If you suffer from chronic pains, experience depression, can't eat or have any other health issue, consider adding Shark Shock cannabis into your daily routine.",
 			 "descriptionAbbrev":  "Has a fruity taste and carries intense stoney effects. If you suffer from chronic pains, experience depression, can't eat or have any other health issue, consider adding Shark Shock cannabis into your daily routine.",
 			 "tags": [""],
@@ -8090,7 +8127,7 @@
 		 	],  
 		 	"taste": ["Pine", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "PMS", "Stress" ],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Enhanced Drowsiness", "Euphoric", "Stimulate Hunger"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Drowsiness", "Euphoric", "Stimulate Hunger"],
 			 "negativeEffects": ["Munchies", "Couch lock", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Superman OG provides a strong heavy body sensation and will put you to sleep in a hurry. While great for pain management, muscle spasms, and insomnia, Superman OG's potent sedative effects make it a strictly nighttime strain. ",
 			 "descriptionAbbrev":  "A must try for cannabis connoisseurs.",
@@ -8432,7 +8469,7 @@
 		 	],  
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar", "Depression", "Nausea", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "When consuming or smoking this cannabis strain in larger amounts, patients can expect the effects to be much more powerful and sedative, making it a great strain for late-night medicating sessions. It is currently being used to naturally battle insomnia and sleep apnea in patients.",
 			 "descriptionAbbrev":  "When consuming or smoking this cannabis strain in larger amounts, patients can expect the effects to be much more powerful and sedative, making it a great strain for late-night medicating sessions. It is currently being used to naturally battle insomnia and sleep apnea in patients.",
@@ -9116,7 +9153,7 @@
 		 	],  
 		 	"taste": [""],
 		 	 "conditions": ["Stress", "Seizures", "Pain", "Nausea", "Migraines", "Appetite Loss", "Depression", "Bipolar", "Anxiety"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "descriptionAbbrev":  "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
@@ -9230,7 +9267,7 @@
 		 	], 
 		 	"taste": ["Sweet","Flowery","Woody"], 
 		 	 "conditions": ["Bipolar", "Social Anxiety", "Stress", "Pain", "Insomnia"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational", "Enhanced Drowsiness", "Pain relief"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational", "Drowsiness", "Pain relief"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Couch lock"],
 			 "descriptionDetailed": "Effects of this strain are upbeat and social overall, so much so that it might be too energetic for some users, especially if sleep is the goal. Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
 			 "descriptionAbbrev":  "Effects of this strain are upbeat and social overall.",
@@ -9344,7 +9381,7 @@
 		 	],  
 		 	"taste": ["Fruity"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Very potent", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry", "Potent", "Drowsiness"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "This plant is tall with resinous, fruity, potent buds.",
 			 "descriptionAbbrev":  "This plant is tall with resinous, fruity, potent buds.",
@@ -9685,7 +9722,7 @@
 				} 	
 		 	], 
 		 	 "taste": ["Pepper", "Grapefruit", "Citrus"],
-		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "PMS", "Stress", "Muscle Spasms"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "PMS", "Stress", "Muscle Spasms", "Fibromyalgia"],
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes"],
 			 "descriptionDetailed": "The famous BC Grapefruit Indica strain and the Super Silver Haze come together for a very strong hybrid.",
@@ -10028,7 +10065,7 @@
 		 	],  
 		 	"taste": ["Fruity", "Sweet"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Bipolar", "Depression", "Glaucoma", "Appetite Loss", "Migraines", "Headache", "Nausea", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand. It boasts as one of the highest THC contents of any cannabis variety in the world. Green Thailand is one of the most productive strains in Thailand helped by the relatively short flowering time compared to some other Thai strains.",
 			 "descriptionAbbrev":  "One of the highest THC contents of any cannabis variety in the world. Green Thailand is a pure landrace Thai strain from the island of Ko Chang in Thailand.",
@@ -10256,7 +10293,7 @@
 		 	],  
 		 	"taste": ["Sweet", "Tropical", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Pain", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "A great strain for relaxing with friends or listening to music.",
 			 "descriptionAbbrev":  "A great strain for relaxing with friends or listening to music.",
@@ -10940,7 +10977,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Lemon", "Diesel"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Sexual"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Its complex terpene profile and heavy resin production make Super Lemon OG an excellent choice for producing top-notch concentrates, like the two extracts that took home prizes at the 2014 High Times' Cannabis Cup in Amsterdam.",
 			 "descriptionAbbrev":  "Its taste and aroma carry a strong citrus note that is entangled with tones of spicy pepper and pungent diesel fuel.",
@@ -11168,7 +11205,7 @@
 		 	],   
 		 	"taste": ["Lemon", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress", "Fibromyalgia", "Nausea"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Enhanced Hunger", "Pain relief"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Hungry", "Pain relief"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
 			 "descriptionAbbrev":  "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
@@ -11397,7 +11434,7 @@
 		 	"taste": ["Sweet", "Fruity"], 
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Nausea", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "With a sweet and fruity taste, Moon Candy will make you feel happy and creative while relieving stress and pain.",
 			 "descriptionAbbrev":  "With a sweet and fruity taste, Moon Candy will make you feel happy and creative while relieving stress and pain.",
 			 "tags": ["Sativa", "Moon Candy", "Bipolar"],
@@ -11510,7 +11547,7 @@
 		 	],   
 		 	"taste": ["Citrus", "Flowery", "Diesel", "Grapefruit"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Fibromyalgia", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Long Lasting", "Focused", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Long Lasting", "Focused", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "The high is Long Lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
 			 "descriptionAbbrev":  "The high is Long Lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
@@ -11624,7 +11661,7 @@
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Enhanced Drowsiness", "Uplifted", "Euphoric"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Drowsiness", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Northern Lights stands among the most famous strains of all time, a pure indica cherished for its resinous buds, fast flowering, and resilience during growth.",
 			 "descriptionAbbrev":  "Comfortable laziness allows patients to relieve pain and sleeplessness, while its mellow contentment roots out depression and stress.",
@@ -11966,7 +12003,7 @@
 		 	],   
 		 	"taste": ["Sour", "Diesel"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Munchies"],
 			 "descriptionDetailed": "True to its predecessors, this flower carries the distinct diesel kush flavor with sour undertones.",
 			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
@@ -12195,8 +12232,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Grape", "Berry"],
 		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS", "Insomnia", "Pain", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Euphoric", "Happy", "Enhanced Hunger"],
-			 "negativeEffects": ["Couch Lock", "Enhanced Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Hungry"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body Pain relief.",
 			 "descriptionAbbrev":  "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body Pain relief.",
 			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache", "PMS"],
@@ -12537,7 +12574,7 @@
 		 	],
 		 	"taste": ["Earthy", "Citrus", "Pungent"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Hypertension", "Fibromyalgia", "Bipolar", "Anxiety", "Anorexia", "ADD/ADHD"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger", "Giggly"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry", "Giggly"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Effects are most commonly described as hybrid-like in its balanced calm and moderate cerebral effects.",
 			 "descriptionAbbrev":  "Effects are most commonly described as hybrid-like in its balanced calm and moderate cerebral effects.",
@@ -12651,7 +12688,7 @@
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Earthy"],
 		 	 "conditions": ["Stress", "Migraines", "Appetite Loss", "Insomnia", "Depression", "Bipolar", "Arthritis", "Anxiety", "Anorexia"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry"],
 			 "negativeEffects": ["Giggly", "Munchies"],
 			 "descriptionDetailed": "It is the perfect strain for users that want to get motivated, and stay awake.",
 			 "descriptionAbbrev":  "It is the perfect strain for users that want to get motivated, and stay awake.",
@@ -12879,7 +12916,7 @@
 		 	], 
 		 	"taste": ["Lemon", "Earthy", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety", "Bipolar","Depression", "Migraines", "Pain", "PMS", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Sexual"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Another rock hard resin machine that will sit on the top shelf all day.",
 			 "descriptionAbbrev":  "Indica dominant phenotypes are perfect for relaxation and healing.",
@@ -13107,7 +13144,7 @@
 		 	],
 		 	"taste": ["Orange", "Citrus", "Mango"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Bipolar","Fibromyalgia","Appetite Loss","Muscle Spasms", "Pain","PMS", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Conversational", "Creative", "Enhanced Sexual Desire", "Fatigue"],
+			 "positiveEffects": ["Happy","Relaxed","Energetic", "Focused", "Conversational", "Creative", "Sexual", "Fatigue"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Indoor or outdoor grows can expect flowers between 7 and 8 weeks.",
 			 "descriptionAbbrev":  "The fruity tangerine aroma is accompanied with notes of mango and pineapple.",
@@ -13449,7 +13486,7 @@
 		 	],
 		 	"taste": ["Mango", "Citrus", "Sweet", "Lemon", "Tropical"],
 		 	 "conditions": ["Insomnia", "Depression", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Couch Lock", "Munchies"],
 			 "descriptionDetailed": "Its thickly resinous buds exude aromatic notes of earthy pine and sweet citrus that are fully realized in Ancient OG's taste.",
 			 "descriptionAbbrev":  "Its thickly resinous buds exude aromatic notes of earthy pine and sweet citrus that are fully realized in Ancient OG's taste.",
@@ -13563,7 +13600,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Sweet"], 
 		 	 "conditions": ["Anxiety", "Cancer", "Insomnia", "Migraines", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Afghani is a heavy indica strain named after its geographic origin, where the earliest varieties of cannabis are believed to have grown. Patients most commonly turn to this potent indica to treat insomnia, pain, and stress disorders.",
 			 "descriptionAbbrev":  "With a sweet, earthy aroma, Afghani delivers a deep, sedating relaxation and euphoria.",
@@ -13791,7 +13828,7 @@
 		 	],
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anxiety", "Arthritis", "Cancer", "Epilepsy", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Couch Lock", "Munchies"],
 			 "descriptionDetailed": " It has a very heavy initial cerebral punch to the head that eventually fades into a very nice, but extremely heavy body sedation.",
 			 "descriptionAbbrev":  " It has a very heavy initial cerebral punch to the head that eventually fades into a very nice, but extremely heavy body sedation.",
@@ -14589,7 +14626,7 @@
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Cancer", "Migraines", "Headache"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Euphoric", "Happy", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Uplifted"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Anxious", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "Originally bred by T.H. Seeds in Amsterdam, this potent indica is regarded as one of the strongest strains in the world and won a High Times Cannabis Cup for the best indica in 2002.",
 			 "descriptionAbbrev":  "This strain is recognized by its pungent aroma, indicative of its world-renowned, extremely heavy body buzz.",
@@ -14703,7 +14740,7 @@
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy"],
 		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss", "Fibromyalgia"],
-			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Enhanced Drowsiness", "Uplifted"],
+			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "With gradual but powerful effects, King's Kush is famous for its potency and shiny trichromes during flowering.",
 			 "descriptionAbbrev":  "This strain comes across as sweet and sour with a powerful and tangy grape scent, as well as some hints of lavender.",
@@ -14817,7 +14854,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Chronic Aches", "Depression", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness", "Euphoric", "Uplifted"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Kosher Kush is the world's first ever strain to be blessed by a Rabbi. From the vault of DNA's Reserva Privada seed line,",
 			 "descriptionAbbrev":  "Kosher Kush won the High Times Indica Cup in 2010 and 2011.",
@@ -15045,7 +15082,7 @@
 		 	],
 		 	"taste": ["Earthy", "Skunk", "Spicy", "Herbal"],
 		 	 "conditions": ["Cancer", "Insomnia", "Stress", "Pain", "Muscle Spasms", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Enhanced Drowsiness", "Enhanced Hunger", "Happy"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Drowsiness", "Hungry", "Happy"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Popular for the treatment of pain, stress and insomnia thanks to the strong body sedation it provides.",
 			 "descriptionAbbrev":  "Master Bubba is the perfect strain for those looking for true indica effects. ",
@@ -15387,7 +15424,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Pungent"],
 		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Cancer", "Nausea", "Headache"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "The White strain is a 2009 IC420 cup winner named for the color of the buds when ripe.",
 			 "descriptionAbbrev":  "The White strain is a 2009 IC420 cup winner named for the color of the buds when ripe.",
@@ -15501,8 +15538,8 @@
 		 	],
 		 	"taste": ["Pine", "Earthy", "Honey"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Cancer", "Epilepsy", "Pain", "Stress", "Impotence", "Muscle Spasms", "Seizures", "Spasticity", "Inflammation"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Tingly", "Euphoric", "Enhanced Drowsiness", "Aroused"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Tingly", "Euphoric", "Drowsiness", "Aroused"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "It is a variant of the remarkable ACDC that is cherished for its healing properties. Many find Valentine X to be a great help for seizure disorders, inflammation, and when treating cancer.",
 			 "descriptionAbbrev":  "In addition to its medicinal effects this strain is known to spark creative thinking.",
 			 "tags": ["Pine", "Earthy", "Honey"],
@@ -15729,7 +15766,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Pain", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Seasoned consumers may be able to withstand its heaviness during the day, but Yoda OG is most popularly chosen for nighttime consumption.",
 			 "descriptionAbbrev":  "Its sedating, euphoric effects make it a popular medicine for anxiety and insomnia, and it also provides an extra kick to the appetite.",
@@ -16299,7 +16336,7 @@
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Citrus"],
 		 	 "conditions": ["Anorexia","Anxiety","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress", "Fibromyalgia"],
-			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "With earthy flavors of lemons and citrus, Amnesia Haze is a perfect strain to start your day with a smile.",
 			 "descriptionAbbrev":  "The uplifting, energetic buzz is one you won't soon forget.",
@@ -16641,7 +16678,7 @@
 		 	],
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Stress", "Pain", "Nausea", "Depression", "Anxiety", "Anorexia", "Insomnia",],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Enhanced Hunger", "Pain relief"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Hungry", "Pain relief"],
 			 "negativeEffects": ["Munchies", "Less Social"],
 			 "descriptionDetailed": "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
 			 "descriptionAbbrev":  "This strain is perfect for inspiring an upbeat mood and may lead to conversation and creative pursuits.",
@@ -16869,7 +16906,7 @@
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Woody"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Insomnia", "Inflammation", "Muscle Spasms"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Happy", "Euphoric", "Creative"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "Almost entirely indica, this strain's powerful high is sedative and popular for pain relief and insomnia.",
 			 "descriptionAbbrev":  "Almost entirely indica, this strain's powerful high is sedative and popular for pain relief and insomnia.",
@@ -17097,10 +17134,10 @@
 		 	], 
 		 	"taste": ["Earthy", "Blueberry", "Berry"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Muscle Spasms", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Giggly", "Focused", "Sexual"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "While growing and after it's harvested, these plants have a sharp and fruity smell that brings to mind fermentation.",
-			 "descriptionAbbrev":  "Blue Moonshine is a Very potent blueberry indica strain that provides a nice body high.",
+			 "descriptionAbbrev":  "Blue Moonshine is a Potent blueberry indica strain that provides a nice body high.",
 			 "tags": ["Indica", "Blue Moonshine", "Depression", "Stress"],
 			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
@@ -17211,8 +17248,8 @@
 		 	], 
 		 	"taste": ["Blueberry", "Pungent", "Sweet", "Skunk"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Pain", "Stress", "Insomnia", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative", "Enhanced Sexual Desire"],
-			 "negativeEffects": ["Couch lock", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative", "Sexual"],
+			 "negativeEffects": ["Couch lock", "Drowsiness"],
 			 "descriptionDetailed": "This peculiar cannabis can be an exceptionally exciting fast-paced roller coaster, or a demonic heart-throbbing anxiety hell.",
 			 "descriptionAbbrev":  "Only takes a couple hits to get blazed for several hours.",
 			 "tags": ["Hybrid", "Blueberry Trainwreck", "Trainwreck", "Depression", "Stress"],
@@ -17781,8 +17818,8 @@
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Skunk"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Enhanced Drowsiness", "Enhanced Hunger"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Most describe Cataract as a creeper high that keeps on building long after you stop smoking! This strain has been years in the making and is NOT recommended for the light-weight smoker.",
 			 "descriptionAbbrev":  "The effect is good for pain, eating and sleep disorders",
 			 "tags": ["Pungent", "Skunk", "Earthy"],
@@ -18238,7 +18275,7 @@
 		 	"taste": [""],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Asthma","Insomnia", "Migraines", "Pain","Seizures", "Stress"],
 			 "positiveEffects": ["Focused", "Relaxed", "Arousing"],
-			 "negativeEffects": ["Couch lock", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Couch lock", "Drowsiness"],
 			 "descriptionDetailed": "A mind-numbing physically impressive Clear Lake OG medicinal strain best for treating symptoms related to MS, arthritis, RTS, muscle spasms, insomnia, ADHD, pain, stress, and anxiety relief.",
 			 "descriptionAbbrev":  "Super-duper powerful and way heavy, a completely flooring knock down result that will reduce movement and cease productive action or thought.",
 			 "tags": ["Hybrid", "Clear Lake", "Migraines", "Headache", "Stress"],
@@ -18352,7 +18389,7 @@
 		 	"taste": [""],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
-			 "negativeEffects": ["Munchies", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
@@ -18921,8 +18958,8 @@
 		 	],   
 		 	"taste": ["Pine", "Earthy", "Pungent"],
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Enhanced Drowsiness", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body",
 			 "tags": ["Earthy", "Pine", "Pungent"],
@@ -19149,7 +19186,7 @@
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
@@ -19720,7 +19757,7 @@
 		 	"taste": ["Flowery", "Earthy", "Pine", "Menthol"],
 		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
 			 "positiveEffects": ["Energetic", "Relaxed", "Euphoric", "Happy", "Focused"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Phantom OG is an indica-dominant strain that begins with heightened energy and ends with a crash of full-body relaxation.",
 			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
@@ -19947,7 +19984,7 @@
 		 	],
 		 	"taste": ["Pine", "Earthy", "Sweet"],
 		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Enhanced Drowsiness", "Tingly"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Drowsiness", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy"],
 			 "descriptionDetailed": "Featuring a musky, piney aroma similar to a morning walk in the forest, this strain provides a truly relaxing experience.",
 			 "descriptionAbbrev":  "For those struggling with insomnia and stress, Silverback Gorilla is a must-try strain.",
@@ -20745,8 +20782,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "This Blueberry is a dense and stout plant with red, purple and blue hues.  The finished product has a very fruity aroma and taste of blueberry.  The high is euphoric and Long Lasting.",
 			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry.",
 			 "tags": ["Blueberry", "Berry", "Sweet"],
@@ -20973,7 +21010,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress", "Depression", "Headache"],
-			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger" ],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry" ],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "The Don is a result of crossing Granddaddy Purple and OG Kush, and there is a kushy spiciness in its scent coupled with some subtle grape notes. Godfather OG is powerful; with THC levels that have been measured as high as 28%, this strain is an offer you can't refuse.",
 			 "descriptionAbbrev":  "Often recommended for insomnia and pain due to its sedative indica properties.",
@@ -21087,7 +21124,7 @@
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Headache"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness","Euphoric", "Happy", "Tingly"],
+			 "positiveEffects": ["Relaxed", "Drowsiness","Euphoric", "Happy", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
 			 "descriptionAbbrev":  "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
@@ -21201,7 +21238,7 @@
 		 	], 
 		 	"taste": ["Lavender", "Flowery", "Sweet"],
 		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Nausea", "Depression"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
 			 "descriptionAbbrev":  "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
@@ -21429,7 +21466,7 @@
 		 	], 
 		 	"taste": ["Grape", "Pungent", "Sweet"],
 		 	 "conditions": ["Nausea", "Stress", "Pain", "Insomnia", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Headache", "Euphoric", "Happy", "Creative"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Headache", "Euphoric", "Happy", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "Purple Passion is great for unleashing your creative side.",
 			 "descriptionAbbrev":  "Purple Passion is great for unleashing your creative side.",
@@ -21544,7 +21581,7 @@
 		 	"taste": ["Chestnut", "Sweet", "Earthy", "Diesel"],
 		 	 "conditions": ["Nausea", "Pain", "Insomnia", "Muscle Spasms", "Anxiety"],
 			 "positiveEffects": ["Relaxed", "Uplifting"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "These sticky buds offer a sweet, fruity aroma with diesel undertones, and deliver relaxing, uplifting effects. ",
 			 "descriptionAbbrev":  "These sticky buds offer a sweet, fruity aroma with diesel undertones, and deliver relaxing, uplifting effects. ",
 			 "tags": ["Indica", "Sour Bubble", "Nausea"],
@@ -21771,7 +21808,7 @@
 		 	], 
 		 	"taste": ["Strawberry", "Sweet", "Berry"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Depression","Nausea","Pain", "PMS", "Stress", "Impotence"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Conversational", "Creative", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Conversational", "Creative", "Sexual"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
 			 "descriptionAbbrev":  "This sativa-dominant strain smells of fresh strawberries and will tickle your lungs.",
@@ -21885,8 +21922,8 @@
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Chocolate", "Coffee", "Fruity"],
 		 	 "conditions": ["Pain", "Stress", "Appetite Loss"],
-			 "positiveEffects": ["Peaceful", "Relaxed", "Enhanced Hunger", "Long Lasting", "Very potent"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Peaceful", "Relaxed", "Hungry", "Long Lasting", "Potent"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
 			 "descriptionAbbrev":  "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully",
 			 "tags": [""],
@@ -22113,7 +22150,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Euphoric", "Happy", "Enhanced Hunger" ],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Hungry" ],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "A potent indica strain that is believed to descend from an Afghani indica and a Haze sativa from the island of Maui.",
 			 "descriptionAbbrev":  "This strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor. ",
@@ -22227,7 +22264,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Migraines", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Hunger", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Its sativa parent may lend Afgoo some uplifting, creative qualities, but this strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
 			 "descriptionAbbrev":  "Primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
@@ -22341,7 +22378,7 @@
 		 	],
 		 	"taste": ["Earthy", "Pine", "Skunk"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Enhanced Hunger", "Conversational"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Hungry", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "This sativa-dominant hybrid delivers a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged in creative or social activities.",
 			 "descriptionAbbrev":  "AK-47 will leave you relaxed and mellow.",
@@ -22455,7 +22492,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Sweet"],
 		 	 "conditions": ["Anorexia","Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "AK-48's parents are Ice and Jock Horror.  Its Ice mother has ancestors of Afghani, Skunk, Northern Lights and Shiva stock.",
 			 "descriptionAbbrev":  "AK-48 high leans more towards typical sativa effects.",
@@ -22570,7 +22607,7 @@
 		 	"taste": ["Citrus", "Lemon", "Pine"],
 		 	 "conditions": ["Pain", "Stress"],
 			 "positiveEffects": ["Clear headed", "Long Lasting", "Relaxed", "Creative", "Conversational"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Couch lock"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Couch lock"],
 			 "descriptionDetailed": "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
 			 "tags": [""],
@@ -22797,7 +22834,7 @@
 		 	], 
 		 	"taste": ["Skunk", "Cheese", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Arthritis", "Depression", "Hypertension", "Nausea", "Insomnia", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Enhanced Hunger", "Euphoric", "Uplifted"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Hungry", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese. OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "descriptionAbbrev":  "OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
@@ -22911,7 +22948,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression","Hypertension", "Appetite Loss", "Pain","PMS", "Stress", "Nausea", "Insomnia"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Enhanced Drowsiness", "Tingly", "Euphoric"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Conversational", "Drowsiness", "Tingly", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Although uplifting, this indica is on the heavier side, appealing to experienced users who desire strong medicinal treatment.",
 			 "descriptionAbbrev":  "This strain is favored for its powerful effects that provide clarity and heightened sensory perception",
@@ -23253,7 +23290,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["Epilepsy", "Pain", "Appetite Loss", "Insomnia", "Stress", "Headache"],
-			 "positiveEffects": ["Relaxed", "Uplifted", "Anxious", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Anxious", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Headache", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "descriptionAbbrev":  "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
@@ -23367,7 +23404,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "The buds give off a strong and heady high. White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
 			 "descriptionAbbrev":  "The buds give off a strong and heady high. White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
@@ -23481,8 +23518,8 @@
 		 	], 
 		 	"taste": ["Pungent", "Sweet", "Woody"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Muscle Spasms", "Insomnia"],
-			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy", "Drowsiness"],
 			 "descriptionDetailed": "Green Queen is gold and yellow in color and known to provide a strong body buzz. Extremely stony but not lazy high at all. Great for a social meet up and just chillin as well.",
 			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz. Extremely stony but not lazy high at all. Great for a social meet up and just chillin as well.",
 			 "tags": ["Hybrid", "Cannatonic #4", "Epilepsy"],
@@ -23595,7 +23632,7 @@
 		 	],   
 		 	"taste": ["Grapefruit", "Earthy", "Grape"],
 		 	 "conditions": ["PMS", "Insomnia", "Stress", "Pain", "Depression", "Muscle spasms"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "Smells like grapefruit and produces and thick and fruity smoke.",
 			 "descriptionAbbrev":  "Smells like grapefruit and produces and thick and fruity smoke.",
@@ -23823,7 +23860,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and Long Lasting.",
 			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and Long Lasting.",
@@ -23937,7 +23974,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["PMS", "Stress", "Insomnia", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Enhanced Drowsiness", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "With Master Kush, you can anticipate full-body relaxation coupled with sharpened sensory awareness that can bring out the best of any activity.",
 			 "descriptionAbbrev":  "With Master Kush, you can anticipate full-body relaxation coupled with sharpened sensory awareness that can bring out the best of any activity.",
@@ -24051,8 +24088,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Fruity"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": " If you can manage to stay awake, the body buzz is quite pleasant, and does tend to help with body aches and pains.",
 			 "descriptionAbbrev":  " If you can manage to stay awake, the body buzz is quite pleasant, and does tend to help with body aches and pains.",
 			 "tags": ["Indica", "Black Magic Kush", "Kush", "Stress"],
@@ -24165,8 +24202,8 @@
 		 	], 
 		 	"taste": ["Berry", "Grape", "Lavender"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Enhanced Drowsiness", "Euphoric", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Drowsiness", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Drowsiness"],
 			 "descriptionDetailed": "Blackberry Kush tends to have a hashy, jet fuel smell and taste that is balanced by sweet berries.",
 			 "descriptionAbbrev":  "Often recommended for the treatment of pain thanks to its strong indica body effects.",
 			 "tags": ["Berry", "Sweet", "Earthy"],
@@ -24508,7 +24545,7 @@
 		 	"taste": ["Citrus", "Lemon", "Pine", "Diesel"],
 		 	 "conditions": ["Stress", "Anxiety", "Arthritis", "Chronic Aches", "Muscle Spasms", "Pain"],
 			 "positiveEffects": ["Happy", "Relaxed"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Brutus is characterized by its tight, dense bud structure, eye catching washes of resinous trichomes, and particularly pungent aroma consisting of sharp citrus notes, fuel, and pine.",
 			 "descriptionAbbrev":  "Exceptionally powerful and one of the finest choices to be found for those seeking to melt away severe pain and muscle tension and perfect for those in  need of a potent sleeping aid",
 			 "tags": ["Lemon", "Pine"],
@@ -24621,8 +24658,8 @@
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness", "Enhanced Hunger", "Euphoric"],
-			 "negativeEffects": ["Munchies", "Enhanced Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Munchies", "Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple. Its effects may begin focused in the head, but it isn't long before the buzz reaches the rest of the body.",
 			 "descriptionAbbrev":  "A perfect go-to strain for evening relaxation, restful sleep, or a lazy weekend at home.",
 			 "tags": ["Indica", "Bubba Kush", "Kush", "Stress"],
@@ -24735,7 +24772,7 @@
 		 	],
 		 	"taste": ["Cheese", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "Cheese is an indica-dominant hybrid from the U.K. that has achieved widespread popularity for its unique flavor and consistent potency.",
 			 "descriptionAbbrev":  "Well-known for its relaxed, happy effects that gently ease you into a blissful state of mind.",
@@ -24963,7 +25000,7 @@
 		 	],
 		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Tingly"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "This indica has a purple hue, fruity and spicy flavors.",
 			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors.",
@@ -25077,7 +25114,7 @@
 		 	],
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Muscle Spasms", "Depression"],
-			 "positiveEffects": ["Enhanced Drowsiness", "Relaxed", "Happy", "Euphoric", "Giggly"],
+			 "positiveEffects": ["Drowsiness", "Relaxed", "Happy", "Euphoric", "Giggly"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "A true indica, this strain induces full-body relaxation that nixes pain and muscle spasms before settling into an overall laziness.",
 			 "descriptionAbbrev":  "A true indica, this strain induces full-body relaxation that nixes pain and muscle spasms before settling into an overall laziness.",
@@ -25191,7 +25228,7 @@
 		 	],   
 		 	"taste": ["Grape", "Berry", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Appetite Loss", "Muscle Spasms", "Pain", "Insomnia", "Depression", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Its potent psychoactive effects are clearly detectable in both mind and body, delivering a fusion of cerebral euphoria and physical relaxation.",
 			 "descriptionAbbrev":  "The taste is fruity like grapes and so is the smell.",
@@ -25533,7 +25570,7 @@
 		 	],   
 		 	"taste": ["Grape", "Sweet", "Berry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite"],
-			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid",  "Headache", "Munchies"],
 			 "descriptionDetailed": "Named for its distinct grape-like smell, this indica is known for providing carefree relaxation that can help soothe pain, stress, and anxiety. ",
 			 "descriptionAbbrev":  "Named for its distinct grape-like smell, this indica is known for providing carefree relaxation that can help soothe pain, stress, and anxiety. ",
@@ -26445,7 +26482,7 @@
 		 	],
 		 	"taste": ["Skunk", "Sweet", "Earthy"], 
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Enhanced Sexual Desire", "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "This hybrid offers elevated creativity through its high-energy buzz, while stress and appetite loss melt away.",
 			 "descriptionAbbrev":  "This hybrid offers elevated creativity through its high-energy buzz, while stress and appetite loss melt away.",
@@ -26787,7 +26824,7 @@
 		 	], 
 		 	"taste": ["Tropical", "Tree Fruit", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Enhanced Drowsiness", "Enhanced Hunger", "Euphoric"],
+			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Drowsiness", "Hungry", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "This strain also differs from typical indicas in its earthy aroma that delivers smoothly with low expansion. An established strain within the medicinal cannabis community, Neptune OG can be appropriately described as otherworldly.",
 			 "descriptionAbbrev":  "Sets itself apart by its euphoric onset prior to the heavy, sedative effects, making it also useful for stress relief.",
@@ -27015,7 +27052,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Flowery"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
 			 "descriptionAbbrev":  "Kandy Kush won the first ever Western Slope Cannabis Crown in Aspen.",
@@ -27129,7 +27166,7 @@
 		 	], 
 		 	"taste": ["Pine", "Pungent", "Earthy"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress", "Nausea", "Depression"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "The difference is this monarch's odor is one that's meant to be enjoyed. Its dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
 			 "descriptionAbbrev":  "It's dense nugs have an overwhelmingly piney smell with an earthy musk that will have you thinking of your last forest adventure.",
@@ -27357,8 +27394,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Chronic Aches", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Munchies", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "Absolutely the very best OG I've ever smoked, and I've grown and smoked almost all of them.",
 			 "descriptionAbbrev":  "Absolutely the very best OG I've ever smoked, and I've grown and smoked almost all of them.",
 			 "tags": [""],
@@ -27699,7 +27736,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Arthritis", "Anxiety", "Insomnia", "Pain", "Stress", "Nausea", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Enhanced Drowsiness", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "Blackwater is an indica strain typically bred from Mendo Purps and San Fernando Valley OG Kush. Its round, compact buds take on a deep purple color and a sweet grape aroma that blends with subtle undertones of lemon and pine.",
 			 "descriptionAbbrev": "What begins as a mellow and euphoric cerebral experience melts down to the rest of the body in a head-to-toe euphoric calm that relieves stress and anxiety. Patients have also reported its success in treating pain, appetite loss, and multiple sclerosis.",
@@ -27813,8 +27850,8 @@
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Insomnia", "Stress", "Depression"],
-			 "positiveEffects": ["Euphoric", "Dreamy", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Euphoric", "Dreamy", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "This powerful indica strain delivers dreamy, sleepy euphoria that gives your eyelids some heaviness at night while giving your mood a burst of positivity.",
 			 "descriptionAbbrev": "This powerful indica strain delivers dreamy, sleepy euphoria that gives your eyelids some heaviness at night while giving your mood a burst of positivity.",
 			 "tags": [""],
@@ -27927,8 +27964,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Pain", "Arthritis", "Fibromyalgia", "Headache", "Hangover", "Appetite Loss"],
-			 "positiveEffects": ["Euphoric", "Dreamy", "Enhanced Drowsiness", "Peaceful"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "positiveEffects": ["Euphoric", "Dreamy", "Drowsiness", "Peaceful"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
 			 "descriptionAbbrev": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
 			 "tags": [""],
@@ -28042,7 +28079,7 @@
 		 	"taste": ["Citrus", "Sweet", "Berry", "Mint", "Fruity"],
 		 	 "conditions": ["Stress", "Hypertension", "Bipolar", "Anxiety"],
 			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Happy", "Uplifting"],
-			 "negativeEffects": ["Enhanced Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": " Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
 			 "descriptionAbbrev": " Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
 			 "tags": [""],
@@ -28383,7 +28420,7 @@
 		 	], 
 		 	"taste": ["Chocolate", "Earthy", "Pungent", "Sweet"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Enhanced Hunger", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Hungry", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Also known as Chocolope Kush, the buds on Chocolate Kush are dense and dark colored with a large amount of white crystals. It is known to have the aroma of vanilla mixed with chocolate.",
 			 "descriptionAbbrev": "Also known as Chocolope Kush, the buds on Chocolate Kush are dense and dark colored with a large amount of white crystals. It is known to have the aroma of vanilla mixed with chocolate.",
@@ -28497,7 +28534,7 @@
 		 	], 
 		 	"taste": ["Chocolate", "Earthy", "Pungent", "Coffee", "Hash"],
 		 	 "conditions": ["Stress", "Insomnia", "Depression", "Nausea", "Pain"],
-			 "positiveEffects": ["Relaxed", "Happy", "Enhanced Drowsiness", "Euphoric", "Uplifted"],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "Chocolate Chunk gives a quick and heavy hit which will leave you relaxed and even a little bit sleepy. It has a hashy flavor reminiscent of the slightly bitter taste of top quality dark chocolate and the smell combines sweet and earthy notes.",
 			 "descriptionAbbrev": "Chocolate Chunk gives a quick and heavy hit which will leave you relaxed and even a little bit sleepy. It has a hashy flavor reminiscent of the slightly bitter taste of top quality dark chocolate and the smell combines sweet and earthy notes.",
@@ -28839,7 +28876,7 @@
 		 	], 
 		 	"taste": ["Berry", "Sweet", "Blueberry"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Headache"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Drowsiness", "Uplifted", "Conversational"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Uplifted", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
 			 "descriptionAbbrev": "Its initial head buzz is happy and good for finishing things up or being social, but once its indica side kicks in, lazy is the word.",
@@ -29181,8 +29218,8 @@
 		 	], 
 		 	"taste": ["Diesel", "Sweet", "Lavender"],
 		 	 "conditions": ["Seizures", "Fibromyalgia", "Nausea", "Insomnia"],
-			 "positiveEffects": ["Pain relief", "Enhanced Hunger", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Dry Mouth", "Anxious", "Munchies", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Pain relief", "Hungry", "Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "The first place the bud hits you is the in the eyes, an immediate creeper buzz kicks in.  The buzz then spreads to the rest of your head.  After you finish your smoke, the body buzz kicks in.",
 			 "descriptionAbbrev": "The first place the bud hits you is the in the eyes, an immediate creeper buzz kicks in.  The buzz then spreads to the rest of your head.  After you finish your smoke, the body buzz kicks in.",
 			 "tags": [""],
@@ -29295,8 +29332,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Flowery"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea", "Fibromyalgia", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Dizzy", "Headache",  "Enhanced Drowsiness", "Pain relief", "Enhanced Hunger"],
-			 "negativeEffects": ["Dry Mouth", "Anxious", "Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Dizzy", "Headache",  "Drowsiness", "Pain relief", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Anxious", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
 			 "descriptionAbbrev": "This magnificent blend of Indica-dominant and pure sativa makes for an incredible all-around medication.",
 			 "tags": [""],
@@ -29409,7 +29446,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Flowery"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Appetite Loss", "Insomnia", "Fibromyalgia"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming.",
 			 "descriptionAbbrev": "Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming.",
@@ -29637,7 +29674,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Grape"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss", "Fibromyalgia", "Migraines"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Enhanced Drowsiness", "Balanced"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Drowsiness", "Balanced"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Paranoid", "Dry Eyes", "Headache", "Munchies"],
 			 "descriptionDetailed": "This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that does not stimulate appetite or put you to sleep.",
 			 "descriptionAbbrev": "This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that does not stimulate appetite or put you to sleep.",
@@ -29865,8 +29902,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Flowery", "Earthy" ],
 		 	 "conditions": ["Pain", "Insomnia", "Anxiety", "Appetite Loss", "Fibromyalgia", "Epilepsy"],
-			 "positiveEffects": ["Intense", "Relaxed", "Euphoric", "Pain", "Enhanced Hunger", "Enhanced Drowsiness", "Enhanced Sexual Desire"],
-			 "negativeEffects": ["Dry Eyes", "Munchies", "Enhanced Drowsiness", "Couch Lock"],
+			 "positiveEffects": ["Intense", "Relaxed", "Euphoric", "Pain", "Hungry", "Drowsiness", "Sexual"],
+			 "negativeEffects": ["Dry Eyes", "Munchies", "Drowsiness", "Couch Lock"],
 			 "descriptionDetailed": "Even for veteran consumers, the heaviness of this strain could be considered overpowering, and even small doses eliminate pain, insomnia, and appetite loss.",
 			 "descriptionAbbrev": "Even for veteran consumers, the heaviness of this  strain could be considered overpowering, and even small doses eliminate pain, insomnia, and appetite loss.",
 			 "tags": [""],
@@ -30093,7 +30130,7 @@
 		 	], 
 		 	"taste": ["Diesel", "Earthy", "Pungent" ],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Depression", "Headache", "Fibromyalgia"],
-			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Uplifted", "Enhanced Hunger"],
+			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Featuring heavy head effects and a slight body high, Purple Sour Diesel will energize your mind while leaving you physically relaxed. This strain features a sour, fruity aroma similar to sour grapes.",
 			 "descriptionAbbrev": "Featuring heavy head effects and a slight body high, Purple Sour Diesel will energize your mind while leaving you physically relaxed. This strain features a sour, fruity aroma similar to sour grapes.",
@@ -30207,7 +30244,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Flowery" ],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Uplifted", "Euphoric", "Happy", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Euphoric", "Happy", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "With an aroma of bubblegum and slight hints of mango and pineapple, Dream Queen will provide a good cerebral high.",
 			 "descriptionAbbrev": "With an aroma of bubblegum and slight hints of mango and pineapple, Dream Queen will provide a good cerebral high.",
@@ -30321,7 +30358,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Flowery" ],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Fatigue", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Tingly", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Tingly", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
 			 "descriptionAbbrev": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
@@ -30435,7 +30472,7 @@
 		 	], 
 		 	"taste": ["Citrus", "Earthy", "Lemon", "Pine"],
 		 	 "conditions": ["Fatigue", "Fibromyalgia", "Cancer"],
-			 "positiveEffects": ["Energetic", "Uplifted", "Intense", "Pain relief", "Relaxed", "Enhanced Sexual Desire", "Euphoric"],
+			 "positiveEffects": ["Energetic", "Uplifted", "Intense", "Pain relief", "Relaxed", "Sexual", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Anxious", "Headache"],
 			 "descriptionDetailed": "Its energizing and uplifting qualities makes Jean Guy a perfect strain to start the day with, although scattered and distracting thoughts may interfere with productivity.",
 			 "descriptionAbbrev": "Its energizing and uplifting qualities makes Jean Guy a perfect strain to start the day with, although scattered and distracting thoughts may interfere with productivity.",
@@ -30549,7 +30586,7 @@
 		 	], 
 		 	"taste": ["Orange", "Citrus", "Sweet"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Fibromyalgia", "Anxiety"],
-			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Enhanced Hunger", "Intense"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Creative", "Hungry", "Intense"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "With bright orange hairs coating the surface, this strain has scents of orange and nectarines.",
 			 "descriptionAbbrev": "With bright orange hairs coating the surface, this strain has scents of orange and nectarines.",
@@ -30663,7 +30700,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Skunk"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Inflammation", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Enhanced Sexual Desire"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Sexual"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "A pure indica strain and was created by combining the genetics of two magnificent indicas back in 1990.",
 			 "descriptionAbbrev": "A pure indica strain and was created by combining the genetics of two magnificent indicas back in 1990.",
@@ -30891,8 +30928,8 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Appetite Loss", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Enhanced Drowsiness", "Enhanced Hunger", "Happy", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Hungry", "Happy", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Tingly body and sleepy eyes, you will want to sit but your mind can remain focused or is free to wander.  Great for relaxing, hanging out, and just enjoying life.",
 			 "descriptionAbbrev": "Tingly body and sleepy eyes, you will want to sit but your mind can remain focused or is free to wander.  Great for relaxing, hanging out, and just enjoying life.",
 			 "tags": [""],
@@ -31006,7 +31043,7 @@
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Insomnia", "Fibromyalgia"],
 			 "positiveEffects": ["Happy", "Giggly", "Uplifted", "Euphoric", "Energetic", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Enhanced Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Drowsiness"],
 			 "descriptionDetailed": "This cannabis strain has been known to incite long rounds of giggles, great for hanging out with friends.",
 			 "descriptionAbbrev": "This cannabis strain has been known to incite long rounds of giggles, great for hanging out with friends.",
 			 "tags": [""],
@@ -31119,7 +31156,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
 		 	 "conditions": ["Pain", "Stress", "Appetite Loss", "Multiple Sclerosis", "ADHD", "Bipolar", "Depression", "Nausea", "Fibromyalgia"],
-			 "positiveEffects": ["Pain relief", "Relaxed", "Uplifted", "Enhanced Hunger", "Peaceful", "Productive"],
+			 "positiveEffects": ["Pain relief", "Relaxed", "Uplifted", "Hungry", "Peaceful", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Munchies"],
 			 "descriptionDetailed": "This 60 percent indica strain can deliver swift relief to pain, stress, appetite loss, multiple sclerosis, ADHD, mood disorders, and nausea without lethargy or sedation, making Dr. Who a good choice for any time of the day.",
 			 "descriptionAbbrev": "This 60 percent indica strain can deliver swift relief to pain, stress, appetite loss, multiple sclerosis, ADHD, mood disorders, and nausea without lethargy or sedation, making Dr. Who a good choice for any time of the day.",
@@ -31347,7 +31384,7 @@
 		 	], 
 		 	"taste": ["Flowery", "Pungent", "Berry", "Hash"],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Appetite Loss", "Depression", "Fibromyalgia"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Pain relief", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Pain relief", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Comes on quick and is very much a head stone. Usually very sticky and hard to break up by hand, definitely use a grinder for this variety.",
 			 "descriptionAbbrev": "Comes on quick and is very much a head stone. Usually very sticky and hard to break up by hand, definitely use a grinder for this variety.",
@@ -31461,8 +31498,8 @@
 		 	], 
 		 	"taste": ["Citrus", "Orange", "Tropical"],
 		 	 "conditions": ["Stress", "Headache", "Insomnia", "Pain", "Depression"],
-			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Energetic", "Enhanced Drowsiness", "Pain relief"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Euphoric", "Energetic", "Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy", "Drowsiness"],
 			 "descriptionDetailed": "Tangerine Kush is potent with a quick onset. Providing consumers with a happy, body-heavy sensation, this strain is great for those looking for a lazy day at the beach.",
 			 "descriptionAbbrev": "Tangerine Kush is potent with a quick onset. Providing consumers with a happy, body-heavy sensation, this strain is great for those looking for a lazy day at the beach.",
 			 "tags": [""],
@@ -31803,8 +31840,8 @@
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Fibromyalgia", "Stress", "Insomnia", "Pain", "Nausea", "Depression"],
-			 "positiveEffects": ["Euphoric", "Enhanced Drowsiness", "Relaxed", "Happy", "Uplifted"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "positiveEffects": ["Euphoric", "Drowsiness", "Relaxed", "Happy", "Uplifted"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "Death Star OG is a potent cross between Sour Diesel, Sensi Star, and OG Kush.",
 			 "descriptionAbbrev": "Death Star OG is a potent cross between Sour Diesel, Sensi Star, and OG Kush.",
 			 "tags": [""],
@@ -31917,8 +31954,8 @@
 		 	], 
 		 	"taste": ["Coffee", "Blueberry", "Sweet", "Cheese"],
 		 	 "conditions": ["Fibromyalgia","Stress", "Pain", "Depression", "Nausea", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Enhanced Drowsiness", "Euphoric", "Enhanced Hunger"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Drowsiness", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "Strong coffee, blueberry, sweet flavors and a smooth smoke with a heavy throat hit.",
 			 "descriptionAbbrev": "Strong coffee, blueberry, sweet flavors and a smooth smoke with a heavy throat hit.",
 			 "tags": [""],
@@ -32487,7 +32524,7 @@
 		 	], 
 		 	"taste": ["Grape", "Sweet", "Pungent"],
 		 	 "conditions": ["Stress", "Insomnia", "Pain", "Fibromyalgia", "Fatigue", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Enhanced Drowsiness", "Happy", "Creative"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Drowsiness", "Happy", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "While initially uplifting, Purple Dragon shows its full range of effects over time. Relaxing muscles and relieving pain, this strain provides a gentle and effective body buzz. Purple Dragon is a must-try strain for those looking for a truly different cannabis experience.",
 			 "descriptionAbbrev": "While initially uplifting, Purple Dragon shows its full range of effects over time. Relaxing muscles and relieving pain, this strain provides a gentle and effective body buzz. Purple Dragon is a must-try strain for those looking for a truly different cannabis experience.",
@@ -32601,7 +32638,7 @@
 		 	], 
 		 	"taste": ["Pungent", "Earthy", "Skunk"],
 		 	 "conditions": ["Stress", "Pain", "Fibromyalgia", "Appetite Loss", "Insomnia", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Enhanced Hunger", "Giggly", "Long Lasting"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Giggly", "Long Lasting"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Anxious", "Munchies"],
 			 "descriptionDetailed": "King Kong is known to have a pungent sour, skunky smell with long-lasting effects that target pain, nausea, anxiety, and the appetite. Even though its genetics tip toward the indica side, King Kong has an uplifting and focused effect enjoyed by indica and sativa lovers alike.",
 			 "descriptionAbbrev": "King Kong is known to have a pungent sour, skunky smell with long-lasting effects that target pain, nausea, anxiety, and the appetite. Even though its genetics tip toward the indica side, King Kong has an uplifting and focused effect enjoyed by indica and sativa lovers alike.",
@@ -32715,7 +32752,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Spicy", "Herbal"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Insomnia", "Fatigue", "Stress", "Depression"],
-			 "positiveEffects": ["Relaxed", "Enhanced Hunger", "Happy", "Dry Mouth", "Tingly", "Pain Relief"],
+			 "positiveEffects": ["Relaxed", "Hungry", "Happy", "Dry Mouth", "Tingly", "Pain Relief"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "Church OG is an indica marijuana strain that provides strong body sensations that may evolve to a lasting cerebral effect.",
 			 "descriptionAbbrev": "Church OG is an indica marijuana strain that provides strong body sensations that may evolve to a lasting cerebral effect.",
@@ -32829,7 +32866,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Spicy", "Herbal"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Depression", "Headache", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Enhanced Drowsiness", "Focused"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Drowsiness", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "This hybrid provides effective relief for severe pain while simultaneously inducing a sense of uplift and euphoria. When you need immediate relief and would like to stay off the couch, Purple Arrow is a fantastic choice.",
 			 "descriptionAbbrev": "This hybrid provides effective relief for severe pain while simultaneously inducing a sense of uplift and euphoria. When you need immediate relief and would like to stay off the couch, Purple Arrow is a fantastic choice.",
@@ -32943,7 +32980,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Chemical", "Sweet", "Citrus"],
 		 	 "conditions": ["Depression", "Appetite Loss", "Pain", "Fibromyalgia"],
-			 "positiveEffects": ["Balanced", "Tingly", "Giggly", "Relaxed", "Uplifted", "Enhanced Hunger", "Pain relief", "Euphoric"],
+			 "positiveEffects": ["Balanced", "Tingly", "Giggly", "Relaxed", "Uplifted", "Hungry", "Pain relief", "Euphoric"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "This strain has high THC levels and a citrus flavor.",
 			 "descriptionAbbrev": "This strain has high THC levels and a citrus flavor.",
@@ -33057,8 +33094,8 @@
 		 	], 
 		 	"taste": ["Spicy", "Herbal", "Earthy", "Pungent"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Anxiety", "Appetite Loss", "Insomnia"],
-			 "positiveEffects": ["Pain relief", "Enhanced Drowsiness", "Relaxed", "Enhanced Hunger"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Relaxed", "Hungry"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Despite its violent name, Abusive OG will ease you into in a peaceful state of mind that fades over time to a full-body relaxation.",
 			 "descriptionAbbrev": "Despite its violent name, Abusive OG will ease you into in a peaceful state of mind that fades over time to a full-body relaxation.",
 			 "tags": [""],
@@ -33171,8 +33208,8 @@
 		 	], 
 		 	"taste": [""],
 		 	 "conditions": ["Stress", "Insomnia", "Appetite Loss", "Pain", "Fibromyalgia", "Depression"],
-			 "positiveEffects": ["Enhanced Drowsiness", "Relaxed", "Euphoric", "Happy", "Enhanced Hunger", "Pain relief", "Focused"],
-			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Anxious", "Paranoid",  "Enhanced Drowsiness", "Couch Lock", "Munchies"],
+			 "positiveEffects": ["Drowsiness", "Relaxed", "Euphoric", "Happy", "Hungry", "Pain relief", "Focused"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Anxious", "Paranoid",  "Drowsiness", "Couch Lock", "Munchies"],
 			 "descriptionDetailed": "A great nighttime cannabis strain. If you suffer from insomnia or would like to wind down after a busy workday, this strain may be a good one to try.",
 			 "descriptionAbbrev": "A great nighttime cannabis strain. If you suffer from insomnia or would like to wind down after a busy workday, this strain may be a good one to try.",
 			 "tags": [""],
@@ -33285,7 +33322,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Skunk", "Spicy"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Chronic Inflammation", "Eye Pressure", "Stress", "Insomnia", "Nausea", "Depression", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Pain relief", "Euphoric", "Relaxed", "Enhanced Drowsiness", "Enhanced Hunger",  "Uplifted"],
+			 "positiveEffects": ["Happy", "Pain relief", "Euphoric", "Relaxed", "Drowsiness", "Hungry",  "Uplifted"],
 			 "negativeEffects": ["Couch Lock", "Munchies", "Dry Mouth", "Dizzy", "Dry Eyes", "Anxious"],
 			 "descriptionDetailed": "Top strain for medical users and those that are looking for that extra punch which they havent found in the past years. With Black Tuna, you will be off your sleeping pills in record time. Note that this smoke can be too strong for some users.",
 			 "descriptionAbbrev": "Top strain for medical users and those that are looking for that extra punch which they havent found in the past years.  With Black Tuna, you will be off your sleeping pills in record time. Note that this smoke can be too strong for some users.",
@@ -33399,8 +33436,8 @@
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Citrus"],
 		 	 "conditions": ["Insomnia", "Pain", "Fibromyalgia", "Depression"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Long Lasting", "Enhanced Drowsiness", "Pain relief"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Couch Lock"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Long Lasting", "Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Drowsiness", "Couch Lock"],
 			 "descriptionDetailed": "The effects are relaxing and uplifted, with a lengthy, sleepy come-down great for pain relief and insomnia.",
 			 "descriptionAbbrev": "The effects are relaxing and uplifted, with a lengthy, sleepy come-down great for pain relief and insomnia.",
 			 "tags": [""],
@@ -33513,8 +33550,8 @@
 		 	], 
 		 	"taste": ["Tropical", "Citrus", "Grapefruit"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Muscle Spasms", "Appetite Loss", "Nausea"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Mellow", "Uplifted", "Creative", "Enhanced Hunger", "Pain relief"],
-			 "negativeEffects": ["Enhanced Hunger", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Mellow", "Uplifted", "Creative", "Hungry", "Pain relief"],
+			 "negativeEffects": ["Hungry", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "Tastes similar to tropical Starburst with small dense purple, orange and green colored buds.",
 			 "descriptionAbbrev": "Tastes similar to tropical Starburst with small dense purple, orange and green colored buds.",
 			 "tags": [""],
@@ -33741,8 +33778,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Berry"],
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fibromyalgia"],
-			 "positiveEffects": ["Uplifted", "Happy", "Relaxed", "Enhanced Drowsiness", "Balanced"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Dizzy"],
+			 "positiveEffects": ["Uplifted", "Happy", "Relaxed", "Drowsiness", "Balanced"],
+			 "negativeEffects": ["Drowsiness", "Dizzy"],
 			 "descriptionDetailed": "This strain is perfect for a relaxing night in, and anyone looking for instant stress relief will find it in Sour Cream. ",
 			 "descriptionAbbrev": "This strain is perfect for a relaxing night in, and anyone looking for instant stress relief will find it in Sour Cream.",
 			 "tags": [""],
@@ -33969,7 +34006,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Skunk"],
 		 	 "conditions": ["Fibromyalgia", "Depression", "Fatigue", "Appetite Loss", "Headache", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Enhanced Hunger"],
+			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "This is the more extreme sister of the original Green Crack that will leave you with the same creative mental effects but may not leave you quite as focused. Contrary to its extreme name, this strain is helpful in reducing stress and getting inspired.",
 			 "descriptionAbbrev": "This is the more extreme sister of the original Green Crack that will leave you with the same creative mental effects but may not leave you quite as focused. Contrary to its extreme name, this strain is helpful in reducing stress and getting inspired.",
@@ -34083,8 +34120,8 @@
 		 	], 
 		 	"taste": ["Cheese", "Diesel", "Earthy"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Depression", "Stress", "Muscle Spasms", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Creative", "Uplifted", "Euphoric", "Happy", "Pain relief", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Dry Mouth", "Paranoid", "Dizzy", "Headache", "Dry Eyes"],
+			 "positiveEffects": ["Relaxed", "Creative", "Uplifted", "Euphoric", "Happy", "Pain relief", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Paranoid", "Dizzy", "Headache", "Dry Eyes"],
 			 "descriptionDetailed": "Want pungent, tangy tasty weed that isn't a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
 			 "descriptionAbbrev": "Want pungent, tangy tasty weed that isn't a chore to grow? Sour Cheese is the perfect combination of the original Exodus Cheese and Strawberry genetics. Due to the tried-and-true classic quality of both these strains the Sour Cheese delivers the perfect blend of Cheesy sweet and sour taste and potent Kush body hit.",
 			 "tags": [""],
@@ -34197,8 +34234,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pine"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Pain relief", "Enhanced Drowsiness"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies"],
+			 "positiveEffects": ["Relaxed", "Pain relief", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "This strain is recommended for nighttime use as its effects tend toward full-body relaxation, but it also provides some sensory elevation that is enjoyable for lazy activities. Patients have found Venom OG a potent remedy for pain, arthritis, anxiety, and sleep disorders. ",
 			 "descriptionAbbrev": "This strain is recommended for nighttime use as its effects tend toward full-body relaxation, but it also provides some sensory elevation that is enjoyable for lazy activities. Patients have found Venom OG a potent remedy for pain, arthritis, anxiety, and sleep disorders.",
 			 "tags": [""],
@@ -34311,7 +34348,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Citrus", "Honey", "Lemon", "Sour"],
 		 	 "conditions": ["Fibromyalgia", "Anxiety", "Arthritis", "Anorexia", "Chronic Pain", "Depression", "Migraines", "Nausea", "Stress" ],
-			 "positiveEffects": ["Relaxed", "Focused", "Pain relief", "Euphoric", "Uplifted",  "Enhanced Hunger", "Energetic"],
+			 "positiveEffects": ["Relaxed", "Focused", "Pain relief", "Euphoric", "Uplifted",  "Hungry", "Energetic"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Platinum Wreck is a sativa-dominant cannabis strain that's a hard hitter with thick smoke and is a good pain reliever which also helps with stress and anxiety.",
 			 "descriptionAbbrev": "Platinum Wreck is a sativa-dominant cannabis strain that's a hard hitter with thick smoke and is a good pain reliever which also helps with stress and anxiety.",
@@ -34425,8 +34462,8 @@
 		 	], 
 		 	"taste": ["Grape", "Spicy", "Herbal", "Earthy", "Sweet"],
 		 	 "conditions": ["Stress", "Pain", "Fibromyalgia", "Depression", "Insomnia", "Appetite Loss"],
-			 "positiveEffects": ["Long Lasting", "Pain relief", "Enhanced Drowsiness", "Enhanced Hunger"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Headache"],
+			 "positiveEffects": ["Long Lasting", "Pain relief", "Drowsiness", "Hungry"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Headache"],
 			 "descriptionDetailed": "When you cross Purple Urkle with Querkle, you get a highly potent strain of medical marijuana called Deep Purple. And much like the band, it truly has the power to rock your world. A strong indica high, Deep Purple is calming and relaxing.",
 			 "descriptionAbbrev": "When you cross Purple Urkle with Querkle, you get a highly potent strain of medical marijuana called Deep Purple. And much like the band, it truly has the power to rock your world. A strong indica high, Deep Purple is calming and relaxing.",
 			 "tags": [""],
@@ -34539,8 +34576,8 @@
 		 	], 
 		 	"taste": ["Grape", "Dank", "Pungent", "Earthy", "Woody"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Depression", "Muscle Spasms", "Fatigue"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Enhanced Drowsiness", "Happy", "Uplifted", "Tingly", "Energetic", "Balanced", "Productive", "Pain relief"],
-			 "negativeEffects": ["Enhanced Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Drowsiness", "Happy", "Uplifted", "Tingly", "Energetic", "Balanced", "Productive", "Pain relief"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "After the sweet, danky, grape flavor hits your taste buds, an extremely mellow, relaxing high follows, leaving you with extreme munchies and wanting to fall asleep after about 45 minutes. Purple AK-47 is not likely to give you couch-lock however, as the Sativa AK-47 in this hybrid delivers noticeable heady effects.",
 			 "descriptionAbbrev": "After the sweet, danky, grape flavor hits your taste buds, an extremely mellow, relaxing high follows, leaving you with extreme munchies and wanting to fall asleep after about 45 minutes. Purple AK-47 is not likely to give you couch-lock however, as the Sativa AK-47 in this hybrid delivers noticeable heady effects.",
 			 "tags": [""],
@@ -34653,7 +34690,7 @@
 		 	], 
 		 	"taste": ["Earthy", "Woody", "Sweet"],
 		 	 "conditions": ["Insomnia", "Pain", "Fibromyalgia", "Nausea", "Appetite Loss", "Depression"],
-			 "positiveEffects": ["Enhanced Drowsiness", "Enhanced Hunger", "Relaxed", "Uplifted", "Happy", "Dry Mouth" ],
+			 "positiveEffects": ["Drowsiness", "Hungry", "Relaxed", "Uplifted", "Happy", "Dry Mouth" ],
 			 "negativeEffects": ["Munchies", "Couch Lock", "Dry Eyes", "Dry Mouth", "Headache", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "Will cause couchlock and extremely laziness..and of course you will get a huge case of the munchies.",
 			 "descriptionAbbrev": "Will cause couchlock and extremely laziness..and of course you will get a huge case of the munchies.",
@@ -34767,7 +34804,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Citrus"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Fibromyalgia", "Insomnia", "Headache"],
-			 "positiveEffects": ["Uplifted", "Happy", "Giggly", "Euphoric", "Creative", "Mildly psychoactive", "Enhanced Drowsiness"],
+			 "positiveEffects": ["Uplifted", "Happy", "Giggly", "Euphoric", "Creative", "Psychoactive", "Drowsiness"],
 			 "negativeEffects": ["Couch Lock", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Depending on when this plant is harvested, her effects range from psychedelic and spacey to mellow relaxation.",
 			 "descriptionAbbrev": "Depending on when this plant is harvested, her effects range from psychedelic and spacey to mellow relaxation.",
@@ -35109,13 +35146,584 @@
 		 	], 
 		 	"taste": ["Grape", "Berry", "Sweet"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "Insomnia", "Muscle Spasms", "Cramps", "Stress"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Pain relief", "Enhanced Hunger", "Conversational" ],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Pain relief", "Hungry", "Conversational" ],
 			 "negativeEffects": ["Couch Lock", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache"],
 			 "descriptionDetailed": "Intended to produce a slow-moving high that relaxes the body and inspires the mind.",
 			 "descriptionAbbrev": "Intended to produce a slow-moving high that relaxes the body and inspires the mind.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/grape-crush_100x100.jpg"
+			},
+			{"strainId": 266,
+			 "strainName": "Holland's Hope",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 13.22
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.09	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 3.13
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.53
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Grape", "Berry"],
+		 	 "conditions": ["Stress", "Headache", "Pain", "Fibromyalgia", "Depression", "Insomnia"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Mellow", "Long Lasting", "Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Couch Lock", "Munchies", "Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Great indica with a long lasting high, perfect for a nice mellow night of chilling with friends or watching movies.",
+			 "descriptionAbbrev": "Great indica with a long lasting high, perfect for a nice mellow night of chilling with friends or watching movies.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/hollands-hope_100x100.jpg"
+			},
+			{"strainId": 267,
+			 "strainName": "Black Cherry OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.55
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.29	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.48
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.57
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Citrus"],
+		 	 "conditions": ["Depression", "Stress", "Pain", "Fibromyalgia", "Insomnia", "PMS"],
+			 "positiveEffects": ["Uplifted", "Relaxed", "Giggly", "Drowsiness", "Mellow", "Pain relief"],
+			 "negativeEffects": ["Couch Lock", "Dizzy"],
+			 "descriptionDetailed": "Relaxing full-body effects take over, ridding you of pain and insomnia while lifting the mood. Tastes like black cherry syrup before it's mixed with carbonation to make soda.",
+			 "descriptionAbbrev": "Relaxing full-body effects take over, ridding you of pain and insomnia while lifting the mood. Tastes like black cherry syrup before it's mixed with carbonation to make soda.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/black-cherry-og_100x100.jpg"
+			},
+			{"strainId": 268,
+			 "strainName": "Blue Frost",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.70
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Pungent", "Blueberry", "Sweet", "Fruity", "Cheese"],
+		 	 "conditions": ["PMS", "Depression", "Stress", "Headache", "Chronic Pain"],
+			 "positiveEffects": ["Uplifted", "Pain relief", "Relaxed", "Drowsiness", "Hungry", "Tingly"],
+			 "negativeEffects": ["Paranoid", "Munchies"],
+			 "descriptionDetailed": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. Patients with menstrual disorders have reported instant decreases in pain and stress.",
+			 "descriptionAbbrev": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. Patients with menstrual disorders have reported instant decreases in pain and stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/blue-frost_100x100.jpg"
+			},
+			{"strainId": 269,
+			 "strainName": "BC Sweet Tooth",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.30	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.48
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.70
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.67
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Honey", "Sweet", "Vanilla"],
+		 	 "conditions": ["Insomnia", "Nausea", "Pain", "Stress", "Depression"],
+			 "positiveEffects": ["Drowsiness", "Happy", "Hungry", "Relaxed", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth", "Munchies", "Couch Lock", "Headache", "Dizzy", "Dry Eyes", "Paranoid"],
+			 "descriptionDetailed": "This treat satisfies with a long-lasting, potent feeling that hits fast.",
+			 "descriptionAbbrev": "This treat satisfies with a long-lasting, potent feeling that hits fast.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/bc-sweet-tooth_100x100.jpg"
+			},
+			{"strainId": 270,
+			 "strainName": "Pink Panther",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 10.87
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.53	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.33
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.05
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.68
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.63
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.04
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Diesel"],
+		 	 "conditions": ["Depression", "Anxiety", "Stress", "Social Anxiety"],
+			 "positiveEffects": ["Happy", "Euphoric", "Giggly", "Conversational", "Focused", "Relaxed", "Uplifted", "Drowsiness", "Creative"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth"],
+			 "descriptionDetailed": "Pink Panther has an energized effect on your system, making you feel creative and euphoric. It makes you happy and clear-headed at the same time.",
+			 "descriptionAbbrev": "Pink Panther has an energized effect on your system, making you feel creative and euphoric. It makes you happy and clear-headed at the same time.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pink-panther_100x100.jpg"
 			}
+
 		];
 		
 		var conditions = [
@@ -35185,10 +35793,10 @@
 			{"conditionId": 8,
 			 "conditionName": "Migraines", 
 			 "treatment": "Migraines Treatment description here.",
-			 "strains": ["White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocloate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
+			 "strains": ["White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocolate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
 			 "descriptionDetailed": "Migraines Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Migraines Short description here.",
-			 "tags": ["Migraines", "Headache", "White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocloate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
+			 "tags": ["Migraines", "Headache", "White Fire OG", "White Walker OG", "Super Lemon Haze", "The White", "Stratoshpere", "Sugar Plum", "Silverback Gorilla", "Sour Tsunami", "Regulator OG", "Sherbet Cookies", "Platinum Trinity Kush", "Purple Urkle", "Phantom OG", "Pineapple Hogsbreath", "Northern Lights", "Pennywise", "May Weather Kush", "Moonshine Diesel", "Magic Jack", "Mango Maui", "Mad Max", "Mafia OG", "Lemon OG Kush", "Lulu", "Lemon Head OG", "Lemon Jack", "Jupiter Kush", "L.A. Confidential", "Hog", "Jack Chemdawg", "Jupiter Kush", "Harle-Tsu", "Hawaiian Hulk", "Green Thailand", "H-Trainwreck", "Grape Kool Aid", "Grapefruit Haze", "Gooey Wreck", "Grape Cookies", "Forum Cookies/GSC", "Ghost OG", "Eden OG", "Fire Bomb", "Diablo", "Dubtech", "Clear Lake", "Deadhead OG", "Canelope Haze", "Chocolate Thai", "Blue Dream", "Candyland", "Black Magic Kush", "Alien OG", "Banana Diesel", "Afghani", "Afgooey"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"conditionId": 9,
