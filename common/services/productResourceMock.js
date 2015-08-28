@@ -92,7 +92,7 @@
 			 "VTempsF": ["0",  "370", "900"],
 			 "VTempsC": ["0", "187", "482"],
 			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev":  "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA.",
+			 "descriptionAbbrev":  "Da Buddha is pretty stylish, colored sparkly silver with a faint, fat Buddha logo above the temperature control knob. It’s also available in black for a few dollars more. It’s basically a stripped-down version of the Silver Surfer Vaporizer, which is made by the same company. It has a wide temperature range controlled by the plastic knob on the front of the unit and how fast you choose to inhale.",
 			 "VImageUrl": "images/vapes/dabuddah2.png"
 			},
 			{"VId": 8,
@@ -538,22 +538,22 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "Although the Crafty has only two temperatures using the free app you can set those temperatures to any two temperatures you like. This really enhances the flexibility of this vaporizer. ",
-				 		"TipImg" : "images/vapes/crafty1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "2", 
 				 		"tipTxt": "It is posible to turn off or turn down the intensity of the led and the vibration making the Crafty a great stealth option for those times when it really is just your personal choice.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "Although the Crafty has only two temperatures using the free app you can set those temperatures to any two temperatures you like. This really enhances the flexibility of this vaporizer.",
+				 		"TipImg" : "images/vapes/crafty1.png"
+				 	},
+				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "When you prefer a shorter session, a number of Crafty owners have found that using the stainless steel screen above your herb efectively cuts the capacity in half. This can also extend the life of your personal stash since you use less each session.",
+				 		"tipTxt": "When you prefer a shorter session, a number of Crafty owners have found that using the stainless steel screen above your herb efectively cuts the capacity in half. This can also extend the life of your personal stash since you use less in each session.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "When sharing the session with others you can prevent interruption by the automatic shutoff by suggesting each person press the on off button once when as soon as they take the Crafty.",
+				 		"tipTxt": "When sharing the session with others you can prevent interruption due to the automatic shutoff by suggesting each person press the on off button once when as soon as they take the Crafty.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
@@ -573,7 +573,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "Make sure you grind fine. The finer, the more vapour you get. It also makes me feel like the bowl lasts forever too. Just grind for double what you normally would, and test.",
+				 		"tipTxt": "Make sure you grind fine. The finer, the more vapour you get. Just grind for double what you normally would, and test.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	},
 				 	{ 
@@ -593,7 +593,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "Start at lower temperatures and work your way up. Find a starting temp and vape until you can't see any more vapor, then increase 10C and repeat.",
+				 		"tipTxt": "Start at lower temperatures and work your way up. Find a starting temp and vape until you can't see any more vapor, then increase 10 degrees and repeat.",
 				 		"TipImg" : "images/vapes/crafty1.png"
 				 	}
 			 	]
@@ -659,7 +659,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "You can use a small Althoids container to hold your ABV when you're on the go.",
+				 		"tipTxt": "You can use a small Altoids container to hold your ABV when you're on the go.",
 				 		"TipImg" : "images/vapes/mighty1.png"
 				 	}
 			 	]	
@@ -736,7 +736,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "Using a smaller wand can help you moderate your sessions and your tolerance. This will also extend the time your personal stash lasts potentially saving you money as well.",
+				 		"tipTxt": "Using a smaller wand can help you moderate your sessions and your tolerance. This will also extend the time your personal stash lasts, potentially saving you money as well.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
@@ -746,7 +746,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "Since the SSV is capable of very high temperatures, there is a risk of combusting your herb if you set it too high. This would both release dangerous chemicals such as benzene and toluene into your system as well as affect the taste of future sessions. Most SSV owners suggest a setting between 12:00 and 3:00 to prevent this but each device is made differently so be cautious and experiment to find your favorite setting.",
+				 		"tipTxt": "Since the SSV is capable of very high temperatures, there is a risk of combusting your herb if you set it too high. This would both release dangerous chemicals such as benzene and toluene into your system as well as affect the taste of future sessions. Most SSV owners suggest a setting between 12:00 and 3:00 to prevent this, but each device is made differently so be cautious and experiment to find your favorite setting.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	},
 				 	{ 
@@ -791,7 +791,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Have someone you want to share your SSV with, but they have never vaped? Give them an empty wand that hasn't been cleaned thoroughly yet. Even with nothing in it you can get at least a few clouds. They can see first hand what it takes to pull vapor and there is no risk at all of messing anything up.",
 				 		"TipImg" : "images/vapes/ssv2.png"
 				 	}
 			 	]
@@ -857,7 +857,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Have someone you want to share your DBV with, but they have never vaped? Give them an empty wand that hasn't been cleaned thoroughly yet. Even with nothing in it you can get at least a few clouds. They can see first hand what it takes to pull vapor and there is no risk at all of messing anything up.",
 				 		"TipImg" : "images/vapes/dabuddah2.png"
 				 	}
 				] 	
@@ -2274,7 +2274,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "o lock the Series 3, all you need to do is quickly push the button three times within 2 seconds. This will get the red LED perimeter flashing three times rendering your device unresponsive to accidental activation when not being used. To unlock the e-cigarette, just repeat the process to see the white LEDs flashing indicating an unlocked device.",
+				 		"tipTxt": "To lock the Series 3, all you need to do is quickly push the button three times within 2 seconds. This will get the red LED perimeter flashing three times rendering your device unresponsive to accidental activation when not being used. To unlock the e-cigarette, just repeat the process to see the white LEDs flashing indicating an unlocked device.",
 				 		"TipImg" : "images/vapes/v2ProSeries3.png"
 				 	},
 				 	{ 
