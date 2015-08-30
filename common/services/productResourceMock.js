@@ -1030,7 +1030,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Extreme uses a standard 18.8mm connection on both the whip and a bag mouthpieces. They can connect to a 18.8mm GonG joint. (The bag stem has a GonG joint?) Hold the bag upright when connected to a bong to facilitate airflow.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
@@ -1062,7 +1062,7 @@
 			},
 			{
 				"VTipId": 11,
-				"VName": "V Tower Extreme",
+				"VName": "V Tower",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
@@ -1203,7 +1203,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "Some folks prefer a lighter less dense vapor – they’ll set at 5.5 and get a very light mist in the bag, and probably get more bag fillings.",
+				 		"tipTxt": "Some folks prefer a lighter less dense vapor - they’ll set at 5.5 and get a very light mist in the bag, and probably get more bag fillings.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
@@ -2742,7 +2742,7 @@
 			 "imageUrl": "IntenseEff.png"
 			},
 			{"recEffectId": 16,
-			 "recEffectName": "Body Buzz",  
+			 "recEffectName": "Mind + Body",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
 			 "imageUrl": "MindAndBodyBuzz.png"
@@ -6249,7 +6249,7 @@
 		 	], 
 		 	"taste": ["Honey", "Sweet", "Skunk"],
 		 	 "conditions": ["Stress", "Depression", "Nausea", "Pain", "Fatigue"],
-			 "positiveEffects": ["Intense", "Body Buzz", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
+			 "positiveEffects": ["Intense", "Mind + Body", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "Nebula has won many awards, including 3rd place in the sativa category at the High Times Cannabis Cup in 1999 and 2nd place in 2005.",
 			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic",
@@ -28949,11 +28949,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9",  
-			 		"value": 26.23
+			 		"value": 1.1
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.15
+			 		"value": 15.80
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -29049,7 +29049,7 @@
 				}	
 		 	], 
 		 	"taste": [""],
-		 	 "conditions": ["Epilepsy", "Nausea", "Pain"],
+		 	 "conditions": ["Epilepsy", "Nausea", "Pain", "Cancer"],
 			 "positiveEffects": ["Clear headed", "Pain relief"],
 			 "negativeEffects": ["Dry Mouth"],
 			 "descriptionDetailed": "This is a strong medical choice that won't get patients high. In addition to seizure disorders, medical uses include treatment of pain and nausea.",
@@ -36004,7 +36004,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Strawberry", "Spicy", "Herb", "Hash"],
 		 	 "conditions": ["Insomnia","Stress", "Appetite Loss", "Pain"],
-			 "positiveEffects": ["Drowsiness", "Hungry", "Relaxed", "Pain relief", "Body Buzz"],
+			 "positiveEffects": ["Drowsiness", "Hungry", "Relaxed", "Pain relief", "Mind + Body"],
 			 "negativeEffects": ["Couch Lock", "Munchies"],
 			 "descriptionDetailed": "As the name suggests, this strain has a distinct fruity watermelon flavor profile, reminiscent of grape with hashy undertones.",
 			 "descriptionAbbrev": "As the name suggests, this strain has a distinct fruity watermelon flavor profile, reminiscent of grape with hashy undertones.",
@@ -36915,9 +36915,9 @@
 				}	
 		 	], 
 		 	"taste": ["Earthy", "Woody", "Tea"],
-		 	 "conditions": ["Depression"],
-			 "positiveEffects": ["Balanced", "Energetic", "Relaxed", "Euphoric", "Conversational"],
-			 "negativeEffects": ["Paranoid", "Headache"],
+		 	 "conditions": ["Depression", "Fatigue","Stress", "Appetite Loss", "Nausea"],
+			 "positiveEffects": ["Balanced", "Energetic", "Relaxed", "Euphoric", "Conversational", "Hungry"],
+			 "negativeEffects": ["Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
 			 "descriptionAbbrev": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
 			 "tags": [""],
