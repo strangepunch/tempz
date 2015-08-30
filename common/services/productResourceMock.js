@@ -144,9 +144,9 @@
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["104", "370", "446"],
-			 "VTempsC": ["40", "187", "230"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["266", "288", "309", "331", "352", "374", "396", "417", "439"],
+			 "VTempsC": ["130", "142", "154", "166", "178", "190", "202", "214", "226"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano2.png"
 			},
@@ -155,9 +155,9 @@
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["266", "370", "446"],
-			 "VTempsC": ["130", "187", "230"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["266", "288", "309", "331", "352", "374", "396", "417", "439"],
+			 "VTempsC": ["130", "142", "154", "166", "178", "190", "202", "214", "226"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
 			 "VImageUrl": "images/vapes/volcano1.png"
 			},
@@ -1005,27 +1005,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you heat up the vaporizer to 392 degrees F, and then put the empty Cyclone Bowl on the unit's female piece, you will get the most effective and fast vaporization.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use the remote to put the fan on the lowest setting and heat the Cyclone bowl even faster, then turn it off once the Extreme Q temperature reaches 392 F.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The slower you inhale, the more vaporizer fumes you will successfully intake. Once finished with your toke, you can leave the Cyclone Bowl on the Extreme Q for about 30 seconds to one minute without risking unnecessary heat damage to the bud.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The mouthpiece screen is shaped like a small bowl and needs to cleaned about once a month if you are using the vaporizer daily. You can use the glass tool to scrape the filter clean, but every couple weeks you should just submerge it in rubbing alcohol for a half an hour then rinse and dry.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "As with all vaporizers, use a grinder to grind your pot into fine particulates. This will allow maximum surface area and improve vaporization.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
@@ -1062,7 +1062,7 @@
 			},
 			{
 				"VTipId": 11,
-				"VName": "V Tower",
+				"VName": "V Tower Extreme",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
@@ -1071,27 +1071,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When your V-Tower is heating up be sure to have the cyclone bowl and whip attached to the heating element. This will not only help the V-Tower heat up faster but also ensure an even and consistent vaporizing experience. Make sure while you are doing this the cyclone bowl is NOT packed.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Always remember to use your stir tool between each pull, or every other pull, from the V-Tower. It may seem like something that can get annoying but this is absolutely essential to getting every active ingredient out of your material.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After you are done using the V-Tower always give the cyclone bowl and heating element ample time to cool down before clearing out the bowl. Trying to remove the cyclone bowl too soon can result in you burning yourself.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Taking harder and longer pulls is going to result in you having to clean your glass elbow adapter more often due to the material clogging the screen. It is recommended to take lighter and slower pulls with the V-Tower to avoid having to replace screens over and over.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Just like the Extreme Q you can also achieve stronger pulls from your V-Tower by packing the bowl end of the whip that normally attaches to the cyclone bowl.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
@@ -1132,42 +1132,42 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Storz & Bickel recommends replacing the bags after 50-100 uses.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "if you leave the vapor in the balloons for two long, even a few hours and especially over time, the bags get sticky and smell funny.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You throw the Easy Valve and balloon away after 150 uses, so you avoid cleaning issues but spend more money (a replacement set costs about $60).",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "We recommend that you use a grinder that is designed specifically with vaporizers in mind. Another factor will be how much botanical you load as well as the temperature. The higher the temperature, the more vapor will be released. It will also be thicker and more visible.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Finding the right temperature can be daunting at first. To really see what works for you, start out at a low temperature. From there you can increase your setting until you find what produces the best vapor you. You will get more control over your temperature with the digital but the classic still produces quality vapor.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Once your botanical is producing no more vapor and is an even brown color, you can next use it in baking.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "One often overlooked fact is that the parts dirty at different rates. For example the bottom screen of the filling chamber takes a long time to clog up, because the air is blowing through, not the vaporized plant material. Knowing this you can spread out some of your cleaning tasks to make it less of a burden.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
@@ -1198,17 +1198,17 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The active ingredient in popular herbal mixtures vaporizes when heated to between 338 F and 372 F. This is not hot enough for the plant material to burn so many of the toxins associated with smoking are not released. On the original Volcano vaporizer, this range is between 4.25 and 6.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Some folks prefer a lighter less dense vapor – they’ll set at 5.5 and get a very light mist in the bag, and probably get more bag fillings.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you prefer a smokier experience, start at 6.5 and ratchet it up a notch with each successive bag filling.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
@@ -3200,7 +3200,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "6.png"
+			"imageUrl": "Vanilla.png"
 		}
 
 	];
@@ -4820,6 +4820,66 @@
 			 	"strainName": "Pink Panther",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/pink-panther_100x100.jpg"
+			 	
+			},
+			{"strainId": 271                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Orange Diesel",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/orange-diesel_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 272                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Watermelon",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/watermelon_100x100.jpg"
+			 	
+			},
+			{"strainId": 273                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "OG Wreck",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/og-wreck_100x100.jpg"
+			 	
+			},
+			{"strainId": 274                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Green Hornet",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/green-hornet_100x100.jpg"
+			 	
+			},
+			{"strainId": 275                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Purple Ice",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/purple-ice_100x100.jpg"
+			 	
+			},
+			{"strainId": 276                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Blue Knight",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/blue-knight_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 277                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Scooby Snacks",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/scooby-snacks_100x100.jpg"
+			 	
+			},
+			{"strainId": 278                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Afghan Diesel",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/afghan-diesel_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 279                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Tigers Milk",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/tiger-s-milk_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 280                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			 	"strainName": "Mexican",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/mexican_100x100.jpg"
 			 	
 			}
 
@@ -35722,6 +35782,1146 @@
 			 "descriptionAbbrev": "Pink Panther has an energized effect on your system, making you feel creative and euphoric. It makes you happy and clear-headed at the same time.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/pink-panther_100x100.jpg"
+			},
+			{"strainId": 271,
+			 "strainName": "Orange Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.84	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.25
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.68
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Orange", "Diesel", "Chemical"],
+		 	 "conditions": ["ADHD", "PTSD", "Fatigue", "Stress","Fibromyalgia", "Depression"],
+			 "positiveEffects": ["Energetic", "Focused", "Relaxed", "Creative", "Euphoric", "Potent"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "Sativa-lovers will appreciate the sharp sense of energy and focus that Orange Diesel delivers, and these effects may be helpful for patients treating ADD/ADHD, fatigue, and stress.",
+			 "descriptionAbbrev": "Sativa-lovers will appreciate the sharp sense of energy and focus that Orange Diesel delivers, and these effects may be helpful for patients treating ADD/ADHD, fatigue, and stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/orange-diesel_100x100.jpg"
+			},
+			{"strainId": 272,
+			 "strainName": "Watermelon",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.06
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.48	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Strawberry", "Spicy", "Herb", "Hash"],
+		 	 "conditions": ["Insomnia","Stress", "Appetite Loss", "Pain"],
+			 "positiveEffects": ["Drowsiness", "Hungry", "Relaxed", "Pain relief", "Body Buzz"],
+			 "negativeEffects": ["Couch Lock", "Munchies"],
+			 "descriptionDetailed": "As the name suggests, this strain has a distinct fruity watermelon flavor profile, reminiscent of grape with hashy undertones.",
+			 "descriptionAbbrev": "As the name suggests, this strain has a distinct fruity watermelon flavor profile, reminiscent of grape with hashy undertones.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/watermelon_100x100.jpg"
+			},
+			{"strainId": 273,
+			 "strainName": "OG Wreck",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 26.38
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 3.77
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 1.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Skunk", "Earthy", "Sweet"],
+		 	 "conditions": ["Nausea", "Appetite Loss", "Pain", "Headache", "Insomnia", "Stress", "Fibromyalgia"],
+			 "positiveEffects": ["Euphoric", "Hungry", "Creative", "Happy", "Energetic"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid"],
+			 "descriptionDetailed": "This high-THC strain ushers in a variety of therapeutic effects suitable for patients treating pain, nausea, appetite loss, fatigue, depression, headaches, and stress.",
+			 "descriptionAbbrev": "This high-THC strain ushers in a variety of therapeutic effects suitable for patients treating pain, nausea, appetite loss, fatigue, depression, headaches, and stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/og-wreck_100x100.jpg"
+			},
+			{"strainId": 274,
+			 "strainName": "Green Hornet",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 11.55
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Flowery", "Sweet", "Herbal"],
+		 	 "conditions": ["Depression", "Fatigue", "Fibromyalgia", "Headache", "Stress", "Appetite Loss"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Focused", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Headache"],
+			 "descriptionDetailed": "Nice calm high, that doesn't make you tired and gets your mind right.",
+			 "descriptionAbbrev": "Nice calm high, that doesn't make you tired and gets your mind right.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/green-hornet_100x100.jpg"
+			},
+			{"strainId": 275,
+			 "strainName": "Purple Ice",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Grapefruit", "Flowery"],
+		 	 "conditions": ["Anxiety", "Depression", "Insomnia", "Fibromyalgia", "Bipolar", "Migraines", "Nausea", "Chronic Pain"],
+			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Conversational", "Uplifted", "Pain relief", "Creative", "Tingly"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "This strain is known for creating a calming, tingly sensation that begins in the head before traveling to the rest of your body.",
+			 "descriptionAbbrev": "This strain is known for creating a calming, tingly sensation that begins in the head before traveling to the rest of your body.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-ice_100x100.jpg"
+			},
+			{"strainId": 276,
+			 "strainName": "Blue Knight",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 26.44
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.13
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 3.93
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Herbal", "Woody", "Blueberry"],
+		 	 "conditions": ["Stress", "Anxiety", "Insomnia", "Depression", "Appetite Loss", "Fibromyalgia"],
+			 "positiveEffects": ["Relaxed", "Pain relief", "Hungry", "Drowsiness", "Psychoactive"],
+			 "negativeEffects": ["Munchies", "Couch Lock"],
+			 "descriptionDetailed": " Earthy, woody, and blueberry flavors are unleashed on the exhale, and the relaxing full-body effects that follow are often enough to soothe pain and stimulate the appetite.",
+			 "descriptionAbbrev": " Earthy, woody, and blueberry flavors are unleashed on the exhale, and the relaxing full-body effects that follow are often enough to soothe pain and stimulate the appetite.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/blue-knight_100x100.jpg"
+			},
+			{"strainId": 277,
+			 "strainName": "Scooby Snacks",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Fruity", "Tea", "Flowery"],
+		 	 "conditions": ["Insomnia", "Stress", "Anxiety", "Depression"],
+			 "positiveEffects": ["Relaxed", "Calm", "Drowsiness", "Balanced"],
+			 "negativeEffects": ["Couch Lock"],
+			 "descriptionDetailed": "The combination of popular West Coast genetics brings on stimulating cerebral effects that weigh heavy on your eyes and slowly relax the body.",
+			 "descriptionAbbrev": "The combination of popular West Coast genetics brings on stimulating cerebral effects that weigh heavy on your eyes and slowly relax the body.",
+			 "tags": ["Drui"],
+			 "imageUrl": "images/strains/scooby-snacks_100x100.jpg"
+			},
+			{"strainId": 278,
+			 "strainName": "Afghan Diesel",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Grapefruit"],
+		 	 "conditions": ["Anxiety", "Stress", "Depression", "Appetite Loss", "Insomnia", "Nausea", "Pain"],
+			 "positiveEffects": ["Creative", "Energetic",  "Euphoric", "Happy", "Relaxed", "Pain relief"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "The taste has been described as light and sweet. This strain will have a more cerebral effect rather than body. ",
+			 "descriptionAbbrev": "The taste has been described as light and sweet. This strain will have a more cerebral effect rather than body. ",
+			 "tags": [""],
+			 "imageUrl": "images/strains/afghan-diesel_100x100.jpg"
+			},
+			{"strainId": 279,
+			 "strainName": "Tigers Milk",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.74
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.65	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.06 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.03
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.45
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 1.21
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.82
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Skunk", "Cheese", "Pungent"],
+		 	 "conditions": ["Pain", "Insomnia", "Depression", "Anxiety"],
+			 "positiveEffects": ["Euphoric", "Intense", "Potent", "Psychoactive", "Pain relief", "Drowsiness", "Relaxed"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness"],
+			 "descriptionDetailed": "Tigers Milk hits with intense cerebral euphoria, an experience described by its breeders as being borderline psychedelic. Tapering down to restful relaxation over time, this indica is commonly looked to for its pain-relieving and sleepy qualities.",
+			 "descriptionAbbrev": "Tigers Milk hits with intense cerebral euphoria, an experience described by its breeders as being borderline psychedelic. Tapering down to restful relaxation over time, this indica is commonly looked to for its pain-relieving and sleepy qualities.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/tiger-s-milk_100x100.jpg"
+			},
+			{"strainId": 280,
+			 "strainName": "Mexican",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Woody", "Tea"],
+		 	 "conditions": ["Depression"],
+			 "positiveEffects": ["Balanced", "Energetic", "Relaxed", "Euphoric", "Conversational"],
+			 "negativeEffects": ["Paranoid", "Headache"],
+			 "descriptionDetailed": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
+			 "descriptionAbbrev": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/mexican_100x100.jpg"
 			}
 
 		];
