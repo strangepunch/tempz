@@ -92,7 +92,7 @@
 			 "VTempsF": ["0",  "370", "900"],
 			 "VTempsC": ["0", "187", "482"],
 			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev":  "Da Buddha is pretty stylish, colored sparkly silver with a faint, fat Buddha logo above the temperature control knob. It’s also available in black for a few dollars more. It’s basically a stripped-down version of the Silver Surfer Vaporizer, which is made by the same company. It has a wide temperature range controlled by the plastic knob on the front of the unit and how fast you choose to inhale.",
+			 "descriptionAbbrev":  "Da Buddha is pretty stylish, colored sparkly silver with a faint, fat Buddha logo above the temperature control knob. It's also available in black for a few dollars more. It's basically a stripped-down version of the Silver Surfer Vaporizer, which is made by the same company. It has a wide temperature range controlled by the plastic knob on the front of the unit and how fast you choose to inhale.",
 			 "VImageUrl": "images/vapes/dabuddah2.png"
 			},
 			{"VId": 8,
@@ -1203,7 +1203,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "Some folks prefer a lighter less dense vapor - they’ll set at 5.5 and get a very light mist in the bag, and probably get more bag fillings.",
+				 		"tipTxt": "Some folks prefer a lighter less dense vapor - they'll set at 5.5 and get a very light mist in the bag, and probably get more bag fillings.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
@@ -1741,7 +1741,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "Drawing a lot of air through the device won’t create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
+				 		"tipTxt": "Drawing a lot of air through the device won't create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
 				 		"TipImg" : "images/vapes/pax1.png"
 				 	},
 				 	{ 
@@ -1807,7 +1807,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "Drawing a lot of air through the device won’t create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
+				 		"tipTxt": "Drawing a lot of air through the device won't create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
 				 		"TipImg" : "images/vapes/pax2black.png"
 				 	},
 				 	{ 
@@ -2061,7 +2061,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "When using it with herbs you can pack the chamber with as little as .1g or as much as ~.5g. The more you pack the more draws you can take, just don’t pack it too tight and don’t pack it more than about 80% full so airflow doesn’t get restricted.",
+				 		"tipTxt": "When using it with herbs you can pack the chamber with as little as .1g or as much as ~.5g. The more you pack the more draws you can take, just don't pack it too tight and don't pack it more than about 80% full so airflow doesn't get restricted.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
@@ -2071,7 +2071,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "For personal sessions, it works well at about fifty percent full, or about one quarter of a gram. I really wouldn’t put more than half a gram in, because it will affect how well your material vaporizes.",
+				 		"tipTxt": "For personal sessions, it works well at about fifty percent full, or about one quarter of a gram. I really wouldn't put more than half a gram in, because it will affect how well your material vaporizes.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
@@ -2122,7 +2122,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "It does seem to work better, and you’ll get better vapor and more vapor if you put a decent amount of material inside the chamber or the crucible.",
+				 		"tipTxt": "It does seem to work better, and you'll get better vapor and more vapor if you put a decent amount of material inside the chamber or the crucible.",
 				 		"TipImg" : "images/vapes/Herbal-Aire-1.png"
 				 	},
 				 	{ 
