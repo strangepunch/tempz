@@ -4881,6 +4881,36 @@
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/mexican_100x100.jpg"
 			 	
+			},
+			{"strainId": 281                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			 	"strainName": "Lifesaver",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/lifesaver_100x100.jpg"
+			 	
+			},
+			{"strainId": 282                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			 	"strainName": "Freezeland",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/freezeland_100x100.jpg"
+			 	
+			},
+			{"strainId": 283                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			 	"strainName": "Critical Sensi Star",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/critical-sensi-star_100x100.jpg"
+			 	
+			},
+			{"strainId": 284                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			 	"strainName": "Rugburn OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/rug-burn-og_100x100.jpg"
+			 	
+			},
+			{"strainId": 285                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			 	"strainName": "White Lightning",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/white-lightning_100x100.jpg"
+			 	
 			}
 
 		]; 
@@ -36002,7 +36032,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Sweet", "Strawberry", "Spicy", "Herb", "Hash"],
+		 	"taste": ["Sweet", "Strawberry", "Spicy", "Herbal", "Hash"],
 		 	 "conditions": ["Insomnia","Stress", "Appetite Loss", "Pain"],
 			 "positiveEffects": ["Drowsiness", "Hungry", "Relaxed", "Pain relief", "Mind + Body"],
 			 "negativeEffects": ["Couch Lock", "Munchies"],
@@ -36922,6 +36952,576 @@
 			 "descriptionAbbrev": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mexican_100x100.jpg"
+			},
+			{"strainId": 281,
+			 "strainName": "Lifesaver",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.33
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.07	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.63
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.53
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.21
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Grapefruit", "Berry"],
+		 	 "conditions": ["Fatigue", "Depression", "Stress", "Pain", "Fibromyalgia", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Giggly", "Happy", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "Relaxing with a grape and bubble gum aroma, this strain is worth a try for those looking for a stronger, medicated feeling.",
+			 "descriptionAbbrev": "Relaxing with a grape and bubble gum aroma, this strain is worth a try for those looking for a stronger, medicated feeling.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/lifesaver_100x100.jpg"
+			},
+			{"strainId": 282,
+			 "strainName": "Freezeland",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.04
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.19	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.35
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pine", "Woody", "Flowery"],
+		 	 "conditions": ["Chronic Back Pain", "Pain", "Fibromyalgia", "Muscle Spasms", "Insomnia"],
+			 "positiveEffects": ["Drowsiness", "Pain relief", "Relaxed", "Calmness"],
+			 "negativeEffects": ["Paranoid", "Couch Lock", "Anxious"],
+			 "descriptionDetailed": "Chronic pain and insomnia are the most common symptoms treated with this strain, and anyone looking for relaxation or rest will find it in Freezeland.",
+			 "descriptionAbbrev": "Chronic pain and insomnia are the most common symptoms treated with this strain, and anyone looking for relaxation or rest will find it in Freezeland.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/freezeland_100x100.jpg"
+			},
+			{"strainId": 283,
+			 "strainName": "Critical Sensi Star",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.81
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.39
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Citrus", "Earthy"],
+		 	 "conditions": ["Insomnia", "Muscle Spasms", "Fibromyalgia", "Stress", "Appetite Loss", "Chronic Back Pain"],
+			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Conversational", "Calmness"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness", "Munchies"],
+			 "descriptionDetailed": "The relaxing effects will help any consumer find their happy place, even when coping with insomnia, muscle spasms, or high stress levels.",
+			 "descriptionAbbrev": "The relaxing effects will help any consumer find their happy place, even when coping with insomnia, muscle spasms, or high stress levels.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/critical-sensi-star_100x100.jpg"
+			},
+			{"strainId": 284,
+			 "strainName": "Rugburn OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 25.38
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.37	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.65
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.33
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pungent", "Diesel", "Sweet", "Citrus"],
+		 	 "conditions": ["Chronic Pain", "Depression", "Fibromyalgia", "Nausea", "Appetite Loss", "Insomnia", "Anxiety", "Stress"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Uplifted", "Pain relief"],
+			 "negativeEffects": ["Paranoid", "Dry Eyes", "Dry Mouth"],
+			 "descriptionDetailed": "Most certainly Indica dominant, Rug Burn OG has a body buzz that would be narcotic if not for the fact that it is accompanied by a happy mental high. This means it may be used to burn away fatigue, anxiety and stress. Good for daytime pain relief and wiping away depression, the strain can also have users clearing out the cupboards to look for snacks, rendering it a decent remedy for appetite loss or nausea.",
+			 "descriptionAbbrev": "Most certainly Indica dominant, Rug Burn OG has a body buzz that would be narcotic if not for the fact that it is accompanied by a happy mental high. This means it may be used to burn away fatigue, anxiety and stress. Good for daytime pain relief and wiping away depression, the strain can also have users clearing out the cupboards to look for snacks, rendering it a decent remedy for appetite loss or nausea.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/rug-burn-og_100x100.jpg"
+			},
+			{"strainId": 285,
+			 "strainName": "White Lightning",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.42
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.31	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.28
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Skunk", "Earthy"],
+		 	 "conditions": ["Multiple Sclerosis", "Insomnia", "Anorexia", "Parkinsons", "Nausea", "Pain", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Calmness", "Hungry", "Relaxed"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "White Lightning induces a deep indica calm that relieves pain, nausea, and anxiety. ",
+			 "descriptionAbbrev": "White Lightning induces a deep indica calm that relieves pain, nausea, and anxiety. ",
+			 "tags": [""],
+			 "imageUrl": "images/strains/white-lightning_100x100.jpg"
 			}
 
 		];
