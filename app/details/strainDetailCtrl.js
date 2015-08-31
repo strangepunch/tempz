@@ -61,6 +61,10 @@
       //vm.currentMode = vm.Modes[0]; //initiate mode
     });
 
+    $scope.whereFrom = function(name){
+      console.log('where from name', name);
+    }
+
     //select a mode
     $scope.selectMode = function(mode){
       vm.currentMode = mode;
@@ -95,6 +99,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
           case 'Neg':
               vm.Description = false;
@@ -126,6 +131,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
           case 'Per':
               vm.Description = false;
@@ -145,6 +151,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
           case 1:
               vm.Description = false;
@@ -176,6 +183,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
           case 'Med':
               vm.Description = false;
@@ -194,6 +202,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
           case 'Vap':
               vm.Description = false;
@@ -210,6 +219,7 @@
               vm.showQ1 = false;
               vm.VapeQ = true;
               vm.VapeA = false;
+              vm.inVape = false;
               break;
           default:
               vm.Description = true
@@ -227,6 +237,7 @@
               vm.VapeA = false;
               vm.centerImage = strain.imageUrl;
               vm.modeName = strain.strainName;
+              vm.inVape = false;
               break;
       }
 
@@ -402,20 +413,20 @@
       vm.showQ1 = false;
       vm.selectedVape = name;
       vm.vapeSelected = true;
-      /**
+      
       vapeTempResource.query(function(data){
         for(var i=0; i<data.length; i++){
           if(data[i].VName === name){
             vm.vapeImg = data[i].VImageUrl;
+            vm.centerImage = vm.vapeImg;
           }
         }
       });
-      vm.modeName = vm.selectedVape;
-      vm.centerImage = vm.vapeImg;
-      **/
+      vm.modeName = vm.selectedVape; 
     };
     //--------Go function for Vape--------//
     $scope.goVape = function (){
+      vm.inVape = true;
       vm.VapeQ = false;
       vm.VapeA = true;
       vm.vapeSelected = false;
@@ -451,6 +462,15 @@
       vm.styleC={"color":"white","font-size": "0.8em"};
 
     };
+    //----------Back button for vape-----//
+    $scope.backVape = function(){
+      vm.inVape = false;
+      vm.centerImage = strain.imageUrl;
+      vm.modeName = strain.strainName;
+      vm.discMode = strain.strainType;
+      $scope.selectMode(1);
+
+    }
     //----------Temp type-------------//
     //change between F and C
     $scope.selectTemp = function(name){

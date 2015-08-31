@@ -73,6 +73,7 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.thereIsMore = false;
     				vm.selectedSomething = 0;
     				vm.selectedTaste = null;
     				vm.strainSuggestions=[];
@@ -93,6 +94,7 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.thereIsMore = false;
     				vm.selectedSomething = 0;
     				vm.selectedEffect = null;
     				vm.strainSuggestions=[];
@@ -113,6 +115,7 @@
     				$scope.showAnswer1 = false;
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
+    				vm.thereIsMore = false;
     				vm.selectedSomething = 0;
     				vm.selectedStrain = null;
     				vm.strainSuggestions=[];
@@ -124,6 +127,7 @@
 			        vm.modeName = "Select Mode";
 			        vm.centerImage = "1.png";
 			        vm.discMode = "Select Mode";
+			        vm.thereIsMore = false;
 			}
 
 		};
@@ -312,8 +316,11 @@
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
 		//Flavor
 		$scope.searchForTaste = function (Flavor){
+			$scope.loading = true;
 			strainResource.query(function(data){
+				$scope.loading = false;
 				ngProgress.complete();
+				
 				var num = 0;
  				vm.strainSuggestions = [];
  				for(var i=0; i<data.length; i++){
@@ -336,8 +343,11 @@
 		};
 		//Effect
 		$scope.searchForFeel = function (Effect,Type){
+			$scope.loading = true;
 			strainResource.query(function(data){
+				$scope.loading = false;
 				ngProgress.complete();
+				
 				var num = 0;
  				vm.strainSuggestions = [];
  				if(Type === "N"){
@@ -370,8 +380,11 @@
 		};
 		//Strain
 		$scope.searchForBud = function (Strain){
+			$scope.loading = true;
 			strainResource.query(function(data){
+				$scope.loading = false;
 				ngProgress.complete();
+				
 				var num = 0;
  				vm.strainSuggestions = [];
  				for(var i=0; i<data.length; i++){

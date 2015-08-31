@@ -398,7 +398,9 @@
     		if(vm.userSelect[0].strnName != ''){
     			vm.hasEnterStrain = true;
     			vm.yourStrain = [];
+    			$scope.loading = true;
     			strainResource.query(function(data){
+    				$scope.loading = false;
 					for(var i=0; i<data.length; i++){
 						if(vm.userSelect[0].strnName == data[i].strainName){
 							vm.yourStrain = data[i];
@@ -552,7 +554,7 @@
     	//The button "Show" in suggested strain in the second screen
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
-
+    		$scope.loading = true;
     		ngProgress.start();
 
     		//make sure somethings are hidden at the beginning
@@ -567,6 +569,7 @@
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
     		strainResource.query(function(data){
+    			$scope.loading = false;
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
     					for (var y=0; y < data[x].components.length; y++){

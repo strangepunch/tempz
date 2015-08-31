@@ -258,9 +258,14 @@
 
 	<!--back-->
 	<div class="row">
-		<div class="col-xs-6">
+		<div class="col-xs-6" ng-if="!vm.inVape">
 			<div class = "panel panel-buttons">
-				<div class="btn" ui-sref="rec"> Back </div>
+				<div class="btn" ui-sref="rec"> Clear </div>
+			</div>
+		</div>
+		<div class="col-xs-6" ng-if="vm.inVape">
+			<div class = "panel panel-buttons">
+				<div class="btn" ng-click="backVape()"> Back </div>
 			</div>
 		</div>
 		<div class="col-xs-6" ng-if="vm.vapeSelected">
