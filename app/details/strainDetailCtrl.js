@@ -90,7 +90,7 @@
                   }
                 }
               });
-              vm.discMode = "Positive";
+              vm.discMode = "Positives";
               vm.selectedMode = "Positive effects";
               vm.vapeSelected = false;
               vm.selectedVape = "";
@@ -122,7 +122,7 @@
                   }
                 }
               });
-              vm.discMode = "Negative";
+              vm.discMode = "Negatives";
               vm.selectedMode = "Negative effects";
               vm.vapeSelected = false;
               vm.selectedVape = "";
