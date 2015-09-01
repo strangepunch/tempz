@@ -1137,7 +1137,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "if you leave the vapor in the balloons for two long, even a few hours and especially over time, the bags get sticky and smell funny.",
+				 		"tipTxt": "If you leave the vapor in the balloons for two long, even a few hours and especially over time, the bags get sticky and smell funny.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
@@ -1213,27 +1213,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "One often overlooked fact is that the parts dirty at different rates. For example the bottom screen of the filling chamber takes a long time to clog up, because the air is blowing through, not the vaporized plant material. Knowing this you can spread out some of your cleaning tasks to make it less of a burden.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Finding the right temperature can be daunting at first. To really see what works for you, start out at a low temperature. From there you can increase your setting until you find what produces the best vapor you. You will get more control over your temperature with the digital but the classic still produces quality vapor.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "We recommend that you use a grinder that is designed specifically with vaporizers in mind. Another factor will be how much botanical you load as well as the temperature. The higher the temperature, the more vapor will be released. It will also be thicker and more visible.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Once your botanical is producing no more vapor and is an even brown color, you can next use it in baking.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you leave the vapor in the balloons for two long, even a few hours and especially over time, the bags get sticky and smell funny.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
@@ -1252,8 +1252,8 @@
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipNum": "12",				 		
+				 		"tipTxt": "Finding the right temperature can be daunting at first. To really see what works for you, start out at a low temperature. From there you can increase your setting until you find what produces the best vapor you. You will get more control over your temperature with the digital but the classic still produces quality vapor.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	}
 			 	]
@@ -1264,37 +1264,37 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When you pack the herb chamber don’t be shy. Try layering the entire bottom screen and then put even more on top. You may find leaving the pad out while vaping and just adding more material gives you some really thick vapor, but the quality and smoothness still remains.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Always cap the mouthpiece with your thumb or finger. If you look at the mouthpiece closely while the Plenty is on you can actually see vapor creeping out of the mouthpiece. So if you aren’t constantly pulling you are slowly losing some precious vapor.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When you feel like your material is on its last legs after stirring one or multiple times, try turning your heat level up to max. You can usually get some nice pulls at the end if you do this.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After turning off the Plenty be sure to give it some time to cool down before clearing the herb chamber or storing it away. Also make sure the vent on the bottom is not blocked, so that it can cool down properly.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When you clean out the herb chamber be sure to use the heavy duty brush that they include. Just dumping the material out is not going to do the trick, even if it looks like it did. Also be sure to really jam the brush into the edges around the chamber, both the bottom and top. That is the easiest place for used material to build up.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you're using it by yourself, just put a pinch of herbs at the bottom and then take the Liquid Pad (included in packaging) and put it on top of the herbs, to fill up the rest of the space inside the chamber, so that when you screw the coil piece on top, all of the contents become packed snugly inside and the herbs are pressed evenly across the bottom screen.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you plan to use your Plenty vaporizer for a group setting, fill the herb chamber completely because the herbs cannot move around when you move the unit different directions. If you pack it completely, you don’t need to worry about slipping and sliding. They will stay pressed against the screen evenly for the whole time.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
@@ -1340,37 +1340,37 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use a pipe cleaner after every single use to brush debris from the inside of the bowl, around the rim, and the bottom of the glass screen, it works great and helps cut down on how often I have to soak my glass sets.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can swab out your bowl with rubbing alcohol every few uses to prevent it from browning, if you don’t you'll need a dabber.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Never try and stick anything down your screen end to try and clean debris out, just let it soak. The screen is very tiny, and the glass itself it very fragile, if you poke too hard, and move around too fast you could end up breaking it.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you've ever wondered how much weed to put in your DaVinci, well that’s a personal preference, but never ever pack it all the way up, to the point where you can’t push the bud down",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If it's packed too tight, the center doesn't heat, and most often times you'll find that it's extremely hard to take hits, you have to realized that the vaporizer is pulling air from the bottom of the bowl, so you need airflow.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Some people own this vaporizer and don’t even realize that it has a buddy rim system so you can share your vaporizer with other people, and not have to have oral contact. When you share your Ascent, use the rim, and pull the straw out for your friends.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you own a car, and love to vape, you more than 100% need to get the DaVinci Ascent Car Charger. Nothing is worse than having a vaporizer die on you in the middle of a session.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
@@ -1401,37 +1401,37 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you just stick whole buds in there, you're not maximizing the ingredients of your herb. The finer you pulverize your herb, the more THC and CBD you can activate.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Pack the PUFFiT chamber loosely with your dry blends. Most of the time when someone says they aren’t getting good results it’s because they have loaded the herb chamber tightly like they would a classic water pipe or dugout.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Inhale gently and slowly once the green light goes on and you’ll get a nice tasty cloud. You can even take short little sips rather than large rips.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Before and after loading the herb chamber, be sure to dust out the chamber for any residue from any previous sessions.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "One issue that prevents optimal discretion is the time it takes to heat up the Puffit 2. However, this problem can be circumvented by heating the vaporizer out of sight until it is ready to be used.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The concentrate chamber does become messy, so we recommend cleaning it after each use.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The white button you see on the front is your heat-preference light. Press to range between temperatures from 320 degrees to 415 degrees Fahrenheit.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
@@ -1477,47 +1477,47 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Bring an extra battery and you’ve got 2+ hours before needing to charge.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "At the size and weight of a flask of whiskey, this vaporizer is more suited to a bag, purse or jacket pocket rather than your pants pocket.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The best way to clean the path is with alcohol soaked Q-tip. Simply remove the mouthpiece and insert the alcohol soaked Q-tip into the air path. It will clean all residue within seconds.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Haze is using a controlled system for temperatures. The approximate temperatures range 250-275 , 350 – 370, 375- 410, 410-470F. When there is wax content with cans, the system uses a higher value for heating. With conduction screen at low temperature, you will experience the lower end of the range.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you put the unit down without activity (no draws), the unit will shut itself off.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Haze heating element is stainless steel. All metal parts inside and accessories are surgical grade stainless steel (the most expensive and high end steel version). Including the cans, screens, mouthpiece, bowls etc.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Convection screen will give you a taste, will medicate you 100% without much physical or visible vapor output at setting 3. This setting may be a bit low for some people, at setting 4 the haze will give you more visible vapor.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you use the conduction screens (the open side ones) at setting 3, you will see that it is the optimum temperature setting for the dry herb for most people. The conduction screen with setting 4 will produce much thicker vapor, but can be a bit on the hot side for some people.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Most people use these cans to pre-pack the dry herb and take several cans out to concerts parks etc and they love the performance. So they don’t have to deal with prep, dump, grind when they are out.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	}
 			 	]
@@ -1538,27 +1538,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Hold the button down, wait for orange glow and start slow long draw, letting off the button about half way through. By varying technique you can get whatever type of vapor your heart desires.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You really don't want to fill it up any higher than the rim of the bowl, and don't pack it too tightly. Do a medium pack and it'll work great.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Get a bottle of isopropyl alcohol and some paper towels and clean the Firefly out regularly. When burned weed starts to accumulate even a little, it gets in the way and ruins the perfect seal that is made when you put to the two halves together.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Order up an external battery charger and an extra battery. You are going to need to switch batteries a lot.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It works like a charm when you pre heat for about 4 seconds and pull for about 8-10 seconds. Then you can let off the button and keep hitting this until you start to feel your lungs expand and the vapor heats your throat up.",
 				 		"TipImg" : "images/vapes/firefly1.png"
 				 	},
 				 	{ 
@@ -4708,208 +4708,238 @@
 			 	"imageUrl": "images/strains/charlie-sheen_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 251                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 251,
 			 	"strainName": "Rainbow",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/rainbow_100x100.jpg"
 			 	
 			},
-			{"strainId": 252                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 252,
 			 	"strainName": "Caramelicious",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/caramelicious_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 253                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 253,
 			 	"strainName": "Sour Cream",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/sour-cream_100x100.jpg"
 			 	
 			},
-			{"strainId": 254                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 254,
 			 	"strainName": "Apollo 11",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/apollo-11_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 255                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 255,
 			 	"strainName": "Green Crack Extreme",
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/green-crack-extreme_100x100.jpg"
 			 	
 			},
-			{"strainId": 256                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 256,
 			 	"strainName": "Sour Cheese",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/sour-cheese_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 257                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 257,
 			 	"strainName": "Venom OG",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/venom-og_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 258                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 258,
 			 	"strainName": "Platinum Wreck",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/platinum_kush_indica.jpg"
 			 	
 			}, 
-			{"strainId": 259                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 259,
 			 	"strainName": "Deep Purple",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/deep-purple_100x100.jpg"
 			 	
 			},
-			{"strainId": 261                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 261,
 			 	"strainName": "Purple Afghani",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/purple-afghani_100x100.jpg"
 			 	
 			},
-			{"strainId": 262                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 262,
 			 	"strainName": "Heavy Duty Fruity",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/heavy-duty-fruity_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 263                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 263,
 			 	"strainName": "The Truth",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/the-truth_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 264,
 			 	"strainName": "Triple Diesel",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/triple-diesel_100x100.jpg"
 			 	
 			},
-			{"strainId": 265                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 265,
 			 	"strainName": "Grape Crush",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/grape-crush_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 266                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 266,
 			 	"strainName": "Holland's Hope",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/hollands-hope_100x100.jpg"
 			 	
 			},
-			{"strainId": 267                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 267,
 			 	"strainName": "Black Cherry OG",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/black-cherry-og_100x100.jpg"
 			 	
 			},
-			{"strainId": 268                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 268,
 			 	"strainName": "Blue Frost",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/blue-frost_100x100.jpg"
 			 	
 			},
-			{"strainId": 269                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 269,
 			 	"strainName": "BC Sweet Tooth",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/bc-sweet-tooth_100x100.jpg"
 			 	
 			},
-			{"strainId": 270                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 270,
 			 	"strainName": "Pink Panther",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/pink-panther_100x100.jpg"
 			 	
 			},
-			{"strainId": 271                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 271,
 			 	"strainName": "Orange Diesel",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/orange-diesel_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 272                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 272,
 			 	"strainName": "Watermelon",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/watermelon_100x100.jpg"
 			 	
 			},
-			{"strainId": 273                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 273,
 			 	"strainName": "OG Wreck",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/og-wreck_100x100.jpg"
 			 	
 			},
-			{"strainId": 274                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 274,
 			 	"strainName": "Green Hornet",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/green-hornet_100x100.jpg"
 			 	
 			},
-			{"strainId": 275                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 275,
 			 	"strainName": "Purple Ice",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/purple-ice_100x100.jpg"
 			 	
 			},
-			{"strainId": 276                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 276,
 			 	"strainName": "Blue Knight",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/blue-knight_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 277                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 277,
 			 	"strainName": "Scooby Snacks",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/scooby-snacks_100x100.jpg"
 			 	
 			},
-			{"strainId": 278                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 278,
 			 	"strainName": "Afghan Diesel",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/afghan-diesel_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 279                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 279,
 			 	"strainName": "Tigers Milk",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/tiger-s-milk_100x100.jpg"
 			 	
 			}, 
-			{"strainId": 280                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,
+			{"strainId": 280,
 			 	"strainName": "Mexican",
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/mexican_100x100.jpg"
 			 	
 			},
-			{"strainId": 281                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			{"strainId": 281,
 			 	"strainName": "Lifesaver",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/lifesaver_100x100.jpg"
 			 	
 			},
-			{"strainId": 282                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			{"strainId": 282,
 			 	"strainName": "Freezeland",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/freezeland_100x100.jpg"
 			 	
 			},
-			{"strainId": 283                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			{"strainId": 283,
 			 	"strainName": "Critical Sensi Star",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/critical-sensi-star_100x100.jpg"
 			 	
 			},
-			{"strainId": 284                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			{"strainId": 284,
 			 	"strainName": "Rugburn OG",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/rug-burn-og_100x100.jpg"
 			 	
 			},
-			{"strainId": 285                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,
+			{"strainId": 285,
 			 	"strainName": "White Lightning",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/white-lightning_100x100.jpg"
+			 	
+			},
+			{"strainId": 286,
+			 	"strainName": "Black Betty",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/black-betty_100x100.jpg"
+			 	
+			},
+			{"strainId": 287,
+			 	"strainName": "The Black",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/the-black_100x100.jpg"
+			 	
+			},
+			{"strainId": 288,
+			 	"strainName": "The Black",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/pineapple-jack_100x100.jpg"
+			 	
+			},
+			{"strainId": 289,
+			 	"strainName": "Barbara Bud",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/barbara-bud_100x100.jpg"
+			 	
+			},
+			{"strainId": 290,
+			 	"strainName": "Wappa",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/wappa_100x100.jpg"
 			 	
 			}
 
@@ -5826,7 +5856,7 @@
 			 "positiveEffects": ["Pain relief", "Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. It contains a 1:1 ratio of CBD and THC, so the psychoactive effects are milder and more relaxing.",
-			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. ",
+ 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 			},
@@ -37522,6 +37552,576 @@
 			 "descriptionAbbrev": "White Lightning induces a deep indica calm that relieves pain, nausea, and anxiety. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-lightning_100x100.jpg"
+			},
+			{"strainId": 286,
+			 "strainName": "Black Betty",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.27
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.12
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.53
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.61
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Skunk", "Pine", "Citrus"],
+		 	 "conditions": ["Nausea", "Appetite Loss", "Fibromyalgia"],
+			 "positiveEffects": ["Long Lasting", "Euphoric", "Potent", "Hungry", "Intense", "Mind + Body", "Relaxed" ],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "With a rich but subtle aroma, Black Betty launches you into soaring euphoria that may be considered too lofty for the novice consumer. Though certainly good for a lazy day, Black Betty is known to induce a forgetfulness so fierce that concentration and productivity can seem impossible for some.",
+			 "descriptionAbbrev": "With a rich but subtle aroma, Black Betty launches you into soaring euphoria that may be considered too lofty for the novice consumer. Though certainly good for a lazy day, Black Betty is known to induce a forgetfulness so fierce that concentration and productivity can seem impossible for some.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/black-betty_100x100.jpg"
+			},
+			{"strainId": 287,
+			 "strainName": "The Black",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.46
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.35	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.78
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Tea", "Earthy", "Sweet", "Hash", "Spicy"],
+		 	 "conditions": ["Insomnia", "Pain", "Chronic Pain", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Relaxed", "Potent"],
+			 "negativeEffects": ["Couch Lock", "Anxious"],
+			 "descriptionDetailed": "The Black is a strong 90% indica. As characteristic of many indicas, this strain is optimally used for pain relief and as a sleeping aid.",
+			 "descriptionAbbrev": "The Black is a strong 90% indica. As characteristic of many indicas, this strain is optimally used for pain relief and as a sleeping aid.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/the-black_100x100.jpg"
+			},
+			{"strainId": 288,
+			 "strainName": "Pineapple Jack",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.70
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pineapple", "Pine", "Nutty", "Citrus", "Spicy"],
+		 	 "conditions": ["Anxiety", "Depression", "Irritability", "Migraines", "Fibromyalgia", "Stress"],
+			 "positiveEffects": ["Clear headed", "Creative", "Sexual", "Happy", "Productive", "Euphoric", "Energetic", "Conversational"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "Helps you keep your chin held high amidst stress and depression while still leaving you feeling active and productive.",
+			 "descriptionAbbrev": "Helps you keep your chin held high amidst stress and depression while still leaving you feeling active and productive.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pineapple-jack_100x100.jpg"
+			},
+			{"strainId": 289,
+			 "strainName": "Barbara Bud",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 11.75
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Citrus", "Earthy"],
+		 	 "conditions": ["Muscle Spasms", "Pain", "Fibromyalgia", "Stress", "Insomnia"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Relaxed", "Mellow"],
+			 "negativeEffects": ["Anxious", "Drowsiness"],
+			 "descriptionDetailed": "Has a fruity, citrus aroma with sweet undertones of bubblegum, and many patients have found Barbara Bud to help with pain, stress, and muscle spasms.",
+			 "descriptionAbbrev": "Has a fruity, citrus aroma with sweet undertones of bubblegum, and many patients have found Barbara Bud to help with pain, stress, and muscle spasms.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/barbara-bud_100x100.jpg"
+			},
+			{"strainId": 290,
+			 "strainName": "Wappa",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.19
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.45	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.48
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.46
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.30
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Lemon", "Sweet", "Lime"],
+		 	 "conditions": ["Insomnia", "Chronic Pain"],
+			 "positiveEffects": ["Drowsiness", "Mellow", "Pain relief", "Relaxed", "Happy"],
+			 "negativeEffects": ["Drowsiness", "Couch Lock"],
+			 "descriptionDetailed": "Delivers happy, uplifting effects alongside an intense fruity flavor.",
+			 "descriptionAbbrev": "Delivers happy, uplifting effects alongside an intense fruity flavor.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/wappa_100x100.jpg"
 			}
 
 		];
@@ -38530,1383 +39130,7 @@
 			}
 		];
 
-/**
-		var vapes = [
-			{"productId": 1,
-			 "productName": "The Crafty", 
-			 "manufacturer" : "Storz & Bickels",
-			 "price": 399.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go.", 
-			 "descriptionDetailed2": "At less than 4.5 inches tall, 2.25 inches wide, and 1.3 inches thick, the Crafty can fit discreetly in your pocket for travel and fit firmly in the hand when in use making it the perfect portable vaping companion.",
-			 "descriptionDetailed3": "With just one button and 2 temperature settings, the Crafty vaporizer is extremely easy to use and can reach vaporization temperatures of 356 degrees F with the press of a button. Double clicking the button will activate the boost level of 383 degrees F, for those looking for a little more kick to their vapor quality.",
-			 "descriptionDetailed4": "An LED on the bottom of the Crafty will switch from red to green and a quick double vibration will let you know when you have reached your desired temperature setting, so you know when you're ready to vaporize.",
-			 "descriptionDetailed5": "The Crafty Remote Control app can be downloaded to both Android and iPhone devices and will connect to your Crafty via Bluetooth connection. The app will allow you to adjust the temperature settings, as well as the LED brightness and vibration settings.",
-			 "descriptionDetailed6": "The top of the Crafty vaporizer can be removed to load your herbs and makes cleaning the heating chamber a breeze. The swivel style mouthpiece can be turned in for compact storage and twisted outward when you're ready to vape, making the Crafty that much easier to use on the move.", 
-			 "descriptionDetailed7": "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer.",
-			 "descriptionAbbrev":  "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer.",
-			 "included" : "1 x Crafty Vaporizer, 1 x Storz & Bickel Custom Grinder, 1 x Storz & Bickel Custom Filling Tool, 1 x Power Adapter with USB Cable, 1 x Liquid Pad, 3 x Spare Screens, 1 x Cleaning Brush, 1 x Set of Spare Seal Rings, 1 x Instructions for Use",	
-			 "tags": ["crafty","portable","handheld","storz-bickel"],
-			 "imageUrl1": "images/vapes/crafty1.png",
- 		 	 "imageUrl2": "images/vapes/crafty2.png",
-		 	 "imageUrl3": "images/vapes/crafty3.png",
-		 	 "imageUrl4": "images/vapes/crafty1.png",
- 		 	 "imageUrl5": "images/vapes/crafty_app2.png",
-		 	 "imageUrl6": "images/vapes/crafty_apart.png",
-		 	 "imageUrl7": "images/vapes/crafty_ipad.png"
-			},
-			{"productId": 2,
-			 "productName": "Mighty", //compName
-			 "manufacturer" : "Storz & Bickels",
-			 "price": 469.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "2 year warranty restricted to normal use, with a lifetime warranty on the heater.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
-			 "descriptionDetailed2": "The Mighty vape provides a user friendly interface with the classic orange power button and simple plus and minus controls which raise or lower the temperature to your preference. Just set your desired temperature and the Mighty vape will begin to heat up to your preferred vaping temperature. ",
-			 "descriptionDetailed3": "The digital LED display will show the current temperature, destination temperature, and battery level. Once the Mighty reaches vaping temperatures the display screen will let you know and the unit will emit a vibration so that you know it is ready for use. ",
-			 "descriptionDetailed4": "A swivel mouthpiece easily pulls out for vaping and tucks away neatly when not in use, making it perfect fro throwing in your pocket. ",
-			 "descriptionDetailed5": "The top of the Mighty can easily be removed for loading your herbs and makes cleaning and upkeep extremely easy. The heater can reach temperatures ranging from 104 - 410 degrees F to efficiently vaporize your dry herbs. ",
-			 "descriptionDetailed6": "The ribbed design of the body creates a cool feel in the hand while making the vaporizer extremely light and comfortable to use.", 
-			 "descriptionDetailed7": "The Mighty vaporizer is powered by 2 internal lithium ion batteries which provide a long use time. The batteries are separated from the heater to ensure a safe environment and longer overall lifespan of the Mighty vaporizer itself. The Mighty vape can easily be recharged by connecting to any standard wall outlet using the included charging adapter. Shrink the power of the world's most popular and efficient vaporizers and enjoy pure vapor in the palm of your hand with the Mighty vaporizer.",			 
-			 "descriptionAbbrev":  "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers.",
-			 "included" : "1 x Mighty Vaporizer, 1 x Storz & Bickel Custom Grinder, 1 x Storz & Bickel Custom Filling Tool, 1 x Power Adapter with USB Cable, 1 x Liquid Pad, 3 x Spare Screens, 1 x Cleaning Brush, 1 x Set of Spare Seal Rings, 1 x Instructions for Use",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/mighty1.png",
-			 "imageUrl2": "images/vapes/mighty2.png",
-		 	 "imageUrl3": "images/vapes/mighty3.png",
-		 	 "imageUrl4": "images/vapes/mighty1.png",
- 		 	 "imageUrl5": "images/vapes/mighty2.png",
-		 	 "imageUrl6": "images/vapes/mighty3.png",
-		 	 "imageUrl7": "images/vapes/mighty1.png"
-			},			
-			{"productId": 3,
-			 "productName": "Solo", //compName
-			 "manufacturer" : "Arizer ",
-			 "price": 224.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "",
-			 "temps": ["122 F", "365 F", "374 F", "383 F", "393 F", "401 F", "410 F"],
-			 "descriptionDetailed1": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
-			 "descriptionDetailed2": "Arizer has improved everything you might think you know about portable vaporizing. ",
-			 "descriptionDetailed3": "It is built of a sturdy aluminum that is highly resistant to scratches and other wear and tear, making it the ideal vaporizer for those who are out and about often and need something that can keep up with them. ",
-			 "descriptionDetailed4": "Its heating element gives it the ability to deliver a vapor quality that is right next to any table top vaporizer, but is extremely easy to use at the same time. ",
-			 "descriptionDetailed5": "The heat level is set by simply selecting 1 of 7 different temperature settings, making vaporizing right out of the box as simple as can be. ",
-			 "descriptionDetailed6": "Also, the Arizer Solo's lithium-ion battery is unmatched, taking only about 2 hours to charge but lasts through an astonishing 4+ hours of vaporization. ",
-			 "descriptionDetailed7": "The newest version allows you to heat-up and vaporize with the unit while it's charging, so you no longer need the A/C power adapter to turn the Solo into a table top vaporizer with unlimited power. Add in the fact that this vape uses an all glass mouthpiece to connect to the heating element and you have one amazing portable vape. The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game. Available in Black or Silver.",
-			 "descriptionAbbrev":  "The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game.",
-			 "included" : "Arizer Solo Portable Vaporizer, 2 Glass Mouthpieces (1 Straight and 1 Angled), Aromatherapy Bowl with Potpourri Sample, AC Adapter / Charger, Instruction Manual",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/solo1.png",
-			 "imageUrl2": "images/vapes/solo2.png",
-			 "imageUrl3": "images/vapes/solo3.png",
-			 "imageUrl4": "images/vapes/solo4.png",
-			 "imageUrl5": "images/vapes/solo5.png",
-			 "imageUrl6": "images/vapes/solo1.png",
-			 "imageUrl7": "images/vapes/solo2.png"
-			},
-			{"productId": 4,
-			 "productName": "Arizer Air", //compName
-			 "manufacturer" : "Arizer",
-			 "price": 259.95,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "",
-			 "temps": ["365 F", "383 F", "392 F", "401 F", "410 F"],
-			 "descriptionDetailed1": "The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size. ",
-			 "descriptionDetailed2": "Made by vapor veterans Arizer, this pocket size powerhouse answers all of the fans requests and then some. ",
-			 "descriptionDetailed3": "Use while plugged in, check. Intuitive and easy to use design, check. Small and travel friendly design, check. Replaceable battery, check. ",
-			 "descriptionDetailed4": "The Arizer Air uses a rechargeable and replaceable 18650 battery that can be changed by simply unscrewing the bottom of the Arizer Air. This means a longer overall life of the unit.",
-			 "descriptionDetailed5": "Charging the Arizer Air battery is as simple as plugging the wall adapter into the side of the vaporizer. You can get about an an hour's worth of power out of a full charge, but The Arizer Air can also be used while plugged in for those must have home sessions.",
-			 "descriptionDetailed6": "The Air features a 10 minute shutoff time to prevent wasted power and material. This means you won't burn through herbs or battery life if you forget to shut it off before throwing it back in the included travel case.",
-			 "descriptionDetailed7": "This soft case has enough room to hold your vaporizer and a small glass mouthpiece. The Air features a 10 minute shutoff time to prevent wasted power and material. This means you won't burn through herbs or battery life if you forget to shut it off before throwing it back in the included travel case. Termperature controls as follows: Blue 356F, White 374F, Green 392F, Orange 401F, Red 410F. There's only a 1 minute heat-up time to the lowest heat setting and 2 minutes to the highest setting. With this small size and fast heat up time you can be ready to vape almost anywhere at any time.",
-			 "descriptionAbbrev":  "With this small size and fast heat up time you can be ready to vape almost anywhere at any time.",
-			 "included" : "1 x Arizer Air Vaporizer, 1 x Small Straight Glass Stems w/ Black Mouthpiece, 1 x Medium Straight Glass Stems, 1 x 18650 mAh battery, 1 x Carrying Case, 1 x Protective, Silicone Skin",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/arizer_air1.png",
-			 "imageUrl2": "images/vapes/arizer_air2.png",
-			 "imageUrl3": "images/vapes/arizer_air3.png",
-			 "imageUrl4": "images/vapes/arizer_air1.png",
-			 "imageUrl5": "images/vapes/arizer_air2.png",
-			 "imageUrl6": "images/vapes/arizer_air3.png",
-			 "imageUrl7": "images/vapes/arizer_air1.png"
-			},
-			{"productId": 5,
-			 "productName": "Pinnacle Pro", //compName
-			 "manufacturer" : "VaporBlunt",
-			 "price": 188.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "The Pinnacle Pro DLX has a 1 year limited product warranty which covers your vaporizer against defects in manufacturing, parts and labor. 90 day limited warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
-			 "descriptionDetailed2": "The creators, VaporBLUNT, have now taken this tiny tower of power and made vast improvements that are taking the Pinnacle to the next level. ",
-			 "descriptionDetailed3": "VaporBLUNT's Pinnacle Pro vaporizer is still the same small size, measuring about 5 inches tall and less than an inch wide, making it a great fit in the hand, pocket, purse or bag. ",
-			 "descriptionDetailed4": "The Pinnacle Pro vaporizer even keeps the same 1 button design which turns the unit on, toggles between its temperature settings, and then turns the unit off. ",
-			 "descriptionDetailed5": "What has changed with the upgraded Pinnacle, however, is that it now has 5 temperature settings, which is 3 more than the original version. These temperatures range from 370 degrees to 470 degrees F in 25 degree increments providing ultimate control over your personal vaporization settings. ",
-			 "descriptionDetailed6": "The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
-			 "descriptionDetailed7": "That's right, the Pinnacle Pro has the ability to vaporize dry herbs and concentrates right out of the box by simply changing the included bullet in the chamber. Another small, yet very efficient change is the Pro's new battery level indicator. By pressing the button just once the LED lights will light up to display how much battery level the Pinnacle has left. This pint size power house is an excellent choice as a first vaporizer or as an upgrade or addition to your current vaporizer collection. Reach the pinnacle of portable vaporization like a pro with VaporBLUNT's Pinnacle Pro vaporizer.",
-			 "descriptionAbbrev":  "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike.",
-			 "included" : "1 x Pinnacle Pro Portable Vaporizer, 1 x Chamber Cap, 1 x PonG Adapter w/ Glass Vapor Path, 2 x Dry Herb Filling Chambers, 1 x Wax/Oil Filling Chamber, 1 x Charger, 1 x Cleaning Brush, 1 x Wire Pipe Cleaner, 1 x Bamboo Cleaning Stick, 1 x Standard Mouthpiece, 1 x Quick Start Guide",
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/pinnaclepro1.png",
-			 "imageUrl2": "images/vapes/pinnaclepro2.png",
-			 "imageUrl3": "images/vapes/pinnaclepro3.png",
-			 "imageUrl4": "images/vapes/pinnaclepro4.png",
-			 "imageUrl5": "images/vapes/pinnaclepro5.png",
-			 "imageUrl6": "images/vapes/pinnaclepro6.png",
-			 "imageUrl7": "images/vapes/pinnaclepro7.png"
-			},
-			{"productId": 6,
-			 "productName": "Pinnacle Pro Deluxe", //compName
-			 "manufacturer" : "VaporBlunt",
-			 "price": 237.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "The Pinnacle Pro DLX has a 1 year limited product warranty which covers your vaporizer against defects in manufacturing, parts and labor. 90 day limited warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Pinnacle Pro DLX is the newest version and now comes with glass screen housing and vapor tube in the PonG adapter! ",
-			 "descriptionDetailed2": "The Pinnacle Pro DLX set includes everything you need to vape dry herbs and concentrates with water filtration at home or on the go. With the Pinnacle's dual functionality and the included Micro Shower Water Tool, you are sure to get the coolest and smoothest vapor puffs possible from the Pinnacle Pro from your favorite materials without having to sacrifice size or quality. ",
-			 "descriptionDetailed3": "VaporBLUNT's Pinnacle Pro vaporizer is about 5 inches tall and less than an inch wide, allowing it to travel easily and be used virtually anywhere. Toss the Pinnacle Pro in your pocket, bag, or purse and be ready to vape wherever you may go. ",
-			 "descriptionDetailed4": "What really takes the Pinnacle Pro to the next level is the Micro Shower Tool. The water filtration tool cleans your vapor of any small particles that may sneak past the screen while cooling the vapor, putting the Pinnacle Pro at the head of the class for both portability and vapor quality. ",
-			 "descriptionDetailed5": "The Pinnacle Pro vaporizer has a simple 1 button design which turns the unit on, toggles between its temperature settings, and then turns the unit off. This design has been proven to be the easiest to use, making this vape a must have for newbies and vapor veterans alike. ",
-			 "descriptionDetailed6": "The vaporizing heat settings range from 370° to 470° F in 25° increments, providing ultimate control over your vapor quality. The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro: WHITE 370 F, TURQUOISE 395 F, GREEN 420 F, ORANGE 445 F,  PURPLE 470 F. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
-			 "descriptionDetailed7": "The Bullet baskets are used to hold and vaporize your dry herbs, while the Full Metal Jacket concentrate basket can withstand the higher temperatures required to vape waxes and concentrates. The baskets easily slide out when it comes time to change or clean them. This means your material never comes in contact with your vaporizer making the Pinnacle Pro very easy to keep clean for continuous optimum use.Get everything you need to have the ultimate in travel friendly vaporization and top level vapor quality with the Pinnacle Pro DLX vaporizer kit.",
-			 "descriptionAbbrev":  "The Pinnacle Pro DLX is the newest version and now comes with glass screen housing and vapor tube in the PonG adapter.",
-			 "included" : "1 x Pinnacle Pro Portable Vaporizer, 1 x Micro Shower Water Tool, 1 x Chamber Cap, 1 x PonG Adapter w/ Glass Vapor Path, 2 x Dry Herb Filling Chambers, 1 x Wax/Oil Filling Chamber, 1 x Charger, 1 x Cleaning Brush, 1 x Wire Pipe Cleaner, 1 x Bamboo Cleaning Stick, 1 x Standard Mouthpiece, 1 x Quick Start Guide",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/pinnacleprodlx1.png",
-			 "imageUrl2": "images/vapes/pinnacleprodlx2.png",
-			 "imageUrl3": "images/vapes/pinnacleprodlx3.png",
-			 "imageUrl4": "images/vapes/pinnacleprodlx4.png",
-			 "imageUrl5": "images/vapes/pinnacleprodlx5.png",
-			 "imageUrl6": "images/vapes/pinnacleprodlx6.png",
-			 "imageUrl7": "images/vapes/pinnacleprodlx7.png"
-			},
-			{"productId": 7,
-			 "productName": "Ascent", //compName
-			 "manufacturer" : "DaVinci  Vaporizers",
-			 "price": 249.95,
-			 "weight": "2 lbs",
-			 "type": "Portable",
-			 "manufacturersWarranty": "",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease. ",
-			 "descriptionDetailed2": "Smaller than an iPhone, the Ascent vape still sports a bright OLED temperature and battery level display for a user-friendly experience despite its small size. ",
-			 "descriptionDetailed3": "The Ascent's all glass vapor path and glass tube is the first of its kind, ditching silicone or plastic pathways for a cleaner, smoother experience using a glass on glass connection. ",
-			 "descriptionDetailed4": "The lithium-ion battery has a very long battery life, giving you plenty of time to use the Ascent handheld vape away from home without having to bother with charging.",
-			 "descriptionDetailed5": "No matter what the material, dry herbs or tobacco, essential oils and concentrates, the Ascent vaporizes them all with ease.",
-			 "descriptionDetailed6": "Choose from three stylish designs including a stealth black finish for those who need to be discreet, or the exotic burl wood and croc skin designs for those who want a little flare. The DaVinci vaporizer showed us what a truly versatile portable vaporizer is capable of, now the Ascent is taking what we've learned and schooling us once more.",
-			 "descriptionDetailed7": "DaVinci Vaporizers first hit the scene with the super popular DaVinci vape that, just like the man it was named after, was far from a one trick pony. After continued success with the their name-sake vape, DaVinci vaporizers has now unleashed their newest game-changer, the Ascent portable vaporizer.",
-			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
-			 "included" : "1 x Ascent Portable Vaporizer, 2 x Inner Glass Tubes, 2 x Glass Mouthpieces, 2 x Glass Oil Jars with Silicone Caps, 2 x Stir Tools, 2 x Mouthpiece Caps, 3 x Replacement Screens, 1 x Carrying Pouch, 1 x Battery Charger, 1 x Instruction Manual",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/ascent1.png",
-			 "imageUrl2": "images/vapes/ascent2.png",
-			 "imageUrl3": "images/vapes/ascent3.png",
-			 "imageUrl4": "images/vapes/ascent4.png",
-			 "imageUrl5": "images/vapes/ascent5.png",
-			 "imageUrl6": "images/vapes/ascent1.png",
-			 "imageUrl7": "images/vapes/ascent2.png"
-			},
-			{"productId": 8,
-			 "productName": "DaVinci", //compName
-			 "manufacturer" : "DaVinci Vaporizers",
-			 "price": 169.00,
-			 "weight": "2 lbs",
-			 "type": "Portable",
-			 "manufacturersWarranty": "2 year warranty covering the heating element.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The DaVinci Vaporizer was designed with a few goals in mind - portability, efficiency, ease of use, and a discreet vaporizing experience. Not only were these goals met, but they were exceeded. ",
-			 "descriptionDetailed2": "The DaVinci Vape features an ergonomic hand held design for easy transportation. The herb chamber is revealed by snapping open the cap, which also gives you access to the tiny cleaning brush and stealth storage compartment. ",
-			 "descriptionDetailed3": "The brush is great for cleaning the chamber and the storage area holds 3x the amount needed for a single use, virtually giving you an entire portable vaporizing station. ",
-			 "descriptionDetailed4": "The lithium-ion rechargeable battery is yet another addition that adds to the DaVincis long list of features. The DaVincis battery life can last anywhere up to 1 hour of vaporization and is good for well over 1000 charge cycles! ",
-			 "descriptionDetailed5": "On the face of the DaVinci portable vaporizer are 3 very simple buttons - power, temperature up and temperature down complete with LED digital temperature display for accurate vaporization. ",
-			 "descriptionDetailed6": "The flexi-straw mouthpiece easily screws off of the DaVinci vape to make storing it in your pocket even more comfortable. The removable mouthpiece is made of a durable and flexible material so you can adjust the angle of the mouthpiece at will, further finding your comfort zone with the DaVinci vape. ",
-			 "descriptionDetailed7": "The DaVinci truly has it all to make vaporizing on the go a fast, easy and hassle free experience anywhere you go.",
-			 "descriptionAbbrev":  "The DaVinci Vaporizer was designed with a few goals in mind - portability, efficiency, ease of use, and a discreet vaporizing experience.",
-			 "included" : "DaVinci Portable Vaporizer, Battery Charger, Cleaning Accessories, 3 Replacement Screens, Instruction Manual",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/davinci1.png",
-			 "imageUrl2": "images/vapes/davinci2.png",
-			 "imageUrl3": "images/vapes/davinci3.png",
-			 "imageUrl4": "images/vapes/davinci4.png",
-			 "imageUrl5": "images/vapes/davinci1.png",
-			 "imageUrl6": "images/vapes/davinci2.png",
-			 "imageUrl7": "images/vapes/davinci3.png"
-			},
-			{"productId": 9,
-			 "productName": "Plenty", //compName
-			 "manufacturer" : "Storz & Bickel",
-			 "price": 349.00,
-			 "weight": "2 lbs",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The time has come, vaporizer powerhouses Storz & Bickel, creators of the hugely popular Volcano vaporizer, have released their newest vape called the Plenty Vaporizer. ",
-			 "descriptionDetailed2": "The Plenty Vaporizer uses a double helix heat exchanger that not only heats up extremely fast, but also evenly vaporizes your material maximizing what you get out of even the smallest amount of material. ",
-			 "descriptionDetailed3": "The Plenty Vape is hand held, although not portable, and features silent operation and a very lightweight yet extremely durable design. ",
-			 "descriptionDetailed4": "The temperature gauge on the front of the Plenty is both accurate and extremely convenient without being digital, keeping the Plenty Vaporizer reasonably priced but just as easy to use as other digital vaporizers. ",
-			 "descriptionDetailed5": "The coil that wraps around the whip tubing actually acts as a heat sink to stop your vapor from being overly hot. The vapor will cool as it travels through the whip tubing, delivering an extremely smooth and cool vapor. ",
-			 "descriptionDetailed6": "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
-			 "descriptionDetailed7": "The Plenty Vaporizer has a solid polycarbonate build with stainless steel cooling coil.",
-			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
-			 "included" : "Plenty Vaporizer, Storz & Bickel Custom Grinder, Filling Chamber, Mouthpiece, Cooling Coil, 3 Screens, Liquid Pad, 2 Whip Tubing Short, 2 Whip Tubing Long, Cleaning Brush, Herb Mill, Instruction Manual",	
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl1": "images/vapes/plenty1.png",
-			 "imageUrl2": "images/vapes/plenty2.png",
-			 "imageUrl3": "images/vapes/plenty3.png",
-			 "imageUrl4": "images/vapes/plenty4.png",
-			 "imageUrl5": "images/vapes/plenty5.png",
-			 "imageUrl6": "images/vapes/plenty1.png",
-			 "imageUrl7": "images/vapes/plenty2.png"
-			},
-			{"productId": 10,
-			 "productName": "PUFFiT 2", //compName
-			 "manufacturer" : "Discreet Vape",
-			 "price": 97.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "The PUFFiT 2 has a 1 year limited product warranty with a 90 day warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The PUFFiT 2 vaporizer looks just like an inhaler to provide quick and discreet vapor sessions without drawing any attention. ",
-			 "descriptionDetailed2": "Now you can puff in public while remaining completely discreet. At just about 3.7 inches tall and just under 2 inches wide, the PUFFiT 2 is the same size as a regular inhaler. ",
-			 "descriptionDetailed3": "This fits easily in your hand while vaping as well as your pocket or bag when traveling for ultimate discretion and portability. ",
-			 "descriptionDetailed4": "To keep things discreet, the PUFFiT 2 contains no lighting indicators while heating up. Instead, Haptic Feedback technology lets you know when the PUFFiT 2 is hot and ready for vaping by vibrating. Just press the power button and subtle vibrations will let you know that the PUFFiT 2 is heating up and give a quiet buzz when it's ready to use. ",
-			 "descriptionDetailed5": "The heating chamber is made of a high quality nickel plated copper for ultra conductivity. Load your favorite herbs or concentrated essential oils into the chamber with the appropriate screen and press the bower button to begin heating. ",
-			 "descriptionDetailed6": "Automatic shutdown will turn the PUFFiT 2 off after 3 minutes to prevent over heating, just in case you forget. 4 temperatures ranging from 320 to 415 degrees Fahrenheit can be selected by pressing the power button to cycle through the settings. ",
-			 "descriptionDetailed7": "A small LED on the back of the unit will indicate your selected temperature setting, while holding the power button down will turn the 4 bar LED into a battery life indicator. 4 bars means your fully charged and 1 bar means it's time to find your charger. A 2200mAh lithium ion battery provides long vape sessions and is easily recharged using the included USB cord. The PUFFiT 2's battery can be removed for replacement, so having a backup will keep your sessions going even longer. Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
-			 "descriptionAbbrev":  "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
-			 "included" : "1 x PUFFiT 2 Portable Vaporizer, 1 x Silicone Heat Shield, 1 x USB Charger, 1 x Packing Tool, 1 x Concentrate Screens, 4 x Replacement Screens, 1 x User Manual",	
-			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/puffit1.png",
-			 "imageUrl2": "images/vapes/puffit2.png",
-			 "imageUrl3": "images/vapes/puffit3.png",
-			 "imageUrl4": "images/vapes/puffit4.png",
-			 "imageUrl5": "images/vapes/puffit5.png",
-			 "imageUrl6": "images/vapes/puffit6.png",
-			 "imageUrl7": "images/vapes/puffit1.png"
-			},
-			{"productId": 11,
-			 "productName": "Vapir Rise 2.0", //compName
-			 "manufacturer" : "Vapir Inc.",
-			 "price": 249.95,
-			 "weight": "",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "Register for Full 1 Year Warranty covering defects in manufacturing, parts, and labor.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Vapir Rise 2.0 was developed to change the game in the world of table top herbal vaporizers.",
-			 "descriptionDetailed2": "Vapir listened to the feedback from customers and spent the necessary time to painstakingly create a vaporizer that would truly raise the bar and set a new industry standard.",
-			 "descriptionDetailed3": "For starters, the Vapir Rise is the first to incorporate HEPA air filtration into a vaporizer. A HEPA filter is a type of mechanical air filter; it works by forcing air through a fine mesh that traps harmful particles. This basically means that only pure, clean air is used to produce your vapor, assuring the absolute best vapor quality possible. ",
-			 "descriptionDetailed4": "The Rise takes a step past other dual-functionality vaporizers. With the Rise you can inflate balloons, directly inhale using the whip or have a group session with the multi-user attachment. That's right, Vapir is the first company to make a multiple hose attachment which allows up to 4 users to draw from the Vapir Rise at once. ",
-			 "descriptionDetailed5": "You get both a dry herb chamber and an essential oil chamber giving you the option of what materials to put inside. ",
-			 "descriptionDetailed6": "The Vapir Rise sits on your table top and plugs directly into a standard wall outlet for power. Turning the unit on will illuminate the digital display and back-light the touch pad buttons, which is pretty helpful when using the Rise in low or dim lighting. ",
-			 "descriptionDetailed7": "A multi-speed fan causes purified air to flow over the ceramic heating element and through a stainless steel vapor path to your materials. Set the temperature or fan speed to your personal preference using the seamless touchpad buttons on either side of the digital display. A clear display window shows your temperature setting and current fan speed which takes the guess work out of your session. Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
-			 "descriptionAbbrev":  "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
-			 "included" : "1 x Vapir Rise Vaporizer, 1 x Power Cord, 1 x Herb Chamber, 1 x Aromatherapy Oil Chamber, 1 x Chamber Adapter with Plunger, 1 x Balloon Adapter with ON/OFF Valve, 1 x Inhalation Adapter, 1 x Multi-user Adapter, 1 x Hot Chamber Grabber, 3 x Inflation Balloons, 1 x Balloon Clamp, 2 x HEPA Air Filters, 2 x Large Mesh Screens (1 x installed), 2 x Small Mesh Screens (1 x installed), 1 x Silicone Tube (3.25 ft), 1 x X-Tip Mouthpiece, 1 x User Guide",	
-			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/vapirrise1.png",
-			 "imageUrl2": "images/vapes/vapirrise2.png",
-			 "imageUrl3": "images/vapes/vapirrise3.png",
-			 "imageUrl4": "images/vapes/vapirrise4.png",
-			 "imageUrl5": "images/vapes/vapirrise5.png",
-			 "imageUrl6": "images/vapes/vapirrise1.png",
-			 "imageUrl7": "images/vapes/vapirrise2.png"
-			},
-			{"productId": 12,
-			 "productName": "Volcano Digit", //compName
-			 "manufacturer" : "Storz & Bickel",
-			 "price": 669.00,
-			 "weight": "",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike. ",
-			 "descriptionDetailed2": "The Digit is everything you loved about the Classic Volcano vaporizer, with the added convenience and stye of a precise digital temperature control and display. ",
-			 "descriptionDetailed3": "The LED temperature read out accurately shows both the current temperature of the vaporizer and the temperature level you have it set to reach, so you always know exactly when the Volcano Digit is ready to go. ",
-			 "descriptionDetailed4": "The Volcano's patented balloon delivery system is unmatched in terms of efficiency and ease of use, with both the Easy Valve and Solid Valve systems providing dependable and consistent vaporization of herbs or essential oils at a moment's notice.",
-			 "descriptionDetailed5": "The Volcano is made of aluminum with an aluminum heating element.",
-			 "descriptionDetailed6": "The Volcano has a 3 year warranty restricted to normal use.",
-			 "descriptionDetailed7": "",
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "included" : "Volcano Digit Vaporizer, Storz & Bickel Custom Grinder, 5 Vapor Balloons with Mouthpiece, Volcano Air Filter Set, Easy Valve Filling Chamber with Cap, Easy Valve Screen Set, Cleaning Brush, 1 Liquid Pad and 3 Clips, Instruction Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/volcano2.png",
-			 "imageUrl2": "images/vapes/volcano3.png",
-			 "imageUrl3": "images/vapes/volcano1.png",
-			 "imageUrl4": "images/vapes/volcano4.png",
-			 "imageUrl5": "images/vapes/volcano5.png",
-			 "imageUrl6": "images/vapes/volcano6.png",
-			 "imageUrl7": "images/vapes/volcano7.png"
-			},
-			{"productId": 13,
-			 "productName": "Silver Surfer Vaporizer", //compName
-			 "manufacturer" : "7th Floor",
-			 "price": 269.99,
-			 "weight": "",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "Silver Surfer is a highly customizable, top performing desktop vaporizer. Choose from a wide array of colors, designs, and heater cover options to create your perfect vaporizer.",
-			 "descriptionDetailed2": "Every Silver Surfer features a hand blown glass temperature dial, heater cover, and wand, each individually crafted in Colorado Springs, Colorado.",
-			 "descriptionDetailed3": "The Silver Surfer Vaporizer utilizes a high quality ceramic heating element and glass-on-glass components for high quality vapor.",
-			 "descriptionDetailed4": "Standard Glass heater cover and wand allow you to manipulate where hot air passes through your blends. Simply angle the wand in various positions for thorough vaporization without the need to stir your blends.",
-			 "descriptionDetailed5": "Ground glass heater cover and wand allow for hands free vaporization. No need to hold your wand up to the heater cover! This wand fits directly into the heater cover for a perfect seal every time.",
-			 "descriptionDetailed6": "Spherical ground glass heater cover and wand allow for a perfect ground glass seal with the ability to angle the wand in various positions. This option provides thorough vaporization without the need to stir your blends.",
-			 "descriptionDetailed7": "Turn on Silver Surfer and set to your desired temperature. Once temperature has been reached, load finely ground blends into the glass wand and connect to the glass heater cover. Begin to draw at a medium to fast pace for best results.",
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "included" : "Silver Surfer Vaporizer, Whip / Wand Assembly, Glass Mouthpiece, 3 ft Whip Tubing, Glass Wand, 3x Replacement Screens, Stir Tool, Padded Travel Bag, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/ssv_colors.png",
-			 "imageUrl2": "images/vapes/ssv2.png",
-			 "imageUrl3": "images/vapes/ssv_ceramic_element.png",
-			 "imageUrl4": "images/vapes/SSVStdglass2.png",
-			 "imageUrl5": "images/vapes/SSV_groundglass2.png",
-			 "imageUrl6": "images/vapes/ssv4.png",
-			 "imageUrl7": "images/vapes/ssv_complete_set.png"
-			},
-			{"productId": 14,
-			 "productName": "The Da Buddah Vaporizer", //compName
-			 "manufacturer" : "7th Floor",
-			 "price": 190.00,
-			 "weight": "",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA. ",
-			 "descriptionDetailed2": "Turn on Da Buddha and set to your desired temperature. Once temperature has been reached, load finely ground blends into glass wand and connect to the glass heater cover. Begin to draw at a medium to fast pace for best results.",
-			 "descriptionDetailed3": "For best functionality, be sure to clean and maintain Da Buddha regularly. ",
-			 "descriptionDetailed4": "All glass components can be soaked in isopropyl alcohol.",
-			 "descriptionDetailed5": "Replace stainless steel screens and whip tubing often for best vapor.",
-			 "descriptionDetailed6": "Da Buddha utilizes a high quality ceramic heating element and glass-on-glass components for high quality vapor production.",
-			 "descriptionDetailed7": "For Aromatic Blends, Ceramic Heating Element, Glass-on-Glass Components, Hands Free Whip Delivery System, Analog Temperature Dial, Carrying Case Included.",
-			 "descriptionAbbrev":  "",
-			 "included" : "Da Buddha Vaporizer, Whip / Wand Assembly, Glass Mouthpiece, 3ft Whip Tubing, Glass Wand, 3x Replacement Screens, Stir Tool, Padded Hemp Travel Bag, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/dabuddah1.png",
-			 "imageUrl2": "images/vapes/dabuddah2.png",
-			 "imageUrl3": "images/vapes/dabuddah3.png",
-			 "imageUrl4": "images/vapes/dabuddah4.png",
-			 "imageUrl5": "images/vapes/dabuddah5.png",
-			 "imageUrl6": "images/vapes/dabuddah1.png",
-			 "imageUrl7": "images/vapes/dabuddah2.png"
-			},
-			{"productId": 15,
-			 "productName": "The Magic flight Launch Box", //compName
-			 "manufacturer" : "",
-			 "price": 119.00,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world's smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
-			 "descriptionDetailed2": "Each Launch Box vaporizer represents the effort of many skilled craftsman. Three wood choices are available, along with five different Laser Etch models.",
-			 "descriptionDetailed3": "The Launch Box has many accessories to choose from such as the Power Adapter 2.0 for extra power at home or in your vehicle, Water Piece Whip for water cooled vapor, and Concentrate Tray for using solid concentrates or liquids.",
-			 "descriptionDetailed4": "To begin vaporization, slide back the Launch Box lid and load blends loosely into the trench. Close the lid and press the charged battery into the box to activate the stainless steel heating rod. An orange indicator light under the lid will light to show you the conduction process is taking place and will be ready-to-use in 3 to 5 seconds.",
-			 "descriptionDetailed5": "A unique vapor channel flow system delivers vapor directly to the user minimizing condensation. Draw slowly from the glass steam for best results. Release pressure on battery two-thirds through draw to prevent overheating.",
-			 "descriptionDetailed6": "After cooling, simply empty the trench and brush gently using the cleaning brush. Gently blow into trench to remove any remaining dust. The screen may discolor after use.",
-			 "descriptionDetailed7": "To clean, gently wipe screen with a 91% Isopropyl Alcohol. Avoid contact of Isopropyl alcohol with trench.",
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "included" : "Magic-Flight Launch Box, 2x Rechargeable NiMH Glyph Batteries With Caps, Battery Charger, Felt-lined Decorative Tin, Glass Draw Stem, Cleaning Brush, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/mflb1.png",
-			 "imageUrl2": "images/vapes/mflb2.png",
-			 "imageUrl3": "images/vapes/mflb3.png",
-			 "imageUrl4": "images/vapes/mflb4.png",
-			 "imageUrl5": "images/vapes/mflb1.png",
-			 "imageUrl6": "images/vapes/mflb2.png",
-			 "imageUrl7": "images/vapes/mflb3.png"
-			},
-			{"productId": 16,
-			 "productName": "The Extreme Q", //compName
-			 "manufacturer" : "Arizer",
-			 "price": 239.00,
-			 "weight": "",
-			 "construction": "Desktop",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Extreme Q, by Canadian manufacturer Arizer, is a multi-functional, feature-rich, desktop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with the Extreme Q. This “jack-of-all-trades” vaporizer produces superior vapor quality, delivered via your choice of balloon (forced air) or whip (direct draw).",
-			 "descriptionDetailed2": "Choose your vapor experience! The Extreme Q is able to deliver vapor in a multitude of ways.",
-			 "descriptionDetailed3": "Direct Draw via Whip: Draw in vapor through the included 3' Long Whip.",
-			 "descriptionDetailed4": "Forced Air Assisted Whip: Give your lungs a break! Let the EQ's fan create and deliver vapor for you through the included 3' Long Whip.",
-			 "descriptionDetailed5": "Forced Air Balloon Delivery: Attach the Balloon Assembly and watch as the Extreme Q's fan fills your balloon with vapor. Detach the balloon when full, draw and enjoy!",
-			 "descriptionDetailed6": "All functions can be performed via the included remote control, or on the unit itself through the digital display. It's fully adjustable temperature can be set in one degree increments, from 122 degrees F – 500 degrees F (50 degrees C – 260 degrees C). The user-set automatic shut-off feature allows you to set and forget; your Extreme Q will automatically shut down at a user defined time.",
-			 "descriptionDetailed7": "The Extreme Q offers a powerful yet energy efficient ceramic heating element and glass-on-glass components for clean vapor",
-			 "descriptionAbbrev":  "The Extreme Q offers a powerful yet energy efficient ceramic heating element and glass-on-glass components for clean vapor",
-			 "included" : "Extreme Q Vaporizer, Remote Control, 2x Glass Cyclone Bowls with Flat Screens, 3 foot Whip Tubing, Glass Whip Mouthpiece, Glass Elbow Adapter with Dome Screen, Pre-Attached Mini Whip for Balloon, Balloon Assembly, 2x Balloons, 2x Glass Balloon Mouthpieces, 2x O-Rings, Glass Stir Tool, Flat Screen, Dome Screen, Glass Potpourri Dish with Potpourri Sample, 110/220V Power Supply, User Manual ",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/extremeq1.png",
-			 "imageUrl2": "images/vapes/extremeq2.png",
-			 "imageUrl3": "images/vapes/extremeq3.png",
-			 "imageUrl4": "images/vapes/extremeq4.png",
-			 "imageUrl5": "images/vapes/extremeq5.png",
-			 "imageUrl6": "images/vapes/extremeq6.png",
-			 "imageUrl7": "images/vapes/extremeq7.png"
-			},
-			{"productId": 17,
-			 "productName": "The Haze", //compName
-			 "manufacturer" : "",
-			 "price": 249.99,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
-			 "descriptionDetailed2": "Every Haze Vaporizer is crafted with advanced, patented heating technology for rapid heat up time and features a long-lasting, rechargeable, user-replaceable Lithium-ion battery.",
-			 "descriptionDetailed3": "Haze features both stainless steel convection screen and conduction screens, allowing for a more personal vaporizing experience. The conduction screen allows dry materials to have controlled exposure to the heating chamber; the convection screen is surrounded by four walls of stainless steel, but allows no direct contact between materials and the heating chamber.",
-			 "descriptionDetailed4": "Insert preferred screen and materials into one or both heating chambers. Use the top switch to power on and select either chamber A or chamber B.",
-			 "descriptionDetailed5": "Use the temperature selection button on the top of Haze to switch between 4 temperature options.",
-			 "descriptionDetailed6": "When powered on, the LED light will blink several times to indicate that the device is in the process of heating.",
-			 "descriptionDetailed7": "When the oven is at the selected temperature, the LED lights will remain solid, letting you know Haze is ready for use.",
-			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
-			 "included" : "Haze Vaporizer, Stainless Steel Mouthpiece, Glass Mouthpiece, 2x All-Purpose Cans, 2x Conduction Screens, 2x Convection Screens, 2x Haze Batteries, Wall Charger, Cleaning Tool, Material Tool, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/haze1.png",
-			 "imageUrl2": "images/vapes/haze2.png",
-			 "imageUrl3": "images/vapes/haze3.png",
-			 "imageUrl4": "images/vapes/haze4.png",
-			 "imageUrl5": "images/vapes/haze5.png",
-			 "imageUrl6": "images/vapes/haze6.png",
-			 "imageUrl7": "images/vapes/haze7.png"
-			},
-			{"productId": 18,
-			 "productName": "The Firefly", //compName
-			 "manufacturer" : "",
-			 "price": 269.95,
-			 "weight": "",
-			 "construction": "Portable",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
-			 "descriptionDetailed2": "The Firefly features the most advanced vaporization technology available. The Firefly's dynamic convection heating technology utilizes sophisticated software that raises the vapor temperature from 100 °F to 400 °F over the course of a smooth 10 seconds. Enjoy aromas the moment they are vaporized. If you prefer lighter vapor, simply draw for a shorter time; if you prefer richer vapor, draw longer. You are in complete control. Enjoy a perfect draw every time.",
-			 "descriptionDetailed3": "The Firefly is easy to load and clean, due to its magnetic lid and borosilicate glass heating chamber. The heating chamber's outer walls are innwardly-sloped for easy loading and unloading.",
-			 "descriptionDetailed4": "The magnetic lid features an open vapor path that is fully exposed when the lid is removed, so it can be quickly brushed clean or wiped with a damp cloth.The high-power Lithium-ion battery recharges in less than 45 minutes and delivers over 40 rich draws per charge. ",
-			 "descriptionDetailed5": "The battery can be charged directly in the Firefly or in the optional external charger.",
-			 "descriptionDetailed6": "The borosilicate glass heating chamber and stainless metal vapor path keeps aromas completely pure. Sleek and compact, Firefly fits beautifully in your hand. The elegant metal and glass chassis feels like a warm river stone, creating a feeling of luxury and quality.",
-			 "descriptionDetailed7": "The battery can be easily swapped in a few seconds, allowing you to insert a fresh battery from the external charger with no downtime.",
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "included" : "Firefly Vaporizer, High Power Rechargeable Lithium-ion Battery, Cleaning Kit, Soft Case, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/firefly1.png",
-			 "imageUrl2": "images/vapes/firefly2.png",
-			 "imageUrl3": "images/vapes/firefly3.png",
-			 "imageUrl4": "images/vapes/firefly4.png",
-			 "imageUrl5": "images/vapes/firefly1.png",
-			 "imageUrl6": "images/vapes/firefly2.png",
-			 "imageUrl7": "images/vapes/firefly3.png"
-			},
-			{"productId": 19,
-			 "productName": "The Hot Box", //compName
-			 "manufacturer" : "",
-			 "price": 109.99,
-			 "weight": "",
-			 "type": "Desktop",
-			 "manufacturersWarranty": "5 year warranty",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "The Hot Box is a simple, yet effective desktop vaporizer with an array color and design options. Hand made in the USA, the Hot Box is reliable, durable, and comes standard with a 5 year warranty.",
-			 "descriptionDetailed2": " Hot Box utilizes a special ceramic nichrome heating element that is ready for use in just minutes.",
-			 "descriptionDetailed3": "Choose between Standard, Ground Glass (hands free), and many colors and designs options, including Stone, Tile, Artist Series, and many more.",
-			 "descriptionDetailed4": "Turn on Hot Box and allow it to heat for 10 minutes, ensuring optimal vaporization temperatures. Finely grind your blends and load them into the glass wand. Make sure to fill your wand no more than 1/3 capacity for best results. Insert the wand onto the glass heater cover and begin to draw.",
-			 "descriptionDetailed5": "Your rate of draw will affect the temperature. A slower draw speed will raise the temperature; a faster draw speed will lower the temperature.",
-			 "descriptionDetailed6": "For optimal performance, be sure to clean your Hot Box regularly. Replace screens and whip tubing as needed.",
-			 "descriptionDetailed7": "Glass components can be cleaned with isopropyl alcohol (91% or higher recommended). Never clean the device while it is still plugged in.",
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "included" : "Hot Box Vaporizer, Whip / Wand Assembly, Glass 2-Piece Wand, .5' Whip Tubing, Glass Mouthpiece, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/hotbox1.png",
-			 "imageUrl2": "images/vapes/hotbox2.png",
-			 "imageUrl3": "images/vapes/hotbox3.png",
-			 "imageUrl4": "images/vapes/hotbox4.png",
-			 "imageUrl5": "images/vapes/hotbox5.png",
-			 "imageUrl6": "images/vapes/hotbox1.png",
-			 "imageUrl7": "images/vapes/hotbox2.png"
-			},
-			{"productId": 20,
-			 "productName": "The Pax", //compName
-			 "manufacturer" : "Ploom",
-			 "price": 199.99,
-			 "weight": "",
-			 "type": "Portable",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "descriptionDetailed1": "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor. Small and lightweight, Pax is easily taken out and about and heats in under a minute. Its refined design is sleek, stylish, and durable, making Pax the ultimate choice for on-the-go vaporization.",
-			 "descriptionDetailed2": "Load aromatic blends into the Pax oven and lightly tamp down. Power on Pax by pressing in the retractable mouthpiece and allowing it to spring in to the on position. Pax indicator light will turn green once fully heated and ready for use.",
-			 "descriptionDetailed3": "Remove mouthpiece to reveal temperature button to cycle through presets as needed. ",
-			 "descriptionDetailed4": "Pax features 3 temperature presets for optimal vaporization. Yellow...370F (188C), Orange...390F (199C), Red...410F (210C)",
-			 "descriptionDetailed5": "Pax utilizes a Lithium-ion rechargeable internal battery that charges in under 2 hours and lasts for up to 2 hours of continuous use. Drop Pax onto the included charging dock for easy charging. While powered on, shake Pax to reveal battery life indicators - Green...Full Battery, Yellow...Partially Charged, Red...Low Battery.",
-			 "descriptionDetailed6": "Pax is a precision device and should be cleaned on a regular basis. While Pax is powered on, remove mouthpiece and soak in soap and water. Let mouthpiece dry before replacing. To clean Pax body, remove mouthpiece and oven lid. Moisten cleaning tool with supplied alcohol wipe.",
-			 "descriptionDetailed7": "Starting from the mouthpiece end, insert moistened cleaning tool into the vapor pathway, pushing out the oven screen. Floss Pax with cleaning tool. To clean Pax oven, oven lid, and screen, use a moistened bent cleaning tool or moistened cotton swab to remove residue. Screens will need to be replaced as necessary. Apply lubricant after every cleaning session.",
-			 "descriptionAbbrev":  "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor.",
-			 "included" : "Pax Vaporizer, Screen, Mouthpiece, Oven Lid, Charging Dock, Charging Cord, 5x Cleaning Tools, 5x Cleaning Wipes, 2x Lubricant Packet, User Manual",	
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl1": "images/vapes/pax1.png",
-			 "imageUrl2": "images/vapes/pax2.png",
-			 "imageUrl3": "images/vapes/pax3.png",
-			 "imageUrl4": "images/vapes/pax4.png",
-			 "imageUrl5": "images/vapes/pax1.png",
-			 "imageUrl6": "images/vapes/pax2.png",
-			 "imageUrl7": "images/vapes/pax3.png"
-			}			
-		];
 
-		//temporary setup for vape list using tips array used by tipresource to be read by tipView and tipListView
-		var tips = [
-			{"tipId": 1,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Crafty",
-			 "manufacturer" : "Storz & Bickels",
-			 "price": 399.00,
-			 "weight": "N.A.",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F",
-			 		   "370 C", "395 C", "420 C", "445 C", "470 C"],
-			 "included":["1 x Crafty Vaporizer", 
-			 			  "1 x Storz & Bickel Custom Grinder", 
-			 			  "1 x Storz & Bickel Custom Filling Tool", 
-			 			  "1 x Power Adapter with USB Cable", 
-			 			  "1 x Liquid Pad", 
-			 			  "3 x Spare Screens, 1 x Cleaning Brush", 
-			 			  "1 x Set of Spare Seal Rings", 
-			 			  "1 x Instructions for Use"],
-			 "tipDescriptionAbbrev": "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer.",
-			 "tipDescriptionDetailed":["The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go.", 
-			 						   "At less than 4.5 inches tall, 2.25 inches wide, and 1.3 inches thick, the Crafty can fit discreetly in your pocket for travel and fit firmly in the hand when in use making it the perfect portable vaping companion.",
-			 						   "With just one button and 2 temperature settings, the Crafty vaporizer is extremely easy to use and can reach vaporization temperatures of 356 degrees F with the press of a button. Double clicking the button will activate the boost level of 383 degrees F, for those looking for a little more kick to their vapor quality.",
-			 						   "An LED on the bottom of the Crafty will switch from red to green and a quick double vibration will let you know when you have reached your desired temperature setting, so you know when you're ready to vaporize.",
-			 						   "The Crafty Remote Control app can be downloaded to both Android and iPhone devices and will connect to your Crafty via Bluetooth connection. The app will allow you to adjust the temperature settings, as well as the LED brightness and vibration settings.",
-			 						   "The top of the Crafty vaporizer can be removed to load your herbs and makes cleaning the heating chamber a breeze. The swivel style mouthpiece can be turned in for compact storage and twisted outward when you're ready to vape, making the Crafty that much easier to use on the move.", 
-			 						   "Enjoy the power of the world's most renowned vaporizer company in the palm of your hand with the Crafty vaporizer."],
-			 "tags": ["crafty","portable","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/crafty1.png",
- 		 	 			  "images/vapes/crafty2.png",
-		 	  			  "images/vapes/crafty3.png",
-		 	 			  "images/vapes/crafty1.png",
- 		 	 			  "images/vapes/crafty_app2.png",
-		 	  			  "images/vapes/crafty_apart.png",
-		 	  			  "images/vapes/crafty_ipad.png"]
-			},
-			{"tipId": 2,
-			 "tipCatagory":"Portable", 
-			 "tipName": "Mighty",
-			 "manufacturer" : "Storz & Bickels",
-			 "price": 469.00,
-			 "weight": "",
-			 "manufacturersWarranty": "2 year warranty restricted to normal use, with a lifetime warranty on the heater.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F",
-			 		   "370 C", "395 C", "420 C", "445 C", "470 C"],
-			 "included":["1 x Mighty Vaporizer", 
-			 			  "1 x Storz & Bickel Custom Grinder", 
-			 			  "1 x Storz & Bickel Custom Filling Tool", 
-			 			  "1 x Power Adapter with USB Cable", 
-			 			  "1 x Liquid Pad", 
-			 			  "3 x Spare Screens, 1 x Cleaning Brush", 
-			 			  "1 x Set of Spare Seal Rings", 
-			 			  "1 x Instructions for Use"],
-			"tipDescriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers.",
-			 "tipDescriptionDetailed":["The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand.",
-			 						   "The Mighty vape provides a user friendly interface with the classic orange power button and simple plus and minus controls which raise or lower the temperature to your preference. Just set your desired temperature and the Mighty vape will begin to heat up to your preferred vaping temperature. ",
-			 						   "The digital LED display will show the current temperature, destination temperature, and battery level. Once the Mighty reaches vaping temperatures the display screen will let you know and the unit will emit a vibration so that you know it is ready for use. ",
-			 						   "A swivel mouthpiece easily pulls out for vaping and tucks away neatly when not in use, making it perfect fro throwing in your pocket. ",
-			 						   "The top of the Mighty can easily be removed for loading your herbs and makes cleaning and upkeep extremely easy. The heater can reach temperatures ranging from 104 - 410 degrees F to efficiently vaporize your dry herbs. ",
-			 						   "The ribbed design of the body creates a cool feel in the hand while making the vaporizer extremely light and comfortable to use.", 
-			 						   "The Mighty vaporizer is powered by 2 internal lithium ion batteries which provide a long use time. The batteries are separated from the heater to ensure a safe environment and longer overall lifespan of the Mighty vaporizer itself. The Mighty vape can easily be recharged by connecting to any standard wall outlet using the included charging adapter. Shrink the power of the world's most popular and efficient vaporizers and enjoy pure vapor in the palm of your hand with the Mighty vaporizer."],			 
-			 "tags": ["Mighty","portable","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/mighty1.png",
-			 			  "images/vapes/mighty2.png",
-		 	 			  "images/vapes/mighty3.png",
-		 	 			  "images/vapes/mighty1.png",
- 		 	 			  "images/vapes/mighty2.png",
-		 	 			  "images/vapes/mighty3.png",
-		 	 			  "images/vapes/mighty1.png"]
-			},
-			{"tipId": 3,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "Plenty",
-			 "manufacturer" : "Storz & Bickels",
-			 "price": 349.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["0-480 F"],
-			 "included":["Plenty Vaporizer", 
-			 			  "Custom Grinder", 
-			 			  "Custom Filling Tool", 
-			 			  "Power Adapter with USB Cable", 
-			 			  "Liquid Pad", 
-			 			  "3 Spare Screens", 
-			 			  "1 Cleaning Brush", 
-			 			  "1 Set of Spare Seal Rings", 
-			 			  "Instructions for Use"],
-			 "tipDescriptionAbbrev": "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
-			 "tipDescriptionDetailed":["The time has come, vaporizer powerhouses Storz & Bickel, creators of the hugely popular Volcano vaporizer, have released their newest vape called the Plenty Vaporizer. ",
-			 						   "The Plenty Vaporizer uses a double helix heat exchanger that not only heats up extremely fast, but also evenly vaporizes your material maximizing what you get out of even the smallest amount of material. ",
-			 						   "The Plenty Vape is hand held, although not portable, and features silent operation and a very lightweight yet extremely durable design. ",
-			 						   "The temperature gauge on the front of the Plenty is both accurate and extremely convenient without being digital, keeping the Plenty Vaporizer reasonably priced but just as easy to use as other digital vaporizers. ",
-			 						   "The coil that wraps around the whip tubing actually acts as a heat sink to stop your vapor from being overly hot. The vapor will cool as it travels through the whip tubing, delivering an extremely smooth and cool vapor. ",
-			 						   "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer.",
-			 						   "The Plenty Vaporizer has a solid polycarbonate build with stainless steel cooling coil."],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/plenty1.png",
-						  "images/vapes/plenty2.png",
-						  "images/vapes/plenty3.png",
-						  "images/vapes/plenty4.png",
-						  "images/vapes/plenty5.png",
-						  "images/vapes/plenty1.png",
-						  "images/vapes/plenty2.png"]
-			},
-			{"tipId": 4,
-			 "tipCatagory":"Portable", 
-			 "tipName": "Pinnacle Pro",
-			 "manufacturer" : "VaporBlunt",
-			 "price": 188.00,
-			 "weight": "",
-			 "manufacturersWarranty": "The Pinnacle Pro DLX has a 1 year limited product warranty which covers your vaporizer against defects in manufacturing, parts and labor. 90 day limited warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F"],
-			 "included" : ["Pinnacle Pro Portable Vaporizer",
-			 			   "Chamber Cap", 
-			 			   "PonG Adapter w/ Glass Vapor Path", 
-			 			   "2 Dry Herb Filling Chambers", 
-			 			   "1 Wax/Oil Filling Chamber", 
-			 			   "Charger", 
-			 			   "Cleaning Brush", 
-			 			   "Wire Pipe Cleaner", 
-			 			   "Bamboo Cleaning Stick", 
-			 			   "Standard Mouthpiece", 
-			 			   "Quick Start Guide"],
-			 "tipDescriptionAbbrev": "The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike.",
-			 "tipDescriptionDetailed":["The Pinnacle quickly became one of the most popular portable vaporizers for first time users and vape veterans alike because of its easy to use functionality, superb portability, and excellent vapor quality.",
-			 						   "The creators, VaporBLUNT, have now taken this tiny tower of power and made vast improvements that are taking the Pinnacle to the next level. ",
-			 						   "VaporBLUNT's Pinnacle Pro vaporizer is still the same small size, measuring about 5 inches tall and less than an inch wide, making it a great fit in the hand, pocket, purse or bag. ",
-			 						   "The Pinnacle Pro vaporizer even keeps the same 1 button design which turns the unit on, toggles between its temperature settings, and then turns the unit off. ",
-			 						   "What has changed with the upgraded Pinnacle, however, is that it now has 5 temperature settings, which is 3 more than the original version. These temperatures range from 370 degrees to 470 degrees F in 25 degree increments providing ultimate control over your personal vaporization settings. ",
-			 						   "The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
-			 						   "That's right, the Pinnacle Pro has the ability to vaporize dry herbs and concentrates right out of the box by simply changing the included bullet in the chamber. Another small, yet very efficient change is the Pro's new battery level indicator. By pressing the button just once the LED lights will light up to display how much battery level the Pinnacle has left. This pint size power house is an excellent choice as a first vaporizer or as an upgrade or addition to your current vaporizer collection. Reach the pinnacle of portable vaporization like a pro with VaporBLUNT's Pinnacle Pro vaporizer."],
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": ["images/vapes/pinnaclepro1.png",
-			  			  "images/vapes/pinnaclepro2.png",
-			  			  "images/vapes/pinnaclepro3.png",
-			  			  "images/vapes/pinnaclepro4.png",
-			  			  "images/vapes/pinnaclepro5.png",
-			  			  "images/vapes/pinnaclepro6.png",
-			  			  "images/vapes/pinnaclepro7.png"]
-			},
-			{"tipId": 5,
-			 "tipCatagory":"Pen", 
-			 "tipName": "V2Pro Series 3",
-			 "manufacturer" : "V2",
-			 "price": 59.99,
-			 "weight": "",
-			 "manufacturersWarranty": "We warrant that your V2 Pro product will be free from defects in material and workmanship under normal use and service for six months.",
-			 "temps": ["350 F", "375 F"],
-			 "included" : ["E-Liquid cartridge",
-			 			   "V2Pro Vaporizer", 
-			 			   "USB Charger", 
-			 			   "User Manual" 
-			 			   ],
-			 "tipDescriptionAbbrev": "The first pen that can actually vape dry herbs.",
-			 "tipDescriptionDetailed":["If you want a small, easily portable vape with good battery life, and one that can do e-liquids and concentrates as well as dry herbs, this is the vaporizer for you.",
-			 						   "As far as the unit itself goes, there isn't any other unit in this size that can actually vaporize herbs.",
-			 						   "The vapor is actually very flavorful, although it is not very dense. ",
-			 						   "The chamber holds roughly 0.1-0.2 grams, so it is highly efficient for how little it uses.",
-			 						   "A normal load is done after around four minutes, which is reactivating the heating function only one time.",
-			 						   "The herbs are a golden brown color once it is vaped, and we will have a picture of some vaped herbs in our video review of this unit."
-			 						   ],
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": ["images/vapes/series-3-personal-vaporizer-300x207.png",
-			  			  "images/vapes/series-3-personal-vaporizer-usb-charger-300x202.png",
-			  			  "images/vapes/series-3-LED.png",
-			  			  "images/vapes/series-3-personal-vaporizer-liquid-cartridge-139x300.png",
-			  			  "images/vapes/series-3-personal-vaporizer-loose-leaf-cartridge-123x300.png"]
-			},
-			{"tipId": 6,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Solo",
-			 "manufacturer" : "Arizer",
-			 "price": 349.00,
-			 "weight": "2 lbs",
-			 "manufacturersWarranty": "",
-			 "temps": ["122 F", "365 F", "374 F", "383 F", "393 F", "401 F", "410 F"],
-			 "included":[
-			 		"Arizer Solo Portable Vaporizer", 
-			 		"2 Glass Mouthpieces - 1 Straight and 1 Angled", 
-			 		"Aromatherapy Bowl with Potpourri Sample", 
-			 		"AC Adapter / Charger", 
-			 		"Instruction Manual"],
-			 "tipDescriptionAbbrev": "The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game.",
-			 "tipDescriptionDetailed":["The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
-			 						   "Arizer has improved everything you might think you know about portable vaporizing.",
-			 						   "It is built of a sturdy aluminum that is highly resistant to scratches and other wear and tear, making it the ideal vaporizer for those who are out and about often and need something that can keep up with them. ",
-			 						   "Its heating element gives it the ability to deliver a vapor quality that is right next to any table top vaporizer, but is extremely easy to use at the same time.",
-			 						   "The heat level is set by simply selecting 1 of 7 different temperature settings, making vaporizing right out of the box as simple as can be.",
-			 						   "Also, the Arizer Solo's lithium-ion battery is unmatched, taking only about 2 hours to charge but lasts through an astonishing 4+ hours of vaporization.",
-			 						   "The newest version allows you to heat-up and vaporize with the unit while it's charging, so you no longer need the A/C power adapter to turn the Solo into a table top vaporizer with unlimited power. Add in the fact that this vape uses an all glass mouthpiece to connect to the heating element and you have one amazing portable vape. The Arizer Solo is one of the newest portable vaporizers on the market and has totally changed the game. Available in Black or Silver."],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/solo1.png",
-						  "images/vapes/solo2.png",
-						  "images/vapes/plenty3.png",
-						  "images/vapes/solo4.png",
-						  "images/vapes/solo5.png"
-						  ]
-			},
-			{"tipId": 7,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "The Silver Surfer",
-			 "manufacturer" : "7th Floor",
-			 "price": 269.99,
-			 "weight": "",
-			 "manufacturersWarranty": "3 years on electronics",
-			 "temps": ["0-900 F"],
-			 "included":[
-			 		"Silver Surfer Vaporizer", 
-			 		"Whip / Wand Assembly", 
-			 		"Glass Mouthpiece", 
-			 		"3 ft Whip Tubing", 
-			 		"Glass Wand", 
-			 		"3x Replacement Screens", 
-			 		"Stir Tool", 
-			 		"Padded Travel Bag", 
-			 		"User Manual"
-			 		],
-			 "tipDescriptionAbbrev": "The Silver Surfer is a highly customizable, top performing desktop vaporizer. Choose from a wide array of colors, designs, and heater cover options to create your perfect vaporizer.",
-			 "tipDescriptionDetailed":["Every Silver Surfer features a hand blown glass temperature dial, heater cover, and wand, each individually crafted in Colorado Springs, Colorado.",
-			 						   "The Silver Surfer Vaporizer utilizes a high quality ceramic heating element and glass-on-glass components for high quality vapor.",
-			 						   "Standard Glass heater cover and wand allow you to manipulate where hot air passes through your blends. Simply angle the wand in various positions for thorough vaporization without the need to stir your blends.",
-			 						   "Ground glass heater cover and wand allow for hands free vaporization. No need to hold your wand up to the heater cover! This wand fits directly into the heater cover for a perfect seal every time.",
-			 						   "Spherical ground glass heater cover and wand allow for a perfect ground glass seal with the ability to angle the wand in various positions. This option provides thorough vaporization without the need to stir your blends.",
-			 						   "Turn on Silver Surfer and set to your desired temperature. Once temperature has been reached, load finely ground blends into the glass wand and connect to the glass heater cover. Begin to draw at a medium to fast pace for best results.",
-			 						   "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike."],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl": ["images/vapes/ssv2.png",
-						  "images/vapes/ssv_ceramic_element.png",
-						  "images/vapes/SSVStdglass2.png",
-						  "images/vapes/SV_groundglass2.png",
-						  "images/vapes/ssv4.png"
-						  ]
-			},
-			{"tipId": 8,
-			 "tipCatagory":"Portable", 
-			 "tipName": "Ascent",
-			 "manufacturer" : "DaVinci Vaporizers",
-			 "price": 199.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 years on electronics",
-			 "temps": ["38-430 F"],
-			 "included":[
-			 		"1 x Ascent Portable Vaporizer", 
-			 		"2 x Inner Glass Tubes", "2 x Glass Mouthpieces", 
-			 		"2 x Glass Oil Jars with Silicone Caps", 
-			 		"2 x Stir Tools", 
-			 		"2 x Mouthpiece Caps", 
-			 		"3 x Replacement Screens", 
-			 		"1 x Carrying Pouch", 
-			 		"1 x Battery Charger", 
-			 		"1 x Instruction Manual"
-			 		],
-			 "tipDescriptionAbbrev": "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
-			 "tipDescriptionDetailed":["The Ascent's all glass vapor path and glass tube is the first of its kind, ditching silicone or plastic pathways for a cleaner, smoother experience using a glass on glass connection.",
-			 						   "Smaller than an iPhone, the Ascent vape still sports a bright OLED temperature and battery level display for a user-friendly experience despite its small size.",
-			 						   "The lithium-ion battery has a very long battery life, giving you plenty of time to use the Ascent handheld vape away from home without having to bother with charging.",
-			 						   "No matter what the material, dry herbs or tobacco, essential oils and concentrates, the Ascent vaporizes them all with ease.",
-			 						   "Choose from three stylish designs including a stealth black finish for those who need to be discreet, or the exotic burl wood and croc skin designs for those who want a little flare. The DaVinci vaporizer showed us what a truly versatile portable vaporizer is capable of, now the Ascent is taking what we've learned and schooling us once more.",
-			 						   "DaVinci Vaporizers first hit the scene with the super popular DaVinci vape that, just like the man it was named after, was far from a one trick pony. After continued success with the their name-sake vape, DaVinci vaporizers has now unleashed their newest game-changer, the Ascent portable vaporizer."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/ascent1.png",
-				"images/vapes/ascent2.png",
-				"images/vapes/ascent3.png",
-				"images/vapes/ascent4.png",
-				"images/vapes/ascent5.png" 
-				]
-			},
-			{"tipId": 9,
-			 "tipCatagory":"Portable", 
-			 "tipName": "Arizer Air",
-			 "manufacturer" : "Arizer",
-			 "price": 259.95,
-			 "weight": "",
-			 "manufacturersWarranty": "Lifetime warranty on the heating element",
-			 "temps": ["356 F", "374 F", "392 F", "401 F", "410 F"],
-			 "included":[
-			 		"1 x Arizer Air Vaporizer", 
-			 		"1 x Small Straight Glass Stems w/ Black Mouthpiece", 
-			 		"1 x Medium Straight Glass Stems", 
-			 		"1 x 18650 mAh battery", 
-			 		"1 x Carrying Case", 
-			 		"1 x Protective, Silicone Skin"
-			 		],
-			 "tipDescriptionAbbrev": "With this small size and fast heat up time you can be ready to vape almost anywhere at any time.",
-			 "tipDescriptionDetailed":["The Arizer Air vaporizer uses an all glass vapor path and stainless steel heating element to produce desktop quality vapor in a small 5 Inch tall by 1 inch wide travel friendly size.",
-			 						   "Made by vapor veterans Arizer, this pocket size powerhouse answers all of the fans requests and then some.",
-			 						   "Use while plugged in, check. Intuitive and easy to use design, check. Small and travel friendly design, check. Replaceable battery, check.",
-			 						   "The Arizer Air uses a rechargeable and replaceable 18650 battery that can be changed by simply unscrewing the bottom of the Arizer Air. This means a longer overall life of the unit.",
-			 						   "Charging the Arizer Air battery is as simple as plugging the wall adapter into the side of the vaporizer. You can get about an an hour's worth of power out of a full charge, but The Arizer Air can also be used while plugged in for those must have home sessions.",
-			 						   "The Air features a 10 minute shutoff time to prevent wasted power and material. This means you won't burn through herbs or battery life if you forget to shut it off before throwing it back in the included travel case.",
-			 						   "This soft case has enough room to hold your vaporizer and a small glass mouthpiece. The Air features a 10 minute shutoff time to prevent wasted power and material. This means you won't burn through herbs or battery life if you forget to shut it off before throwing it back in the included travel case. Termperature controls as follows: Blue 356F, White 374F, Green 392F, Orange 401F, Red 410F. There's only a 1 minute heat-up time to the lowest heat setting and 2 minutes to the highest setting. With this small size and fast heat up time you can be ready to vape almost anywhere at any time."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/arizer_air1.png",
-				"images/vapes/arizer_air2.png",
-				"images/vapes/arizer_air3.png" 
-				]
-			},
-			{"tipId": 10,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "Volcano Digit",
-			 "manufacturer" : "Storz-bickel",
-			 "price": 669.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["0-439 F"],
-			 "included":[
-			 		"Volcano Digit Vaporizer", 
-			 		"Storz & Bickel Grinder", 
-			 		"5 Vapor Balloons", 
-			 		"Volcano Air Filter Set", 
-			 		"Easy Valve Filling Chamber with Cap", 
-			 		"Easy Valve Screen Set", 
-			 		"Cleaning Brush", 
-			 		"1 Liquid Pad and 3 Clips", 
-			 		"Instruction Manual"
-			 		],
-			 "tipDescriptionAbbrev": "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "tipDescriptionDetailed":["The Digit is everything you loved about the Classic Volcano vaporizer, with the added convenience and stye of a precise digital temperature control and display.",
-			 						   "The LED temperature read out accurately shows both the current temperature of the vaporizer and the temperature level you have it set to reach, so you always know exactly when the Volcano Digit is ready to go.",
-			 						   "The Volcano's patented balloon delivery system is unmatched in terms of efficiency and ease of use, with both the Easy Valve and Solid Valve systems providing dependable and consistent vaporization of herbs or essential oils at a moment's notice.",
-			 						   "The Volcano is made of aluminum with an aluminum heating element."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/volcano2.png",
-				"images/vapes/volcano3.png",
-				"images/vapes/volcano1.png",
-				"images/vapes/volcano7.png",
-				"images/vapes/volcano5.png",
-				"images/vapes/volcano6.png" 
-				]
-			},
-			{"tipId": 11,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "Vapir Rise 2.0",
-			 "manufacturer" : "Vapir Inc.",
-			 "price": 249.95,
-			 "weight": "",
-			 "manufacturersWarranty": "1 Year Warranty covering defects in manufacturing, parts, and labor.",
-			 "temps": ["150-400 F"],
-			 "included":[
-			 		"1 x Vapir Rise Vaporizer", 
-			 		"1 x Power Cord", 
-			 		"1 x Herb Chamber", 
-			 		"1 x Aromatherapy Oil Chamber", 
-			 		"1 x Chamber Adapter with Plunger", 
-			 		"1 x Balloon Adapter with ON/OFF Valve", 
-			 		"1 x Inhalation Adapter", 
-			 		"1 x Multi-user Adapter", 
-			 		"1 x Hot Chamber Grabber", 
-			 		"3 x Inflation Balloons", 
-			 		"1 x Balloon Clamp", 
-			 		"2 x HEPA Air Filters", 
-			 		"2 x Large Mesh Screens", 
-			 		"2 x Small Mesh Screens", 
-			 		"1 x Silicone Tube (3.25 ft)", 
-			 		"1 x X-Tip Mouthpiece", 
-			 		"1 x User Guide"
-			 		],
-			 "tipDescriptionAbbrev": "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
-			 "tipDescriptionDetailed":["The Vapir Rise 2.0 was developed to change the game in the world of table top herbal vaporizers.",
-			 						   "Vapir listened to the feedback from customers and spent the necessary time to painstakingly create a vaporizer that would truly raise the bar and set a new industry standard.",
-			 						   "For starters, the Vapir Rise is the first to incorporate HEPA air filtration into a vaporizer. A HEPA filter is a type of mechanical air filter; it works by forcing air through a fine mesh that traps harmful particles. This basically means that only pure, clean air is used to produce your vapor, assuring the absolute best vapor quality possible.",
-			 						   "The Rise takes a step past other dual-functionality vaporizers. With the Rise you can inflate balloons, directly inhale using the whip or have a group session with the multi-user attachment. That's right, Vapir is the first company to make a multiple hose attachment which allows up to 4 users to draw from the Vapir Rise at once.",
-			 						   "You get both a dry herb chamber and an essential oil chamber giving you the option of what materials to put inside.",
-			 						   "The Vapir Rise sits on your table top and plugs directly into a standard wall outlet for power. Turning the unit on will illuminate the digital display and back-light the touch pad buttons, which is pretty helpful when using the Rise in low or dim lighting.",
-			 						   "A multi-speed fan causes purified air to flow over the ceramic heating element and through a stainless steel vapor path to your materials. Set the temperature or fan speed to your personal preference using the seamless touchpad buttons on either side of the digital display. A clear display window shows your temperature setting and current fan speed which takes the guess work out of your session. Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/vapirrise1.png",
-				"images/vapes/vapirrise2.png",
-				"images/vapes/vapirrise3.png",
-				"images/vapes/vapirrise4.png",
-				"images/vapes/vapirrise5.png" 
-				]
-			},
-			{"tipId": 12,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "The Da Buddah Vaporizer",
-			 "manufacturer" : "7th Floor",
-			 "price": 190.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["0-900 F"],
-			 "included":[
-			 		"Da Buddha Vaporizer", 
-			 		"Whip / Wand Assembly", 
-			 		"Glass Mouthpiece", 
-			 		"3ft Whip Tubing", 
-			 		"Glass Wand", 
-			 		"3x Replacement Screens", 
-			 		"Stir Tool", 
-			 		"Padded Hemp Travel Bag", 
-			 		"User Manual"
-			 		],
-			 "tipDescriptionAbbrev": "Featuring the same superior craftsmanship found in the Silver Surfer, every Da Buddha vaporizer is designed and assembled in the USA.",
-			 "tipDescriptionDetailed":["Turn on Da Buddha and set to your desired temperature. Once temperature has been reached, load finely ground blends into glass wand and connect to the glass heater cover. Begin to draw at a medium to fast pace for best results.",
-			 						   "For best functionality, be sure to clean and maintain Da Buddha regularly.",
-			 						   "All glass components can be soaked in isopropyl alcohol.",
-			 						   "Replace stainless steel screens and whip tubing often for best vapor.",
-			 						   "Da Buddha utilizes a high quality ceramic heating element and glass-on-glass components for high quality vapor production.",
-			 						   "For Aromatic Blends, Ceramic Heating Element, Glass-on-Glass Components, Hands Free Whip Delivery System, Analog Temperature Dial, Carrying Case Included."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/dabuddah1.png",
-				"images/vapes/dabuddah2.png",
-				"images/vapes/dabuddah3.png",
-				"images/vapes/dabuddah4.png",
-				"images/vapes/dabuddah5.png" 
-				]
-			},
-			{"tipId": 13,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "The Extreme Q",
-			 "manufacturer" : "Arizer",
-			 "price": 239.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 Year Waranty",
-			 "temps": ["0-450 F"],
-			 "included":[
-			 		"Extreme Q Vaporizer", 
-			 		"Remote Control", 
-			 		"2x Glass Cyclone Bowls with Flat Screens", 
-			 		"3 foot Whip Tubing", 
-			 		"Glass Whip Mouthpiece", 
-			 		"Glass Elbow Adapter with Dome Screen", 
-			 		"Pre-Attached Mini Whip for Balloon", 
-			 		"Balloon Assembly", 
-			 		"2x Balloons", 
-			 		"2x Glass Balloon Mouthpieces", 
-			 		"2x O-Rings", 
-			 		"Glass Stir Tool", 
-			 		"Flat Screen", 
-			 		"Dome Screen", 
-			 		"Glass Potpourri Dish with Potpourri Sample", 
-			 		"110/220V Power Supply", 
-			 		"User Manual"
-			 		],
-			 "tipDescriptionAbbrev": "The Extreme Q offers a powerful yet energy efficient ceramic heating element and glass-on-glass components for clean vapor",
-			 "tipDescriptionDetailed":["The Extreme Q, by Canadian manufacturer Arizer, is a multi-functional, feature-rich, desktop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with the Extreme Q. This “jack-of-all-trades” vaporizer produces superior vapor quality, delivered via your choice of balloon (forced air) or whip (direct draw).",
-			 						   "Choose your vapor experience! The Extreme Q is able to deliver vapor in a multitude of ways.",
-			 						   "Direct Draw via Whip: Draw in vapor through the included 3' Long Whip.",
-			 						   "Forced Air Assisted Whip: Give your lungs a break! Let the EQ's fan create and deliver vapor for you through the included 3' Long Whip.",
-			 						   "Forced Air Balloon Delivery: Attach the Balloon Assembly and watch as the Extreme Q's fan fills your balloon with vapor. Detach the balloon when full, draw and enjoy!",
-			 						   "All functions can be performed via the included remote control, or on the unit itself through the digital display. It's fully adjustable temperature can be set in one degree increments, from 122 degrees F – 500 degrees F (50 degrees C – 260 degrees C). The user-set automatic shut-off feature allows you to set and forget; your Extreme Q will automatically shut down at a user defined time.",
-			 						   "The Extreme Q offers a powerful yet energy efficient ceramic heating element and glass-on-glass components for clean vapor"
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/extremeq1.png",
-				"images/vapes/extremeq2.png",
-				"images/vapes/extremeq3.png",
-				"images/vapes/extremeq4.png",
-				"images/vapes/extremeq5.png",
-				"images/vapes/extremeq6.png",
-				"images/vapes/extremeq7.png" 
-				]
-			},
-			{"tipId": 14,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Haze",
-			 "manufacturer" : "Haze Vaporizers",
-			 "price": 249.99,
-			 "weight": "",
-			 "manufacturersWarranty": "10 year warranty",
-			 "temps": ["0-450 F", "0-232 C"],
-			 "included":[
-			 		"Haze Vaporizer", 
-			 		"Stainless Steel Mouthpiece", 
-			 		"Glass Mouthpiece", 
-			 		"2x All-Purpose Cans", 
-			 		"2x Conduction Screens", 
-			 		"2x Convection Screens", "2x Haze Batteries", 
-			 		"Wall Charger", 
-			 		"Cleaning Tool", 
-			 		"Material Tool", 
-			 		"User Manual"
-			 		],
-			 "tipDescriptionAbbrev": "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
-			 "tipDescriptionDetailed":["Every Haze Vaporizer is crafted with advanced, patented heating technology for rapid heat up time and features a long-lasting, rechargeable, user-replaceable Lithium-ion battery.",
-			 						   "Haze features both stainless steel convection screen and conduction screens, allowing for a more personal vaporizing experience. The conduction screen allows dry materials to have controlled exposure to the heating chamber; the convection screen is surrounded by four walls of stainless steel, but allows no direct contact between materials and the heating chamber.",
-			 						   "Use the temperature selection button on the top of Haze to switch between 4 temperature options.",
-			 						   "When powered on, the LED light will blink several times to indicate that the device is in the process of heating.",
-			 						   "When the oven is at the selected temperature, the LED lights will remain solid, letting you know Haze is ready for use."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/haze1.png",
-				"images/vapes/haze2.png",
-				"images/vapes/haze3.png",
-				"images/vapes/haze4.png",
-				"images/vapes/haze5.png",
-				"images/vapes/haze6.png",
-				"images/vapes/haze7.png" 
-				]
-			},
-			{"tipId": 15,
-			 "tipCatagory":"Pen", 
-			 "tipName": "The SOURCE Orb V2",
-			 "manufacturer" : "Haze Vaporizers",
-			 "price": 79.95,
-			 "weight": "",
-			 "manufacturersWarranty": "Lifetime warranty",
-			 "temps": ["0-450 F", "0-232 C"],
-			 "included":[
-			 		"1x SOURCE orb Attachment v2 Model", 
-			 		"7x SOURCE orb Atomizers", 
-			 		"1x SOURCE 10cig Attachment", 
-			 		"1x SOURCE orb Variable Voltage eGo Twist Battery", 
-			 		"1x eGo Charging Cable", 
-			 		"1x USB Wall Charger", 
-			 		"1x Dabbing Tool", 
-			 		"1x ﻿SOURCE﻿vapes﻿﻿Silicone Container for Concentrates"
-			 		],
-			 "tipDescriptionAbbrev": "The SOURCE Orb is a great new concentrate pen from Source Vapes. It comes with a variable voltage battery, a charger, the SOURCE orb attachment, and 7 different atomizers.",
-			 "tipDescriptionDetailed":["Seven completely different atomizers, each of which allows you to customize your vape experience how you want it to be.",
-			 						   "SOURCE orb is the most advanced portable vaporizer with superior airflow, build, and multi-functional atomizers.",
-			 						   "Its indestructible solid steel body means you'll never have to worry about broken glass, while its open airflow chamber will give you the perfect hit, every time.",
-			 						   "SOURCE terra, developed exclusively by SOURCEvapes, is the most advanced way to enjoy concentrates and essential oils.",
-			 						   "SOURCE terra is a completely ceramic heating element that gives you the most flavorful and pure clouds of vapor, rather than heating through exposed coils."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/Source-3.png",
-				"images/vapes/Source-3-8-2137.png",
-				"images/vapes/Source-3-8-2278_grande.jpeg",
-				"images/vapes/Source-3-8-2167.png",
-				"images/vapes/Source-3-8-2298_small.png"
-				]
-			},
-			{"tipId": 16,
-			 "tipCatagory":"Pen", 
-			 "tipName": "The Ambassador Kit V4",
-			 "manufacturer" : "Gentleman's Brand",
-			 "price": 79.95,
-			 "weight": "",
-			 "manufacturersWarranty": "Lifetime warranty",
-			 "temps": ["0-450 F", "0-232 C"],
-			 "included":[
-			 		"Double Agent Pen", 
-			 		"V2 Cartridge", 
-			 		"Mega V2 Cartridge", 
-			 		"Stainless Steel Filling Tool",
-			 		"Non-stick Silicone Container for Concentrates",
-			 		"Rapid USB Charger",
-			 		"Wall Adapter",
-			 		"Silicone Mouth Tip",
-			 		"Stainless Steel Mouth Tip",
-			 		"User Guide"	
-			 		],
-			 "tipDescriptionAbbrev": "Includes everything you need to vape waxes, concentrates, shatter, and e-liquids with purchase of the Saboteur Tank add-on. ",
-			 "tipDescriptionDetailed":["The Ambassador Kit works with Waxes, Shatter, Crumble, Full melt concentrates, Dry Herbs - with dry herb attachment, E-liquids - with purchase of the Saboteur Tank add-on"
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/ambassador_1024x1024.png",
-				"images/vapes/ambassador-maxresdefault.png",
-				"images/vapes/ambassador2.png",
-				"images/vapes/Source-3-8-2167.png",
-				"images/vapes/Source-3-8-2298_small.png"
-				]
-			},
-			{"tipId": 17,
-			 "tipCatagory":"Pen", 
-			 "tipName": "Dr. Dabber Ghost",
-			 "manufacturer" : "Dr. Dabber",
-			 "price": 84.95,
-			 "weight": "",
-			 "manufacturersWarranty": "Lifetime warranty",
-			 "temps": ["0-450 F", "0-232 C"],
-			 "included":[
-			 		"Dr. Dabber Ghost Vaporizer", 
-			 		"USB Charger", 
-			 		"silicone storage ball", 
-			 		"loading tool",
-			 		"extra replacement titanium atomizer"	
-			 		],
-			 "tipDescriptionAbbrev": "The Dr. Dabber Ghost is the original low-heat vaporizer pen for oils and waxes. ",
-			 "tipDescriptionDetailed":["Our Titanium Technology heats to the ideal temperature slowly, instead of burning red hot on contact.",
-			 							"This eliminates the burned, electric taste synonymous with vaporizer pens, ensuring you can enjoy the flavor of your oils or waxes."
-			 						   ],
-			 "tags": ["plenty","desktop","handheld","storz-bickel"],
-			 "imageUrl":[
-			 	"images/vapes/dr-dabber-ghost-all.png",
-				"images/vapes/drdabberNEWSLIDE5.png",
-				"images/vapes/dr-dabber-ghost-pen_1.png",
-				"images/vapes/dr-dabber-ghost-pen_1.png",
-				"images/vapes/drdabberghostsmlthumbpickeno_3_1024x1024.png"
-				]
-			},
-			{"tipId": 18,
-			 "tipCatagory":"Portable", 
-			 "tipName": "DaVinci",
-			 "manufacturer" : "DaVinci Vaporizers",
-			 "price": 169.00,
-			 "weight": "2 lbs",
-			 "manufacturersWarranty": "2 year warranty covering the heating element.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F", "NA C"],
-			 "included":["DaVinci Portable Vaporizer", 
-			 		     "Battery Charger", 
-			 		     "Cleaning Accessories", 
-			 		     "3 Replacement Screens", 
-			 		     "Instruction Manual"	
-			 			],
-			 "tipDescriptionAbbrev":"The DaVinci Vaporizer was designed with a few goals in mind - portability, efficiency, ease of use, and a discreet vaporizing experience.",
-			 "tipDescriptionDetailed":["The DaVinci Vaporizer was designed with a few goals in mind - portability, efficiency, ease of use, and a discreet vaporizing experience. Not only were these goals met, but they were exceeded. ",
-			  						   "The DaVinci Vape features an ergonomic hand held design for easy transportation. The herb chamber is revealed by snapping open the cap, which also gives you access to the tiny cleaning brush and stealth storage compartment. ",
-			  						   "The brush is great for cleaning the chamber and the storage area holds 3x the amount needed for a single use, virtually giving you an entire portable vaporizing station. ",
-			  						   "The lithium-ion rechargeable battery is yet another addition that adds to the DaVincis long list of features. The DaVincis battery life can last anywhere up to 1 hour of vaporization and is good for well over 1000 charge cycles! ",
-			  						   "On the face of the DaVinci portable vaporizer are 3 very simple buttons - power, temperature up and temperature down complete with LED digital temperature display for accurate vaporization. ",
-			  						   "The flexi-straw mouthpiece easily screws off of the DaVinci vape to make storing it in your pocket even more comfortable. The removable mouthpiece is made of a durable and flexible material so you can adjust the angle of the mouthpiece at will, further finding your comfort zone with the DaVinci vape. ",
-			  						   "The DaVinci truly has it all to make vaporizing on the go a fast, easy and hassle free experience anywhere you go."
-			 						  ],
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl":["images/vapes/davinci1.png",
-			 			 "images/vapes/davinci2.png",
-			 			 "images/vapes/davinci3.png",
-			 			 "images/vapes/davinci4.png",
-			 			 "images/vapes/davinci1.png",
-			 			 "images/vapes/davinci2.png",
-			 			 "images/vapes/davinci3.png"]
-			},
-			{"tipId": 19,
-			 "tipCatagory":"Portable", 
-			 "tipName": "PUFFiT 2",
-			 "manufacturer" : "Discreet Vape",
-			 "price": 97.00,
-			 "weight": "",
-			 "manufacturersWarranty": "The PUFFiT 2 has a 1 year limited product warranty with a 90 day warranty on the battery.",
-			 "temps": ["370 F", "395 F", "420 F", "445 F", "470 F", "NA C"],
-			 "included":["1 x PUFFiT 2 Portable Vaporizer", 
-			 			 "1 x Silicone Heat Shield", 
-						 "1 x USB Charger", 
-						 "1 x Packing Tool", 
-						 "1 x Concentrate Screens", 
-						 "4 x Replacement Screens", 
-						 "1 x User Manual"	
-						 ],
-			 "tipDescriptionAbbrev": "Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer.",
-			 "tipDescriptionDetailed":["The PUFFiT 2 vaporizer looks just like an inhaler to provide quick and discreet vapor sessions without drawing any attention. ",
-			  						   "Now you can puff in public while remaining completely discreet. At just about 3.7 inches tall and just under 2 inches wide, the PUFFiT 2 is the same size as a regular inhaler. ",
-			  						   "This fits easily in your hand while vaping as well as your pocket or bag when traveling for ultimate discretion and portability. ",
-			  						   "To keep things discreet, the PUFFiT 2 contains no lighting indicators while heating up. Instead, Haptic Feedback technology lets you know when the PUFFiT 2 is hot and ready for vaping by vibrating. Just press the power button and subtle vibrations will let you know that the PUFFiT 2 is heating up and give a quiet buzz when it's ready to use. ",
-			  						   "The heating chamber is made of a high quality nickel plated copper for ultra conductivity. Load your favorite herbs or concentrated essential oils into the chamber with the appropriate screen and press the bower button to begin heating. ",
-			  						   "Automatic shutdown will turn the PUFFiT 2 off after 3 minutes to prevent over heating, just in case you forget. 4 temperatures ranging from 320 to 415 degrees Fahrenheit can be selected by pressing the power button to cycle through the settings. ",
-			  						   "A small LED on the back of the unit will indicate your selected temperature setting, while holding the power button down will turn the 4 bar LED into a battery life indicator. 4 bars means your fully charged and 1 bar means it's time to find your charger. A 2200mAh lithium ion battery provides long vape sessions and is easily recharged using the included USB cord. The PUFFiT 2's battery can be removed for replacement, so having a backup will keep your sessions going even longer. Draw true vapor quickly and easily without drawing attention with a little help from the PUFFiT 2 inhaler vaporizer."
-			 						  ],
-			 "tags": ["Portable","Puffit", "Discreet", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/puffit1.png",
-			 			 "images/vapes/puffit2.png",
-			 			 "images/vapes/puffit3.png",
-			 			 "images/vapes/puffit4.png",
-			 			 "images/vapes/puffit5.png",
-			 			 "images/vapes/puffit6.png",
-			 			 "images/vapes/puffit1.png"]
-			},
-			{"tipId": 20,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Magic flight Launch Box",
-			 "manufacturer" : "",
-			 "price": 119.00,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["NA F", "NA C"],
-			 "included":["Magic-Flight Launch Box", 
-			 			 "2x Rechargeable NiMH Glyph Batteries With Caps", 
-			 			 "Battery Charger", 
-			 			 "Felt-lined Decorative Tin", 
-			 			 "Glass Draw Stem", 
-			 			 "Cleaning Brush", 
-			 			 "User Manual"	
-			 			],
-			 "tipDescriptionAbbrev": "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "tipDescriptionDetailed":["Beautifully crafted and intuitively designed, the Magic-Flight Launch Box, is powered by a rechargeable AA NiMH battery and holds the title of the world's smallest electronic vaporizer, making it the perfect option for low-profile vaporizing on-the-go.",
-			  						   "Each Launch Box vaporizer represents the effort of many skilled craftsman. Three wood choices are available, along with five different Laser Etch models.",
-			  						   "The Launch Box has many accessories to choose from such as the Power Adapter 2.0 for extra power at home or in your vehicle, Water Piece Whip for water cooled vapor, and Concentrate Tray for using solid concentrates or liquids.",
-			  						   "To begin vaporization, slide back the Launch Box lid and load blends loosely into the trench. Close the lid and press the charged battery into the box to activate the stainless steel heating rod. An orange indicator light under the lid will light to show you the conduction process is taking place and will be ready-to-use in 3 to 5 seconds.",
-			  						   "A unique vapor channel flow system delivers vapor directly to the user minimizing condensation. Draw slowly from the glass steam for best results. Release pressure on battery two-thirds through draw to prevent overheating.",
-			  						   "After cooling, simply empty the trench and brush gently using the cleaning brush. Gently blow into trench to remove any remaining dust. The screen may discolor after use.",
-			  						   "To clean, gently wipe screen with a 91% Isopropyl Alcohol. Avoid contact of Isopropyl alcohol with trench."
-			 						  ],
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/mflb1.png",
-			  			 "images/vapes/mflb2.png",
-			  			 "images/vapes/mflb3.png",
-			  			 "images/vapes/mflb4.png",
-			  			 "images/vapes/mflb1.png",
-			  			 "images/vapes/mflb2.png",
-			  			 "images/vapes/mflb3.png"]
-			},
-			{"tipId": 21,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Firefly",
-			 "manufacturer" : "",
-			 "price": 269.95,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["NA F", "NA C"],
-			 "included":["Firefly Vaporizer", 
-			 			 "High Power Rechargeable Lithium-ion Battery", 
-			 			 "Cleaning Kit", 
-			 			 "Soft Case", 
-			 			 "User Manual"	
-			 			],
-			 "tipDescriptionAbbrev": "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "tipDescriptionDetailed":["The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
-			 						   "The Firefly features the most advanced vaporization technology available. The Firefly's dynamic convection heating technology utilizes sophisticated software that raises the vapor temperature from 100 °F to 400 °F over the course of a smooth 10 seconds. Enjoy aromas the moment they are vaporized. If you prefer lighter vapor, simply draw for a shorter time; if you prefer richer vapor, draw longer. You are in complete control. Enjoy a perfect draw every time.",
-			 						   "The Firefly is easy to load and clean, due to its magnetic lid and borosilicate glass heating chamber. The heating chamber's outer walls are innwardly-sloped for easy loading and unloading.",
-			 						   "The magnetic lid features an open vapor path that is fully exposed when the lid is removed, so it can be quickly brushed clean or wiped with a damp cloth.The high-power Lithium-ion battery recharges in less than 45 minutes and delivers over 40 rich draws per charge. ",
-			 						   "The battery can be charged directly in the Firefly or in the optional external charger.",
-			 						   "The borosilicate glass heating chamber and stainless metal vapor path keeps aromas completely pure. Sleek and compact, Firefly fits beautifully in your hand. The elegant metal and glass chassis feels like a warm river stone, creating a feeling of luxury and quality.",
-			 						   "The battery can be easily swapped in a few seconds, allowing you to insert a fresh battery from the external charger with no downtime.",
-			 						  ],
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/firefly1.png",
-			  			 "images/vapes/firefly2.png",
-			  			 "images/vapes/firefly3.png",
-			  			 "images/vapes/firefly4.png",
-			  			 "images/vapes/firefly1.png",
-			  			 "images/vapes/firefly2.png",
-			  			 "images/vapes/firefly3.png"]
-			},
-			{"tipId": 22,
-			 "tipCatagory":"Desktop", 
-			 "tipName": "The Hot Box",
-			 "manufacturer" : "",
-			 "price": 109.99,
-			 "weight": "",
-			 "manufacturersWarranty": "5 year warranty",
-			 "temps": ["NA F", "NA C"],
-			 "included":["Hot Box Vaporizer", 
-			 			 "Whip / Wand Assembly", 
-			 			 "Glass 2-Piece Wand", 
-			 			 ".5' Whip Tubing", 
-			 			 "Glass Mouthpiece", 
-			 			 "User Manual"	
-			 ],
-			 "tipDescriptionAbbrev": "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
-			 "tipDescriptionDetailed":["The Hot Box is a simple, yet effective desktop vaporizer with an array color and design options. Hand made in the USA, the Hot Box is reliable, durable, and comes standard with a 5 year warranty.",
-			        				   " Hot Box utilizes a special ceramic nichrome heating element that is ready for use in just minutes.",
-			        				   "Choose between Standard, Ground Glass (hands free), and many colors and designs options, including Stone, Tile, Artist Series, and many more.",
-			        				   "Turn on Hot Box and allow it to heat for 10 minutes, ensuring optimal vaporization temperatures. Finely grind your blends and load them into the glass wand. Make sure to fill your wand no more than 1/3 capacity for best results. Insert the wand onto the glass heater cover and begin to draw.",
-			        				   "Your rate of draw will affect the temperature. A slower draw speed will raise the temperature; a faster draw speed will lower the temperature.",
-			        				   "For optimal performance, be sure to clean your Hot Box regularly. Replace screens and whip tubing as needed.",
-			        				   "Glass components can be cleaned with isopropyl alcohol (91% or higher recommended). Never clean the device while it is still plugged in."
-			 						  ],
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":["images/vapes/hotbox1.png",
-			  			 "images/vapes/hotbox2.png",
-			  			 "images/vapes/hotbox3.png",
-			  			 "images/vapes/hotbox4.png",
-			  			 "images/vapes/hotbox5.png",
-			  			 "images/vapes/hotbox1.png",
-			  			 "images/vapes/hotbox2.png"]
-			},
-			{"tipId": 23,
-			 "tipCatagory":"Portable", 
-			 "tipName": "The Pax",
-			 "manufacturer" : "Ploom",
-			 "price": 199.99,
-			 "weight": "",
-			 "manufacturersWarranty": "3 year warranty restricted to normal use.",
-			 "temps": ["NA F", "NA C"],
-			 "included":["Pax Vaporizer", 
-			 		  	 "Screen", 
-			 		  	 "Mouthpiece", 
-			 		  	 "Oven Lid", 
-			 		  	 "Charging Dock", 
-			 		  	 "Charging Cord", 
-			 		  	 "5x Cleaning Tools", 
-			 		  	 "5x Cleaning Wipes", 
-			 		  	 "2x Lubricant Packet", 
-			 		  	 "User Manual"	
-			 			],
-			 "tipDescriptionAbbrev": "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor.",
-			 "tipDescriptionDetailed":[ "Pax by Ploom is a premium portable vaporizer that conveniently fits in your pocket and delivers pure, clean vapor. Small and lightweight, Pax is easily taken out and about and heats in under a minute. Its refined design is sleek, stylish, and durable, making Pax the ultimate choice for on-the-go vaporization.",
-			  						    "Load aromatic blends into the Pax oven and lightly tamp down. Power on Pax by pressing in the retractable mouthpiece and allowing it to spring in to the on position. Pax indicator light will turn green once fully heated and ready for use.",
-			  						    "Remove mouthpiece to reveal temperature button to cycle through presets as needed. ",
-			  						    "Pax features 3 temperature presets for optimal vaporization. Yellow...370F (188C), Orange...390F (199C), Red...410F (210C)",
-			  						    "Pax utilizes a Lithium-ion rechargeable internal battery that charges in under 2 hours and lasts for up to 2 hours of continuous use. Drop Pax onto the included charging dock for easy charging. While powered on, shake Pax to reveal battery life indicators - Green...Full Battery, Yellow...Partially Charged, Red...Low Battery.",
-			  						    "Pax is a precision device and should be cleaned on a regular basis. While Pax is powered on, remove mouthpiece and soak in soap and water. Let mouthpiece dry before replacing. To clean Pax body, remove mouthpiece and oven lid. Moisten cleaning tool with supplied alcohol wipe.",
-			  						    "Starting from the mouthpiece end, insert moistened cleaning tool into the vapor pathway, pushing out the oven screen. Floss Pax with cleaning tool. To clean Pax oven, oven lid, and screen, use a moistened bent cleaning tool or moistened cotton swab to remove residue. Screens will need to be replaced as necessary. Apply lubricant after every cleaning session."
-			 						  ],
-			 "tags": ["Desktop","Volcano", "Herbs", "Oils", "Concentrates"],
-			 "imageUrl":[ "images/vapes/pax1.png",
-			  			  "images/vapes/pax2.png",
-			  			  "images/vapes/pax3.png",
-			  			  "images/vapes/pax4.png",
-			  			  "images/vapes/pax1.png",
-			  			  "images/vapes/pax2.png",
-			  			  "images/vapes/pax3.png"]
-			},
-			{"tipId": 24,
-			 "tipCatagory":"Portable", 
-			 "tipName": "Pinnacle Pro Deluxe",
-			 "manufacturer" : "VaporBlunt",
-			 "price": 237.00,
-			 "weight": "",
-			 "manufacturersWarranty": "The Pinnacle Pro DLX has a 1 year limited product warranty which covers your vaporizer against defects in manufacturing, parts and labor. 90 day limited warranty on the battery.",
-			 "temps": ["NA F", "NA F", "NA C", "NA C"],
-			 "included":["1 x Pinnacle Pro Portable Vaporizer", 
-			 			 "1 x Micro Shower Water Tool", 
-			 			 "1 x Chamber Cap", 
-			 			 "1 x PonG Adapter w/ Glass Vapor Path", 
-			 			 "2 x Dry Herb Filling Chambers", 
-			 			 "1 x Wax/Oil Filling Chamber", 
-			 			 "1 x Charger", 
-			 			 "1 x Cleaning Brush", 
-			 			 "1 x Wire Pipe Cleaner", 
-			 			 "1 x Bamboo Cleaning Stick", 
-			 			 "1 x Standard Mouthpiece", 
-			 			 "1 x Quick Start Guide"	
-			 			],
-			 "tipDescriptionAbbrev": "The Pinnacle Pro DLX is the newest version and now comes with glass screen housing and vapor tube in the PonG adapter.",
-			 "tipDescriptionDetailed":["The Pinnacle Pro DLX is the newest version and now comes with glass screen housing and vapor tube in the PonG adapter! ",
-			 						   "The Pinnacle Pro DLX set includes everything you need to vape dry herbs and concentrates with water filtration at home or on the go. With the Pinnacle's dual functionality and the included Micro Shower Water Tool, you are sure to get the coolest and smoothest vapor puffs possible from the Pinnacle Pro from your favorite materials without having to sacrifice size or quality. ",
-			 						   "VaporBLUNT's Pinnacle Pro vaporizer is about 5 inches tall and less than an inch wide, allowing it to travel easily and be used virtually anywhere. Toss the Pinnacle Pro in your pocket, bag, or purse and be ready to vape wherever you may go. ",
-			 						   "What really takes the Pinnacle Pro to the next level is the Micro Shower Tool. The water filtration tool cleans your vapor of any small particles that may sneak past the screen while cooling the vapor, putting the Pinnacle Pro at the head of the class for both portability and vapor quality. ",
-			 						   "The Pinnacle Pro vaporizer has a simple 1 button design which turns the unit on, toggles between its temperature settings, and then turns the unit off. This design has been proven to be the easiest to use, making this vape a must have for newbies and vapor veterans alike. ",
-			 						   "The vaporizing heat settings range from 370° to 470° F in 25° increments, providing ultimate control over your vapor quality. The temperature setting is indicated using a color coding system displayed by the 5 LED lights on the front of the Pinnacle Pro: WHITE 370 F, TURQUOISE 395 F, GREEN 420 F, ORANGE 445 F,  PURPLE 470 F. The first 4 temperatures are so that you can find the perfect temperature for your dry herbal blend, while the 5th and highest temperature is intended for oil and concentrate vaporization. ",
-			 						   "The Bullet baskets are used to hold and vaporize your dry herbs, while the Full Metal Jacket concentrate basket can withstand the higher temperatures required to vape waxes and concentrates. The baskets easily slide out when it comes time to change or clean them. This means your material never comes in contact with your vaporizer making the Pinnacle Pro very easy to keep clean for continuous optimum use.Get everything you need to have the ultimate in travel friendly vaporization and top level vapor quality with the Pinnacle Pro DLX vaporizer kit."
-			 						  ],
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl":[ "images/vapes/pinnacleprodlx1.png",
-			  			  "images/vapes/pinnacleprodlx2.png",
-			  			  "images/vapes/pinnacleprodlx3.png",
-			  			  "images/vapes/pinnacleprodlx4.png",
-			  			  "images/vapes/pinnacleprodlx5.png",
-			  			  "images/vapes/pinnacleprodlx6.png",
-			  			  "images/vapes/pinnacleprodlx7.png"]
-			},
-			{"tipId": 25,
-			 "tipCatagory":"", 
-			 "tipName": "",
-			 "manufacturer" : "",
-			 "price": "",
-			 "weight": "",
-			 "manufacturersWarranty": "",
-			 "temps": ["NA F", "NA F", "NA C", "NA C"],
-			 "included":[],
-			 "tipDescriptionAbbrev": "",
-			 "tipDescriptionDetailed":[],
-			 "tags": [],
-			 "imageUrl":[]
-			}
-		]; 
-**/
 		var conditionsUrl = "/api/conditions";
 		var productUrl = "/api/products";
 		var effectUrl = "/api/effects";
