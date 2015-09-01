@@ -1264,12 +1264,12 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "When you pack the herb chamber don’t be shy. Try layering the entire bottom screen and then put even more on top. You may find leaving the pad out while vaping and just adding more material gives you some really thick vapor, but the quality and smoothness still remains.",
+				 		"tipTxt": "When you pack the herb chamber don't be shy. Try layering the entire bottom screen and then put even more on top. You may find leaving the pad out while vaping and just adding more material gives you some really thick vapor, but the quality and smoothness still remains.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "Always cap the mouthpiece with your thumb or finger. If you look at the mouthpiece closely while the Plenty is on you can actually see vapor creeping out of the mouthpiece. So if you aren’t constantly pulling you are slowly losing some precious vapor.",
+				 		"tipTxt": "Always cap the mouthpiece with your thumb or finger. If you look at the mouthpiece closely while the Plenty is on you can actually see vapor creeping out of the mouthpiece. So if you aren't constantly pulling you are slowly losing some precious vapor.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
@@ -1294,7 +1294,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "If you plan to use your Plenty vaporizer for a group setting, fill the herb chamber completely because the herbs cannot move around when you move the unit different directions. If you pack it completely, you don’t need to worry about slipping and sliding. They will stay pressed against the screen evenly for the whole time.",
+				 		"tipTxt": "If you plan to use your Plenty vaporizer for a group setting, fill the herb chamber completely because the herbs cannot move around when you move the unit different directions. If you pack it completely, you don't need to worry about slipping and sliding. They will stay pressed against the screen evenly for the whole time.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
@@ -1345,7 +1345,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "You can swab out your bowl with rubbing alcohol every few uses to prevent it from browning, if you don’t you'll need a dabber.",
+				 		"tipTxt": "You can swab out your bowl with rubbing alcohol every few uses to prevent it from browning, if you don't you'll need a dabber.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
@@ -1355,7 +1355,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "If you've ever wondered how much weed to put in your DaVinci, well that’s a personal preference, but never ever pack it all the way up, to the point where you can’t push the bud down",
+				 		"tipTxt": "If you've ever wondered how much weed to put in your DaVinci, well that's a personal preference, but never ever pack it all the way up, to the point where you can't push the bud down",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
@@ -1365,7 +1365,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "Some people own this vaporizer and don’t even realize that it has a buddy rim system so you can share your vaporizer with other people, and not have to have oral contact. When you share your Ascent, use the rim, and pull the straw out for your friends.",
+				 		"tipTxt": "Some people own this vaporizer and don't even realize that it has a buddy rim system so you can share your vaporizer with other people, and not have to have oral contact. When you share your Ascent, use the rim, and pull the straw out for your friends.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
@@ -1406,12 +1406,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "Pack the PUFFiT chamber loosely with your dry blends. Most of the time when someone says they aren’t getting good results it’s because they have loaded the herb chamber tightly like they would a classic water pipe or dugout.",
+				 		"tipTxt": "Pack the PUFFiT chamber loosely with your dry blends. Most of the time when someone says they aren't getting good results it's because they have loaded the herb chamber tightly like they would a classic water pipe or dugout.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "Inhale gently and slowly once the green light goes on and you’ll get a nice tasty cloud. You can even take short little sips rather than large rips.",
+				 		"tipTxt": "Inhale gently and slowly once the green light goes on and you'll get a nice tasty cloud. You can even take short little sips rather than large rips.",
 				 		"TipImg" : "images/vapes/puffit1.png"
 				 	},
 				 	{ 
@@ -1477,7 +1477,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "Bring an extra battery and you’ve got 2+ hours before needing to charge.",
+				 		"tipTxt": "Bring an extra battery and you've got 2+ hours before needing to charge.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
@@ -1517,7 +1517,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "Most people use these cans to pre-pack the dry herb and take several cans out to concerts parks etc and they love the performance. So they don’t have to deal with prep, dump, grind when they are out.",
+				 		"tipTxt": "Most people use these cans to pre-pack the dry herb and take several cans out to concerts parks etc and they love the performance. So they don't have to deal with prep, dump, grind when they are out.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	}
 			 	]
@@ -5283,7 +5283,7 @@
 		 	],
 		 	 "taste": ["Sage","Earthy","Woody"],   
 		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms", "Fibromyalgia"],
-			 "positiveEffects": ["Long Lasting", "Uplifting", "Happy"],
+			 "positiveEffects": ["Long Lasting", "Uplifted", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "Spicy sandalwood flavor combined with a Long Lasting and uplifting high make this the plant for those who like the best.",
 			 "descriptionAbbrev":  "Spicy sandalwood flavor combined with a Long Lasting and uplifting high make this the plant for those who like the best.",
