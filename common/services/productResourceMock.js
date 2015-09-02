@@ -24,7 +24,7 @@
 			 "VType": "Portable",
 			 "VTempType": "N",
 			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
-			 "VTempsC": ["40","50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VTempsC": ["040","050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go. Although the Crafty only has two temperature settings, with the free app you can set those temperatures to any two values you choose.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
@@ -35,7 +35,7 @@
 			 "VType": "Portable",
 			 "VTempType": "N",
 			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
-			 "VTempsC": ["40","50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VTempsC": ["040","050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below indicate that it is capable of low, medum and high temperatures.",
 			 "VImageUrl": "images/vapes/mighty1.png"
@@ -46,7 +46,7 @@
 			 "VType": "Portable",
 			 "VTempType": "Y",
 			 "VTempsF": ["122", "365", "374", "383", "393", "401", "410"],
-			 "VTempsC": ["50", "185", "190", "195", "200", "205", "210"],
+			 "VTempsC": ["050", "185", "190", "195", "200", "205", "210"],
 			 "VColors": ["Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
  			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
 			 "VImageUrl": "images/vapes/solo1.png"
@@ -123,7 +123,7 @@
 			 "VType": "Desktop",
 			 "VTempType": "N",
 			 "VTempsF": ["122", "250", "290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
-			 "VTempsC": ["50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VTempsC": ["050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
@@ -134,7 +134,7 @@
 			 "VType": "Desktop",
 			 "VTempType": "N",
 			 "VTempsF": ["122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
-			 "VTempsC": ["50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VTempsC": ["050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/Arizer-V-Tower-Vaporizer.png"
@@ -167,7 +167,7 @@
 			 "VType": "Desktop",
 			 "VTempType": "N",
 			 "VTempsF": ["100", "370", "420"],
-			 "VTempsC": ["37", "187", "215"],
+			 "VTempsC": ["037", "187", "215"],
 			 "VColors": ["Lo", "Md", "Hi"],
 			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer. The Plenty has an analgog temeprature gauge that let's you set a wide range of temperatures including low, medium and high values.",
 			 "VImageUrl": "images/vapes/plenty1.png"
