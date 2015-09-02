@@ -23,9 +23,9 @@
 			 "VManufacturer" : "Storz & Bickels",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["356", "383"],
-			 "VTempsC": ["180", "195"],
-			 "VColors": ["Lo", "Md"],
+			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
+			 "VTempsC": ["40","50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go. Although the Crafty only has two temperature settings, with the free app you can set those temperatures to any two values you choose.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
 			},
@@ -34,9 +34,9 @@
 			 "VManufacturer" : "Storz & Bickels",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["104", "370", "410"],
-			 "VTempsC": ["40", "187", "210"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
+			 "VTempsC": ["40","50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below indicate that it is capable of low, medum and high temperatures.",
 			 "VImageUrl": "images/vapes/mighty1.png"
 			},
@@ -122,9 +122,9 @@
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["122", "370", "500"],
-			 "VTempsC": ["50", "187", "260"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "428" "445", "500"],
+			 "VTempsC": ["50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
 			},
@@ -133,9 +133,9 @@
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["122", "370", "500"],
-			 "VTempsC": ["50", "187", "260"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "428" "445", "500"],
+			 "VTempsC": ["50","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/Arizer-V-Tower-Vaporizer.png"
 			},
@@ -309,9 +309,9 @@
 			 "VManufacturer" : "VapeXhale",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["250", "370", "400"],
-			 "VTempsC": ["121", "187", "204"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["250","290", "313", "315", "334", "351", "356", "365", "388", "400"],
+			 "VTempsC": ["121", "143", "156", "157", "168", "177", "180", "185", "198", "204"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Aire allows users the option of three different settings, whip style, balloon bag and direct draw. The temperature control on this unit is also great as it allows you to vape at anywhere between 250 F and 400F.",
 			 "VImageUrl": "images/vapes/Herbal-Aire-1.png",
 			},
@@ -320,9 +320,9 @@
 			 "VManufacturer" : "Herbalizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["290", "370", "445"],
-			 "VTempsC": ["143", "187", "229"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["290", "313", "315", "334", "351", "356", "365", "388", "428" "445"],
+			 "VTempsC": ["143", "156", "157", "168", "177", "180", "185", "198", "220", "229"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Herbalizer, or Herbie for short, is a high-tech medical device for cannabis patients seeking consistency in dosage and effects. Achieve consistent and precise temperatures to heat specific cannabinoids for your desired medicinal effects.",
 			 "VImageUrl": "images/vapes/herbalizer.png",
 			}, 
@@ -1477,7 +1477,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "Bring an extra battery and you've got 2+ hours before needing to charge.",
+				 		"tipTxt": "Bring an extra battery and you ve got 2+ hours before needing to charge.",
 				 		"TipImg" : "images/vapes/haze1.png"
 				 	},
 				 	{ 
@@ -3432,7 +3432,7 @@
 			{"strainId": 38,
 			 "strainName": "Eden OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/eden.jpg"
 
 			},
 			{"strainId": 39,
@@ -3534,7 +3534,7 @@
 			{"strainId": 55,
 			 "strainName": "Lulu", 
 			 "strainType": "Sativa",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/lulu200x160.jpg"
 
 			},
 			{"strainId": 56,
@@ -3607,7 +3607,7 @@
 			{"strainId": 67,
 			 "strainName": "Regulator OG", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/regulator-og.jpg"
 
 			},
 			{"strainId": 68,
@@ -3631,7 +3631,7 @@
 			{"strainId": 71,
 			 "strainName": "Stratosphere", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/stratosphere.jpg"
 
 			},
 			{"strainId": 72,
@@ -3709,7 +3709,7 @@
 			{"strainId": 84,
 			 "strainName": "Harle-Tsu", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/harle-tsu_100x100.jpg"
 
 			},
 			{"strainId": 85,
@@ -3781,7 +3781,7 @@
 			{"strainId": 96,
 			 "strainName": "Yoda OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/yoda-og_100x100.jpg"
 
 			},
 			{"strainId": 97,
@@ -3919,7 +3919,7 @@
 			{"strainId": 119,
 			 "strainName": "Dubtech", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/dubtech.jpg"
 
 			},
 			{"strainId": 120,
@@ -3967,13 +3967,13 @@
 			{"strainId": 125,
 			 "strainName": "Mad Max", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/MADMAX.jpg"
 
 			},
 			{"strainId": 126,
 			 "strainName": "Mafia OG", 
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/mafia-og.jpg"
 
 			},
 			{"strainId": 127,
@@ -4033,7 +4033,7 @@
 			{"strainId": 138,
 			 "strainName": "White Walker OG", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/whitewalker-og_100x100.jpg"
 
 			},
 			{"strainId": 139,
@@ -4153,7 +4153,7 @@
 			{"strainId": 158,
 			 "strainName": "OG Cheese",
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/og-cheese_100x100.jpg"
 
 			},
 			{"strainId": 159,
@@ -4177,7 +4177,7 @@
 			{"strainId": 162,
 			 "strainName": "Mars OG",
 			 "strainType": "Indica",
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/mars-og_100x100.jpg"
 
 			},
 			{"strainId": 163,
@@ -9278,7 +9278,7 @@
 			 "descriptionDetailed": "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "descriptionAbbrev":  "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
 			 "tags": ["Hybrid", "Eden OG", "OG", "Bipolar", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/eden.jpg"
 			},
 			{"strainId": 39,
 			 "strainName": "Euphoria", 
@@ -12585,7 +12585,7 @@
 			 "descriptionDetailed": "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
 			 "descriptionAbbrev":  "The high produced from Regulator OG is a pleasant balance of cerebral and body effects.",
 			 "tags": ["Indica", "Regulator OG", "OG", "Bipolar", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/regulator-og.jpg"
 			},
 			{"strainId": 68,
 			 "strainName": "Saturn OG", 
@@ -13041,7 +13041,7 @@
 			 "descriptionDetailed": "Another rock hard resin machine that will sit on the top shelf all day.",
 			 "descriptionAbbrev":  "Indica dominant phenotypes are perfect for relaxation and healing.",
 			 "tags": ["Hybrid", "Stratosphere", "Bipolar", "Migraines", "Headache", "PMS"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/stratosphere.jpg"
 			},
 			{"strainId": 72,
 			 "strainName": "Super Grandaddy", 
@@ -14523,7 +14523,7 @@
 			 "descriptionDetailed": "Harle-Tsu, bred by the Southern Humboldt Seed Collective, is a high-CBD hybrid cross between Harlequin and Sour Tsunami. With a CBD content 20 times higher than its THC content, Harle-Tsu brings relief to pain and inflammation without psychoactivity.",
 			 "descriptionAbbrev":  "Brings relief to pain and inflammation without psychoactivity.",
 			 "tags": ["Hybrid", "Harle-Tsu", "Cancer", "Migraines", "Headache", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/harle-tsu_100x100.jpg"
 			},
 			{"strainId": 85,
 			 "strainName": "Harlequin", 
@@ -18513,7 +18513,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/dubtech.jpg"
 			},
 			{"strainId": 120,
 			 "strainName": "Ghost OG", 
@@ -19425,7 +19425,7 @@
 			 "descriptionDetailed": "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
 			 "descriptionAbbrev":  "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
 			 "tags": ["Hybrid", "Mad Max", "Migraines", "Headache"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/MADMAX.jpg"
 			},
 			{"strainId": 128,
 			 "strainName": "Mafia OG", 
@@ -19539,7 +19539,7 @@
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Indica", "Mafia OG", "Migraines", "Headache", "Nausea", "Glaucoma", "PMS"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/mafia-og.jpg"
 			},
 			{"strainId": 129,
 			 "strainName": "Mango Maui", 
@@ -20679,7 +20679,7 @@
 			 "descriptionDetailed": "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
 			 "descriptionAbbrev":  "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
 			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/whitewalker-og_100x100.jpg"
 			},
 			{"strainId": 139,
 			 "strainName": "Cherry Bomb", 
@@ -22959,7 +22959,7 @@
 			 "descriptionDetailed": "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese. OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "descriptionAbbrev":  "OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
 			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/og-cheese_100x100.jpg"
 			},
 			{"strainId": 159,
 			 "strainName": "Mercury OG",
@@ -23415,7 +23415,7 @@
 			 "descriptionDetailed": "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "descriptionAbbrev":  "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
 			 "tags": ["Indica", "Mars OG", "Epilepsy"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": "images/strains/mars-og_100x100.jpg"
 			},
 			{"strainId": 163,
 			 "strainName": "White Rhino",
