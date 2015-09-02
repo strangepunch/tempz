@@ -18506,12 +18506,12 @@
 			 		"value": 0.00
 				} 	
 		 	],
-		 	"taste": [""],
+		 	"taste": ["Sweet", "Fruity", "Flowery"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Insomnia", "Appetite Loss", "Migraines", "Muscle Spasms",  "Nausea", "Pain", "Seizures", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "positiveEffects": ["Creative", "Euphoric", "Relaxed", "Hungry", "Energetic", "Happy", "Focused", "Balanced", "Calmness"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
-			 "descriptionAbbrev":  "Dubtech is known to be effective in treating a number of medical conditions including Anorexia, Migraines and Muscle Spasms.",
+			 "descriptionDetailed": "The pungent cotton candy flavor of the smoke yields an overwhelming cornucopia of fruit flavors, foreshadowed by the rich floral overtones of the tightly manicured buds. The effects are immediate and ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant. ",
+			 "descriptionAbbrev":  "The pungent cotton candy flavor of the smoke yields an overwhelming cornucopia of fruit flavors, foreshadowed by the rich floral overtones of the tightly manicured buds. The effects are immediate adn ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/dubtech.jpg"
 			},
