@@ -26,8 +26,8 @@
 
 /* Demo toolbar styles */
 #toolbar {
-  background: #00A300;
-  border-bottom: 1px solid #111b32;
+  background: #042B05;
+  border-bottom: 1px solid #042704;
   position: absolute;
   top: 0;
   right: 0;
@@ -159,15 +159,15 @@
 }
 
 .snap-drawers {
-	background: linear-gradient(#414A5A,#4C5464);
-	background: -webkit-linear-gradient(#414A5A,#4C5464);
+	background: linear-gradient(#001F00,#002900);
+	background: -webkit-linear-gradient(#001F00,#002900);
   /*background: #323949;*/
 }
 
 .snap-drawer {
 	/*background: #323949;*/
-	background: linear-gradient(#414A5A,#4C5464);
-	background: -webkit-linear-gradient(#414A5A,#4C5464);
+	background: linear-gradient(#001F00,#002900);
+	background: -webkit-linear-gradient(#001F00,#002900);
 	color: #eee;
 }
 
