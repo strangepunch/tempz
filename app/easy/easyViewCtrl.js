@@ -416,6 +416,7 @@
 				});
 
     		} else {
+    			$scope.loading = false;
     			vm.hasEnterStrain = false;
     			//return alert("Please select a strain for better info.");
     		}
@@ -455,6 +456,7 @@
     	//look for components from this selected temperature
     	vm.dataForYou = [];
     	$scope.selectedTempsComponent = function (eff, arr){
+    		$scope.loading = true;
     		if(vm.hasEnterStrain != false){
     			for(var i=0; i<arr.length; i++){
     				//console.log("eff",eff);
@@ -463,7 +465,9 @@
     					vm.dataForYou = arr[i];
     				}
     			}
+    			$scope.loading = false;
     		}else{
+    			$scope.loading = false;
     			return vm.hasEnterStrain = false;
     		}
     	}

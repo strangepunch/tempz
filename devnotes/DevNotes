@@ -85,3 +85,26 @@ STRAIN DETAIL
 
 AND OTHER STUFF
 -Shane did a lot of data modification and update and improvements
+
+------------------
+v2.10
+UM...alot has happened since last update
+
+OVERALL
+-Has loading spinner to show delay when accessing strains array
+-Side bar color changed to match the rest of app
+-reduced size of images to load faster
+-all the taste and effect images are done
+-made Favicon and IOS and Android icons for the app
+
+STRAIN DETAIL
+-vape detail and tips are now showing
+
+MED MODE
+-If the user has selected a strain themselves. A link allow user to see the strain in detail mode also.
+
+OTHER STUFF
+-Shane clean up image folder
+-Shane improved array data for temps, vape tips, strains, etc
+-marketing stuff
+
