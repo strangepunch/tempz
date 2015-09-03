@@ -153,7 +153,7 @@
 
 			}
 
-			//console.log("vm.EffectsProductName", vm.EffectsProductName);
+			console.log("vm.EffectsProductName", vm.EffectsProductName);
 			//console.log("vm.effectProperty", vm.effectProperty);
 		}
 
