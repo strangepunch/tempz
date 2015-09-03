@@ -36,6 +36,7 @@
 		vm.strainComp = [];
 		//final data for effect in plain english
 		vm.englishEffectName = [];
+		vm.currentSelectEffNum = 0;
 
 		//find and display selected temps
 		tempResource.query(function(data){
@@ -112,6 +113,7 @@
 			var tempArray=[];
 			var num = 0;
 			var numX = 0;
+			vm.currentSelectEffNum = 0;
 
 			//get component name and list of medical effects
 			if (vm.currentTemp === 'F'){
@@ -129,7 +131,7 @@
 					}
 				}
 				vm.effectProperty = tempArray;
-				$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+				$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 				vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
 
 			} else if (vm.currentTemp === 'C'){
@@ -148,12 +150,16 @@
 					}
 				}
 				vm.effectProperty = tempArray;
-				$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+				$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 				vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
 
 			}
-
-			console.log("vm.EffectsProductName", vm.EffectsProductName);
+			if(vm.EffectsProductName.length>1){
+				vm.moreThanOne = true;
+			}else{
+				vm.moreThanOne = false;
+			}
+			//console.log("vm.EffectsProductName", vm.EffectsProductName);
 			//console.log("vm.effectProperty", vm.effectProperty);
 		}
 
@@ -169,7 +175,7 @@
 					num++;
 				}
 			}
-			console.log("list of conditions", vm.conditionNames);
+			//console.log("list of conditions", vm.conditionNames);
 		});
 		//display and store the user selected condition name
 		$scope.selectCondition = function(name){
@@ -412,7 +418,7 @@
 					vm.strainComp = $scope.getComp(vm.yourStrain.components);
 					//console.log('vm.withValue', vm.withValue);
 
-					$scope.selectedTempsComponent(vm.EffectsProductName[0],vm.strainComp);
+					$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 				});
 
     		} else {
@@ -475,6 +481,7 @@
     	$scope.getEnglishEffect = function(effcArray){
     		var thisArray = [];
     		var num = 0;
+    		//console.log("effcArray", effcArray)
     		effectResource.query(function(data){
     			for(var i=0; i<effcArray.length; i++){
     				for(var x=0; x<data.length; x++){
@@ -541,6 +548,53 @@
 	    	
     	}
 
+    	$scope.getNextEffect = function(num,name){
+    		vm.moreThanOne = false;
+    		//console.log("num", num);
+    		//console.log("name", name);
+    		vm.currentSelectEffNum = num;
+			var tempArray=[];
+			for(var i=0; i<vm.products.length; i++){
+				if(name === vm.products[i].productName){
+					  tempArray = vm.products[i].Property;
+				}
+			}
+			//console.log("tempArray", tempArray);
+			vm.effectProperty = tempArray;
+			
+    		$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
+			vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
+    	}
+    	vm.styleEffSelected = function(dex){
+    		switch (dex){
+    			case 0:
+	    			if(vm.currentSelectEffNum === dex){
+	    				return {"color":"Red","font-size": "1.1em"};
+	    			}else{
+	    				return {"color":"white","font-size": "1.1em"};
+	    			}
+	    			break;
+    			case 1:
+	    			if(vm.currentSelectEffNum === dex){
+	    				return {"color":"Red","font-size": "1.1em"};
+	    			}else{
+	    				return {"color":"white","font-size": "1.1em"};;
+	    			}
+	    			break;
+    			case 2:
+	    			if(vm.currentSelectEffNum === dex){
+	    				return  {"color":"Red","font-size": "1.1em"};
+	    			}else{
+	    				return  {"color":"white","font-size": "1.1em"};
+	    			}
+	    			break;
+	    		default:
+	    			vm.currentSelectEffNum = 0;
+	    			return  {"color":"white","font-size": "1.1em"};
+	    			break;
+    		}
+    	}
+
 //------find and suggest strains based one selected temp for the condition-------------//
 		//The button "Need A Strain" on the first page
     	$scope.goSuggest = function(){
@@ -602,12 +656,12 @@
     			//decide if the "More" button will show or not
     			//display message for strains found or not
 	    		if(vm.finalSuggestedStrains.length > 3){
-	    			console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
+	    			//console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
 	    			vm.hasMatches = true;
 					//vm.ShowStrains = true;
 					vm.thereIsMore = true;
 				}else if(vm.finalSuggestedStrains.length === 0){
-					console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
+					//console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
 					vm.hasMatches = false;
 					vm.noMatchMSG = "Sorry. No matches found."
 					vm.thereIsMore = false;

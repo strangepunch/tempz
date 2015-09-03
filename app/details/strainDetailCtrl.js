@@ -142,7 +142,7 @@
               vm.Conditions = false;
               vm.Vape = false;
               vm.discMode = "Components";
-              vm.selectedMode = "Component percentage";
+              vm.selectedMode = "Component percentages";
               $scope.getCompWithValue();
               vm.vapeSelected = false;
               vm.selectedVape = "";
