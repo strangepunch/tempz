@@ -18517,7 +18517,7 @@
 			 "positiveEffects": ["Creative", "Euphoric", "Relaxed", "Hungry", "Energetic", "Happy", "Focused", "Balanced", "Calmness"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "The pungent cotton candy flavor of the smoke yields an overwhelming cornucopia of fruit flavors, foreshadowed by the rich floral overtones of the tightly manicured buds. The effects are immediate and ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant. ",
-			 "descriptionAbbrev":  "The pungent cotton candy flavor of the smoke yields an overwhelming cornucopia of fruit flavors, foreshadowed by the rich floral overtones of the tightly manicured buds. The effects are immediate adn ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant.",
+			 "descriptionAbbrev":  "The effects are immediate and ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant.",
 			 "tags": ["Indica", "Dubtech", "Migraines", "Headache", "Nausea"],
 			 "imageUrl": "images/strains/dubtech.jpg"
 			},
@@ -22846,10 +22846,10 @@
 		 	],
 		 	"taste": ["Exotic"],
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Cerebral", "Energetic", "Happy"],
+			 "positiveEffects": ["Energetic", "Happy"],
 			 "negativeEffects": [""],
-			 "descriptionDetailed": "The perfect cerebral smoke with fantastic exotic flavor.",
-			 "descriptionAbbrev":  "The perfect cerebral smoke with fantastic exotic flavor.",
+			 "descriptionDetailed": "The striking and exotic taste generates a cerebral high that converts a smoker to a true believer.",
+			 "descriptionAbbrev":  "The striking and exotic taste generates a cerebral high that converts a smoker to a true believer.",
 			 "tags": ["Indica", "Black Buddah", "Pain", "Stress"],
 			 "imageUrl": "images/strains/Black-Budha.jpg"
 			},
@@ -38139,7 +38139,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -38236,7 +38236,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Citrus", "Lemon"],
 		 	 "conditions": ["Depression", "Anxiety", "Nausea", "Appetite Loss", "Pain"],
-			 "positiveEffects": ["Euphoric", "Potent", "Energetic", "Creative", "Focused", "Pain relief"],
+			 "positiveEffects": ["Euphoric", "Psychoactive", "Potent", "Energetic", "Creative", "Focused", "Pain relief"],
 			 "negativeEffects": ["Paranoid"],
 			 "descriptionDetailed": "A Sativa that hits hard with a THC count of up to 18%, it can provide a very intense psychedelic cerebral high that may be overwhelming to some.",
 			 "descriptionAbbrev": "A Sativa that hits hard with a THC count of up to 18%, it can provide a very intense psychedelic cerebral high that may be overwhelming to some.",
