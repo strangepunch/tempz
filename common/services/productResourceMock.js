@@ -38545,7 +38545,7 @@
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
-			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS"],
+			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic"],
 			 "lowTemp": 0,
 			 "highTemp": 126,
 			 "lowTempC": 0,
@@ -38922,10 +38922,10 @@
 			},
 			{"effectId": 18,
 			 "effectName": "Stimulates Bone Growth", //compName
-			 "conditionsTreated": ["Ostiopererosis"],
+			 "conditionsTreated": ["Osteoporosis"],
  			 "descriptionDetailed": "promotes bone growth",
 			 "descriptionAbbrev":  "Promote bone growth",
-			 "tags": ["Bone-stimulant", "Bones", "Ostiopererosis"],
+			 "tags": ["Bone-stimulant", "Bones", "Osteoporosis"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 19,
