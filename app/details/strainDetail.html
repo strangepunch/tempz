@@ -82,11 +82,11 @@
 		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
-					<div class = "row">
+					<div class = "row center">
 						<div class="col-xs-11">
 							<div class="sizeImage"> 
 								<img ng-src="images/Rec/{{list.imageUrl}}"> 
-								{{list.name}}
+								<div>{{list.name}}</div>
 							</div>
 						</div>
 					</div>
@@ -107,11 +107,11 @@
 		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
-					<div class = "row">
+					<div class = "row center">
 						<div class="col-xs-11">
 							<div class="sizeImage"> 
 								<img ng-src="images/Rec/{{list.imageUrl}}"> 
-								{{list.name}}
+								<div>{{list.name}}</div>
 							</div>
 						</div>
 					</div>
@@ -129,14 +129,15 @@
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "components in vm.currentComp|orderBy:'-value'">
+		<div class = "panel" ng-repeat = "components in vm.currentCompLimited|orderBy:'-value'">
 			<div class="row">
 				<div class="panel-body">
-					<div class = "row">
+					<div class = "row center">
 						<div class="col-xs-11">
-							<li> 
-								{{components.name}}: {{components.value}} %
-							</li>
+							<div class="sizeImage">
+								<div class="compCircle center"><hh>{{components.value}}</hh> %</div>
+								<div>{{components.name}}</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -156,11 +157,11 @@
 		<div class = "panel" ng-repeat = "list in vm.combineImgAndWords">
 			<div class="row">
 				<div class="panel-body">
-					<div class = "row">
+					<div class = "row center">
 						<div class="col-xs-11">
 							<div class="sizeImage">
 								<img ng-src="images/Rec/{{list.imageUrl}}"> 
-								{{list.name}}
+								<div>{{list.name}}</div>
 							</div>
 						</div>
 					</div>
@@ -181,11 +182,12 @@
 		<div class = "panel" ng-repeat = "list in vm.currentStrain.conditions">
 			<div class="row">
 				<div class="panel-body">
-					<div class = "row">
+					<div class = "row center">
 						<div class="col-xs-11">
-							<li> 
-								{{list}}
-							</li>
+							<div class="sizeImage">
+								<img ng-src="images/Rec/Painrelief.png"> 
+								<div>{{list}}</div>
+							</div>
 						</div>
 					</div>
 				</div>
