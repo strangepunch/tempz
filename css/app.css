@@ -649,6 +649,7 @@ html, body {
 
 #recView .sizeImage img{
 	width: 35%;
+	max-width: 150px;
 }
 #recView .vapeDetail{
 	display: list-item;
@@ -685,6 +686,21 @@ html, body {
 	margin-left: -10px;
 	margin-top: -10px;
 	margin-bottom: -10px;
+}
+
+#recView .compCircle{
+	background-image: url('../images/Rec/Happy.png');
+	background-size: contain;
+	width: 130px;
+	height: 130px;
+	padding-top: 65px;
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: black;
+}
+#recView .compCircle hh{
+	font-size: 1.6em;
 }
 
 /**----------Temps View---------------**/

@@ -174,7 +174,7 @@
                   }
                 }
               });
-              vm.discMode = "Tastes";
+              vm.discMode = "Flavors";
               vm.selectedMode = "Flavors you can expect";
               vm.vapeSelected = false;
               vm.selectedVape = "";
@@ -286,16 +286,22 @@
     //find components that has value over 0
     $scope.getCompWithValue = function(){
       var num = 0;
+      var numL = 0;
       vm.currentComp = [];
+      vm.currentCompLimited = [];
 
       for(var i=0; i < vm.currentStrain.components.length; i++){
 
         if(vm.currentStrain.components[i].value > 0){
            vm.currentComp[num] = vm.currentStrain.components[i];
            num++;
+           if(vm.currentStrain.components[i].name === 'THC9' || vm.currentStrain.components[i].name === 'CBD'){
+              vm.currentCompLimited[numL] = vm.currentStrain.components[i];
+              numL++;
+           }
         }
 
-        console.log("vm.currentComp", vm.currentComp);
+        console.log("vm.currentCompLimited", vm.currentCompLimited);
        
       }
     };
