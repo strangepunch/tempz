@@ -166,9 +166,9 @@
 			 "VManufacturer" : "Storz & Bickel",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["100", "370", "420"],
-			 "VTempsC": ["037", "187", "215"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["266", "288", "309", "331", "353", "374", "396", "420"],
+			 "VTempsC": ["130", "142", "154", "166", "178", "190", "202", "215"],
+			 "VColors": ["Lo", "Lo", "Lo",  "Lo", "Lo", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev":  "This is Storz & Bickel's very first whip vaporizer and judging from their only other vaporizer, the Volcano vaporizer, you can expect a top of the line product when you buy the Plenty Vaporizer. The Plenty has an analgog temeprature gauge that let's you set a wide range of temperatures including low, medium and high values.",
 			 "VImageUrl": "images/vapes/plenty1.png"
 			},
@@ -177,9 +177,9 @@
 			 "VManufacturer" : "DaVinci  Vaporizers",
 			 "VType": "Portable",
 			 "VTempType": "Y",
-			 "VTempsF": ["0", "370", "430"],
-			 "VTempsC": ["0", "187", "221"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["126", "246", "313", "315", "334", "351", "356", "365", "388", "428", "430"],
+			 "VTempsC": ["052", "119", "156", "157", "168", "177", "180", "185", "198", "220", "221"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "VImageUrl": "images/vapes/ascent1.png"
 			},
@@ -210,9 +210,9 @@
 			 "VManufacturer" : "Firefly Vaporizers",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "370", "400"],
-			 "VTempsC": ["0", "187", "204"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["400"],
+			 "VTempsC": ["204"],
+			 "VColors": ["Hi"],
 			 "descriptionAbbrev":  "The revolutionary Firefly is the fastest, easiest, most satisfying way to enjoy aromatic blends. Firefly heats instantly at the touch of a button, so it's always ready. There's nothing faster.",
 			 "VImageUrl": "images/vapes/firefly1.png"
 			},
@@ -221,10 +221,10 @@
 			 "VManufacturer" : "Hot Box Vapors",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "370", "400"],
-			 "VTempsC": ["0", "187", "204"],
-			 "VColors": ["Lo", "Md", "Hi"],
-			 "descriptionAbbrev":  "The Volcano Digit vaporizer's reputation precedes it in most cases and is equally respected by vaporizing newbies and pro vaporizer users alike.",
+			 "VTempsF": ["400"],
+			 "VTempsC": ["204"],
+			 "VColors": ["Hi"],
+			 "descriptionAbbrev":  "The Hot Box is a very simple desktop vape, it only has one switch to turn it on and off. It's also one of the least expensive home units on the market, which makes it a model to consider for beginners who may not want to spend a lot of money to see if they like vaping.",
 			 "VImageUrl": "images/vapes/hotbox1.png"
 			},
 			{"VId": 20,
@@ -232,9 +232,9 @@
 			 "VManufacturer" : "Vapir",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "370", "420"],
-			 "VTempsC": ["0", "187", "215"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["266", "288", "309", "331", "352", "374", "396", "417", "420"],
+			 "VTempsC": ["130", "142", "154", "166", "178", "190", "202", "214", "215"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev":  "Vapir has already laid the path for many of today's vaporizers with their revolutionary systems developed years ago. The new Vapir Rise carries this legacy into the future and is sure to impress even the most discriminating vapor enthusiast.",
 			 "VImageUrl": "images/vapes/vapirrise1.png",
 			},
@@ -261,14 +261,14 @@
 			 "VImageUrl": "images/vapes/pax2black.png",
 			},
 			{"VId": 23,
-			 "VName": "Phantom", 
+			 "VName": "Phantom Premium", 
 			 "VManufacturer" : "Cloud V",
 			 "VType": "Pen",
 			 "VTempType": "N",
-			 "VTempsF": ["428"],
-			 "VTempsC": ["220"],
-			 "VColors": ["Hi"],
-			 "descriptionAbbrev": "Known for their essential oil vaporizers such as the Cloud and the second generation Cloud Platinum, Cloud V Enterprises now introduces a powerful vape pen to the industry, specifically for dry herbs.",
+			 "VTempsF": ["374", "410", "436"],
+			 "VTempsC": ["190", "210", "224"],
+			 "VColors": ["Md", "Hi", "Hi"],
+			 "descriptionAbbrev": "Cloud V brings you a portable and stylish design to enhance your vaporizing experience. Phantom features a heating chamber that has optimized temperature for your dry herb products. Easy to use technology allows you to enjoy your Cloud anytime, anywhere.",
 			 "VImageUrl": "images/vapes/phantom.png",
 			},
 			{"VId": 24,
@@ -298,9 +298,9 @@
 			 "VManufacturer" : "VapeXhale",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["0", "370", "450"],
-			 "VTempsC": ["0", "187", "230"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["266", "288", "309", "331", "352", "374", "396", "417", "439"],
+			 "VTempsC": ["130", "142", "154", "166", "178", "190", "202", "214", "226"],
+			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev": "A top-tier desktop unit with an all-glass air path that produces excellent quality vapor. A huge advantage this model has is that the performance is superb with both dry herbs and concentrates.",
 			 "VImageUrl": "images/vapes/cloud-evo_thumb.png",
 			},
@@ -364,9 +364,9 @@
 			 "VManufacturer" : "KandyPens",
 			 "VType": "Pen",
 			 "VTempType": "Y",
-			 "VTempsF": ["350", "370", "430"],
-			 "VTempsC": ["177", "187", "221"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["351", "356", "365", "388", "428", "430"],
+			 "VTempsC": ["177", "180", "185", "198", "220", "221"],
+			 "VColors": ["Lo", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The K-Vape Micro-DX is an extension of the K-Vape line, which is currently one of the top-selling vaporizer brands in the world. It has over 80 possible tempertaure settings and a 3 - 4 hr battery life.",
 			 "VImageUrl": "images/vapes/kvape_microDx.png",
 			},
@@ -375,9 +375,9 @@
 			 "VManufacturer" : "Epic Vapes",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["350", "370", "430"],
-			 "VTempsC": ["177", "187", "221"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["430"],
+			 "VTempsC": ["221"],
+			 "VColors": ["Hi"],
 			 "descriptionAbbrev": "The Epic Vape E-Nano is a super efficient log vaporizer. Log vapes look just like a piece of wood and look great on any living room table.. Unlike most vapes which try to mimic spacecrafts and Apple products. It also heats up instantly and delivers milky clouds.",
 			 "VImageUrl": "images/vapes/Epic-Vape-E-Nano-Vape.png",
 			},
@@ -386,9 +386,9 @@
 			 "VManufacturer" : "Underdog Aromatherapy",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["350", "370", "430"],
-			 "VTempsC": ["177", "187", "221"],
-			 "VColors": ["Lo", "Md", "Hi"],
+			 "VTempsF": ["430"],
+			 "VTempsC": ["221"],
+			 "VColors": ["Hi"],
 			 "descriptionAbbrev": "The Underdog has a stainless steel heating core. Air is drawn into the Underdog, around the heating core, and up through the herbs in the stem. You should use a voltage regulator is you would like control over a wide range of temperatures.",
 			 "VImageUrl": "images/vapes/Underdog-001-225x300.png",
 			}
@@ -1594,42 +1594,42 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "Although there is no actual temperature setting on the Hot Box, you can control the relative temperature by changing your draw rate and length. With a little practice, ths shoudl allow you to enjoy low, medium or high temperature effects. To enjoy low temp effects and flavors, begin your draw as the device heats up from it's off state at the beginning of your session.",
+				 		"tipTxt": "Before using the Hot Box, if it is your first time using it, plug it in and let the vape heat up and stay heated for at least 15 minutes and then turn it off and let it cool down. Doing this will burn off any packing oils the manufacturer may have used when originally packing and shipping the vaporizer.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
+				 		"tipTxt": "Although there is no actual temperature setting on the Hot Box, you can control the relative temperature by changing your draw rate and length. With a little practice, ths shoudl allow you to enjoy low, medium or high temperature effects. To enjoy low temp effects and flavors, begin your draw as the device heats up from it's off state at the beginning of your session.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "While the Hot Box is heating up it actually can heat a little faster if you tip it on it's back, so the heating element is pointing straight up at the ceiling. Also while the Hot Box is heating up leave the vapor whip on the heating element, but do so with the whip not packed. This also helps the unit heat up faster.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "While using the Hot Box if you feel like your vapor is too thick or too thin and you can't adjust the temperature to fix this you can actually adjust vapor thickness by how fast or slow you pull from the whip. Pulling faster will give you larger pulls and pulling slower will be a thinner but cooler vapor.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After you are done using the Hot Box you want to let it cool down to room temperature before you put it away. To speed this process up it is best to remove the vapor whip from the heating element if you haven't already.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": " Like most vapor whips you can clean the Hot Box's whip by running hot or boiling water through it, but an additional trick is to straighten out a coat hanger and use it to scrape the inside of the whip to get any build up that the water misses. Doing this often will prevent any huge build up and keep each session with the Hot Box an enjoyable one.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "While holding the bowl end of the vapor whip to the Hot Box's heating element and drawing from the whip it is a good idea to rotate the bowl slowly around the heating element. When done correctly this can vaporize your material more evenly and give you a more consistent vapor.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	},
 				 	{ 
@@ -1665,37 +1665,37 @@
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The new Version allows to use the whip mode without the fan is running.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Increase the fan speed up to about the medium speed or so and you'll see that this helps you get a little more vapor, it's sort of like a stronger draw. So when you're using it yourself you can obviously experiment and see what fan speed you like to use best.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Multi-User Adapter allows vaporization with up to FOUR people at once.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The large chamber keeps it going along time with out having to stop to refill, but usually only one is needed.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It does do concentrates, and nicely also, using the concentrate can.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you are using the bag system, make sure the ball-cock valve is open. It has a shut-off to prevent vapor loss. The valve is metal and if I am not mistaken, it has a sensor that can stop the unit if it gets hot and the valve is closed.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If your herb isn't completely dry, it can take up to 5 minutes to get thick vapor.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	},
 				 	{ 
@@ -1854,16 +1854,16 @@
 			},
 			{
 				"VTipId": 23,
-				"VName": "Phantom",
+				"VName": "Phantom Premium",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "Without combustion none of the associated noxious gasses such as CO and CO2 are created. Vaporization releases the active ingredients of organic matter without combustion.",
+				 		"tipTxt": "Three clicks turns it on and off, and a steady green light lets you know it’s ready. Hold it down to reach the next temperature level, then again for the highest temperature. ",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": " Apply 3-5 drops of essential oil to the aromapad by tapping your finger on the back of the bottle. Add a few extra drops for larger rooms.",
+				 		"tipTxt": "With regular cleaning you shouldn't experience any clogging whatsoever, and the mouth piece locks in place perfectly.",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
@@ -1873,22 +1873,22 @@
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Without combustion none of the associated noxious gasses such as CO and CO2 are created. Vaporization releases the active ingredients of organic matter without combustion.",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": " Extra flashing means your atomizer is empty or you need to push the atomizer into the battery better.",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Weak clouds or flashing red? Time to charge.",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Rubbing alcohol will clean the mouthpiece and the atomizer.",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
@@ -4940,6 +4940,12 @@
 			 	"strainName": "Wappa",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/wappa_100x100.jpg"
+			 	
+			},
+			{"strainId": 291,
+			 	"strainName": "Kilimanjaro",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/kilimanjaro_100x100.jpg"
 			 	
 			}
 
@@ -38122,6 +38128,120 @@
 			 "descriptionAbbrev": "Delivers happy, uplifting effects alongside an intense fruity flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/wappa_100x100.jpg"
+			},
+			{"strainId": 291,
+			 "strainName": "Kilimanjaro",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Citrus", "Lemon"],
+		 	 "conditions": ["Depression", "Anxiety", "Nausea", "Appetite Loss", "Pain"],
+			 "positiveEffects": ["Euphoric", "Potent", "Energetic", "Creative", "Focused", "Pain relief"],
+			 "negativeEffects": ["Paranoid"],
+			 "descriptionDetailed": "A Sativa that hits hard with a THC count of up to 18%, it can provide a very intense psychedelic cerebral high that may be overwhelming to some.",
+			 "descriptionAbbrev": "A Sativa that hits hard with a THC count of up to 18%, it can provide a very intense psychedelic cerebral high that may be overwhelming to some.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/kilimanjaro_100x100.jpg"
 			}
 
 		];
@@ -38554,7 +38674,7 @@
 			 "tempC": "52",
 			 "descriptionDetailed": "Cannabigerol is non psychoactive, and has been shown to stimulate the growth of new brain cells, including in the elderly; it should be noted that genuinely neurogenic compounds are extremely rare. CBG also stimulates bone growth, is antibacterial and anti-tumor, and combats insomnia.",
 			 "descriptionAbbrev":  "Cannabigerol is non psychoactive, and has been shown to stimulate the growth of new brain cells.",
-			 "tags": ["Phytocannabinoid", "Cannabinoid", "Antiemetic", "Antibacterial", "Anti-tumor", "Sedative",   ],
+			 "tags": ["Phytocannabinoid", "Cannabinoid", "Antiemetic", "Antibacterial", "Anti-tumor", "Sedative"],
 			 "imageUrl": "images/220px-Cannabigerol-skeletal.svg.png"
 			},
 			{"productId": 7,
