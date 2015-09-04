@@ -118,7 +118,7 @@ html, body {
 }
 
 #mainView .panel-heading {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -132,7 +132,7 @@ html, body {
 
 
 #mainView .panel-footer {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	margin-left: 15px;
@@ -212,7 +212,7 @@ html, body {
 }
 
 #easyView .panel {
-	background-color:rgba(1,43,2,0.8);
+	background-color:rgba(1,43,2,0.2);
 	padding: 5px;
 	margin-bottom: 5px;
 	color: white;
@@ -230,7 +230,7 @@ html, body {
 }
 
 #easyView .panel-heading {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	width: 100;
 	margin-left: 10px;
@@ -241,7 +241,7 @@ html, body {
 }
 
 #easyView .panel-footer {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	width: 100;
@@ -434,7 +434,7 @@ html, body {
 }
 
 #recView .panel {
-	background-color:rgba(1,43,2,0.8);
+	background-color:rgba(1,43,2,0.2);
 	padding: 5px;
 	margin-bottom: 5px;
 	color: white;
@@ -452,7 +452,7 @@ html, body {
 }
 
 #recView .panel-heading {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	width: 100;
 	margin-left: 10px;
@@ -463,7 +463,7 @@ html, body {
 }
 
 #recView .panel-footer {
-	background-color: rgba(1,43,2,0.8);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	width: 100;
@@ -689,7 +689,7 @@ html, body {
 	background-size: cover;
 }
 #recView .tips .panel-body div{
-	background-color: rgba(1,40,2,0.5);
+	background-color: rgba(1,43,2,0.5);
 	background-size: cover;
 	/**background-color: rgba(255, 153, 204, .8);**/
 	padding-top: 20px;
