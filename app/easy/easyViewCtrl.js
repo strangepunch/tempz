@@ -701,7 +701,7 @@
     			case 'Q1':
     				//console.log("Q1 A");
 					vm.showQ1 = !vm.showQ1;
-					vm.alert = {"color":"white"};
+					vm.alert = "";
 					vm.alertMsg = "";
 					break;
 				case 'Q2':

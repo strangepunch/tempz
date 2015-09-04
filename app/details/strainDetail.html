@@ -220,7 +220,7 @@
 					 		<div class="btn" ng-click="searchVape('Pen')"> Pen </div> 
 					 	</div>
 					 	<ul class="col-xs-11" ng-repeat = "vape in vm.vapeComb|orderBy:'name'|filter:vm.searchAll:strict">
-							<li><div ng-click="selectVape(vape.name)"><img src="{{vape.image}}">{{vape.name}}</div></li>
+							<li><div ng-click="selectVape(vape.name)"><img ng-src="{{vape.image}}">{{vape.name}}</div></li>
 						</ul>
 				 	</div>
 				</div>
@@ -250,7 +250,7 @@
 						<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
 					</div>
 					<div class="col-xs-12 vapeDetail" ng-repeat="tempList in vm.TempList|orderBy:'-temp'">
-						<img src="images/Rec/{{tempList.image}}.png">
+						<img ng-src="images/Rec/{{tempList.image}}.png">
 						{{tempList.temp}}
 					</div>
 				</div>

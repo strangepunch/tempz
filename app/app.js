@@ -8,6 +8,7 @@
 							 "ui.slider",
 							 "ui.unique",
 							 "ngProgress",
+							 "ngCookies",
 							 "productResourceMock"]);
 	//error handling
 	app.config(function($provide){

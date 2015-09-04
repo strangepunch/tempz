@@ -40,6 +40,7 @@
         <script src="js/ui-bootstrap-tpls-0.12.0.min.js"></script>
         <script src="js/toastr.js"></script>
         <script src="js/slider.js"></script>
+        <script src="js/angular-cookies.js"></script>
 
         <!--progress bar js-->
         <script src="js/ngProgress.js"></script>
@@ -69,6 +70,9 @@
       <script src="app/easy/easyViewCtrl.js"></script>
       <script src="app/rec/recViewCtrl.js"></script>
       <script src="app/details/strainDetailCtrl.js"></script>
+
+      <!-- Theme Controllers-->
+      <script src="app/themes/themeListCtrl.js"></script>
       <!--
       <script src="app/temps/tempsViewCtrl.js"></script>
       <script src="app/effects/effectsViewCtrl.js"></script>
@@ -82,7 +86,9 @@
       <script src="common/directives/loading.js"></script>
     
     </head>
-    <body ng-app = "productManagement">
+    <body ng-app = "productManagement" ng-controller="ThemeListCtrl as vm">
+      <!--Mess with style -->
+      <link ng-href="{{favoriteTheme}}" rel="stylesheet">
         <div class="snap-drawers">
             <div class="snap-drawer snap-drawer-left">
                 <div>
@@ -94,18 +100,11 @@
                     <ul>
                         <li><a ui-sref="easy">Med Mode</a></li>
                          <li><a ui-sref="rec">Rec Mode</a></li>
-                        <!--<li><a ui-sref="main.temps">Advance Mode</a></li>-->
-                        <!--<li><a ui-sref="tipsView">Vaporizers</a></li>-->
-                        <!--
-                        <li><a ui-sref="conditions">Condition</a></li>
-                        <li><a ui-sref="effects">Effect</a></li>
-                        <li><a ui-sref="strains">Strain</a></li>
-                        -->
                     </ul>
                     <h4>Themes</h4>
                     <ul>
-                      <li><a ui-sref="theme">Day</a></li>
-                      <li><a ui-sref="theme">Night</a></li>
+                      <li><a ng-click="selectTheme('Day')">Day</a></li>
+                      <li><a ng-click="selectTheme('Night')">Night</a></li>
                     </ul>
                     <div>
                         <p><a ui-sref="home">Legal disclaimer</a></p>
