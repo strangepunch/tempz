@@ -670,7 +670,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "By filling a bullet half way with one strain and the rest of the way with a differetn strain you can get eh benefits of both using the temperatures listed here for both flavor and effect.",
+				 		"tipTxt": "By filling a bullet half way with one strain and the rest of the way with a different strain you can get the benefits of both using the temperatures listed here for both flavor and effect.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
@@ -695,12 +695,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "Having a container close by for your ABV can help prevent you from getting burned when you complete your session. Just remove the mouthpiece and turn the unit over above the ABV container. The hot bullet should fall into the container and you can now just drop a cool bullet into the Pinnacle and continue vaping.",
+				 		"tipTxt": "Having a container close by for your ABV can help prevent you from getting burned when you complete your session. Just remove the mouthpiece and turn the unit over above the ABV container. The hot bullet should fall into the container and you can now drop a fresh bullet into the Pinnacle and continue vaping.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "If you prefer concentrates some Pinnacle owners have found that placing the wax, hash or oil in a bed of herb can be a pleasant combination. Of course, higher temperatures will be needed to get the most from your concentrates.",
+				 		"tipTxt": "If you prefer concentrates some Pinnacle owners have found that placing the wax, hash or oil in a bed of herb can be a nice combination. Higher temperatures will be needed to get the most from your concentrates.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
@@ -710,7 +710,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "Letting your ground herb dry a bit before using it in the Air will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
+				 		"tipTxt": "Letting your ground herb dry a bit before using it in the pinnacle will increase the efficiency of vaporization. If clouds are what you seek, this is the way to get them.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
@@ -720,12 +720,12 @@
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "When cleaning your Mouthpieces, try not to leave it in isopropyl alcohol for more than 1-3 minutes at a time. Then rinse with water and allow to dry. This will keep the plastic in good condition over time.",
+				 		"tipTxt": "When cleaning your mouthpiece, try not to leave it in isopropyl alcohol for more than 1-3 minutes at a time. Then rinse with water and allow to dry. This will keep the plastic in good condition over time.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "Many PNP owners have found that using the pong mouthpiece gives more satisfying results.",
+				 		"tipTxt": "Many PNP owners have found that using the glass lined pong mouthpiece gives more satisfying results.",
 				 		"TipImg" : "images/vapes/pinnaclepro1.png"
 				 	}
 			 	]	
