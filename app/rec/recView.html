@@ -109,8 +109,7 @@
 					<div ng-if = "vm.showQ2">
 						<div class = "row row-padding">
 					 		<div class="btn" ng-click="searchEffect('All')"> All </div>
-					 		<div class="btn" ng-style="vm.postiveStyle" ng-click="searchEffect('Positive')"> Positive </div>   
-					 		<!--<div class="btn" ng-click="searchEffect('Negative')"> Negative </div>-->  
+					 		<div class="btn" ng-style="vm.postiveStyle" ng-click="searchEffect('Positive')"> Positive </div>    
 					 	</div>
 					    <ul class="col-xs-11" ng-repeat = "effectList in vm.recEffectList|orderBy:'recEffectName'|filter:vm.searchAll:strict">
 							<li><div ng-click="selectEffect(effectList.recEffectName)"><img ng-src="images/Rec/{{effectList.imageUrl}}"> {{effectList.recEffectName}}</div></li>
@@ -176,8 +175,6 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12"> Suggested for {{vm.selectedTaste}} taste: </div>
-					<!--<div class="col-xs-6"> {{vm.selectedTaste}} </div>-->
-					<!--<loading></loading>-->
 				</div>
 			</div> 
 		</div>
@@ -228,8 +225,6 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12"> Suggested for {{vm.selectedEffect}} effect: </div>
-					<!--<div class="col-xs-6"> {{vm.selectedEffect}} </div>-->
-					<!--<loading></loading>-->
 				</div>
 			</div> 
 		</div>
@@ -276,17 +271,6 @@
 
 	<!--Strain-->
 	<div ng-show = "showAnswer3">
-		<!--
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-body">
-					<div class="col-xs-12"> Your strain selection: </div>
-					<div class="col-xs-6"> {{vm.selectedStrain}} </div>
-				</div>
-			</div> 
-		</div>
-		-->
-		<!--<loading></loading>-->
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">

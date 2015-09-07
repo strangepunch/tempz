@@ -49,26 +49,7 @@
 		</div>
 	</div>
 	<!--the temperature display end-->
-	<!--
-	<div ng-if="vm.Description">
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-heading">Abbrev:</div>
-				<div class="panel-body">
-					<div class="col-xs-12"> {{vm.currentStrain.descriptionAbbrev}} </div>
-				</div>
-			</div> 
-		</div>
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-heading">Detailed:</div>
-				<div class="panel-body">
-					<div class="col-xs-12"> {{vm.currentStrain.descriptionDetailed}} </div>
-				</div>
-			</div> 
-		</div>
-	</div>
-	-->
+	
 	<!--Effect Positive-->
 	<div ng-if="vm.Positive">
 		<div class = "panel">
@@ -220,7 +201,7 @@
 					 		<div class="btn" ng-click="searchVape('Pen')"> Pen </div> 
 					 	</div>
 					 	<ul class="col-xs-11" ng-repeat = "vape in vm.vapeComb|orderBy:'name'|filter:vm.searchAll:strict">
-							<li><div ng-click="selectVape(vape.name)"><img src="{{vape.image}}">{{vape.name}}</div></li>
+							<li><div ng-click="selectVape(vape.name)"><img ng-src="{{vape.image}}">{{vape.name}}</div></li>
 						</ul>
 				 	</div>
 				</div>
@@ -250,7 +231,7 @@
 						<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
 					</div>
 					<div class="col-xs-12 vapeDetail" ng-repeat="tempList in vm.TempList|orderBy:'-temp'">
-						<img src="images/Rec/{{tempList.image}}.png">
+						<img ng-src="images/Rec/{{tempList.image}}.png">
 						{{tempList.temp}}
 					</div>
 				</div>
@@ -260,7 +241,12 @@
 
 	<!--back-->
 	<div class="row">
-		<div class="col-xs-6" ng-if="!vm.inVape">
+		<div ng-show="vm.fromMed" class="col-xs-6" ng-if="!vm.inVape">
+			<div class = "panel panel-buttons">
+				<div class="btn" ui-sref="easy"> Clear </div>
+			</div>
+		</div>
+		<div ng-show="vm.fromRec" class="col-xs-6" ng-if="!vm.inVape">
 			<div class = "panel panel-buttons">
 				<div class="btn" ui-sref="rec"> Clear </div>
 			</div>

@@ -1,3 +1,16 @@
+/* Show the "Drag" background in the demo */
+#content {
+	background: -webkit-linear-gradient(bottom right, #020702 , black); /*Safari 5.1-6*/
+    background: -o-linear-gradient(bottom right, #020702 , black); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #020702 , black); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #020702 , black); /* Standard syntax */
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
 html, body {
    	width: auto !important;
    	height: 100%;
@@ -105,7 +118,7 @@ html, body {
 }
 
 #mainView .panel-heading {
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -119,7 +132,7 @@ html, body {
 
 
 #mainView .panel-footer {
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	margin-left: 15px;
@@ -199,7 +212,7 @@ html, body {
 }
 
 #easyView .panel {
-	background-color:rgba(0,0,0,0.2);
+	background-color:rgba(1,43,2,0.2);
 	padding: 5px;
 	margin-bottom: 5px;
 	color: white;
@@ -217,7 +230,7 @@ html, body {
 }
 
 #easyView .panel-heading {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	width: 100;
 	margin-left: 10px;
@@ -228,7 +241,7 @@ html, body {
 }
 
 #easyView .panel-footer {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	width: 100;
@@ -278,7 +291,7 @@ html, body {
 #easyView .tCircle {
 	border-style: solid;
 	border-color: white;
-	background-color:rgba(0,0,0,0.2);
+	background-color:rgba(1,43,2,0.8);
     border-width: 5px;
     border-radius: 50%;
 	padding: 20px;
@@ -421,7 +434,7 @@ html, body {
 }
 
 #recView .panel {
-	background-color:rgba(0,0,0,0.2);
+	background-color:rgba(1,43,2,0.2);
 	padding: 5px;
 	margin-bottom: 5px;
 	color: white;
@@ -439,7 +452,7 @@ html, body {
 }
 
 #recView .panel-heading {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(1,43,2,0.2);
 	color: white;
 	width: 100;
 	margin-left: 10px;
@@ -450,7 +463,7 @@ html, body {
 }
 
 #recView .panel-footer {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(1,43,2,0.2);
 	border-style: none;
 	color: white;
 	width: 100;
@@ -508,7 +521,7 @@ html, body {
 #recView .tCircle {
 	border-style: solid;
 	border-color: white;
-	background-color:rgba(0,0,0,0.2);
+	background-color:rgba(1,43,2,0.8);
     border-width: 5px;
     border-radius: 50%;
 	padding: 20px;
@@ -676,8 +689,9 @@ html, body {
 	background-size: cover;
 }
 #recView .tips .panel-body div{
-	background-color: rgba(1,40,2,0.5);
+	background-color: rgba(1,43,2,0.5);
 	background-size: cover;
+	/**background-color: rgba(255, 153, 204, .8);**/
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-right: -35px;
@@ -699,7 +713,7 @@ html, body {
 	color: black;
 }
 #recView .compCircle hh{
-	font-size: 1.4em;
+	font-size: 1.6em;
 }
 
 /*----------------------------------**/

@@ -4,6 +4,7 @@
       .module("productManagement")
       .controller("StrainDetailCtrl",
             ["$scope",
+             "$cookies",
              "strain",
              "detailModeResource",
              "tasteResource", 
@@ -13,15 +14,29 @@
              "vTipResource",
               StrainDetailCtrl]);
   
-  function StrainDetailCtrl($scope,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource,vTipResource){
+  function StrainDetailCtrl($scope,$cookies,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource,vTipResource){
     var vm = this;
-
+    
     //strain that is passed over
     vm.currentStrain = strain;
 
     //set the ng-style of the mode selection
-    vm.styleMed={"color":"white","font-size": "0.8em"};
-    vm.styleRec={"color":"Red","font-size": "1.1em"};
+    //console.log("$cookies.whereAmIFrom", $cookies.whereAmIFrom);
+    vm.fromMed = false;
+    vm.fromRec = false;
+    vm.styleMed={"font-size": "0.8em"};
+    vm.styleRec={"color":"Red", "font-size": "1.1em"};
+    if($cookies.whereAmIFrom === "Med"){
+      vm.fromMed = true;
+      vm.fromRec = false;
+      vm.styleMed={"color":"Red", "font-size": "1.1em"};
+      vm.styleRec={"font-size": "0.8em"};
+    }else if($cookies.whereAmIFrom === "Rec"){
+      vm.fromMed = false;
+      vm.fromRec = true;
+      vm.styleMed={"font-size": "0.8em"};
+      vm.styleRec={"color":"Red","font-size": "1.1em"};
+    }
 
     //initiate center image for first time entry
     vm.centerImage = strain.imageUrl;
@@ -58,7 +73,6 @@
       vm.Modes = data;
       vm.ModeA = [data[0],data[1],data[2]];
       vm.ModeB = [data[3],data[4],data[5]];
-      //vm.currentMode = vm.Modes[0]; //initiate mode
     });
 
     $scope.whereFrom = function(name){
