@@ -14,10 +14,12 @@
 
       $scope.selectTheme = function(item){
         console.log("item", item);
-        if(item === 'Night'){
-          $scope.permTheme = "css/app.css";
+        if(item === 'Beach'){
+          $scope.permTheme = "css/beachTheme.css";
+        }else if(item === 'Movie'){
+          $scope.permTheme = "css/movieTheme.css";
         }else{
-          $scope.permTheme = "css/dayTheme.css";
+          $scope.permTheme = "css/app.css";
         }
 
         $cookies.myTheme = $scope.permTheme;
@@ -26,8 +28,8 @@
 
       
 
-      console.log("$cookies.myTheme",$cookies.myTheme);
-      console.log(" $scope.favoriteTheme", $scope.favoriteTheme);
+      //console.log("$cookies.myTheme",$cookies.myTheme);
+      //console.log(" $scope.favoriteTheme", $scope.favoriteTheme);
      
   }
 	 

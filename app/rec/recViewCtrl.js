@@ -3,6 +3,7 @@
 			.module("productManagement")
 			.controller("RecViewCtrl",
 						["$scope",
+						 "$cookies",
 						 "modeResource",
 						 "tasteResource",
 						 "recEffectResource",
@@ -12,11 +13,11 @@
 						 "ngProgress",
 							RecViewCtrl]);
 	
-	function RecViewCtrl($scope, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
+	function RecViewCtrl($scope, $cookies, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
 		var vm = this;
-
+		$cookies.whereAmIFrom = "Rec";
 		//set the ng-style of the mode selection
-		vm.styleMed={"color":"white","font-size": "0.8em"};
+		vm.styleMed={"font-size": "0.8em"};
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
 
 		//initiate center image for first time entry
@@ -190,7 +191,7 @@
     	 			recEffectResource.query(function(data){
 						vm.recEffectList = data;
 					});
-					vm.postiveStyle = {"color":"white"};
+					vm.postiveStyle = "";
 					break;	
     	 		case 'Positive':
     	 			vm.searchAll = "";
@@ -560,19 +561,19 @@
     			case 'Q1':
     				//console.log("Q1");
 					vm.showQ1 = !vm.showQ1;
-					vm.alert = {"color":"white"};
+					vm.alert = "";
 					vm.alertMsg = "";
 					break;
 				case 'Q2':
 					//console.log("Q2");
 					vm.showQ2 = !vm.showQ2;
-					vm.alert = {"color":"white"};
+					vm.alert = "";
 					vm.alertMsg = "";
 					break;
 				case 'Q3':
 					//console.log("Q2");
 					vm.showQ3 = !vm.showQ3;
-					vm.alert = {"color":"white"};
+					vm.alert = "";
 					vm.alertMsg = "";
 					break;
     		}

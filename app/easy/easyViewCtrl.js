@@ -3,6 +3,7 @@
 			.module("productManagement")
 			.controller("EasyViewCtrl",
 						["$scope",
+						 "$cookies",
 						 "tempResource",
 						 "strainNamesResource",
 						 "productResource",
@@ -11,8 +12,9 @@
 						 "ngProgress",
 							EasyViewCtrl]);
 	
-	function EasyViewCtrl($scope, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
+	function EasyViewCtrl($scope, $cookies, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
+		$cookies.whereAmIFrom = "Med";
 		vm.userTempArrayU = [];
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
@@ -22,11 +24,11 @@
 		vm.tempDisplay = 126;
 		//set the ng-style of the temperature selection
 		vm.styleF={"color":"Red","font-size": "1.2em"};
-		vm.styleC={"color":"white","font-size": "0.8em"};
+		vm.styleC={"font-size": "0.8em"};
 
 		//set the ng-style of the mode selection
 		vm.styleMed={"color":"Red","font-size": "1.1em"};
-		vm.styleRec={"color":"white","font-size": "0.8em"};
+		vm.styleRec={"font-size": "0.8em"};
 
 		//Storage space for goEasy seach
 		vm.userSelect = [{"condName":"", "strnName":""}];
@@ -54,7 +56,7 @@
 		$scope.selectTemp = function(name){
 			vm.currentTemp = name;
 			if(name === 'C'){
-				vm.styleF={"color":"white","font-size": "0.8em"};
+				vm.styleF={"font-size": "0.8em"};
 				vm.styleC={"color":"Red","font-size": "1.2em"};
 				vm.Temps = vm.TempsC;
 
@@ -69,7 +71,7 @@
 			
 			}else if(name === 'F'){
 				vm.styleF={"color":"Red","font-size": "1.2em"};
-				vm.styleC={"color":"white","font-size": "0.8em"};
+				vm.styleC={"font-size": "0.8em"};
 				vm.Temps = vm.TempsF;
 
 				var t = vm.tempDisplay;
@@ -509,7 +511,11 @@
 
     	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
-    		vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		if($cookies.myTheme === "css/beachTheme.css"){
+    			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+    		}else{
+    			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		}
     		
     		if(vm.currentTemp === 'F'){
 	    		for(var i=0; i<vm.userTempArrayU.length; i++){
@@ -538,7 +544,11 @@
 
     	//highlight the treated condition
     	$scope.thisCond = function(cond){
-    		vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		if($cookies.myTheme === "css/beachTheme.css"){
+    			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+    		}else{
+    			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+    		}
     		
 			for(var i=0; i<vm.effectsEnglish.length; i++){
 				if(cond === vm.effectsEnglish[i]){
@@ -571,26 +581,26 @@
 	    			if(vm.currentSelectEffNum === dex){
 	    				return {"color":"Red","font-size": "1.1em"};
 	    			}else{
-	    				return {"color":"white","font-size": "1.1em"};
+	    				return {"font-size": "1.1em"};
 	    			}
 	    			break;
     			case 1:
 	    			if(vm.currentSelectEffNum === dex){
 	    				return {"color":"Red","font-size": "1.1em"};
 	    			}else{
-	    				return {"color":"white","font-size": "1.1em"};;
+	    				return {"font-size": "1.1em"};;
 	    			}
 	    			break;
     			case 2:
 	    			if(vm.currentSelectEffNum === dex){
 	    				return  {"color":"Red","font-size": "1.1em"};
 	    			}else{
-	    				return  {"color":"white","font-size": "1.1em"};
+	    				return  {"font-size": "1.1em"};
 	    			}
 	    			break;
 	    		default:
 	    			vm.currentSelectEffNum = 0;
-	    			return  {"color":"white","font-size": "1.1em"};
+	    			return  {"font-size": "1.1em"};
 	    			break;
     		}
     	}

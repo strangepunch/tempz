@@ -49,26 +49,7 @@
 		</div>
 	</div>
 	<!--the temperature display end-->
-	<!--
-	<div ng-if="vm.Description">
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-heading">Abbrev:</div>
-				<div class="panel-body">
-					<div class="col-xs-12"> {{vm.currentStrain.descriptionAbbrev}} </div>
-				</div>
-			</div> 
-		</div>
-		<div class = "panel">
-			<div class="row">
-				<div class="panel-heading">Detailed:</div>
-				<div class="panel-body">
-					<div class="col-xs-12"> {{vm.currentStrain.descriptionDetailed}} </div>
-				</div>
-			</div> 
-		</div>
-	</div>
-	-->
+	
 	<!--Effect Positive-->
 	<div ng-if="vm.Positive">
 		<div class = "panel">
@@ -260,7 +241,12 @@
 
 	<!--back-->
 	<div class="row">
-		<div class="col-xs-6" ng-if="!vm.inVape">
+		<div ng-show="vm.fromMed" class="col-xs-6" ng-if="!vm.inVape">
+			<div class = "panel panel-buttons">
+				<div class="btn" ui-sref="easy"> Clear </div>
+			</div>
+		</div>
+		<div ng-show="vm.fromRec" class="col-xs-6" ng-if="!vm.inVape">
 			<div class = "panel panel-buttons">
 				<div class="btn" ui-sref="rec"> Clear </div>
 			</div>
