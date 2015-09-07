@@ -100,9 +100,9 @@ Rare Dankness
 	Barbara Bud
 	Wappa
 	Kilimanjaro
-Jamaican
-White Elephant
-Medbud
+	Jamaican
+	White Elephant
+	Medbud
 Dream Berry
 Beladonna
 Jacky White

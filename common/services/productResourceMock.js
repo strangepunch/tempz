@@ -4947,6 +4947,36 @@
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/kilimanjaro_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 292,
+			 	"strainName": "Mendo Purps",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/mendocino-purps_100x100.jpg"
+			 	
+			},
+			{"strainId": 293,
+			 	"strainName": "White Skunk",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/white-skunk.jpg"
+			 	
+			},
+			{"strainId": 294,
+			 	"strainName": "Jamaican",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/jamaican_100x100.jpg"
+			 	
+			},
+			{"strainId": 295,
+			 	"strainName": "White Elephant",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/white-elephant_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 296,
+			 	"strainName": "Medibud",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/medibud_100x100.jpg"
+			 	
 			}
 
 		]; 
@@ -38242,7 +38272,579 @@
 			 "descriptionAbbrev": "A Sativa that hits hard with a THC count of up to 18%, it can provide a very intense psychedelic cerebral high that may be overwhelming to some.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kilimanjaro_100x100.jpg"
+			},
+			{"strainId": 292,
+			 "strainName": "Mendo Purps",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 13.41
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.04	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.50
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Woody", "Sweet", "Pine"],
+		 	 "conditions": ["Pain", "Stress", "Depression", "Muscle Spasms", "Anxiety", "Insomnia", "Appetite Loss", "Nausea"],
+			 "positiveEffects": ["Happy", "Long Lasting", "Potent", "Relaxed", "Mellow", "Euphoric", "Hungry", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Munchies",  "Headache",  "Dizzy", "Paranoid", "Drowsiness"],
+			 "descriptionDetailed": "This strain is fantastic for groups or if you just need a pick me up. The Purps is a great heady heavy hitter that will leave amateur smokers wonder why they've been staring at the wall for an hour.",
+			 "descriptionAbbrev": "This strain is fantastic for groups or if you just need a pick me up. The Purps is a great heady heavy hitter that will leave amateur smokers wonder why they've been staring at the wall for an hour.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/mendocino-purps_100x100.jpg"
+			},
+			{"strainId": 293,
+			 "strainName": "White Skunk",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.95
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.63	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.72
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.72
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.39
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Skunk", "Sour"],
+		 	 "conditions": ["Pain", "Headache", "Nausea", "Insomnia", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Balanced", "Mind + Body", "Relaxed"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "White Skunk delivers a sour, skunky flavor and a balance of effects that ease both mind and body into a relaxed state.",
+			 "descriptionAbbrev": "White Skunk delivers a sour, skunky flavor and a balance of effects that ease both mind and body into a relaxed state.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/white-skunk.jpg"
+			},
+			{"strainId": 294,
+			 "strainName": "Jamaican",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 10.53
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.72	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Spicy", "Fruity"],
+		 	 "conditions": ["Depression", "Anxiety", "Fibromyalgia"],
+			 "positiveEffects": ["Creative", "Happy", "Energetic", "Long Lasting", "Relaxed", "Sexual"],
+			 "negativeEffects": ["Dry Eyes", "Paranoid"],
+			 "descriptionDetailed": "Jamaica produces some of the most potent and flavorful outdoor bud in the world",
+			 "descriptionAbbrev": "Jamaica produces some of the most potent and flavorful outdoor bud in the world",
+			 "tags": [""],
+			 "imageUrl": "images/strains/jamaican_100x100.jpg"
+			},
+			{"strainId": 295,
+			 "strainName": "White Elephant",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.12
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.36	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.01 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.15
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.340
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Flowery", "Berry", "Earthy"],
+		 	 "conditions": ["Stress", "Depression", "Fibromyalgia"],
+			 "positiveEffects": ["Energetic", "Uplifted", "Happy", "Relaxed"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth"],
+			 "descriptionDetailed": "The relaxing yet energetic and uplifting effects combine with grape and berry flavors to give enjoyable relief to symptoms like stress and depression.",
+			 "descriptionAbbrev": "The relaxing yet energetic and uplifting effects combine with grape and berry flavors to give enjoyable relief to symptoms like stress and depression.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/white-elephant_100x100.jpg"
+			},
+			{"strainId": 296,
+			 "strainName": "Medibud",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.51
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Berry", "Chestnut"],
+		 	 "conditions": ["Fibromyalgia", "Arthritis", "Pain", "Chronic Pain", "PMS", "Insomnia", "Migraines"],
+			 "positiveEffects": ["Pain relief", "Energetic", "Tingly", "Euphoric", "Productive", "Happy", "Apathy", "Calmness"],
+			 "negativeEffects": ["Calmness"],
+			 "descriptionDetailed": "Typically, you can expect high-energy euphoria and heightened sensory awareness from Medibud, but its indica-leaning phenotypes may induce heavier, more relaxing effects.",
+			 "descriptionAbbrev": "Typically, you can expect high-energy euphoria and heightened sensory awareness from Medibud, but its indica-leaning phenotypes may induce heavier, more relaxing effects.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/medibud_100x100.jpg"
 			}
+
+
 
 		];
 		
@@ -38665,7 +39267,7 @@
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
-			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic"],
+			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic", "Antileishmanial"],
 			 "lowTemp": 0,
 			 "highTemp": 126,
 			 "lowTempC": 0,
@@ -39092,7 +39694,7 @@
 			 "effectName": "AChE inhibitor", //compName
 			 "conditionsTreated": ["Glaucoma", "Postural Tachycardia Syndrome", "Anticholinergic Poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons disease", "Schizophrenia", "Autism"],
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
-			 "descriptionAbbrev":  "Treat Glaucoma and Alzheimers",
+			 "descriptionAbbrev":  "Increase neuromuscular transmission",
 			 "tags": ["AChE inhibitor", "AChE", "glaucoma", "tachycardia", "anticholinergic poisoning", "Alzheimers", "Apathy", "Dementia", "Parkinsons", "schizophrenia", "autism"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
@@ -39210,7 +39812,7 @@
 			}, 
 			{"effectId": 39,
 			 "effectName": "Antileishmanial", //compName
-			 "conditionsTreated": ["leishmaniasis", "tropical leishmaniasis"],
+			 "conditionsTreated": ["Leishmaniasis", "Tropical Leishmaniasis"],
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
 			 "descriptionAbbrev":  "Treat sand flea infection",
 			 "tags": ["Antileishmanial", "Sand flea Bites", "Tropical disease"],
