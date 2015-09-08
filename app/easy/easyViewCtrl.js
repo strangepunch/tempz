@@ -519,7 +519,7 @@
 	          case "css/movieTheme.css":
 	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
 	              break;
-	          case "css/tanTheme.css":
+	          case "css/khakiTheme.css":
 	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
 	              break;
 	          case "css/app.css":
@@ -569,7 +569,7 @@
 	          case "css/movieTheme.css":
 	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
 	              break;
-	          case "css/tanTheme.css":
+	          case "css/khakiTheme.css":
 	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
 	              break;
 	          case "css/app.css":
