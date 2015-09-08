@@ -279,14 +279,6 @@ html, body {
 #easyView img{
 	width: 35px;
 }
-/**
-#radios{
-	display:block;
-	padding: 0px;
-	margin: 0px;
-	padding-right: 0px;
-}
-**/
 
 #easyView .tCircle {
 	border-style: solid;
@@ -313,7 +305,6 @@ html, body {
 	text-align: center;
     margin-left: auto;
     margin-right: auto;
-    /*background-color: #b0e0e6;*/
 }
 
 #easyView .imgStrains img {
@@ -323,34 +314,11 @@ html, body {
 	height: 50px;
 }
 
-/**#easyView .imgStrains a img {
-	vertical-align: center;
-}**/
-
 #easyView .imgStrains h6 {
 	text-align: left;
 	padding-left: 0px;
 }
-#easyView .pushDown{
-	padding-top: 10px;
-}
-#easyView .tCircle2 {
-	border-style: solid;
-	border-color: white;
-	background-color:rgba(0,0,0,0.2);
-    border-width: 2px;
-    border-radius: 50%;
-	padding: 20px;
-	width: 60px;
-	height: 65px;
-	font-size: 1em;
-	text-align: center;
-	vertical-align: center;
-	color: white;
-	padding: 0px;
-	padding-top: 20px;
-	background-repeat: no-repeat;
-}
+
 #easyView .active{
 	width: 0; 
 	height: 0; 
@@ -361,7 +329,6 @@ html, body {
 	margin-top: 10px;
 	float:right;
 }
-
 #easyView .active2{
 	width: 0; 
 	height: 0; 
@@ -394,21 +361,6 @@ html, body {
   	color:#009900;
 }
 
-#easyView .dropdown .btn-default{
-	border-style: none;
-	background-color: transparent;
-	color:white;
-	outline:none;
-	box-shadow: none;
-}
-#easyView .dropdown .btn-default:hover {
-  	color:#009900;
-}
-
-#easyView .dropdown ul li a{
-	color:black;
-}
-
 #easyView .panel-buttons{
 	width: 45%;
 	text-align: center;
@@ -420,11 +372,6 @@ html, body {
 	color: white;
 } 
 
-#easyView .collapse{
-	border-style: none;
-	background-color: transparent;
-	color:white;
-}
 /**----------Rec View---------------**/
 #recView{
 	padding: 5px;
@@ -510,14 +457,6 @@ html, body {
 	width: 35px;
 }
 
-/**
-#radios{
-	display:block;
-	padding: 0px;
-	margin: 0px;
-	padding-right: 0px;
-}**/
-
 #recView .tCircle {
 	border-style: solid;
 	border-color: white;
@@ -543,7 +482,6 @@ html, body {
 	text-align: center;
     margin-left: auto;
     margin-right: auto;
-    /*background-color: #b0e0e6;*/
 }
 
 #recView .imgStrains img {
@@ -553,34 +491,11 @@ html, body {
 	height: 50px;
 }
 
-/**#recView .imgStrains a img {
-	vertical-align: center;
-}**/
-
 #recView .imgStrains h6 {
 	text-align: left;
 	padding-left: 0px;
 }
-#recView .pushDown{
-	padding-top: 10px;
-}
-#recView .tCircle2 {
-	border-style: solid;
-	border-color: white;
-	background-color:rgba(0,0,0,0.2);
-    border-width: 2px;
-    border-radius: 50%;
-	padding: 20px;
-	width: 60px;
-	height: 65px;
-	font-size: 1em;
-	text-align: center;
-	vertical-align: center;
-	color: white;
-	padding: 0px;
-	padding-top: 20px;
-	background-repeat: no-repeat;
-}
+
 #recView .active{
 	width: 0; 
 	height: 0; 
@@ -591,7 +506,6 @@ html, body {
 	margin-top: 18px;
 	float:right;
 }
-
 #recView .active2{
 	width: 0; 
 	height: 0; 
@@ -628,21 +542,6 @@ html, body {
   	color:#009900;
 }
 
-#recView .dropdown .btn-default{
-	border-style: none;
-	background-color: transparent;
-	color:white;
-	outline:none;
-	box-shadow: none;
-}
-#recView .dropdown .btn-default:hover {
-  	color:#009900;
-}
-
-#recView .dropdown ul li a{
-	color:black;
-}
-
 #recView .panel-buttons{
 	width: 45%;
 	text-align: center;
@@ -654,12 +553,8 @@ html, body {
 	color: white;
 } 
 
-#recView .collapse{
-	border-style: none;
-	background-color: transparent;
-	color:white;
-}
 
+/**--below are for detail mode--**/
 #recView .sizeImage img{
 	width: 35%;
 	max-width: 150px;
@@ -689,9 +584,8 @@ html, body {
 	background-size: cover;
 }
 #recView .tips .panel-body div{
-	background-color: rgba(1,43,2,0.5);
+	background-color: rgba(1,5,1,0.8);
 	background-size: cover;
-	/**background-color: rgba(255, 153, 204, .8);**/
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-right: -35px;
@@ -713,7 +607,7 @@ html, body {
 	color: black;
 }
 #recView .compCircle hh{
-	font-size: 1.6em;
+	font-size: 1.4em;
 }
 
 /*----------------------------------**/

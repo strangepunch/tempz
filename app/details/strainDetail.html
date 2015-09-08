@@ -215,8 +215,10 @@
 				<div class="tips">
 					<div class="panel-heading" style="padding-left:15px;" ng-click="vm.toggleQuestion('Q2')">{{vm.tipShow}}<span class="caret"></span></div>
 					<div style="background-image:url({{vm.currentTip.TipImg}});" class="panel-body" ng-if="vm.showQ2">
-						<div class="col-xs-12"> ({{vm.currentIndex+1}} out of {{vm.totalIndex}})</div>
-						<div class="col-xs-12"> {{vm.currentTip.tipTxt}} </div>
+						<backLiner>
+						<div class="col-xs-12"> ({{vm.currentIndex+1}} out of {{vm.totalIndex}})<br/><br/>
+						{{vm.currentTip.tipTxt}} </div>
+						</backLiner>
 					</div>
 					<div class="panel-footer" ng-if="vm.showQ2">
 						<div class="btn" ng-if="vm.showBack" ng-click="vm.Back()"> <span class="glyphicon glyphicon-chevron-left"> </span></div>

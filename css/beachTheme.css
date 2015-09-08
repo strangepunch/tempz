@@ -91,7 +91,7 @@ html, body {
 }
 .snap-drawers a:hover{
 	text-decoration: none;
-	color: #E69400;
+	color: #521400;
 }
 .snap-drawers a:visited{
 	text-decoration: none;
@@ -629,7 +629,7 @@ html, body {
 	background-size: cover;
 }
 #recView .tips .panel-body div{
-	background-color: rgba(102, 255, 255,0.5);
+	background-color: rgba(225, 251, 239,0.8);
 	background-size: cover;
 	padding-top: 20px;
 	padding-bottom: 20px;

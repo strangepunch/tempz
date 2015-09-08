@@ -174,7 +174,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Suggested for {{vm.selectedTaste}} taste: </div>
+					<div class="col-xs-12"> Suggested for <bold>{{vm.selectedTaste}}</bold> taste: </div>
 				</div>
 			</div> 
 		</div>
@@ -182,7 +182,7 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					{{suggestedStrains.strainName}}
+					<bold>{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">
@@ -224,7 +224,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Suggested for {{vm.selectedEffect}} effect: </div>
+					<div class="col-xs-12"> Suggested for <bold>{{vm.selectedEffect}}</bold> effect: </div>
 				</div>
 			</div> 
 		</div>
@@ -232,7 +232,7 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					{{suggestedStrains.strainName}}
+					<bold>{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">
@@ -274,7 +274,7 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					{{suggestedStrains.strainName}}
+					<bold>{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">

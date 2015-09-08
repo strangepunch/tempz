@@ -511,11 +511,29 @@
 
     	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
+
+    		switch ($cookies.myTheme){
+	          case "css/beachTheme.css":
+	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+	              break;
+	          case "css/movieTheme.css":
+	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	              break;
+	          case "css/tanTheme.css":
+	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+	              break;
+	          case "css/app.css":
+	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	              break;
+	          default:
+	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	        }
+	        /**
     		if($cookies.myTheme === "css/beachTheme.css"){
     			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
     		}else{
     			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		}
+    		}**/
     		
     		if(vm.currentTemp === 'F'){
 	    		for(var i=0; i<vm.userTempArrayU.length; i++){
@@ -544,11 +562,28 @@
 
     	//highlight the treated condition
     	$scope.thisCond = function(cond){
+    		switch ($cookies.myTheme){
+	          case "css/beachTheme.css":
+	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+	              break;
+	          case "css/movieTheme.css":
+	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	              break;
+	          case "css/tanTheme.css":
+	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+	              break;
+	          case "css/app.css":
+	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	              break;
+	          default:
+	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+	        }
+	        /**
     		if($cookies.myTheme === "css/beachTheme.css"){
     			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
     		}else{
     			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		}
+    		}**/
     		
 			for(var i=0; i<vm.effectsEnglish.length; i++){
 				if(cond === vm.effectsEnglish[i]){
