@@ -21,8 +21,8 @@
           case 'Movie':
               $scope.permTheme = "css/movieTheme.css";
               break;
-          case 'Tan':
-              $scope.permTheme = "css/tanTheme.css";
+          case 'Khaki':
+              $scope.permTheme = "css/khakiTheme.css";
               break;
           case 'Normal':
               $scope.permTheme = "css/app.css";

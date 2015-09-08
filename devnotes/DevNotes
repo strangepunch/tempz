@@ -116,3 +116,11 @@ THEME
 -Added theme for beach/bright lighting
 -Added theme for neutral/tan color
 
+OVERALL  (css)
+-styled some of the texts with Bold
+-push li over by 10 to 20 px
+
+
+STRAIN DETAIL
+-Use cookie to know which mode you entered the strain detail mode
+-back button tailored to go back to where you came from
