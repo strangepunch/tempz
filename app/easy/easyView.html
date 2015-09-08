@@ -60,9 +60,9 @@
 					</div>
 					<div role="presentation" class="divider"></div>
 					<div ng-if = "vm.showQ1">
-					    <ul class="col-xs-11" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
-							<li><div ng-click="selectCondition(condName)">{{condName}}</div></li>
-						</ul>
+					    <div class="col-xs-11" ng-repeat = "condName in vm.conditionNames|unique:$index|orderBy:$index">
+							<li ng-click="selectCondition(condName)">{{condName}}</li>
+						</div>
 					</div> 
 				</div>
 			</div>
@@ -96,9 +96,9 @@
 					 		<div class="btn" ng-click="searchStrain('Indica')"> Indica </div> 
 					 		<div class="btn" ng-click="searchStrain('Hybrid')"> Hybrid </div> 
 					 	</div>
-					 	<ul class="col-xs-11" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
-							<li><div ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</div></li>
-						</ul>
+					 	<div class="col-xs-11" ng-repeat = "sName in vm.strainNames|orderBy:'strainName'|filter:vm.searchAll:strict">
+							<li ng-click="selectStrain(sName.strainName)">{{sName.strainName}}</li>
+						</div>
 				 	</div>
 				 	
 				</div>
@@ -117,7 +117,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> Your selection: </div>
+					<div class="col-xs-12"> <bold>Your selection: </bold></div>
 					<div class="col-xs-6"> {{vm.selectedCond}} </div>
 					<div class="col-xs-6" ng-if="vm.hasEnterStrain" ui-sref="strainDetails({strainId: vm.yourStrain.strainId})"> {{vm.selectedStrain}} <span class="glyphicon glyphicon-chevron-right"></span></div>
 				</div>
@@ -128,7 +128,7 @@
 		<div class = "panel" ng-if="vm.hasEnterStrain">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> At {{vm.tempDisplay}}{{vm.currentTemp}}, {{vm.selectedStrain}} contains approximately {{vm.dataForYou.value}}% of {{vm.dataForYou.name}} </div>
+					<div class="col-xs-12"> At <bold>{{vm.tempDisplay}}{{vm.currentTemp}}</bold>, {{vm.selectedStrain}} contains approximately <bold>{{vm.dataForYou.value}}%</bold> of <bold> {{vm.dataForYou.name}}</bold></div>
 				</div> 
 			</div>
 		</div>
@@ -139,7 +139,7 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12">
-						<span ng-if="!vm.moreThanOne">{{vm.EffectsProductName[vm.currentSelectEffNum]}} is</span>
+						<span ng-if="!vm.moreThanOne"><bold>{{vm.EffectsProductName[vm.currentSelectEffNum]}}</bold> is</span>
 						<span ng-if="vm.moreThanOne">They are</span> 
 						known to produce the following effects:
 					</div>
@@ -171,7 +171,7 @@
 		<div class = "panel" ng-if="vm.hasMatches" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:'-matches'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					{{suggestedStrains.strnData.strainName}} <!--has {{suggestedStrains.matches}} matches-->
+					<bold>{{suggestedStrains.strnData.strainName}}</bold> <!--has {{suggestedStrains.matches}} matches-->
 				</div>
 				<div class="panel-body">
 					<div class = "row">
@@ -185,21 +185,11 @@
 								{{suggestedStrains.strnData.descriptionAbbrev}} 
 							</div>
 						</div>
-						<!--
-						<div class="col-xs-3">
-							<div class="btn"> <span class="glyphicon glyphicon-book"></span> <span class="glyphicon glyphicon-eye-open"></span> <br> Info </div>  
-						</div>-->
 					</div>
 				</div>
 				<div  class = "panel-footer">
 					<div class="btn" ng-click="goBack()"> <span class="glyphicon glyphicon-chevron-left"></span> Back  </div>
-					<div class="btn" style="float:right" ng-click="" ui-sref="strainDetails({strainId: suggestedStrains.strnData.strainId})"> Detail<span class="glyphicon glyphicon-chevron-right"></span> </div>
-					<!--
-					<div class = "btn" style = "float:right" ng-if="vm.thereIsMore">
-						<div ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
-						<div ng-click="goMore('A2')" ng-if="vm.MoreOrLess"> Less </div>
-					</div>-->
-					
+					<div class="btn" style="float:right" ng-click="" ui-sref="strainDetails({strainId: suggestedStrains.strnData.strainId})"> Detail<span class="glyphicon glyphicon-chevron-right"></span> </div>	
 				</div>
 			</div> 
 		</div>

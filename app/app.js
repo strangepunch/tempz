@@ -53,50 +53,6 @@
 							controller: "RecViewCtrl as vm"
 						})
 
-						/**
-						//Main
-						.state("main", {
-							url: "/main",
-							templateUrl: "app/mainView.html",
-							controller: "TempsViewCtrl as vm"
-						})
-
-						//Temps
-						.state("main.temps", {
-							url: "/temps",
-							templateUrl: "app/temps/tempsView.html",
-							controller: "TempsViewCtrl as vm"
-						})
-
-						//Conditions
-						.state("main.conditions", {
-							url: "/conditions",
-							templateUrl: "app/conditions/conditionsView.html",
-							controller: "ConditionsViewCtrl as vm"
-						})
-
-						//Effects
-						.state("main.effects", {
-							url: "/effects",
-							templateUrl: "app/effects/effectsView.html",
-							controller: "EffectsViewCtrl as vm"
-						})
-
-						//Strains
-						.state("main.strains", {
-							url: "/strains",
-							templateUrl: "app/strains/strainsView.html",
-							controller: "StrainsViewCtrl as vm"
-						})
-						
-						//Vapes - main
-						.state("tipsView", {
-							url: "/tips",
-							templateUrl: "app/tips/tipView.html",
-							controller: "TipViewCtrl as vm"
-						})
-						**/
-
 						//Strains - detailed
 						.state("strainDetails", {
 							url: "/details/:strainId",
@@ -108,7 +64,7 @@
 
 								strain: function (strainResource, $stateParams){
 									var strainId = $stateParams.strainId;
-									//console.log($stateParams);
+									
 									return strainResource.get(
 										{ strainId: strainId }).$promise;
 								}
