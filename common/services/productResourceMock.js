@@ -5037,6 +5037,30 @@
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/banana-candy_100x100.jpg"
 			 	
+			},
+			{"strainId": 307,
+			 	"strainName": "Love Potion #9",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/love-potion--9_100x100.jpg"
+			 	
+			},
+			{"strainId": 308,
+			 	"strainName": "Omega Dawg",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/omega-dawg_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 309,
+			 	"strainName": "Super Lemon OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/super-lemon-og_100x100.jpg"
+			 	
+			},
+			{"strainId": 310,
+			 	"strainName": "Elvis",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/elvis_100x100.jpg"
+			 	
 			}
 
 		]; 
@@ -11195,7 +11219,7 @@
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Asthma", "Bipolar", "Depression", "Migraines", "Pain", "Stress", "Cramps", "Nausea"],
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Sexual"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Its complex terpene profile and heavy resin production make Super Lemon OG an excellent choice for producing top-notch concentrates, like the two extracts that took home prizes at the 2014 High Times' Cannabis Cup in Amsterdam.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Its taste and aroma carry a strong citrus note that is entangled with tones of spicy pepper and pungent diesel fuel.",
 			 "tags": ["Sativa", "Lemon Head OG", "OG",  "Bipolar", "Migraines", "Headache"],
 			 "imageUrl": "images/strains/super-lemon-og_100x100.jpg"
@@ -38895,8 +38919,8 @@
 				}	
 		 	], 
 		 	"taste": ["Earthy", "Berry", "Chestnut"],
-		 	 "conditions": ["Fibromyalgia", "Arthritis", "Pain", "Chronic Pain", "PMS", "Insomnia", "Migraines"],
-			 "positiveEffects": ["Pain relief", "Energetic", "Tingly", "Euphoric", "Productive", "Happy", "Apathy", "Calmness"],
+		 	 "conditions": ["Fibromyalgia", "Arthritis", "Pain", "Chronic Pain", "PMS", "Insomnia", "Apathy", "Migraines"],
+			 "positiveEffects": ["Pain relief", "Energetic", "Tingly", "Euphoric", "Productive", "Happy", "Calmness"],
 			 "negativeEffects": ["Calmness"],
 			 "descriptionDetailed": "Typically, you can expect high-energy euphoria and heightened sensory awareness from Medibud, but its indica-leaning phenotypes may induce heavier, more relaxing effects.",
 			 "descriptionAbbrev": "Typically, you can expect high-energy euphoria and heightened sensory awareness from Medibud, but its indica-leaning phenotypes may induce heavier, more relaxing effects.",
@@ -40042,7 +40066,465 @@
 			 "descriptionAbbrev": "This strain is ideal for nighttime use, as it induces a sleepy euphoric sensation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/banana-candy_100x100.jpg"
+			},
+			{"strainId": 307,
+			 "strainName": "Love Potion #9",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 7.67
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.31	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.33
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.17
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Cheese", "Citrus"],
+		 	 "conditions": ["Fibromyalgia", "Insomnia", "Pain", "Appetite Loss", "Anxiety", "Stress"],
+			 "positiveEffects": ["Drowsiness", "Potent", "Hungry", "Calmness", "Relaxed"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Very nice flower with a great taste and will have you in a very calm, relaxed state. Definitely great for evening time use.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/love-potion--9_100x100.jpg"
+			},
+			{"strainId": 308,
+			 "strainName": "Omega Dawg",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.56
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.10	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Earthy", "Pine"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Depression", "Stress", "Muscular Dystrophy", "Multiple Sclerosis"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Pain relief", "Focused", "Relaxed"],
+			 "negativeEffects": ["Couch Lock"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Balancing full-body relaxation with cerebral euphoria, Omega Dawg is typically chosen by patients treating pain, multiple sclerosis, and muscular dystrophy.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/omega-dawg_100x100.jpg"
+			},
+			{"strainId": 309,
+			 "strainName": "Super Lemon OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.41
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.17	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.57
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.16
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Lemon", "Citrus", "Pungent", "Spicy", "Pepper"],
+		 	 "conditions": ["Fibromyalgia", "Stress", "Depression", "Anxiety", "Migraines"],
+			 "positiveEffects": ["Mind + Body", "Relaxed", "Uplifted", "Energetic"],
+			 "negativeEffects": ["Couch Lock"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Super Lemon OG produces relaxing body effects that are balanced by the uplifting and energetic sativa influence of Haze genetics.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/super-lemon-og_100x100.jpg"
+			},
+			{"strainId": 310,
+			 "strainName": "Elvis",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.14
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.24	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.17 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.18
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.71
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.90
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.79
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Skunk", "Vanilla", "Mint"],
+		 	 "conditions": ["Fibromyalgia", "Anxiety", "Stress", "Nausea", "Appetite Loss", "Chronic Back Pain"],
+			 "positiveEffects": ["Creative", "Energetic", "Euphoric", "Mellow", "Focused", "Relaxed", "Calmness", "Hungry", "Pain relief"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Elvis produces a burst of cerebral activity that provides a spark of creative juice and a mellow, relaxing body effect that calms anxieties.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/elvis_100x100.jpg"
 			}
+
+
 
 		];
 		
