@@ -1858,7 +1858,7 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "Three clicks turns it on and off, and a steady green light lets you know it’s ready. Hold it down to reach the next temperature level, then again for the highest temperature. ",
+				 		"tipTxt": "Three clicks turns it on and off, and a steady green light lets you know it's ready. Hold it down to reach the next temperature level, then again for the highest temperature. ",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	},
 				 	{ 
@@ -4976,6 +4976,66 @@
 			 	"strainName": "Medibud",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/medibud_100x100.jpg"
+			 	
+			},
+			{"strainId": 297,
+			 	"strainName": "Dream Berry",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/dream-berry_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 298,
+			 	"strainName": "Bellandonna",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/belladonna_100x100.jpg"
+			 	
+			},
+			{"strainId": 299,
+			 	"strainName": "Jacky White",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/jacky-white_100x100.jpg"
+			 	
+			},
+			{"strainId": 300,
+			 	"strainName": "Remedy",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/remedy_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 301,
+			 	"strainName": "Conspiracy Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/conspiracy-kush_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 302,
+			 	"strainName": "Night Terror OG",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/night-terror-og_100x100.jpg"
+			 	
+			},
+			{"strainId": 303,
+			 	"strainName": "U2 Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/u2-kush_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 304,
+			 	"strainName": "BSC",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/boy-scout-cookies_100x100.jpg"
+			 	
+			},
+			{"strainId": 305,
+			 	"strainName": "Purple Crack",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/purple-crack_100x100.jpg"
+			 	
+			},
+			{"strainId": 306,
+			 	"strainName": "Banana Candy",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/banana-candy_100x100.jpg"
 			 	
 			}
 
@@ -38842,9 +38902,1147 @@
 			 "descriptionAbbrev": "Typically, you can expect high-energy euphoria and heightened sensory awareness from Medibud, but its indica-leaning phenotypes may induce heavier, more relaxing effects.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/medibud_100x100.jpg"
+			},
+			{"strainId": 297,
+			 "strainName": "Dream Berry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 25.28
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.51
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.45
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.09
+				}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Blueberry", "Grapefruit"],
+		 	 "conditions": ["Muscle Spasms", "Fibromyalgia", "Stress", "Anxiety", "Depression"],
+			 "positiveEffects": ["Relaxed", "Pain relief", "Happy", "Uplifted", "Focused", "Mellow"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "Instant Full Body Pain Relief and feel cozy afterwards.",
+			 "descriptionAbbrev": "Its calming indica qualities prevail over its sativa genetics.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/dream-berry_100x100.jpg"
+			},
+			{"strainId": 298,
+			 "strainName": "Belladonna",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.98
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.09	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.68
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.71
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.55
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.10
+				}	
+		 	], 
+		 	"taste": ["Butter", "Earthy", "Chestnut"],
+		 	 "conditions": ["Stress", "Depression", "Fatigue", "Insomnia", "Nausea"],
+			 "positiveEffects": ["Euphoric", "Uplifted", "Energetic", "Giggly", "Happy", "Relaxed"],
+			 "negativeEffects": ["Paranoid", "Dry Mouth", "Headache", "Dizzy", "Dry Eyes"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Belladonna is a mostly sativa strain that also carries good indica characteristics making for a very nice hybrid.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/belladonna_100x100.jpg"
+			},
+			{"strainId": 299,
+			 "strainName": "Jacky White",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.44
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.61
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 2.55
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.23
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.74
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.42
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Berry"],
+		 	 "conditions": ["Fibromyalgia", "Stress", "Depression" ],
+			 "positiveEffects": ["Mind + Body", "Pain relief", "Euphoric", "Uplifted", "Calmness" ],
+			 "negativeEffects": ["Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Lofty euphoria lifts the mind into an upbeat cerebral space, while the indica in her softens the racy sativa effects with a deep, physical calm.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/jacky-white_100x100.jpg"
+			},
+			{"strainId": 300,
+			 "strainName": "Remedy",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Woody", "Earthy"],
+		 	 "conditions": ["Fibromyalgia", "Seizures", "Muscle Spasms", "Pain", "Autism", "Chronic Inflammation", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Therapeutic", "Mellow", "Relaxed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Patients looking to medicate without the pronounced head and body effects may turn to Remedy to treat seizures, pain, autism, inflammation, and anxiety disorders.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/remedy_100x100.jpg"
+			},
+			{"strainId": 301,
+			 "strainName": "Conspiracy Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 13.95
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.36	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.32
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.37
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.96
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Flowery", "Pepper"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "PTSD", "Chronic Back Pain", ""],
+			 "positiveEffects": ["Potent", "Pain relief", "Creative", "Drowsiness"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The influence of Space Queen is felt immediately with a Haze-like sense of cerebral activity, but shortly after the relaxing indica effects take hold and provide calming relaxation perfect for unwinding at the end of the day.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/conspiracy-kush_100x100.jpg"
+			}, 
+			{"strainId": 302,
+			 "strainName": "Night Terror OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.43
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.10	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.43
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.25
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pine", "Flowery", "Blueberry", "Lemon", "Diesel"],
+		 	 "conditions": ["Fibromyalgia", "Insomnia", "Pain", "Stress", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Clear headed", "Long Lasting", "Mellow"],
+			 "negativeEffects": ["Drowsiness", "Couch Lock"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "You may find your eyelids feeling heavy before long, but don't let a name like Night Terror OG fool you: a good night's sleep is on its way.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/night-terror-og_100x100.jpg"
+			},
+			{"strainId": 303,
+			 "strainName": "U2 Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 9.22
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.3	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.08 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.39
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.78
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Lavender", "Flowery", "Pine"],
+		 	 "conditions": ["Insomnia", "Pain", "Fibromyalgia"],
+			 "positiveEffects": ["Drowsiness", "Pain relief", "Euphoric", "Potent"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Begins with a powerful euphoric buzz, with sedating full-body effects to follow. Its tranquilizing effects that creep in over time make U2 Kush popular among patients treating insomnia and pain.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/u2-kush_100x100.jpg"
+			},
+			{"strainId": 304,
+			 "strainName": "BSC",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.15
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.08	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.06 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.94
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.23
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pungent", "Woody"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Anxiety", "Depression"],
+			 "positiveEffects": ["Mind + Body", "Pain relief", "Potent", "Happy", "Euphoria", "Calmness", "Relaxed", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "BSC introduces deep, heavy relaxation throughout the body, but not before making your head reel with calm and happy thoughts.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/boy-scout-cookies_100x100.jpg"
+			},
+			{"strainId": 305,
+			 "strainName": "Purple Crack",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.67
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.68	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.61
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.85
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 3.87
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Citrus", "Grape"],
+		 	 "conditions": ["Pain", "Fibromyalgia", "PTSD", "Depression"],
+			 "positiveEffects": ["Creative", "Clear headed", "Energetic", "Focused", "Euphoric", "Sexual", "Energetic", "Uplifted", "Pain relief"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "It's nice for keeping ones focus honed when stuck with the tedium of daily life but also great for any active/outdoor activities.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-crack_100x100.jpg"
+			},
+			{"strainId": 306,
+			 "strainName": "Banana Candy",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 24.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Fruity", "Banana"],
+		 	 "conditions": ["Insomnia", "Stress", "Fibromyalgia", "Chronic Pain", "Anxiety"],
+			 "positiveEffects": ["Sexual", "Euphoric", "Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Drowsiness", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This strain is ideal for nighttime use, as it induces a sleepy euphoric sensation.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/banana-candy_100x100.jpg"
 			}
-
-
 
 		];
 		
