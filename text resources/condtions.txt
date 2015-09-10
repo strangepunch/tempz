@@ -120,32 +120,32 @@ Rare Dankness
 	Elvis
 	Silver Bubble
 	Cindy White
-Sour Bubble
-Gucci OG
-Sourlope
-Buddha Tahoe
-Hawaiian Dream
-Frostbite
-Goldberry
-Sonoma Coma
+	Sour Bubble
+	Gucci OG
+	Sourlope
+	Buddha Tahoe
+	Hawaiian Dream
+	Frostbite
+	Goldberry
+	Sonoma Coma
 EdiPure Lemon Drops
-Seattle Blue
-Northern Berry
-OG's Pearl
-Colorado Chem
-Face Off OG
-Enigma
-Black 84
-Dr. Funk
-Grand Doggy Purps
-Yummy
-Haole
-Incredible Bulk
-Eran Almog
-Catfish
-Lions Gate
-Master Skunk
-Ringo's Gift
+	Seattle Blue
+	Northern Berry
+	OG's Pearl
+	Colorado Chem
+	Face Off OG
+	Enigma
+	Black 84
+	Dr. Funk
+	Grand Doggy Purps
+	Yummy
+	Haole
+	Incredible Bulk
+	Eran Almog
+	Catfish
+	Lions Gate
+	Master Skunk
+	Ringo's Gift
 Sapphire Star
 Jesus
 Sour Jilly
