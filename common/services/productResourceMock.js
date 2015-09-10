@@ -5061,8 +5061,97 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/elvis_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 311,
+			 	"strainName": "Silver Bubble",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/silver-bubble_100x100.jpg"
+			 	
+			},
+			{"strainId": 312,
+			 	"strainName": "Cindy White",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/cindy-white_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 313,
+			 	"strainName": "Gucci OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/gucci-og_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 314,
+			 	"strainName": "Sourlope",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/sourlope_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 315,
+			 	"strainName": "Buddah Tahoe",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/buddha-tahoe_100x100.jpg"
+			 	
+			},
+			{"strainId": 316,
+			 	"strainName": "Hawaiian Dream",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/hawaiian-dream_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 317,
+			 	"strainName": "Frostbite",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/frostbite_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 318,
+			 	"strainName": "Goldberry",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/goldberry_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 319,
+			 	"strainName": "Sonoma Coma",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/sonoma-coma_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 320,
+			 	"strainName": "Seattle Blue",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/seattle-blue_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 321,
+			 	"strainName": "Northern Berry",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/northern-berry_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 322,
+			 	"strainName": "OG's Pearl",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/og-s-pearl_100x100.jpg"
+			 	
+			},
+			{"strainId": 323,
+			 	"strainName": "Colorado Chem",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/colorado-chem_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 324,
+			 	"strainName": "Enigma",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/enigma_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 325,
+			 	"strainName": "Black 84",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/black--84_100x100.jpg"
+			 	
 			}
-
 		]; 
 
 
@@ -40522,10 +40611,1717 @@
 			 "descriptionAbbrev": "Elvis produces a burst of cerebral activity that provides a spark of creative juice and a mellow, relaxing body effect that calms anxieties.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/elvis_100x100.jpg"
+			},
+			{"strainId": 311,
+			 "strainName": "Silver Bubble",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Apple", "Butter"],
+		 	 "conditions": ["Chronic Back Pain", "Migraines", "Fibromyalgia"],
+			 "positiveEffects": ["Happy", "Mellow", "Drowsiness", "Creative", "Uplifted", "Relaxed"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Known for years as the top smoke at the Grey Area Coffeeshop in Amsterdam and now is available to the rest of the world. The Silver Bubble is a balanced mix of 1/4 Northern Lights, 1/4 Skunk and 1/2 Haze.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/silver-bubble_100x100.jpg"
+			},
+			{"strainId": 312,
+			 "strainName": "Cindy White",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.99
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.06	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pine", "Woody", "Sweet", "Tropical", "Flowery"],
+		 	 "conditions": ["Pain", "Fibromyalgia"],
+			 "positiveEffects": ["Potent", "Energetic", "Uplifted", "Focused", "Tingly", "Happy", "Pain relief", "Creative", "Euphoric"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A very nice sativa buzz that goes straight to the head and does a great job of relieving pain.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cindy-white_100x100.jpg"
+			},
+			{"strainId": 313,
+			 "strainName": "Gucci OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.04
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.46	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pungent", "Lemon", "Pine"],
+		 	 "conditions": ["Fibromyalgia"],
+			 "positiveEffects": ["Creative", "Energetic", "Euphoric", "Pain relief"],
+			 "negativeEffects": ["Dizzy", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This hybrid’s effect can vary with different doses. Small amounts may provide a spark of energy and creativity, while larger doses tend to give way to heavy sedation or dizzying euphoria.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/gucci-og_100x100.jpg"
+			},
+			{"strainId": 314,
+			 "strainName": "Sourlope",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Chocolate", "Coffee", "Sour"],
+		 	 "conditions": ["Fibromyalgia", "Stress", "Depression", "Fatigue", "Migraines", "PTSD"],
+			 "positiveEffects": ["Euphoric", "Pain relief", "Happy", "Creative", "Focused", "Energetic", "Uplifted", "Calmness"],
+			 "negativeEffects": ["Couch Lock"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Even with the euphoric high, users often experience a sense of couch lock when smoking Sourlope, especially in large doses. Some users report a warming body buzz and a sense of tranquility as well that lasts well after the onset of the other effects.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sourlope_100x100.jpg"
+			},
+			{"strainId": 315,
+			 "strainName": "Buddha Tahoe",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.08
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.61	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.37
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Lemon", "Flowery", "Woody"],
+		 	 "conditions": ["Fibromyalgia", "Anxiety", "Depression", "Appetite Loss"],
+			 "positiveEffects": ["Potent", "Relaxed", "Hungry", "Pain relief", "Happy", "Uplifted", "Conversational"],
+			 "negativeEffects": ["Munchies", "Couch Lock", "Drowsiness", "Dry Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Potent and long-lasting, Buddha Tahoe launches you into to the highest level of cerebral euphoria.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/buddha-tahoe_100x100.jpg"
+			},
+			{"strainId": 316,
+			 "strainName": "Hawaiian Dream",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 3.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 13.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Tropical", "Pine", "Sweet"],
+		 	 "conditions": ["Chronic Pain", "Fibromyalgia", "Inflammation", "Anxiety"],
+			 "positiveEffects": ["Pain relief", "Energetic", "Focused", "Creative", "Euphoric", "Relaxed", "Tingly", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Patients look to this high-CBD sativa to remedy pain, inflammation, and anxiety without physical heaviness or a foggy head.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/hawaiian-dream_100x100.jpg"
+			},
+			{"strainId": 317,
+			 "strainName": "Frostbite",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.37
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Skunk", "Mint"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Depression", "Stress", "Fatigue", "Inflammation"],
+			 "positiveEffects": ["Pain relief", "Happy", "Giggly", "Mellow", "Relaxed", "Euphoric", "Sexual", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Perfect for when you're feeling low and need a boost.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/frostbite_100x100.jpg"
+			},
+			{"strainId": 318,
+			 "strainName": "Goldberry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Blueberry", "Sweet", "Berry", "Chemical"],
+		 	 "conditions": ["Insomnia", "Fibromyalgia", "Appetite Loss", "Pain", "Muscle Spasms", "Stress", "Depression"],
+			 "positiveEffects": ["Pain relief", "Creative", "Happy", "Uplifted", "Euphoric", "Hungry", "Drowsiness"],
+			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This hybrid is described as optimal for pain relief and relaxation due to its indica qualities.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/goldberry_100x100.jpg"
+			},
+			{"strainId": 319,
+			 "strainName": "Sonoma Coma",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.93
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Tropical", "Fruity", "Spicy", "Woody"],
+		 	 "conditions": ["Fibromyalgia", "Fatigue", "Appetite Loss"],
+			 "positiveEffects": ["Energetic", "Uplifted", "Creative", "Euphoric", "Pain relief"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Sonoma Coma produces an energetic invasion of heady effects that produce bursts of creativity and euphoria.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sonoma-coma_100x100.jpg"
+			}, 
+			{"strainId": 320,
+			 "strainName": "Seattle Blue",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.83
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.10	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.51
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.07
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Flowery", "Earthy"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Stress", "Muscle Spasms", "Cramps", "Migraines"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Hungry", "Pain relief"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The Seattle Blue strain of cannabis provides a strong euphoric body high.  The sweet and fruity taste makes this a very pleasant indica.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/seattle-blue_100x100.jpg"
+			},
+			{"strainId": 321,
+			 "strainName": "Northern Berry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.53
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.44	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.53
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.85
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.49
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.47
+				}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Blueberry"],
+		 	 "conditions": ["Fibromyalgia", "Insomnia", "Pain"],
+			 "positiveEffects": ["Pain relief", "Potent", "Mind + Body"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Northern Berry is intense experience for both mind and body, and may induce an early night's sleep when overdone.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/northern-berry_100x100.jpg"
+			},
+			{"strainId": 322,
+			 "strainName": "OG's Pearl",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	,
+		 	], 
+		 	"taste": ["Pungent", "Earthy", "Sweet", "Lemon", "Spicy"],
+		 	 "conditions": ["Nausea", "Pain", "Fibromyalgia", "Stress", "Insomnia"],
+			 "positiveEffects": ["Happy", "Relaxed", "Pain relief",  "Uplifted", "Mellow", "Long Lasting"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Delivers strong body-focused effects ideal for fast-acting stress relief or a lazy evening at home.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/og-s-pearl_100x100.jpg"
+			},
+			{"strainId": 323,
+			 "strainName": "Colorado Chem",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Skunk", "Lemon"],
+		 	 "conditions": ["Fibromyalgia", "Pain", "Insomnia"],
+			 "positiveEffects": ["Pain relief", "Potent", "Mind + Body", "Drowsiness"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Colorado Chem is a hybrid strain that took 2nd place in the 2014 Denver Cannabis Cup.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/colorado-chem_100x100.jpg"
+			},
+			{"strainId": 324,
+			 "strainName": "Enigma",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 7.41
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 13.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Lemon", "Pungent", "Mango"],
+		 	 "conditions": ["Fibromyalgia", "Appetite Loss", "Chronic Back Pain", "Anxiety", "Nausea"],
+			 "positiveEffects": ["Pain relief", "Hungry", "Happy", "Mellow", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The natural progression of its effects begins with carefree happiness and ends in a sleepy haze. Enigma is a great strain for patients experiencing appetite loss and/or cachexia.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/enigma_100x100.jpg"
+			},
+			{"strainId": 325,
+			 "strainName": "Black 84",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 11.99
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Butter", "Honey"],
+		 	 "conditions": ["Chronic Pain", "Fibromyalgia", "Anxiety", "Nausea", "Insomnia"],
+			 "positiveEffects": ["Pain relief", "Drowsiness", "Relaxed"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness", "Dry Mouth", "Dry Eyes"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Its powerful, relaxing effects on the body make Black '84 a great nighttime strain when combatting anxiety, pain, and insomnia.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/black--84_100x100.jpg"
 			}
-
-
-
 		];
 		
 		var conditions = [
@@ -41342,7 +43138,7 @@
 			 "effectName": "Immunosuppressant", //compName
 			 "conditionsTreated": ["Psoriasis", "Rheumatoid Arthritis", "Crohns Disease", "Cancer"],
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
-			 "descriptionAbbrev":  "Prevent the immune response",
+			 "descriptionAbbrev":  "Treat autoimmune conditions",
 			 "tags": ["Immunosuppressant", "immune system"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
@@ -41414,7 +43210,7 @@
 			 "effectName": "Antifungal", //compName
 			 "conditionsTreated": ["Athletes Foot", "Ringworm", "Thrush", "Cryptococcal Meningitis"],
  			 "descriptionDetailed": "Medical cannabis has been used to treat and prevent fungal mycoses.",
-			 "descriptionAbbrev":  "Prevent fungal growth",
+			 "descriptionAbbrev":  "Prevent fungal related conditions",
 			 "tags": ["Antifungal", "athletes foot", "ringworm", "thrush", "meningitis"],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}, 
