@@ -3201,6 +3201,22 @@
 			"tempF": "0",
 			"tempC": "0",			
 			"imageUrl": "Vanilla.png"
+		},
+		{ 
+			"tasteId": 45,
+			"taste": "Butter",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "6.png"
+		},
+		{ 
+			"tasteId": 46,
+			"taste": "Apple",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "6.png"
 		}
 
 	];
@@ -4985,7 +5001,7 @@
 			 	
 			}, 
 			{"strainId": 298,
-			 	"strainName": "Bellandonna",
+			 	"strainName": "Belladonna",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/belladonna_100x100.jpg"
 			 	
@@ -28293,7 +28309,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["Anxiety", "Insomnia", "Stress", "Pain", "Arthritis", "Fibromyalgia", "Headache", "Hangover", "Appetite Loss"],
-			 "positiveEffects": ["Euphoric", "Dreamy", "Drowsiness", "Calmness"],
+			 "positiveEffects": ["Euphoric", "Drowsiness", "Calmness"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
 			 "descriptionAbbrev": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
