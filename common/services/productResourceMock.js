@@ -3208,7 +3208,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "6.png"
+			"imageUrl": "Butter.png"
 		},
 		{ 
 			"tasteId": 46,
@@ -3216,7 +3216,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "6.png"
+			"imageUrl": "Apple.png"
 		}
 
 	];
