@@ -7283,11 +7283,11 @@
 				} 	
 		 	], 
 		 	"taste": ["Pungent", "Diesel", "Earthy"],
-		 	 "conditions": ["Stress", "Anxiety", "Fatigue"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "Stardawg, whose uplifting effects may help patients treating stress, fatigue, and anxiety disorders.",
-			 "descriptionAbbrev":  "Earthy pine with sour notes of diesel color.",
+		 	 "conditions": ["Stress", "Depression", "ADD", "PTSD", "Anxiety", "Fatigue"],
+			 "positiveEffects": ["Potent", "Uplifted", "Clear headed", "Energetic", "Productive", "Conversational", "Relaxed", "Long Lasting"],
+			 "negativeEffects": ["Energetic"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Earthy pine with sour notes of diesel color with uplifting effects may help patients treating stress, fatigue, and anxiety disorders.",
 			 "tags": ["Hybrid", "Stardawg"],
 			 "imageUrl": "images/strains/stardawg_100x100.jpg"
 			},
