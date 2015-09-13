@@ -5233,6 +5233,12 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/sapphire-star_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 337,
+			 	"strainName": "Jesus",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/jesus_100x100.jpg"
+			 	
 			}
 		]; 
 
@@ -7300,7 +7306,7 @@
 			 		"value": 18.61
 			 	},
 			 	{ 
-			 		"name": "CBD", 
+			 		"name": "CBD",
 			 		"value": 0.40
 			 	},
 			 	{ 
@@ -32595,8 +32601,8 @@
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Depression", "Headache", "Appetite Loss"],
 			 "positiveEffects": ["Euphoric", "Happy", "Relaxed", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
-			 "descriptionDetailed": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it's no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
-			 "descriptionAbbrev": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. The hybrid effects make this strain a reliable choice for mental and physical relief alike, so it's no surprise that Bio-Diesel is cherished by cannabis connoisseurs.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Excels at delivering both intense and balanced effects: an acute, speedy sativa onset gravitates into numbing relaxation. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/bio-diesel_100x100.jpg"
 			},
@@ -34875,8 +34881,8 @@
 		 	 "conditions": ["Stress", "Pain", "Fibromyalgia", "Depression", "Insomnia", "Appetite Loss"],
 			 "positiveEffects": ["Long Lasting", "Pain relief", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Headache"],
-			 "descriptionDetailed": "When you cross Purple Urkle with Querkle, you get a highly potent strain of medical marijuana called Deep Purple. And much like the band, it truly has the power to rock your world. A strong indica high, Deep Purple is calming and relaxing.",
-			 "descriptionAbbrev": "When you cross Purple Urkle with Querkle, you get a highly potent strain of medical marijuana called Deep Purple. And much like the band, it truly has the power to rock your world. A strong indica high, Deep Purple is calming and relaxing.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A strong indica high, Deep Purple is calming and relaxing.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/deep-purple_100x100.jpg"
 			},
@@ -34989,8 +34995,8 @@
 		 	 "conditions": ["Pain", "Fibromyalgia", "Stress", "Depression", "Muscle Spasms", "Fatigue"],
 			 "positiveEffects": ["Relaxed", "Euphoric", "Drowsiness", "Happy", "Uplifted", "Tingly", "Energetic", "Balanced", "Productive", "Pain relief"],
 			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
-			 "descriptionDetailed": "After the sweet, danky, grape flavor hits your taste buds, an extremely mellow, relaxing high follows, leaving you with extreme munchies and wanting to fall asleep after about 45 minutes. Purple AK-47 is not likely to give you couch-lock however, as the Sativa AK-47 in this hybrid delivers noticeable heady effects.",
-			 "descriptionAbbrev": "After the sweet, danky, grape flavor hits your taste buds, an extremely mellow, relaxing high follows, leaving you with extreme munchies and wanting to fall asleep after about 45 minutes. Purple AK-47 is not likely to give you couch-lock however, as the Sativa AK-47 in this hybrid delivers noticeable heady effects.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "After the sweet, danky, grape flavor hits your taste buds, an extremely mellow, relaxing high follows, leaving you with extreme munchies and wanting to fall asleep after about 45 minutes. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Purple-AK-47_100x100.jpg"
 			}, 
@@ -35445,8 +35451,8 @@
 		 	 "conditions": ["Stress", "Pain", "Anxiety", "Fatigue", "Muscle Spasms", "Fibromyalgia", "Nausea"],
 			 "positiveEffects": ["Relaxed", "Uplifted", "Happy", "Euphoric", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Dry Eyes", "Paranoid", "Dizzy"],
-			 "descriptionDetailed": "A focused head high at small doses and a deeply relaxing head high at larger doses. The THC content of this workhorse can reach 22%, making it easily one of the strongest strains out there.",
-			 "descriptionAbbrev": "A focused head high at small doses and a deeply relaxing head high at larger doses. The THC content of this workhorse can reach 22%, making it easily one of the strongest strains out there.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A focused head high at small doses and a deeply relaxing head high at larger doses. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/triple-diesel_100x100.jpg"
 			},
@@ -35901,8 +35907,8 @@
 		 	 "conditions": ["PMS", "Depression", "Stress", "Headache", "Chronic Pain"],
 			 "positiveEffects": ["Uplifted", "Pain relief", "Relaxed", "Drowsiness", "Hungry", "Tingly"],
 			 "negativeEffects": ["Paranoid", "Munchies"],
-			 "descriptionDetailed": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. Patients with menstrual disorders have reported instant decreases in pain and stress.",
-			 "descriptionAbbrev": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. Patients with menstrual disorders have reported instant decreases in pain and stress.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-frost_100x100.jpg"
 			},
@@ -37269,8 +37275,8 @@
 		 	 "conditions": ["Depression", "Fatigue","Stress", "Appetite Loss", "Nausea"],
 			 "positiveEffects": ["Balanced", "Energetic", "Relaxed", "Euphoric", "Conversational", "Hungry"],
 			 "negativeEffects": ["Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
-			 "descriptionAbbrev": "The high is the perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. Amazing visual crispness and clarity that makes you just want to stare at your shiny cell phone app or go out and explore nature.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The perfect mix of relaxing and energetic with extreme heavenly euphoria and absolutely no paranoia whatsoever. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mexican_100x100.jpg"
 			},
@@ -37953,8 +37959,8 @@
 		 	 "conditions": ["Nausea", "Appetite Loss", "Fibromyalgia"],
 			 "positiveEffects": ["Long Lasting", "Euphoric", "Potent", "Hungry", "Intense", "Mind + Body", "Relaxed" ],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "With a rich but subtle aroma, Black Betty launches you into soaring euphoria that may be considered too lofty for the novice consumer. Though certainly good for a lazy day, Black Betty is known to induce a forgetfulness so fierce that concentration and productivity can seem impossible for some.",
-			 "descriptionAbbrev": "With a rich but subtle aroma, Black Betty launches you into soaring euphoria that may be considered too lofty for the novice consumer. Though certainly good for a lazy day, Black Betty is known to induce a forgetfulness so fierce that concentration and productivity can seem impossible for some.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Though certainly good for a lazy day, Black Betty is known to induce a forgetfulness so fierce that concentration and productivity can seem impossible for some.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/black-betty_100x100.jpg"
 			},
@@ -40117,7 +40123,7 @@
 		 	], 
 		 	"taste": ["Sweet", "Berry", "Citrus", "Grape"],
 		 	 "conditions": ["Pain", "Fibromyalgia", "PTSD", "Depression"],
-			 "positiveEffects": ["Creative", "Clear headed", "Energetic", "Focused", "Euphoric", "Sexual", "Energetic", "Uplifted", "Pain relief"],
+			 "positiveEffects": ["Creative", "Clear headed", "Energetic", "Focused", "Euphoric", "Sexual", "Uplifted", "Pain relief"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "It's nice for keeping ones focus honed when stuck with the tedium of daily life but also great for any active/outdoor activities.",
@@ -43657,7 +43663,122 @@
 			 "descriptionAbbrev": "Cerebral energy balanced by an indica calm create a comfortable psychoactive experience conducive for creative and social activities.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sapphire-star_100x100.jpg"
+			},
+			{"strainId": 337,
+			 "strainName": "Jesus",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.24
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.50	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.78
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.24
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pine", "Spicy", "Herbal", "Nutty"],
+		 	 "conditions": ["Fibromyalgia", "Depression", "Anxiety", "Migraines", "PTSD"],
+			 "positiveEffects": ["Conversational", "Pain relief", "Happy", "Euphoric", "Relaxed", "Mellow", "Long Lasting"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Its cerebrally-focused effects give way to happy moods and outbursts of giggles, with soothing full-body relaxation trailing close behind.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/jesus_100x100.jpg"
 			}
+
 
 		];
 		
