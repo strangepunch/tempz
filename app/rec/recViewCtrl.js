@@ -75,6 +75,7 @@
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
     				vm.thereIsMore = false;
+    				vm.MoreOrLess = false;
     				vm.selectedSomething = 0;
     				vm.selectedTaste = null;
     				vm.strainSuggestions=[];
@@ -96,6 +97,7 @@
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
     				vm.thereIsMore = false;
+    				vm.MoreOrLess = false;
     				vm.selectedSomething = 0;
     				vm.selectedEffect = null;
     				vm.strainSuggestions=[];
@@ -117,6 +119,7 @@
     				$scope.showAnswer2 = false;
     				$scope.showAnswer3 = false;
     				vm.thereIsMore = false;
+    				vm.MoreOrLess = false;
     				vm.selectedSomething = 0;
     				vm.selectedStrain = null;
     				vm.strainSuggestions=[];
@@ -129,6 +132,7 @@
 			        vm.centerImage = "1.png";
 			        vm.discMode = "Select Mode";
 			        vm.thereIsMore = false;
+			        vm.MoreOrLess = false;
 			}
 
 		};
