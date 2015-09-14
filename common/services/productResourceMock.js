@@ -43778,8 +43778,6 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/jesus_100x100.jpg"
 			}
-
-
 		];
 		
 		var conditions = [
@@ -44145,7 +44143,7 @@
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
-			 "Property": ["Euphoriant", "Analgesic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Reduces Neuroinflammation", "Neurogenesis"],
+			 "Property": ["Euphoriant", "Analgesic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Reduces Neuroinflammation", "Neurogenesis", "Antidiabetic"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
 			 "lowTempC": 0,
@@ -44271,7 +44269,7 @@
 			},
 			{"productId": 11,
 			 "productName": "Caryophyllene", //compName
-			 "Property": ["Antiinflammatory", "Cytoprotective", "Antimalarial"],
+			 "Property": ["Antiinflammatory", "Cytoprotective", "Antimalarial", "Antidiabetic"],
 			 "lowTemp": 0,
 			 "highTemp": 246,
 			 "lowTempC": 0,
@@ -44327,7 +44325,7 @@
 			},
 			{"productId": 15,
 			 "productName": "Pinene", //compName
-			 "Property": ["Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor"],
+			 "Property": ["Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor", "Antidiabetic"],
 			 "lowTemp": 0,
 			 "highTemp": 313,
 			 "lowTempC": 0,
@@ -44474,7 +44472,7 @@
 			},
 			{"effectId": 5,
 			 "effectName": "Antioxidant", //compName
-			 "conditionsTreated": ["Stroke", "Coronary Heart Disease", "ALS", "Parkinsons", "Alzheimers", "Huntingtons", "Cancer"],
+			 "conditionsTreated": ["Stroke", "Coronary Heart Disease", "ALS", "Parkinsons", "Alzheimers", "Huntingtons", "Cancer", "Diabetes"],
  			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness among others.",
 			 "descriptionAbbrev":  "Fight free radicals",
 			 "tags": ["Antioxidant"],
@@ -44482,7 +44480,7 @@
 			},
 			{"effectId": 6,
 			 "effectName": "Neuropathic Analgesic", //compName
-			 "conditionsTreated": ["Chronic Back Pain", "Spinal Injuries"],
+			 "conditionsTreated": ["Chronic Back Pain", "Spinal Injuries", "Diabetes"],
  			 "descriptionDetailed": "Reduces pain associated with nerve damage including spinal injuries",
 			 "descriptionAbbrev":  "Reduce nerve pain", 
 			 "tags": ["nerve damage", "Neuropathic analgesic", "Neuropathic", "Analgesic"],
@@ -44498,7 +44496,7 @@
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
-			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Type II Diabetes", "Fibromyalgia"],
+			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Diabetes", "Fibromyalgia"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
@@ -44530,7 +44528,7 @@
 			},
 			{"effectId": 12,
 			 "effectName": "Vasorelaxant", //compName
-			 "conditionsTreated": ["High Blood Pressure", "Hypertension", "Coronary Heart Disease"],
+			 "conditionsTreated": ["High Blood Pressure", "Hypertension", "Coronary Heart Disease", "Diabetes"],
  			 "descriptionDetailed": "Reduces tension in blood vessel walls resultig in lower blood pressure and enhanced bloodflow in arteries, capillaries and blood vessels.",
 			 "descriptionAbbrev":  "Lower Blood Pressure",
 			 "tags": ["Vasorelaxant", "blood vessel", "High Blood Pressure", "Hypertension"],
