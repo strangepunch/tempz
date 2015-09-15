@@ -163,12 +163,21 @@
 							<div ng-click="getSuggestStrain()"> Show </div>
 						</div>
 					</div>
+
+					<div class="col-xs-12" ng-if="vm.MoreOrLess">
+						<span class="btn btn-filter" ng-style="vm.active1" ng-click="filterSuggestedStrains('all')">All</span>
+						<span class="btn btn-filter" ng-style="vm.active2"  ng-click="filterSuggestedStrains('s')">Sativa</span>
+						<span class="btn btn-filter" ng-style="vm.active3" ng-click="filterSuggestedStrains('i')">Indica</span>
+						<span class="btn btn-filter" ng-style="vm.active4"  ng-click="filterSuggestedStrains('h')">Hybrid</span>
+						<span class="btn btn-filter" ng-style="vm.active5" ng-click="filterSuggestedStrains('cbd')">CBD</span>
+						<span class="btn btn-filter" ng-style="vm.active6" ng-click="filterSuggestedStrains('thc')">THC</span>
+					</div> 
 					
 				</div>
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-if="vm.hasMatches" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:'-matches'|limitTo:vm.MoreStrains">
+		<div class = "panel" ng-if="vm.hasMatches" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
 					<bold>{{suggestedStrains.strnData.strainName}}</bold> <!--has {{suggestedStrains.matches}} matches-->

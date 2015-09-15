@@ -42,42 +42,85 @@
     vm.centerImage = strain.imageUrl;
     vm.modeName = strain.strainName;
     vm.discMode = strain.strainType;
-    vm.selectedMode = "Flavors you can expect";
 
     //display on/off list
     vm.Description = true
-    vm.Positive = false;
-    vm.Negative = false;
-    vm.Percent = false;
-    vm.Taste = true;
-    vm.Conditions = false;
-    vm.Vape = false;
-    vm.currentMode = 1;
 
     //initialize image for first screen
     vm.combineImgAndWords = [];
-    tasteResource.query(function(data){
-       vm.tasteImages = [];
-       for(var i=0; i<vm.currentStrain.taste.length; i++){
-          for(var x=0; x<data.length; x++){
-            if(vm.currentStrain.taste[i] === data[x].taste){
-              vm.tasteImages[i] = data[x].imageUrl;
-              vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
-            }
-          }
-       }
-    });
- 
+    switch($cookies.setDetail){
+      case "Effect":
+            vm.Positive = true;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = false;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 'Pos';
+            vm.selectedMode = "Positive effects";
+            recEffectResource.query(function(data){
+                vm.posEffImages = [];
+                vm.combineImgAndWords = [];
+                for(var i=0; i<vm.currentStrain.positiveEffects.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.positiveEffects[i] === data[x].recEffectName){
+                      vm.posEffImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.posEffImages[i], "name":vm.currentStrain.positiveEffects[i]};
+                    }
+                  }
+                }
+              });
+            break;
+      case "Flavor":
+            vm.Positive = false;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = true;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 1;
+            vm.selectedMode = "Flavors you can expect";
+            tasteResource.query(function(data){
+               vm.tasteImages = [];
+               for(var i=0; i<vm.currentStrain.taste.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.taste[i] === data[x].taste){
+                      vm.tasteImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                    }
+                  }
+               }
+            });
+            break;
+      default:
+            vm.Positive = false;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = true;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 1;
+            vm.selectedMode = "Flavors you can expect";
+            tasteResource.query(function(data){
+               vm.tasteImages = [];
+               for(var i=0; i<vm.currentStrain.taste.length; i++){
+                  for(var x=0; x<data.length; x++){
+                    if(vm.currentStrain.taste[i] === data[x].taste){
+                      vm.tasteImages[i] = data[x].imageUrl;
+                      vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                    }
+                  }
+               }
+            });
+            break;
+    }
+
     //Populate modes
     detailModeResource.query(function(data){
       vm.Modes = data;
       vm.ModeA = [data[0],data[1],data[2]];
       vm.ModeB = [data[3],data[4],data[5]];
     });
-
-    $scope.whereFrom = function(name){
-      console.log('where from name', name);
-    }
 
     //select a mode
     $scope.selectMode = function(mode){

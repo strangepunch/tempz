@@ -15,6 +15,7 @@
 	function EasyViewCtrl($scope, $cookies, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
 		$cookies.whereAmIFrom = "Med";
+		$cookies.setDetail = "Effect";
 		vm.userTempArrayU = [];
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
@@ -666,6 +667,9 @@
     		vm.thereIsMore = false;
     		vm.hasMatches = true;
 
+    		//set the orderBy value
+    		vm.orderByValue = '-matches'
+
     		//Find strains by using components from conditions search that would treat the conditions
     		var num = 0;
     		var isMatch = 0;
@@ -713,6 +717,8 @@
 					//vm.ShowStrains = false;
 				}
 
+				vm.originalData = vm.finalSuggestedStrains;
+
     		});
 
     		//console.log("vm.suggestedStains", vm.suggestedStains);
@@ -723,9 +729,15 @@
     	//vm.thereIsMore = false;
     	vm.MoreStrains = 3;
     	$scope.goMore = function(mode){
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
     		switch (mode){
     			case 'A1':
-    				vm.MoreStrains = vm.finalSuggestedStrains.length;
+    				vm.MoreStrains = vm.originalData.length;
     				vm.MoreOrLess = true;
 					break;
 				case 'A2':
@@ -738,6 +750,127 @@
 					break;
     		}
    
+    	}
+
+    	//filter the suggested strains
+    	$scope.filterSuggestedStrains = function(choice){
+    		var sortedData = [];
+    		var num = 0;
+    		switch (choice){
+    			case 's':
+    				//console.log('s');
+    				for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strnData.strainType === 'Sativa'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.finalSuggestedStrains = sortedData;
+    				vm.orderByValue = '-matches';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'i':
+					//console.log('i');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strnData.strainType === 'Indica'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.finalSuggestedStrains = sortedData;
+    				vm.orderByValue = '-matches';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'h':
+					//console.log('h');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strnData.strainType === 'Hybrid'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.finalSuggestedStrains = sortedData;
+    				vm.orderByValue = '-matches';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'cbd':
+					//console.log('cbd');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strnData.components[1].name === 'CBD' && vm.originalData[i].strnData.components[1].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.finalSuggestedStrains = sortedData;
+    				vm.orderByValue = '-strnData.components[1].value';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active6 = '';
+					break;
+				case 'thc':
+					//console.log('thc');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strnData.components[0].name === 'THC9' && vm.originalData[i].strnData.components[0].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.finalSuggestedStrains = sortedData;
+    				vm.orderByValue = '-strnData.components[0].value';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = {"font-weight": "bold", "color":"#009900"};
+					break;
+				case 'all':
+					//console.log('all', vm.originalData);
+					vm.finalSuggestedStrains = vm.originalData;
+					vm.orderByValue = '-matches';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				default:
+					//console.log('def', vm.finalSuggestedStrains);
+					vm.finalSuggestedStrains = vm.originalData;
+					vm.orderByValue = '-matches';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+    		}
+
     	}
 
     	//toggle the questions display on/off

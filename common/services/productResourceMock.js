@@ -2655,205 +2655,205 @@
 			 "recEffectName": "Euphoric",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Euphoric.png"
+			 "imageUrl": "images/Rec/Euphoric.png"
 			}, 
 			{"recEffectId": 2,
 			 "recEffectName": "Happy",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Happy.png"
+			 "imageUrl": "images/Rec/Happy.png"
 			},
 			{"recEffectId": 3,
 			 "recEffectName": "Uplifted",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Uplifted.png"
+			 "imageUrl": "images/Rec/Uplifted.png"
 			},
 			{"recEffectId": 4,
 			 "recEffectName": "Relaxed",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Relaxed.png"
+			 "imageUrl": "images/Rec/Relaxed.png"
 			},
 			{"recEffectId": 5,
 			 "recEffectName": "Creative",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Creative.png"
+			 "imageUrl": "images/Rec/Creative.png"
 			},
 			{"recEffectId": 6,
 			 "recEffectName": "Energetic",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "Energetic.png"
+			 "imageUrl": "images/Rec/Energetic.png"
 			},
 			{"recEffectId": 7,
 			 "recEffectName": "Long Lasting",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "LongLasting.png"
+			 "imageUrl": "images/Rec/LongLasting.png"
 			},
 			{"recEffectId": 8,
 			 "recEffectName": "Potent",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "VeryPotent.png"
+			 "imageUrl": "images/Rec/VeryPotent.png"
 			},
 			{"recEffectId": 9,
 			 "recEffectName": "Balanced",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "Balanced.png"
+			 "imageUrl": "images/Rec/Balanced.png"
 			},
 			{"recEffectId": 10,
 			 "recEffectName": "Calmness",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "MentalCalmness.png"
+			 "imageUrl": "images/Rec/MentalCalmness.png"
 			},
 			{"recEffectId": 11,
 			 "recEffectName": "Productive",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "Productive.png"
+			 "imageUrl": "images/Rec/Productive.png"
 			}, 
 			{"recEffectId": 12,
 			 "recEffectName": "Pain relief",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "PainRelief.png"
+			 "imageUrl": "images/Rec/PainRelief.png"
 			},
 			{"recEffectId": 13,
 			 "recEffectName": "Psychoactive",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "MildlyPsyc.png"
+			 "imageUrl": "images/Rec/MildlyPsyc.png"
 			},
 			{"recEffectId": 14,
 			 "recEffectName": "Mellow",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "Mellow.png"
+			 "imageUrl": "images/Rec/Mellow.png"
 			},
 			{"recEffectId": 15,
 			 "recEffectName": "Intense",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "IntenseEff.png"
+			 "imageUrl": "images/Rec/IntenseEff.png"
 			},
 			{"recEffectId": 16,
 			 "recEffectName": "Mind + Body",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "MindAndBodyBuzz.png"
+			 "imageUrl": "images/Rec/MindAndBodyBuzz.png"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Conversational",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "EnhanceConv.png"
+			 "imageUrl": "images/Rec/EnhanceConv.png"
 			},
 			{"recEffectId": 18,
 			 "recEffectName": "Therapeutic",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Therapeutic.png"
+			 "imageUrl": "images/Rec/Therapeutic.png"
 			},
 			{"recEffectId": 19,
 			 "recEffectName": "Tingly",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Tingly.png"
+			 "imageUrl": "images/Rec/Tingly.png"
 			},
 			{"recEffectId": 20,
 			 "recEffectName": "Hungry",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "EnhanceHung.png"
+			 "imageUrl": "images/Rec/EnhanceHung.png"
 			},
 			{"recEffectId": 21,
 			 "recEffectName": "Dry Mouth",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "DryMouth.png"
+			 "imageUrl": "images/Rec/DryMouth.png"
 			},
 			{"recEffectId": 22,
 			 "recEffectName": "Dry Eyes",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "DryEyes.png"
+			 "imageUrl": "images/Rec/DryEyes.png"
 			},
 			{"recEffectId": 23,
 			 "recEffectName": "Paranoid",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Paranoid.png"
+			 "imageUrl": "images/Rec/Paranoid.png"
 			},
 			{"recEffectId": 24,
 			 "recEffectName": "Dizzy",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Dizzy.png"
+			 "imageUrl": "images/Rec/Dizzy.png"
 			},
 			{"recEffectId": 25,
 			 "recEffectName": "Anxious",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Anxious.png"
+			 "imageUrl": "images/Rec/Anxious.png"
 			},
 			{"recEffectId": 26,
 			 "recEffectName": "Munchies",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Munchies.png"
+			 "imageUrl": "images/Rec/Munchies.png"
 			},
 			{"recEffectId": 27,
 			 "recEffectName": "Headache",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "Headache.png"
+			 "imageUrl": "images/Rec/Headache.png"
 			},
 			{"recEffectId": 28,
 			 "recEffectName": "Drowsiness",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "EnhanceDrow.png"
+			 "imageUrl": "images/Rec/EnhanceDrow.png"
 			},
 			{"recEffectId": 29,
 			 "recEffectName": "Couch Lock",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "CouchLocked.png"
+			 "imageUrl": "images/Rec/CouchLocked.png"
 			},
 			{"recEffectId": 30,
 			 "recEffectName": "Clear headed",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "ClearHeaded.png"
+			 "imageUrl": "images/Rec/ClearHeaded.png"
 			},
 			{"recEffectId": 31,
 			 "recEffectName": "Sexual",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "EnhanceSexu.png"
+			 "imageUrl": "images/Rec/EnhanceSexu.png"
 			},
 			{"recEffectId": 32,
 			 "recEffectName": "Giggly",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Md",
-			 "imageUrl": "Giggly.png"
+			 "imageUrl": "images/Rec/Giggly.png"
 			},
 			{"recEffectId": 33,
 			 "recEffectName": "Less Social",  
 			 "recEffectType": "N",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "LessSocial.png"
+			 "imageUrl": "images/Rec/LessSocial.png"
 			},
 			{"recEffectId": 34,
 			 "recEffectName": "Focused",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Lo",
-			 "imageUrl": "Focused.png"
+			 "imageUrl": "images/Rec/Focused.png"
 			}
 		];
 
@@ -2864,7 +2864,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Earthy.png"
+			"imageUrl": "images/Rec/Earthy.png"
 		},
 		{ 
 			"tasteId": 2,
@@ -2872,7 +2872,7 @@
 			"compound": "Pinene",
 			"tempF": "313",
 			"tempC": "156",			
-			"imageUrl": "Pine.png"
+			"imageUrl": "images/Rec/Pine.png"
 		},
 		{ 
 			"tasteId": 3,
@@ -2880,7 +2880,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Pungent.png"
+			"imageUrl": "images/Rec/Pungent.png"
 		},
 		{ 
 			"tasteId": 4,
@@ -2888,7 +2888,7 @@
 			"compound": "Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Woody.png"
+			"imageUrl": "images/Rec/Woody.png"
 		},
 		{ 
 			"tasteId": 5,
@@ -2896,7 +2896,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Sage.png"
+			"imageUrl": "images/Rec/Sage.png"
 		},
 		{ 
 			"tasteId": 6,
@@ -2904,7 +2904,7 @@
 			"compound": "Linalool",
 			"tempF": "388",
 			"tempC": "198",			
-			"imageUrl": "Sweet.png"
+			"imageUrl": "images/Rec/Sweet.png"
 		},
 		{ 
 			"tasteId": 7,
@@ -2912,7 +2912,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Berry.png"
+			"imageUrl": "images/Rec/Berry.png"
 		},
 		{ 
 			"tasteId": 8,
@@ -2920,7 +2920,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Tropical.png"
+			"imageUrl": "images/Rec/Tropical.png"
 		},
 		{ 
 			"tasteId": 9,
@@ -2928,7 +2928,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",
-			"imageUrl": "Mango.png"
+			"imageUrl": "images/Rec/Mango.png"
 		},
 		{ 
 			"tasteId": 10,
@@ -2936,7 +2936,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Diesel.png"
+			"imageUrl": "images/Rec/Diesel.png"
 		},
 		{ 
 			"tasteId": 11,
@@ -2944,7 +2944,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Skunk.png"
+			"imageUrl": "images/Rec/Skunk.png"
 		},
 		{ 
 			"tasteId": 12,
@@ -2952,7 +2952,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Honey.png"
+			"imageUrl": "images/Rec/Honey.png"
 		},
 		{ 
 			"tasteId": 13,
@@ -2960,7 +2960,7 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",		
-			"imageUrl": "Citrus.png"
+			"imageUrl": "images/Rec/Citrus.png"
 		},
 		{ 
 			"tasteId": 14,
@@ -2968,7 +2968,7 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",		
-			"imageUrl": "Lemon.png"
+			"imageUrl": "images/Rec/Lemon.png"
 		},
 		{ 
 			"tasteId": 15,
@@ -2976,7 +2976,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Tea.png"
+			"imageUrl": "images/Rec/Tea.png"
 		},
 		{ 
 			"tasteId": 16,
@@ -2984,7 +2984,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Strawberry.png"
+			"imageUrl": "images/Rec/Strawberry.png"
 		},
 		{ 
 			"tasteId": 17,
@@ -2992,7 +2992,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Pineapple.png"
+			"imageUrl": "images/Rec/Pineapple.png"
 		},
 		{ 
 			"tasteId": 18,
@@ -3000,7 +3000,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Cheese.png"
+			"imageUrl": "images/Rec/Cheese.png"
 		},
 		{ 
 			"tasteId": 19,
@@ -3008,7 +3008,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Grape.png"
+			"imageUrl": "images/Rec/Grape.png"
 		},
 		{ 
 			"tasteId": 20,
@@ -3016,7 +3016,7 @@
 			"compound": "Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Mint.png"
+			"imageUrl": "images/Rec/Mint.png"
 		},
 		{ 
 			"tasteId": 21,
@@ -3024,7 +3024,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Chemical.png"
+			"imageUrl": "images/Rec/Chemical.png"
 		},
 		{ 
 			"tasteId": 22,
@@ -3032,7 +3032,7 @@
 			"compound": "Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Spicy.png"
+			"imageUrl": "images/Rec/Spicy.png"
 		},
 		{ 
 			"tasteId": 23,
@@ -3040,7 +3040,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Herbal.png"
+			"imageUrl": "images/Rec/Herbal.png"
 		},
 		{ 
 			"tasteId": 24,
@@ -3048,7 +3048,7 @@
 			"compound": "Linalool",
 			"tempF": "388",
 			"tempC": "198",			
-			"imageUrl": "Flowery.png"
+			"imageUrl": "images/Rec/Flowery.png"
 		}, 
 		{ 
 			"tasteId": 25,
@@ -3056,7 +3056,7 @@
 			"compound": "Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Pepper.png"
+			"imageUrl": "images/Rec/Pepper.png"
 		},
 		{ 
 			"tasteId": 26,
@@ -3064,7 +3064,7 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",			
-			"imageUrl": "Grapefruit.png"
+			"imageUrl": "images/Rec/Grapefruit.png"
 		},
 		{ 
 			"tasteId": 27,
@@ -3072,7 +3072,7 @@
 			"compound": "Linalool",
 			"tempF": "388",
 			"tempC": "198",			
-			"imageUrl": "Fruity.png"
+			"imageUrl": "images/Rec/Fruity.png"
 		},
 		{ 
 			"tasteId": 28,
@@ -3080,7 +3080,7 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",			
-			"imageUrl": "Orange.png"
+			"imageUrl": "images/Rec/Orange.png"
 		},
 		{ 
 			"tasteId": 29,
@@ -3088,7 +3088,7 @@
 			"compound": "Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Hash.png"
+			"imageUrl": "images/Rec/Hash.png"
 		},
 		{ 
 			"tasteId": 30,
@@ -3096,7 +3096,7 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",			
-			"imageUrl": "Sour.png"
+			"imageUrl": "images/Rec/Sour.png"
 		},
 		{ 
 			"tasteId": 31,
@@ -3104,7 +3104,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Chestnut.png"
+			"imageUrl": "images/Rec/Chestnut.png"
 		},
 		{ 
 			"tasteId": 32,
@@ -3112,7 +3112,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Blueberry.png"
+			"imageUrl": "images/Rec/Blueberry.png"
 		},
 		{ 
 			"tasteId": 33,
@@ -3120,7 +3120,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Coffee.png"
+			"imageUrl": "images/Rec/Coffee.png"
 		},
 		{ 
 			"tasteId": 34,
@@ -3128,7 +3128,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Dank.png"
+			"imageUrl": "images/Rec/Dank.png"
 		},
 		{ 
 			"tasteId": 35,
@@ -3136,15 +3136,15 @@
 			"compound": "Limonene",
 			"tempF": "351",
 			"tempC": "177",			
-			"imageUrl": "Lime.png"
+			"imageUrl": "images/Rec/Lime.png"
 		},
 		{ 
 			"tasteId": 36,
 			"taste": "Menthol",
-			"compound": "Caryophyllene",
+			"compound": "images/Rec/Caryophyllene",
 			"tempF": "246",
 			"tempC": "119",			
-			"imageUrl": "Menthol.png"
+			"imageUrl": "images/Rec/Menthol.png"
 		},
 		{ 
 			"tasteId": 37,
@@ -3152,7 +3152,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Plum.png"
+			"imageUrl": "images/Rec/Plum.png"
 		},
 		{ 
 			"tasteId": 38,
@@ -3160,7 +3160,7 @@
 			"compound": "Linalool",
 			"tempF": "388",
 			"tempC": "198",			
-			"imageUrl": "Lavender.png"
+			"imageUrl": "images/Rec/Lavender.png"
 		},
 		{ 
 			"tasteId": 39,
@@ -3168,7 +3168,7 @@
 			"compound": "Myrcene",
 			"tempF": "334",
 			"tempC": "168",			
-			"imageUrl": "Exotic.png"
+			"imageUrl": "images/Rec/Exotic.png"
 		},
 		{ 
 			"tasteId": 40,
@@ -3176,7 +3176,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Nutty.png"
+			"imageUrl": "images/Rec/Nutty.png"
 		},
 		{ 
 			"tasteId": 41,
@@ -3184,7 +3184,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "TreeFruit.png"
+			"imageUrl": "images/Rec/TreeFruit.png"
 		},
 		{ 
 			"tasteId": 42,
@@ -3192,7 +3192,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Chocolate.png"
+			"imageUrl": "images/Rec/Chocolate.png"
 		},
 		{ 
 			"tasteId": 44,
@@ -3200,7 +3200,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Vanilla.png"
+			"imageUrl": "images/Rec/Vanilla.png"
 		},
 		{ 
 			"tasteId": 45,
@@ -3208,7 +3208,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Butter.png"
+			"imageUrl": "images/Rec/Butter.png"
 		},
 		{ 
 			"tasteId": 46,
@@ -3216,7 +3216,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "Apple.png"
+			"imageUrl": "images/Rec/Apple.png"
 		}
 
 	];

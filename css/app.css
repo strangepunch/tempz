@@ -336,7 +336,6 @@ html, body {
 #easyView .row-padding{
 	margin-left: 20px;
 }
-
 #easyView .btn-primary{
 	border-style: solid;
 	border-color: white;
@@ -346,6 +345,12 @@ html, body {
 	color:black;
 }
 #easyView .btn:hover {
+  	color:#009900;
+}
+#easyView .btn:visited {
+  	color:#009900;
+}
+#easyView .btn:active {
   	color:#009900;
 }
 #easyView .panel-buttons{
@@ -358,6 +363,10 @@ html, body {
 	margin-top: 10px;
 	color: white;
 } 
+#easyView .btn-filter{
+	font-size: 0.8em;
+	margin-left: -5px;
+}
 
 #easyView bold{
 	font-weight: bolder;
@@ -533,6 +542,12 @@ html, body {
 	color:black;
 }
 #recView .btn:hover {
+  	color:#009900;
+}
+#recView .btn:visited {
+  	color:#009900;
+}
+#recView .btn:active {
   	color:#009900;
 }
 

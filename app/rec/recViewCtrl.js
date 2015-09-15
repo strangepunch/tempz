@@ -16,12 +16,13 @@
 	function RecViewCtrl($scope, $cookies, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
 		var vm = this;
 		$cookies.whereAmIFrom = "Rec";
+		$cookies.setDetail = "Flavor";
 		//set the ng-style of the mode selection
 		vm.styleMed={"font-size": "0.8em"};
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
 
 		//initiate center image for first time entry
-		vm.centerImage = "1.png";
+		vm.centerImage = "images/Rec/1.png";
 		vm.modeName = "Flavor";
 		vm.discMode = "Taste";
 		vm.taste = true;
@@ -63,7 +64,7 @@
 			switch(mode) {
 			    case 1:
 			    	vm.modeName = "Flavor";
-			    	vm.centerImage = "1.png";
+			    	vm.centerImage = "images/Rec/1.png";
 			    	vm.discMode = "Taste";
 			    	vm.taste = true;
 					vm.strain = false;
@@ -82,10 +83,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Flavor";
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
-			    	vm.centerImage = "2.png";
+			    	vm.centerImage = "images/Rec/2.png";
 			    	vm.discMode = "Feel";
 			    	vm.taste = false;
 					vm.strain = false;
@@ -104,10 +106,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Effect";
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
-			    	vm.centerImage = "3.png";
+			    	vm.centerImage = "images/Rec/3.png";
 			    	vm.discMode = "Strain";
 			    	vm.taste = false;
 					vm.strain = true;
@@ -126,10 +129,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Effect";
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
-			        vm.centerImage = "1.png";
+			        vm.centerImage = "images/Rec/1.png";
 			        vm.discMode = "Select Mode";
 			        vm.thereIsMore = false;
 			        vm.MoreOrLess = false;
@@ -239,6 +243,7 @@
 	     	for(var i=0; i<vm.strainNames.length; i++){
 	     		if(vm.strainNames[i].strainName === name){
 	     			vm.strainT = vm.strainNames[i].strainType;
+	     			vm.centerImage = vm.strainNames[i].imageUrl;
 	     		}
 	     	}
 	    }
@@ -343,6 +348,7 @@
 	    			vm.thereIsMore = false;	
 	    		}
 				//console.log("list of Seached", vm.strainSuggestions);
+				vm.originalData = vm.strainSuggestions;
 			});
 
 		};
@@ -380,6 +386,7 @@
 	    			vm.thereIsMore = false;	
 	    		}
 				//console.log("list of Seached", vm.strainSuggestions);
+				vm.originalData = vm.strainSuggestions;
 			});
 
 		};
@@ -477,6 +484,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/1.png";
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
@@ -486,6 +494,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/2.png";
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
@@ -495,6 +504,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/3.png";
 					break;
     		}
    
@@ -502,18 +512,24 @@
 
     	//display more
     	$scope.goMore = function(mode){
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
 
     		switch (mode){
     			case 'A1':
-    				vm.MoreStrains = vm.strainSuggestions.length;
+    				vm.MoreStrains = vm.originalData.length;
     				vm.MoreOrLess = true;
 					break;
 				case 'A2':
-					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreStrains = vm.originalData.length;
 					vm.MoreOrLess = true;
 					break;
 				case 'A3':
-					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreStrains = vm.originalData.length;
 					vm.MoreOrLess = true;
 					break;
 				default:
@@ -526,6 +542,8 @@
 
     	//the GO button
     	$scope.goEasy = function(mode){
+
+    		vm.orderByValue = 'strainName';
 
     		//make sure user input a medical condition
     		if(vm.selectedSomething === 0){
@@ -558,6 +576,127 @@
     		}
 
     	};
+
+    	//filter the suggested strains
+    	$scope.filterSuggestedStrains = function(choice){
+    		var sortedData = [];
+    		var num = 0;
+    		switch (choice){
+    			case 's':
+    				//console.log('s');
+    				for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Sativa'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'i':
+					//console.log('i');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Indica'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'h':
+					//console.log('h');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Hybrid'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				case 'cbd':
+					//console.log('cbd');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].components[1].name === 'CBD' && vm.originalData[i].components[1].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = '-components[1].value';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active6 = '';
+					break;
+				case 'thc':
+					//console.log('thc');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].components[0].name === 'THC9' && vm.originalData[i].components[0].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = '-components[0].value';
+    				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = {"font-weight": "bold", "color":"#009900"};
+					break;
+				case 'all':
+					//console.log('all', vm.originalData);
+					vm.strainSuggestions = vm.originalData;
+					vm.orderByValue = 'strainName';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+				default:
+					//console.log('def', vm.finalSuggestedStrains);
+					vm.strainSuggestions = vm.originalData;
+					vm.orderByValue = 'strainName';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
+					break;
+    		}
+
+    	}
 
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){
