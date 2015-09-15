@@ -561,6 +561,10 @@ html, body {
 	margin-top: 10px;
 	color: white;
 }
+#recView .btn-filter{
+	font-size: 0.8em;
+	margin-left: -5px;
+}
 
 #recView bold{
 	font-weight: bolder;
