@@ -46,14 +46,36 @@
 
     //display on/off list
     vm.Description = true
-    vm.Positive = false;
-    vm.Negative = false;
-    vm.Percent = false;
-    vm.Taste = true;
-    vm.Conditions = false;
-    vm.Vape = false;
-    vm.currentMode = 1;
-
+    switch($cookies.setDetail){
+      case "Effect":
+            vm.Positive = true;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = false;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 'Pos';
+            break;
+      case "Flavor":
+            vm.Positive = false;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = true;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 1;
+            break;
+      default:
+            vm.Positive = false;
+            vm.Negative = false;
+            vm.Percent = false;
+            vm.Taste = true;
+            vm.Conditions = false;
+            vm.Vape = false;
+            vm.currentMode = 1;
+            break;
+    }
+  
     //initialize image for first screen
     vm.combineImgAndWords = [];
     tasteResource.query(function(data){

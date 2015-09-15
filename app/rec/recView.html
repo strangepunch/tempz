@@ -175,11 +175,21 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12"> Suggested for <bold>{{vm.selectedTaste}}</bold> taste: </div>
+
+					<div class="col-xs-12" ng-if='vm.MoreOrLess'>
+						<span>filters:</span>
+						<span ng-click="filterSuggestedStrains('s')"><img src="images/Rec/s.png"></span>
+						<span ng-click="filterSuggestedStrains('i')"><img src="images/Rec/i.png"></span>
+						<span ng-click="filterSuggestedStrains('h')"><img src="images/Rec/h.png"></span>
+						<span ng-click="filterSuggestedStrains('cbd')"><img src="images/Rec/cbd.png"></span>
+						<span ng-click="filterSuggestedStrains('thc')"><img src="images/Rec/thc.png"></span>
+						<span ng-click="filterSuggestedStrains('all')"><img src="images/Rec/all.png"></span>
+					</div> 
 				</div>
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
+		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
 					<bold>{{suggestedStrains.strainName}}</bold>
@@ -225,11 +235,21 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12"> Suggested for <bold>{{vm.selectedEffect}}</bold> effect: </div>
+
+					<div class="col-xs-12" ng-if='vm.MoreOrLess'>
+						<span>filters:</span>
+						<span ng-click="filterSuggestedStrains('s')"><img src="images/Rec/s.png"></span>
+						<span ng-click="filterSuggestedStrains('i')"><img src="images/Rec/i.png"></span>
+						<span ng-click="filterSuggestedStrains('h')"><img src="images/Rec/h.png"></span>
+						<span ng-click="filterSuggestedStrains('cbd')"><img src="images/Rec/cbd.png"></span>
+						<span ng-click="filterSuggestedStrains('thc')"><img src="images/Rec/thc.png"></span>
+						<span ng-click="filterSuggestedStrains('all')"><img src="images/Rec/all.png"></span>
+					</div> 
 				</div>
 			</div> 
 		</div>
 		
-		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
+		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
 					<bold>{{suggestedStrains.strainName}}</bold>

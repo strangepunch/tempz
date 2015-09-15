@@ -16,6 +16,7 @@
 	function RecViewCtrl($scope, $cookies, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
 		var vm = this;
 		$cookies.whereAmIFrom = "Rec";
+		$cookies.setDetail = "Flavor";
 		//set the ng-style of the mode selection
 		vm.styleMed={"font-size": "0.8em"};
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
@@ -82,6 +83,7 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Flavor";
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
@@ -104,6 +106,7 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Effect";
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
@@ -126,6 +129,7 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
+					$cookies.setDetail = "Effect";
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
@@ -343,6 +347,7 @@
 	    			vm.thereIsMore = false;	
 	    		}
 				//console.log("list of Seached", vm.strainSuggestions);
+				vm.originalData = vm.strainSuggestions;
 			});
 
 		};
@@ -380,6 +385,7 @@
 	    			vm.thereIsMore = false;	
 	    		}
 				//console.log("list of Seached", vm.strainSuggestions);
+				vm.originalData = vm.strainSuggestions;
 			});
 
 		};
@@ -505,15 +511,15 @@
 
     		switch (mode){
     			case 'A1':
-    				vm.MoreStrains = vm.strainSuggestions.length;
+    				vm.MoreStrains = vm.originalData.length;
     				vm.MoreOrLess = true;
 					break;
 				case 'A2':
-					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreStrains = vm.originalData.length;
 					vm.MoreOrLess = true;
 					break;
 				case 'A3':
-					vm.MoreStrains = vm.strainSuggestions.length;
+					vm.MoreStrains = vm.originalData.length;
 					vm.MoreOrLess = true;
 					break;
 				default:
@@ -526,6 +532,8 @@
 
     	//the GO button
     	$scope.goEasy = function(mode){
+
+    		vm.orderByValue = 'strainName';
 
     		//make sure user input a medical condition
     		if(vm.selectedSomething === 0){
@@ -558,6 +566,85 @@
     		}
 
     	};
+
+    	//filter the suggested strains
+    	$scope.filterSuggestedStrains = function(choice){
+    		var sortedData = [];
+    		var num = 0;
+    		switch (choice){
+    			case 's':
+    				//console.log('s');
+    				for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Sativa'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+					break;
+				case 'i':
+					//console.log('i');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Indica'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+					break;
+				case 'h':
+					//console.log('h');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].strainType === 'Hybrid'){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = 'strainName';
+    				//console.log('sortedData', sortedData);
+					break;
+				case 'cbd':
+					//console.log('cbd');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].components[1].name === 'CBD' && vm.originalData[i].components[1].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = '-components[1].value';
+    				//console.log('sortedData', sortedData);
+					break;
+				case 'thc':
+					//console.log('thc');
+					for(var i=0;i<vm.originalData.length;i++){
+    					if(vm.originalData[i].components[0].name === 'THC9' && vm.originalData[i].components[0].value > 0){
+    						sortedData[num] = vm.originalData[i];
+    						num++;
+    					}
+    				}
+    				vm.strainSuggestions = sortedData;
+    				vm.orderByValue = '-components[0].value';
+    				//console.log('sortedData', sortedData);
+					break;
+				case 'all':
+					//console.log('all', vm.originalData);
+					vm.strainSuggestions = vm.originalData;
+					vm.orderByValue = 'strainName';
+					break;
+				default:
+					//console.log('def', vm.finalSuggestedStrains);
+					vm.strainSuggestions = vm.originalData;
+					vm.orderByValue = 'strainName';
+					break;
+    		}
+
+    	}
 
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){
