@@ -579,12 +579,6 @@
 	          default:
 	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
 	        }
-	        /**
-    		if($cookies.myTheme === "css/beachTheme.css"){
-    			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-    		}else{
-    			vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		}**/
     		
 			for(var i=0; i<vm.effectsEnglish.length; i++){
 				if(cond === vm.effectsEnglish[i]){
@@ -611,7 +605,7 @@
     		$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 			vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
     	}
-    	vm.styleEffSelected = function(dex){
+    	$scope.styleEffSelected = function(dex){
     		switch (dex){
     			case 0:
 	    			if(vm.currentSelectEffNum === dex){
@@ -658,8 +652,8 @@
     	//The button "Show" in suggested strain in the second screen
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
-    		$scope.loading = true;
     		ngProgress.start();
+    		$scope.loading = true;
 
     		//make sure somethings are hidden at the beginning
     		vm.ShowStrains = false; //show button off after it's pressed once
@@ -676,7 +670,6 @@
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
     		strainResource.query(function(data){
-    			$scope.loading = false;
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
     					for (var y=0; y < data[x].components.length; y++){
@@ -700,6 +693,7 @@
     					isMatch = 0;
     				}
     			}
+    			$scope.loading = false;
     			ngProgress.complete();
 
     			//decide if the "More" button will show or not
