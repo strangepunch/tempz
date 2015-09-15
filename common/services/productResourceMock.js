@@ -4348,7 +4348,7 @@
 			},
 			{"strainId": 188,
 			 "strainName": "Kali Mist",
-			 "strainType": "Hybrid",
+			 "strainType": "Sativa",
 			 "imageUrl": "images/strains/kali-mist_100x100.jpg"
 
 			},
@@ -5263,6 +5263,40 @@
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/gorilla-glue--4_100x100.jpg"
 			 	
+			}, 
+			{"strainId": 342,
+			 	"strainName": "Holy Grail Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/holy-grail-kush_100x100_733a.jpg"
+			 	
+			}, 
+			{"strainId": 343,
+			 	"strainName": "Purple Nepal",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/purple-nepal_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 344,
+			 	"strainName": "Super Jack",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/super-jack_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 345,
+			 	"strainName": "Clinical OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/og-kush2_100x100.jpg"
+			 	
+			}, 
+			{"strainId": 346,
+			 	"strainName": "Diesel Cookies",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/girl-scout-cookies2_100x100.jpg"
+			}, 
+			{"strainId": 347,
+			 	"strainName": "Dreamweaver",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/dreamweaver.jpg"
 			}
 		]; 
 
@@ -5389,15 +5423,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 14.68
+			 		"value": 13.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.17
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.51
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -5425,19 +5459,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.57
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5480,21 +5514,21 @@
 			 		"value": 0.0
 			 	},
 			 	{ 
-				 		"name": "Humulene", 
-				 		"value": 0.00
+			 		"name": "Humulene", 
+			 		"value": 0.12
 				},
 				{ 
-				 		"name": "Terpinolene", 
-				 		"value": 0.00
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
 				}
 			 ],
 			 "taste": ["Earthy","Woody","Pungent"],	 	
 		 	 "conditions": ["Anxiety","Depression", "Stress", "Pain", "Insomnia"],
-			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-			 "descriptionDetailed": "A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed", "Creative", "Productive"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
-			 "tags": ["Hybrid", "White Widow"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/white-widow_100x100.jpg"
 			},
 			{"strainId": 3,
@@ -6643,15 +6677,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.10
+			 		"value": 21.92
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.18
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -6679,15 +6713,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.08
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 2.82
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -6699,7 +6733,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6739,13 +6773,13 @@
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.16
 				} 	
 		 	], 
 		 	"taste": ["Citrus", "Pine", "Sweet"],
-		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Conversational", "Therapeutic", "Energetic", "Relaxed", "Mellow"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+		 	 "conditions": ["Stress", "Depression", "Appetite Loss", "Anorexia", "Pain", "Fatigue"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Hungry", "Conversational", "Therapeutic", "Energetic", "Relaxed", "Mellow"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "This hybrid cross of Jack Herer and G13 Haze induces unencumbered cerebral effects perfect for stimulating creativity and conversation.",
 			 "descriptionAbbrev":  "Cherished for both its therapeutic effects and enjoyable euphoric buzz.",
 			 "tags": ["Hybrid", "XJ-13"],
@@ -8389,19 +8423,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.72
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.08
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8409,7 +8443,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8445,18 +8479,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.30
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.09
 				} 	
 		 	],  
 		 	"taste": ["Sweet", "Skunk", "Pungent"],
-		 	 "conditions": ["Pain", "Asthma", "Fibromyalgia", "Stress", "Appetite Loss", "Nausea", "Muscle Spasms"],
-			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Hungry", "Euphoric"],
+		 	 "conditions": ["Anorexia", "Anxiety", "Pain", "Asthma", "Depression", "Fibromyalgia", "Stress", "Appetite Loss", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Productive", "Hungry", "Euphoric", "Creative"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy"],
-			 "descriptionDetailed": "Has a fruity taste and carries intense stoney effects. If you suffer from chronic pains, experience depression, can't eat or have any other health issue, consider adding Shark Shock cannabis into your daily routine.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Has a fruity taste and carries intense stoney effects. If you suffer from chronic pains, experience depression, can't eat or have any other health issue, consider adding Shark Shock cannabis into your daily routine.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/shark-shock_100x100.jpg"
@@ -10839,16 +10873,16 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.19
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 1.06
 				} 	
 		 	],  
 		 	"taste": ["Earthy", "Diesel", "Pungent"],
-		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Migraines", "Headache", "PMS", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Creative"],
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Migraines", "PMS", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "Between its mysterious origin, ambiguous genetics, and the plethora of successful crosses the strain has produced, Chemdawg has practically secured itself a permanent place in the cannabis hall of fame.",
 			 "descriptionAbbrev":  "Expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
@@ -10865,11 +10899,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.12
+			 		"value": 0.33
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.02
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -10897,19 +10931,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.20
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.20
+			 		"value": 0.98
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.30
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10917,7 +10951,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10953,20 +10987,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.25
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.29
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"], 
-		 	 "conditions": ["Anorexia","Depression", "Stress", "Pain", "Fatigue", "Appetite Loss"],
-			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
+		 	 "conditions": ["Anorexia","Depression", "Anxiety", "Bipolar", "Stress", "Pain", "Fatigue", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Uplifted", "Euphoric", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
-			 "descriptionDetailed": "Sensi Seeds created Jack Herer hoping to capture both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, Clear headed, and creative.",
-			 "tags": ["Sativa", "Jack Herer", "Jack", "Bipolar", "Stress", "Depression", "Pain", "Fatigue", "Lack of Appetite", "Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/jack-herer_100x100.jpg"
 			},
 			{"strainId": 51,
@@ -11067,20 +11101,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.43
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.09
 				} 	
 		 	],  
 		 	"taste": ["Sweet", "Citrus", "Orange"],
-		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Fatigue", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Creative", "Conversational"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
-			 "descriptionDetailed": "Jillybean is described as being an upbeat and happy hybrid, with flavors of tangy orange and mango.",
+		 	 "conditions": ["ADD/ADHD", "Anxiety", "Bipolar", "Depression", "Insomnia", "Pain", "PMS", "Stress"],
+			 "positiveEffects": ["Happy","Euphoric", "Energetic", "Pain relief", "Creative", "Productive"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A top choice for creative minds and social butterflies looking for unencumbered euphoria during daytime hours.",
-			 "tags": ["Hybrid", "Jillybean", "Bipolar", "PMS"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/jillybean_100x100.jpg"
 			},
 			{"strainId": 52,
@@ -11239,15 +11273,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.75
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -11259,7 +11293,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -11295,20 +11329,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.18
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 1.82
 				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Sweet"], 
-		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress", "Insomnia"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Bipolar", "Depression", "Appetite Loss", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
-			 "descriptionDetailed": "Its buds appear to be green and yellow with amber hairs on the trichomes, giving it the yellow tint.",
-			 "descriptionAbbrev":  "Has been characterized as smelling of fresh peeled lemon slices with a similar taste.",
-			 "tags": ["Lemon", "Citrus",  "Sweet"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Lemon Haze Has been characterized as smelling of fresh peeled lemon slices with a similar taste.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-haze_100x100.jpg"
 			},
 			{"strainId": 54,
@@ -11431,15 +11465,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.02
+			 		"value": 28.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.38
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.06
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -11467,15 +11501,15 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.34
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 2.07
+			 		"value": 1.997
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 1.62
+			 		"value": 1.01
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
@@ -11487,7 +11521,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.22
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -11523,17 +11557,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.52
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.05
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Chocolate", "Lemon"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Migraines", "Insomnia", "Hypertension", "Fibromyalgia", "Depression", "Bipolar", "Arthritis", "Anxiety"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Motivated"],
-			 "negativeEffects": ["Conversational"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Productive"],
+			 "negativeEffects": ["Conversational", "Drowsiness"],
 			 "descriptionDetailed": "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "descriptionAbbrev":  "The result of a Mikado daddy and a clone-only Green Crack mother that came from British Columbia.",
 			 "tags": [""],
@@ -11637,17 +11671,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.33
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.37
 				} 	
 		 	],   
 		 	"taste": ["Lemon", "Woody"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Bipolar", "Depression", "Insomnia", "Migraines", "Pain", "PMS", "Stress", "Fibromyalgia", "Nausea"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Hungry", "Pain relief"],
-			 "negativeEffects": ["Munchies"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive", "Hungry", "Pain relief"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
 			 "descriptionAbbrev":  "This is a perfect daytime strain, energetic but not too racy, and great for helping relieve stress and promoting a sense of peace and relaxation.",
 			 "tags": ["Lemon"],
@@ -12115,7 +12149,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.89
+			 		"value": 15.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -12123,7 +12157,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.57
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -12151,19 +12185,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.73
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.76
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12171,7 +12205,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12207,7 +12241,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.47
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -12457,7 +12491,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.10
+			 		"value": 16.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -12465,7 +12499,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.71
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -12493,19 +12527,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.79
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.17
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12513,7 +12547,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12549,17 +12583,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.32
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	],   
 		 	"taste": ["Sweet", "Berry", "Earthy"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Bipolar", "Depression", "Muscle Spasms", "Pain", "Stress", "Fatigue", "Headache"],
-			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Energetic", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Energetic", "Productive", "Relaxed", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "This nostalgic sativa staple remains cherished for its high-energy cerebral stimulation that awakens creativity and blissful contentment throughout the day.",
 			 "descriptionAbbrev":  "Delivers a dreamy burst of euphoria that brings veteran consumers back to their psychedelic heyday.",
 			 "tags": ["Sativa", "Purple Haze", "Haze", "Bipolar"],
@@ -12722,19 +12756,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.59
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.88
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12742,7 +12776,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12778,20 +12812,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.21
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.03
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Citrus", "Lemon"],
-		 	 "conditions": ["Depression", "Stress", "Pain", "Fatigue", "Headache", "Bipolar", "Nausea", "PMS"],
-			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Focused"],
-			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Headache"],
-			 "descriptionDetailed": "Raskal OG smells of lemon and pine with a musty and grassy taste.",
+		 	 "conditions": ["Depression", "Stress", "Pain", "Fatigue", "Anorexia",  "Muscle Spasms", "Headache", "Bipolar", "Nausea", "PMS", "Anxiety"],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Relaxed", "Productive", "Creative", "Uplifted", "Focused"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Headache", "Munchies"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Raskal OG smells of lemon and pine with a musty and grassy taste.",
-			 "tags": ["Hybrid", "Raskal OG", "OG", "Bipolar", "Nausea", "PMS"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/raskal-og_100x100.jpg"
 			},
 			{"strainId": 67,
@@ -13712,15 +13746,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 26.05
+			 		"value": 17.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.39
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.08
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -13748,19 +13782,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 1.30
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 2.33
+			 		"value": 2.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.12
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.21
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -13804,7 +13838,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.50
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -13813,7 +13847,7 @@
 		 	], 
 		 	"taste": ["Tropical", "Pungent"],
 		 	 "conditions": ["Stress", "PMS", "Pain", "Appetite Loss", "Depression", "Bipolar", "Anxiety", "Anorexia"],
-			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Motivated"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Productive", "Creative"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "Tropical OG has an exceptional high which is very clear & uplifting. Tropical OG offers a very good strength and a mixed physical and mental medicinal effect.",
 			 "descriptionAbbrev":  "Tropical OG has an exceptional high which is very clear & uplifting. Tropical OG offers a very good strength and a mixed physical and mental medicinal effect.",
@@ -15116,11 +15150,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.36
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.58
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -15128,7 +15162,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -15172,7 +15206,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.85
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -15180,12 +15214,12 @@
 				} 	
 		 	],
 		 	"taste": ["Sweet", "Citrus", "Earthy"],
-		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Insomnia", "Appetite Loss", "Fibromyalgia"],
-			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Drowsiness", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
-			 "descriptionDetailed": "With gradual but powerful effects, King's Kush is famous for its potency and shiny trichromes during flowering.",
+		 	 "conditions": ["Cancer", "Pain", "Stress", "Depression", "Anxiety", "Insomnia", "Appetite Loss", "Fibromyalgia"],
+			 "positiveEffects": ["Euphoric", "Relaxed", "Happy", "Drowsiness", "Uplifted", "Drowsiness", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Drowsiness", "Munchies"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This strain comes across as sweet and sour with a powerful and tangy grape scent, as well as some hints of lavender.",
-			 "tags": ["Indica", "King's Kush", "Kush","Cancer"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/king-s-kush_100x100.jpg"
 			},
 			{"strainId": 88,
@@ -18536,19 +18570,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.51
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.37
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.88
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -18556,7 +18590,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -18592,18 +18626,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.57
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.07
 				} 	
 		 	],
 		 	"taste": ["Coffee", "Sweet", "Earthy"],
-		 	 "conditions": ["Migraines", "Headache", "Stress"],
-			 "positiveEffects": ["Uplifting"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "The strain is renowned for potent cerebral effects, despite its spindly, skimpy appearance.",
+		 	 "conditions": ["Migraines", "Pain", "Headache", "Stress", "Appetite Loss", "Depression", "Anxiety", "ADD/ADHD"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Uplifting"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The strain is renowned for potent cerebral effects, despite its spindly, skimpy appearance.",
 			 "tags": ["Sativa", "Chocolate Thai", "Migraines", "Headache", "Stress"],
 			 "imageUrl": "images/strains/chocolate-thai_100x100.jpg"
@@ -19504,20 +19538,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.47
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Lime"],
-		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "Spasticity", "Fatigue"],
-			 "positiveEffects": ["Uplifted", "Energetic", "Conversational", "Happy", "Focused", "Tingly"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
-			 "descriptionDetailed": "A potent strain featuring a distinct, chemical-like lemon smell, Lemon Jack has strong psychoactive effects. Focused and energizing, this strain's effects draw from both its Jack Herer and Lemon Kush heritage.",
+		 	 "conditions": ["ADD/ADHD", "Depression", "Anxiety", "Appetite Loss", "Migraines", "Pain", "Stress", "Spasticity", "Fatigue"],
+			 "positiveEffects": ["Uplifted", "Energetic", "Conversational", "Happy", "Focused", "Productive", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Patients who suffer from headaches and fatigue tend to find relief with this strain, though it may not be the best choice for those who suffer from anxiety.",
-			 "tags": ["Sativa", "Lemon Jack", "Migraines", "Headache"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-jack_100x100.jpg"
 			},
 			{"strainId": 126,
@@ -19562,19 +19596,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.33
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.78
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.37
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -19582,7 +19616,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -19618,17 +19652,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.43
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.04
 				} 	
 		 	],
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
-		 	 "conditions": ["Migraines", "Headache", "Stress", "Pain", "Insomnia", "Depression"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
+		 	 "conditions": ["Migraines", "Headache","Arthritis","Stress", "Pain", "Insomnia", "Depression"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Energetic", "Creative", "Productive", "Uplifted", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
 			 "descriptionAbbrev":  "Short description here.",
 			 "tags": ["Sativa", "Lemon OG Kush", "OG", "Kush", "Migraines", "Headache"],
@@ -20132,19 +20166,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.73
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.29
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -20188,20 +20222,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.77
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.09
 				} 	
 		 	],
 		 	"taste": ["Flowery", "Earthy", "Pine", "Menthol"],
-		 	 "conditions": ["Migraines", "Headache", "Hypertension"],
-			 "positiveEffects": ["Energetic", "Relaxed", "Euphoric", "Happy", "Focused"],
+		 	 "conditions": ["Anorexia", "Stress", "Pain",  "Migraines", "Hypertension", "Depression", "Anxiety"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Productive", "Creative", "Euphoric", "Pain relief"],
 			 "negativeEffects": ["Drowsiness", "Munchies"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Phantom OG is an indica-dominant strain that begins with heightened energy and ends with a crash of full-body relaxation.",
-			 "tags": ["Indica", "Phantom OG", "OG", "Migraines", "Headache", "Hypertension"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/phantom-og_100x100.jpg"
 			},
 			{"strainId": 132,
@@ -20552,7 +20586,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.53
+			 		"value": 24.60
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -20560,7 +20594,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.82
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -20588,19 +20622,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.30
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.20
+			 		"value": 1.50
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.40
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -20608,7 +20642,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.02
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -20644,20 +20678,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.37
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 1.17
 				} 	
 		 	], 
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Arthritis","Depression","Appetite Loss","Migraines", "Pain", "Fatigue", "Stress"],
-			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Creative"],
+			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
-			 "descriptionDetailed": " As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
-			 "tags": ["Sativa", "Super Lemon Haze", "Migraines", "Headache"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/super-lemon-haze_100x100.jpg"
 			},
 			{"strainId": 136,
@@ -20930,19 +20964,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.82
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.45
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -20950,7 +20984,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -20986,20 +21020,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.22
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	],
 		 	"taste": ["Citrus", "Earthy", "Pungent"],
-		 	 "conditions": ["Migraines", "Headache", "Nausea"],
-			 "positiveEffects": ["Uplifted", "Happy"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
+		 	 "conditions": ["Stress", "Pain", "Nausea", "Muscle Spasms", "Migraines", "Appetite Loss", "Insomnia", "Headache", "Depression", "Arthritis", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Relaxed", "Productive", "Creative", "Hungry", "Drowsiness"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
-			 "tags": ["Hybrid", "White Walker OG", "OG", "Migraines", "Headache", "Nausea"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/whitewalker-og_100x100.jpg"
 			},
 			{"strainId": 139,
@@ -23174,7 +23208,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 7.18
+			 		"value": 24.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -23210,19 +23244,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.70
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.32
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.21
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -23230,7 +23264,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -23266,20 +23300,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.22
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.06
 				} 	
 		 	], 
 		 	"taste": ["Skunk", "Cheese", "Citrus"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Arthritis", "Depression", "Hypertension", "Nausea", "Insomnia", "Pain", "PMS", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Hungry", "Euphoric", "Uplifted"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies"],
-			 "descriptionDetailed": "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese. OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
-			 "descriptionAbbrev":  "OG Cheese's dreamy, intoxicating buzz makes it a popular strain for recreational consumers.",
-			 "tags": ["Hybrid", "OG Cheese", "OG", "Hypertension", "PMS"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive", "Hungry", "Euphoric", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies", "Drowsiness"],
+			 "descriptionDetailed": " ",
+			 "descriptionAbbrev":  "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/og-cheese_100x100.jpg"
 			},
 			{"strainId": 159,
@@ -23516,15 +23550,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.75
+			 		"value": 24.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.25
+			 		"value": 0.33
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.73
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -23552,19 +23586,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.41
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.23
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.84
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -23608,20 +23642,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.49
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.06
 				} 	
 		 	],
 		 	"taste": ["Earthy", "Diesel", "Sweet"],
-		 	 "conditions": ["Anxiety","Depression", "Epilepsy", "Insomnia", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Energetic", "Conversational", "Creative", "Relaxed", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
-			 "descriptionDetailed": "A very nice weed to smoke, not overly powerful but provides a relaxing yet energetic high.",
-			 "descriptionAbbrev":  "Great for chilling with friends and laughing.",
-			 "tags": ["Hybrid", "Sour OG", "Epilepsy"],
+		 	 "conditions": ["Anxiety","Depression", "Insomnia", "Pain", "Stress"],
+			 "positiveEffects": ["Happy", "Energetic", "Conversational", "Creative", "Productive", "Relaxed", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Drowsiness"],
+			 "descriptionDetailed": "A very nice weed to smoke, not ",
+			 "descriptionAbbrev":  "Great for chilling with friends and laughing. Not overly powerful but provides a relaxing yet energetic experience.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/sour-og_100x100.jpg"
 			},
 			{"strainId": 162,
@@ -24142,7 +24176,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -24178,16 +24212,16 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.20
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.67
 				} 	
 		 	],
 		 	"taste": ["Citrus", "Sweet", "Pungent"], 
-		 	 "conditions": ["ADD/ADHD", "Depression", "Migraines", "Pain", "Stress", "PMS", "Fatigue", "Headache"],
-			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative"],
+		 	 "conditions": ["ADD/ADHD", "Anorexia", "Depression", "Anxiety", "Migraines", "Pain", "Stress", "PMS", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "The flowers are emerald green and frosty with a sweet aroma resembling the unmistakable Jack Herer pungency. This strain's seemingly only flaw is the top-shelf price that tends to come with its exceptional quality.",
 			 "descriptionAbbrev":  "Best known for its strong, uplifting, Clear headed buzz that allows for mobility.",
@@ -24236,19 +24270,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.75
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 3.98
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.20
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -24256,7 +24290,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -24292,20 +24326,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.58
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.13
 				} 	
 		 	], 
 		 	"taste": ["Sweet", "Pungent", "Earthy"],
-		 	 "conditions": ["PMS", "Stress", "Pain", "Insomnia", "Depression", "Cramps", "Fibromyalgia"],
+		 	 "conditions": ["PMS", "Stress", "Pain", "Anorexia", "Insomnia", "Appetite Loss", "Depression", "Cramps", "Fibromyalgia"],
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "Capable of sending users into deep indica medicated state, the high can be almost immediate and Long Lasting.",
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and Long Lasting.",
-			 "tags": ["Indica", "Krytonite", "PMS"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
 			{"strainId": 168,
@@ -25376,19 +25410,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 5.76
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.63
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -25396,7 +25430,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -25432,17 +25466,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.46
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.04
 				} 	
 		 	],
 		 	"taste": ["Berry", "Sweet", "Spicy", "Herbal"],
-		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Tingly"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Anxiety", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Focused", "Drowsiness", "Tingly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Drowsiness"],
 			 "descriptionDetailed": "This indica has a purple hue, fruity and spicy flavors.",
 			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors.",
 			 "tags": ["Indica", "Diablo Haze", "Haze", "Stress"],
@@ -26484,7 +26518,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -26572,7 +26606,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.60
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -26581,8 +26615,8 @@
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Asthma", "Depression", "Insomnia", "Pain", "Stress"],
-			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Productive", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Bred by Goldenseed, Jack Frost was developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
 			 "descriptionAbbrev":  "Bred by Goldenseed, Jack Frost was developed over 5 years of persistence in order to improve on the potency and aroma of this strain.",
 			 "tags": [],
@@ -26590,19 +26624,19 @@
 			},
 			 	{"strainId": 187,
 			 "strainName": "Kali Mist",
-			 "strainType": "Hybrid",
+			 "strainType": "Sativa",
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.78
+			 		"value": 13.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 1.34
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -26630,19 +26664,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.99
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.24
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -26650,7 +26684,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -26686,7 +26720,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.29
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -26695,10 +26729,10 @@
 		 	],
 		 	"taste": ["Sweet", "Earthy", "Flowery"],
 			"conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Depression", "Fibromyalgia", "Appetite Loss", "Pain", "Stress"],
-		 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative"],
+		 	"positiveEffects": ["Euphoric", "Happy", "Energetic", "Relaxed", "Creative", "Productive"],
 		 	"negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
-		 	"descriptionDetailed": "This lightweight sativa is a perfect choice for consumers looking to maintain focus and productivity throughout their day.",
-		 	"descriptionAbbrev":  "Known to deliver Clear headed, energetic effects that can verge on psychedelic at times",
+		 	"descriptionDetailed": "",
+		 	"descriptionAbbrev":  "Known to deliver clear headed, energetic effects that can verge on psychedelic at times.",
 		 	"tags": ["Kali Mist"],
 		 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
 		},
@@ -26712,7 +26746,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -26800,7 +26834,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.37
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -26809,9 +26843,9 @@
 		 	],
 		 	"taste": ["Diesel", "Pungent", "Earthy"],
 		 	"conditions": ["Anorexia", "Anxiety", "Asthma", "Depression", "Insomnia", "Appetite Loss", "Pain", "Stress"],
-		 	"positiveEffects": ["Happy", "Uplifted", "Energetic", "Relaxed", "Creative"],
-		 	"negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
-		 	"descriptionDetailed": "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status.",
+		 	"positiveEffects": ["Happy", "Uplifted", "Energetic", "Relaxed", "Productive", "Creative"],
+		 	"negativeEffects": ["Munchies", "Drowsiness", "Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+		 	"descriptionDetailed": "",
 		 	"descriptionAbbrev":  "This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status.",
 		 	"tags": [],
 		 	"imageUrl": "images/strains/nyc-sour-diesel.jpg"
@@ -26940,7 +26974,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.99
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -27028,7 +27062,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.73
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -27037,9 +27071,9 @@
 		 	], 
 		 	"taste": ["Lemon", "Earthy", "Citrus"],
 		 	 "conditions": ["Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Creative", "Focused"],
+			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
-			 "descriptionDetailed": "Snowcap is a potent sativa with a nice lemony scent with a hint of menthol.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The effects are decidedly cerebral and should trigger creativity, happiness, and a case of the giggles",
 			 "tags": ["Snowcap"],
 			 "imageUrl": "images/strains/snowcap_100x100.jpg"
@@ -27050,23 +27084,23 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.81
+			 		"value": 18.46
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.19
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.58
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.45
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.01
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -27086,11 +27120,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.76
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -27142,20 +27176,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.45
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.5
 				}	
 		 	], 
 		 	"taste": ["Citrus", "Sweet", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia","Anxiety","Nausea","Depression", "Appetite Loss", "Pain", "Stress", "Fatigue"],
-			 "positiveEffects": ["Happy", "Uplifted","Euphoric", "Energetic", "Relaxed", "Creative"],
+			 "positiveEffects": ["Happy","Uplifted","Euphoric", "Energetic", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
-			 "descriptionDetailed": "By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
-			 "tags": ["Citrus", "Sweet", "Pungent"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/super-silver-haze_100x100.jpg"
 			},
 			{"strainId": 192,
@@ -27168,7 +27202,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -27256,18 +27290,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.28
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				}	
 		 	], 
 		 	"taste": ["Tropical", "Tree Fruit", "Pungent"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety", "Arthritis", "Insomnia", "Appetite Loss", "Muscle Spasms", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Drowsiness", "Hungry", "Euphoric"],
-			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious", "Munchies"],
-			 "descriptionDetailed": "This strain also differs from typical indicas in its earthy aroma that delivers smoothly with low expansion. An established strain within the medicinal cannabis community, Neptune OG can be appropriately described as otherworldly.",
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive", "Drowsiness", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Anxious", "Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Sets itself apart by its euphoric onset prior to the heavy, sedative effects, making it also useful for stress relief.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/neptune-og_100x100.jpg"
@@ -27278,15 +27312,15 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.88
+			 		"value": 24.01
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.12
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -27314,19 +27348,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.04
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.02
+			 		"value": 2.62
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.47
+			 		"value": 0.68
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.54
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -27370,18 +27404,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.72
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.03
 				}	
 		 	], 
 		 	"taste": ["Earthy", "Woody", "Pine"],
 		 	 "conditions": ["ADD/ADHD", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Munchies"],
-			 "descriptionDetailed": "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Immediate heavy indica stone that mixes a powerful body high with a racing head rush.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/organic-og-kush.JPG"
@@ -27848,7 +27882,7 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 13.92
+			 		"value": 24.28
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -27856,7 +27890,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.19
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -27884,19 +27918,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.41
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.17
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -27904,7 +27938,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -27940,16 +27974,16 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.33
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 3.70
 				}	
 		 	], 
 		 	"taste": ["Lemon", "Diesel", "Citrus"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "The buds have been described as smelling fruity and sweet, with a hint of a skunk. The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. Lemon Diesel was in the Top Ten at the Emerald Cup in 2010.",
 			 "descriptionAbbrev":  "The smell and flavor have been likened to citrus and pepper, with effects that can sneak up on its consumer. ",
@@ -27962,7 +27996,7 @@
 			 	"components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.63
+			 		"value": 21.70
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -27970,7 +28004,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.43
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -27998,19 +28032,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.32
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -28018,7 +28052,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -28054,20 +28088,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.72
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.96
 				}	
 		 	], 
 		 	"taste": ["Lemon", "Citrus", "Sweet"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Depression", "Appetite Loss", "Pain", "Seizures", "Stress", "Insomnia"],
-			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
-			 "descriptionDetailed": "The light green buds are covered in a white frosting of trichomes and provide uplifting and creative effects.",
-			 "descriptionAbbrev":  "Lemon Kush is the perfect solution for when the stresses of life have you feeling sour.",
-			 "tags": ["Lemon", "Citrus", "Sweet"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Lemon Kush is the perfect solution for when the stresses of life have you feeling sour. It provides uplifting and creative effects.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-kush_100x100.jpg"
 			},
 			{"strainId": 200,
@@ -30698,15 +30732,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9",  
-			 		"value": 15.88
+			 		"value": 26.39
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.12
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -30734,19 +30768,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.41
+			 		"value": 3.99
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 3.88
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.48
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -30790,18 +30824,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.48
+			 		"value": 0.78
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.67
+			 		"value": 0.08
 				}	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Flowery" ],
-		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Fatigue", "Fibromyalgia"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Tingly", "Drowsiness"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Anxiety", "Fibromyalgia"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Energetic", "Creative", "Productive", "Tingly", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
-			 "descriptionDetailed": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "The strain's aroma is an equally diverse mix of tropical fruit and citrus that also comes through in its sweet and sour taste.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/willy-s-wonder_100x100.jpg"
@@ -44370,7 +44404,577 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "This hybrid produces a more mellow relaxation than the melt-your-face-off indica sensation the name might suggest",
 			 "tags": [""],
-			 "imageUrl": "images/strains/hawaiian-snow_100x100.jpg"
+			 "imageUrl": "images/strains/holy-grail-kush_100x100_733a.jpg"
+			},
+			{"strainId": 343,
+			 "strainName": "Purple Nepal",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.11
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.27
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Grape"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Appetite Loss", "Depression", "Anxiety"],
+			 "positiveEffects": ["Drowsiness", "Happy", "Euphoric", "Hungry", "Energetic", "Relaxed", "Productive", "Creative"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A happy, medium-level indica, this strain will not leave you stuck on the couch but is best used when you are looking to unwind at the end of the day.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-nepal_100x100.jpg"
+			},
+			{"strainId": 344,
+			 "strainName": "Super Jack",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 26.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.36
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.80
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 1.09
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.42
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Spicy", "Herbal", "Lemon"],
+		 	 "conditions": ["Anorexia", "Stress"],
+			 "positiveEffects": ["Happy", "Potent", "Relaxed", "Hungry", "Energetic", "Creative", "Productive"],
+			 "negativeEffects": ["Munchies", "Couch Lock", "Dry Mouth" ],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The potent sativa effects spark creativity and provides an uplifting boost of energy. A great daytime strain that will calm any anxieties and propel you through your day.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/super-jack_100x100.jpg"
+			},
+			{"strainId": 345,
+			 "strainName": "Clinical OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 29.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.89
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.23
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Woody", "Pine"],
+		 	 "conditions": ["Anxiety"],
+			 "positiveEffects": ["Happy", "Focused", "Uplifted", "Euphoric", "Conversational"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Very uplifting and social buzz kicks in within a few minutes followed by euphoria and body buzz.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/og-kush2_100x100.jpg"
+			},
+			{"strainId": 346,
+			 "strainName": "Diesel Cookies",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 32.01
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 2.97
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 3.82
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.60
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.01
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.05
+				}	
+		 	], 
+		 	"taste": ["Diesel", "Sweet", "Earthy"],
+		 	 "conditions": ["Stress", "Anxiety", "Appetite Loss"],
+			 "positiveEffects": ["Focused", "Happy", "Relaxed", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A little goes a long way with this hybrid.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/girl-scout-cookies2_100x100.jpg"
+			},
+			{"strainId": 347,
+			 "strainName": "Dreamweaver`",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 30.80
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 2.93
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.78
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.41
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.41
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.07
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Sweet"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia","Anxiety"],
+			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Indica heavy effects sneak up on you, hitting you out of nowhere with an intense body stone that relaxes every last muscle as it's narcotic and sedative effects melt away any aches or pains that may be slowing you down throughout the day or keeping you up during the night.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/dreamweaver.jpg"
 			}
 		];
 		
