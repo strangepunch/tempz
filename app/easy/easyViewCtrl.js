@@ -729,6 +729,12 @@
     	//vm.thereIsMore = false;
     	vm.MoreStrains = 3;
     	$scope.goMore = function(mode){
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
     		switch (mode){
     			case 'A1':
     				vm.MoreStrains = vm.originalData.length;
@@ -762,6 +768,12 @@
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'i':
 					//console.log('i');
@@ -774,6 +786,12 @@
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'h':
 					//console.log('h');
@@ -786,6 +804,12 @@
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'cbd':
 					//console.log('cbd');
@@ -798,6 +822,12 @@
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-strnData.components[1].value';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active6 = '';
 					break;
 				case 'thc':
 					//console.log('thc');
@@ -810,16 +840,34 @@
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-strnData.components[0].value';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = {"font-weight": "bold", "color":"#009900"};
 					break;
 				case 'all':
 					//console.log('all', vm.originalData);
 					vm.finalSuggestedStrains = vm.originalData;
 					vm.orderByValue = '-matches';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				default:
 					//console.log('def', vm.finalSuggestedStrains);
 					vm.finalSuggestedStrains = vm.originalData;
 					vm.orderByValue = '-matches';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
     		}
 

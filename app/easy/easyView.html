@@ -164,14 +164,13 @@
 						</div>
 					</div>
 
-					<div class="col-xs-12" ng-if="!vm.ShowStrains">
-						<span>filters:</span>
-						<span ng-click="filterSuggestedStrains('s')"><img src="images/Rec/s.png"></span>
-						<span ng-click="filterSuggestedStrains('i')"><img src="images/Rec/i.png"></span>
-						<span ng-click="filterSuggestedStrains('h')"><img src="images/Rec/h.png"></span>
-						<span ng-click="filterSuggestedStrains('cbd')"><img src="images/Rec/cbd.png"></span>
-						<span ng-click="filterSuggestedStrains('thc')"><img src="images/Rec/thc.png"></span>
-						<span ng-click="filterSuggestedStrains('all')"><img src="images/Rec/all.png"></span>
+					<div class="col-xs-12" ng-if="vm.MoreOrLess">
+						<span class="btn btn-filter" ng-style="vm.active1" ng-click="filterSuggestedStrains('all')">All</span>
+						<span class="btn btn-filter" ng-style="vm.active2"  ng-click="filterSuggestedStrains('s')">Sativa</span>
+						<span class="btn btn-filter" ng-style="vm.active3" ng-click="filterSuggestedStrains('i')">Indica</span>
+						<span class="btn btn-filter" ng-style="vm.active4"  ng-click="filterSuggestedStrains('h')">Hybrid</span>
+						<span class="btn btn-filter" ng-style="vm.active5" ng-click="filterSuggestedStrains('cbd')">CBD</span>
+						<span class="btn btn-filter" ng-style="vm.active6" ng-click="filterSuggestedStrains('thc')">THC</span>
 					</div> 
 					
 				</div>

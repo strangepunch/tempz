@@ -22,7 +22,7 @@
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
 
 		//initiate center image for first time entry
-		vm.centerImage = "1.png";
+		vm.centerImage = "images/Rec/1.png";
 		vm.modeName = "Flavor";
 		vm.discMode = "Taste";
 		vm.taste = true;
@@ -64,7 +64,7 @@
 			switch(mode) {
 			    case 1:
 			    	vm.modeName = "Flavor";
-			    	vm.centerImage = "1.png";
+			    	vm.centerImage = "images/Rec/1.png";
 			    	vm.discMode = "Taste";
 			    	vm.taste = true;
 					vm.strain = false;
@@ -87,7 +87,7 @@
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
-			    	vm.centerImage = "2.png";
+			    	vm.centerImage = "images/Rec/2.png";
 			    	vm.discMode = "Feel";
 			    	vm.taste = false;
 					vm.strain = false;
@@ -110,7 +110,7 @@
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
-			    	vm.centerImage = "3.png";
+			    	vm.centerImage = "images/Rec/3.png";
 			    	vm.discMode = "Strain";
 			    	vm.taste = false;
 					vm.strain = true;
@@ -133,7 +133,7 @@
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
-			        vm.centerImage = "1.png";
+			        vm.centerImage = "images/Rec/1.png";
 			        vm.discMode = "Select Mode";
 			        vm.thereIsMore = false;
 			        vm.MoreOrLess = false;
@@ -243,6 +243,7 @@
 	     	for(var i=0; i<vm.strainNames.length; i++){
 	     		if(vm.strainNames[i].strainName === name){
 	     			vm.strainT = vm.strainNames[i].strainType;
+	     			vm.centerImage = vm.strainNames[i].imageUrl;
 	     		}
 	     	}
 	    }
@@ -483,6 +484,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/1.png";
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
@@ -492,6 +494,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/2.png";
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
@@ -501,6 +504,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
+    				vm.centerImage = "images/Rec/3.png";
 					break;
     		}
    
@@ -508,6 +512,12 @@
 
     	//display more
     	$scope.goMore = function(mode){
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
 
     		switch (mode){
     			case 'A1':
@@ -583,6 +593,12 @@
     				vm.strainSuggestions = sortedData;
     				vm.orderByValue = 'strainName';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'i':
 					//console.log('i');
@@ -595,6 +611,12 @@
     				vm.strainSuggestions = sortedData;
     				vm.orderByValue = 'strainName';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'h':
 					//console.log('h');
@@ -607,6 +629,12 @@
     				vm.strainSuggestions = sortedData;
     				vm.orderByValue = 'strainName';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				case 'cbd':
 					//console.log('cbd');
@@ -619,6 +647,12 @@
     				vm.strainSuggestions = sortedData;
     				vm.orderByValue = '-components[1].value';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active6 = '';
 					break;
 				case 'thc':
 					//console.log('thc');
@@ -631,16 +665,34 @@
     				vm.strainSuggestions = sortedData;
     				vm.orderByValue = '-components[0].value';
     				//console.log('sortedData', sortedData);
+    				vm.active1 = '';
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = {"font-weight": "bold", "color":"#009900"};
 					break;
 				case 'all':
 					//console.log('all', vm.originalData);
 					vm.strainSuggestions = vm.originalData;
 					vm.orderByValue = 'strainName';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
 				default:
 					//console.log('def', vm.finalSuggestedStrains);
 					vm.strainSuggestions = vm.originalData;
 					vm.orderByValue = 'strainName';
+					vm.active1 = {"font-weight": "bold", "color":"#009900"};
+		    		vm.active2 = '';
+		    		vm.active3 = '';
+		    		vm.active4 = '';
+		    		vm.active5 = '';
+		    		vm.active6 = '';
 					break;
     		}
 
