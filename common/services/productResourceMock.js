@@ -44863,7 +44863,7 @@
 			 "imageUrl": "images/strains/girl-scout-cookies2_100x100.jpg"
 			},
 			{"strainId": 347,
-			 "strainName": "Dreamweaver`",
+			 "strainName": "Dreamweaver",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
