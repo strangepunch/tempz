@@ -664,6 +664,14 @@
     		//set the orderBy value
     		vm.orderByValue = '-matches'
 
+    		//set the color of which filter is selected first
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
+
     		//Find strains by using components from conditions search that would treat the conditions
     		var num = 0;
     		var isMatch = 0;
@@ -723,12 +731,6 @@
     	//vm.thereIsMore = false;
     	vm.MoreStrains = 3;
     	$scope.goMore = function(mode){
-    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
-    		vm.active2 = '';
-    		vm.active3 = '';
-    		vm.active4 = '';
-    		vm.active5 = '';
-    		vm.active6 = '';
     		switch (mode){
     			case 'A1':
     				vm.MoreStrains = vm.originalData.length;
