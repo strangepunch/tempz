@@ -1924,62 +1924,62 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When using the automatic Heat-By-Puff (A/P) setting, the Alfa's temperature starts at the LO setting (374 F) and raises in three degree increments after each puff taken until the HI setting (446 F) is achieved.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Using the automatic Heat-By-Time (A/T) setting will gradually heat your herbs from LO to HI over a time period of twenty minutes.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Because of the pin sticking up in the middle it's hard to use your finger to tamp it down so you'll probably need to use some kind of small tool to pack it in.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "For best results, grind your herbs up real fine and then tightly pack the chamber. It's very important to load the herb chamber properly to get the best performance from it, so just remember to grind fine and pack tight.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When you start at lower temperatures you can get a richer and purer flavor & aroma experience. Then when you reach the highest temps you can more completely vaporize any residual ingredients left in your material.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The experience seems ideal on the low and medium heat settings and that's where flavor and smoothness is best.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you take short puffs the effects will usually be nice and mellow, so if you want to maximize how strong it feels you'll have to pull for  about 4-8 seconds.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The herb chamber will hold up to roughly 0.25-0.3g of material but this will vary a tad depending on how tight you pack it and how fine you grind.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "From a fully packed oven you can expect somewhere around 15 draws depending on how long each pull is. Shorter puffs yield a little more, longer draws yield a little less.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "What's cool about the Alfa, and more specifically the extra heating-pin in the oven, is that you can pack less than a full chamber (half-pack) and it'll still work pretty well, the performance is not far off.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can get about 60-90 minutes of usage from a full charge when you use this vape on the low and medium heat settings.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "It also has an auto shut-off feature which turns the unit off after about 10 minutes of not detecting a puff.",
 				 		"TipImg" : "images/vapes/alfa-vaporizer-goboof.png"
 				 	}
 			 	]
@@ -2081,7 +2081,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The design of the ELB is a key factor in the EVO's extraction efficiency. The ELB is much more than a screen - the pressurization and turbulence resulting from its design are what delivers the efficiency.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
@@ -5297,6 +5297,21 @@
 			 	"strainName": "Dreamweaver",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/dreamweaver.jpg"
+			}, 
+			{"strainId": 348,
+			 	"strainName": "Ogre",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/ogre_100x100.jpg"
+			}, 
+			{"strainId": 349,
+			 	"strainName": "SFV OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/sfv-og_100x100.jpg"
+			},
+			{"strainId": 350,
+			 	"strainName": "The Flav",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/the-flav_100x100.jpg"
 			}
 		]; 
 
@@ -6335,15 +6350,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.02
+			 		"value": 24.81
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.36
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.54
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -6371,19 +6386,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.61
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.00
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6391,7 +6406,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6427,7 +6442,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.32
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -6435,10 +6450,10 @@
 				} 	
 		 	],
 		 	"taste": ["Earthy", "Woody", "Pine"],
-		 	 "conditions": ["Migraines", "Stress", "Anxiety", "Depression"],
-			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "With OG Kush, patients most commonly cite improvements in migraines, ADD/ADHD, and stress disorders.",
+		 	 "conditions": ["Anorexia", "ADD/ADHD", "Pain", "Appetite Loss", "Insomnia", "Migraines", "Stress", "Anxiety", "Depression"],
+			 "positiveEffects": ["Euphoric", "Happy", "Uplifting", "Relaxed", "Drowsiness", "Hungry"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Euphoric and happy effects that combat stress and anxiety",
 			 "tags": ["Hybrid", "OG Kush", "OG", "Kush"],
 			 "imageUrl": "images/strains/og-kush_100x100.jpg"
@@ -7817,15 +7832,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.22
+			 		"value": 24.53
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.28
+			 		"value": 0.47
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.33
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -7853,19 +7868,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.70
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 3.01
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.03
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7909,18 +7924,18 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.63
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.05
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"],
-		 	 "conditions": ["Stress", "Insomnia", "Pain", "Depression", "Nausea"],
+		 	 "conditions": ["Stress", "Appetite Loss", "Anorexia", "Insomnia", "Pain", "Depression", "Nausea"],
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
-			 "descriptionDetailed": "A deep, sedating relaxation makes Romulan a favorite strain for patients treating muscle spasms and nerve damage.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A full body calm with heavily intoxicating properties.",
 			 "tags": ["Romulan"],
 			 "imageUrl": "images/strains/romulan_100x100.jpg"
@@ -8277,11 +8292,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 19.00
+			 		"value": 20.60
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -8309,19 +8324,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 1.10
+			 		"value": 0.91
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.06
+			 		"value": 1.78
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.13
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.03
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -8329,7 +8344,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -8365,20 +8380,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.48
 				},
 					{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	],  
 		 	"taste": ["Earthy", "Skunk", "Sweet"],
 		 	 "conditions": ["Cancer", "Epilepsy", "Migraines", "Muscle Spasms", "Pain", "Stress", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Anxiety", "Multiple Sclerosis"],
-			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
+			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry Eyes", "Paranoid"],
-			 "descriptionDetailed": "Tests have put ACDC's CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
-			 "descriptionAbbrev":  "This strain induces no psychoactive effects.",
-			 "tags": ["Hybrid", "ACDC", "Bipolar", "Depression", "Nausea", "Hypertension", "HIV/AIDS", "Glaucoma", "PTSD", "Stress"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Tests have put ACDC's CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/acdc_100x100.jpg"
 			},
 			{"strainId": 28,
@@ -9185,15 +9200,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.72
+			 		"value": 14.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.39
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.75
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -9221,19 +9236,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.99
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.87
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.24
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -9241,7 +9256,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -9277,7 +9292,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.52
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -9287,10 +9302,10 @@
 		 	"taste": ["Pungent", "Skunk", "Earthy"],
 		 	 "conditions": ["ADD/ADHD","Anxiety","Bipolar", "Depression", "Migraines", "Headache", "Stress", "Insomnia", "Muscle Pain"],
 			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
-			 "negativeEffects": ["Cotton Mouth", "Dry Eyes", "Dizzy", "Anxious"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Drowsiness"],
 			 "descriptionDetailed": "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain. ",
-			 "descriptionAbbrev":  "Deadhead OG is bred by The Cali Connection and is a 60/40 hybrid of Chemdawg 91 and SFV OG Kush.",
-			 "tags": ["Hybrid", "Deadhead OG", "OG", "Bipolar", "Depression", "Migraines", "Headache", "Stress"],
+			 "descriptionAbbrev":  "",
+			 "tags": [""],
 			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 			},
 			{"strainId": 36,
@@ -9335,19 +9350,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.62
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.64
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -9355,7 +9370,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -9391,7 +9406,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.21
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -9402,9 +9417,9 @@
 		 	 "conditions": ["Bipolar", "Pain", "Insomnia", "Migraines", "Headache", "Nausea", "Stress", "Depression"],
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyess", "Dizzy", "Paranoid"],
-			 "descriptionDetailed": "With lineage from Grapefruit, Blueberry and South African Sativa, there is a sweet flavor to the Diablo cannabis strain.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors, and a THC content that tends to fall between 15-20 percent.",
-			 "tags": ["Indica", "Diablo", "Bipolar", "Migraines", "Headache", "Stress"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/diablo_100x100.jpg"
 			},
 			{"strainId": 37,
@@ -12642,19 +12657,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.40
+			 		"value": 0.59
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.40
+			 		"value": 2.07
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.50
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 0.35
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -12662,7 +12677,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.20
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -12698,20 +12713,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.57
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
-				} 	
+			 		"value": 0.06
+				} 	 
 		 	], 
 		 	"taste": ["Sweet", "Grape", "Berry"],
-		 	 "conditions": ["Bipolar", "Migraines", "Headache", "PMS", "Insomnia", "Pain", "Depression", "Appetite Loss"],
+		 	 "conditions": ["Arthritis", "Anxiety", "Stress", "Bipolar", "Migraines", "Headache", "PMS", "Insomnia", "Pain", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Hungry"],
 			 "negativeEffects": ["Couch Lock", "Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body Pain relief.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The indica effects are deeply relaxing, sleep-inducing, and a great option for full-body Pain relief.",
-			 "tags": ["Indica", "Purple Urkle", "Purple", "Bipolar", "Migraines", "Headache", "PMS"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/purple-urkle_100x100.jpg"
 			},
 			{"strainId": 66,
@@ -12948,7 +12963,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.80
+			 		"value": 22.40
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -14886,23 +14901,23 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 6.98
+			 		"value": 6.07
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 14.00
+			 		"value": 10.65
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.50
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.20
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -14922,11 +14937,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.06
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.36
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -14934,7 +14949,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.02
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -14978,7 +14993,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.27
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -14989,9 +15004,9 @@
 		 	 "conditions": ["Arthritis", "Cancer", "Nausea", "Epilepsy", "Pain", "Stress", "Inflammation", "Depression", "Headache"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Energetic", "Focused", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Dizzy"],
-			 "descriptionDetailed": "Unlike most high-CBD strains, Harlequin almost always develops a CBD:THC ratio of 5:2, making this strain one of the most effective out there for treatment of pain and anxiety, as CBD counteracts THC's paranoia while amplifying its painkilling properties.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "What draws crowds to Harlequin is its ability to relax without sedation, and to relieve without intoxication.",
-			 "tags": ["Sativa", "Harlequin", "Cancer", "Nausea", "Epilepsy"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/harlequin_100x100.jpg"
 			},
 			{"strainId": 86,
@@ -15228,7 +15243,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.63
+			 		"value": 25.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -15236,7 +15251,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.82
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -15264,19 +15279,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.22
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.41
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -15320,20 +15335,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.65
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.11
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Pine"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Cancer", "Chronic Aches", "Depression", "Insomnia", "Muscle Spasms", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
-			 "descriptionDetailed": "Kosher Kush is the world's first ever strain to be blessed by a Rabbi. From the vault of DNA's Reserva Privada seed line,",
-			 "descriptionAbbrev":  "Kosher Kush won the High Times Indica Cup in 2010 and 2011.",
-			 "tags": ["Earthy", "Pungent", "Pine"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Being a heavy, full-bodied strain, Kosher Kush will produce a slight body melt followed by an cerebral effect that can be best described as spacey and/or zone-inducing.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/kosher-kush_100x100.jpg"
 			},
 			{"strainId": 89,
@@ -16176,19 +16191,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.84
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -16196,7 +16211,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -16232,7 +16247,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.22
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -16243,9 +16258,9 @@
 		 	 "conditions": ["Cancer", "Stress", "Insomnia", "Pain", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
-			 "descriptionDetailed": "Seasoned consumers may be able to withstand its heaviness during the day, but Yoda OG is most popularly chosen for nighttime consumption.",
-			 "descriptionAbbrev":  "Its sedating, euphoric effects make it a popular medicine for anxiety and insomnia, and it also provides an extra kick to the appetite.",
-			 "tags": ["Hybrid", "Yoda OG", "OG", "Cancer"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Seasoned consumers may be able to withstand its heaviness during the day, but Yoda OG is most popularly chosen for nighttime consumption.",
+			 "tags": [""],
 			 "imageUrl": "images/strains/yoda-og_100x100.jpg"
 			},
 			{"strainId": 97,
@@ -17622,15 +17637,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 25.75
+			 		"value": 24.01
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 3.86
+			 		"value": 0.52
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 1.13
+			 		"value": 0.10
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -17658,11 +17673,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.02
+			 		"value": 0.93
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.29
+			 		"value": 1.07
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -17670,7 +17685,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.19
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -18192,7 +18207,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.82
+			 		"value": 15.10
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -18200,7 +18215,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.81
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -18228,19 +18243,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.41
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.36
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -18248,7 +18263,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -18284,11 +18299,11 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.93
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.05
 				} 	
 		 	],
 		 	"taste": ["Earthy", "Pungent", "Skunk"],
@@ -18296,7 +18311,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "Most describe Cataract as a creeper high that keeps on building long after you stop smoking! This strain has been years in the making and is NOT recommended for the light-weight smoker.",
-			 "descriptionAbbrev":  "The effect is good for pain, eating and sleep disorders",
+			 "descriptionAbbrev":  "The effect is good for pain, eating and sleep disorders.",
 			 "tags": ["Pungent", "Skunk", "Earthy"],
 			 "imageUrl": "images/strains/cataract-kush_100x100.jpg"
 			},
@@ -19332,15 +19347,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.00
+			 		"value": 24.51
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.08
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -19368,19 +19383,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.08
+			 		"value": 0.13
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.04
+			 		"value": 0.81
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.52
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.05
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -19424,7 +19439,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 1.03
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -19435,9 +19450,9 @@
 		 	 "conditions": ["Anorexia", "Insomnia", "Migraines", "Pain", "Stress", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Drowsiness"],
-			 "descriptionDetailed": "Detailed description here. Detailed description here.Detailed description here.Detailed description here. Detailed description here.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body",
-			 "tags": ["Earthy", "Pine", "Pungent"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/la-confidential_100x100.jpg"
 			},
 			{"strainId": 125,
@@ -20394,19 +20409,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.18
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.35
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.23
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -20414,7 +20429,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -20450,20 +20465,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.74
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 2.38
 				} 	
 		 	],
 		 	"taste": ["Pine", "Earthy", "Sweet"],
-		 	 "conditions": ["Migraines", "Headache"],
-			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Drowsiness", "Tingly"],
-			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy"],
-			 "descriptionDetailed": "Featuring a musky, piney aroma similar to a morning walk in the forest, this strain provides a truly relaxing experience.",
+		 	 "conditions": ["Stress", "Pain", "Migraines", "Headache", "Appetite Loss", "Insomnia", "Anorexia"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Hungry", "Drowsiness", "Tingly"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "For those struggling with insomnia and stress, Silverback Gorilla is a must-try strain.",
-			 "tags": ["Indica", "Silverback Gorilla", "Migraines", "Headache"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/silverback-gorilla_100x100.jpg"
 			},
 			{"strainId": 134,
@@ -21156,7 +21171,7 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 14.78
+			 		"value": 13.50
 			 	},
 			 	{ 
 			 		"name": "CBD", 
@@ -21164,7 +21179,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -21192,19 +21207,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.16
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.46
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -21212,7 +21227,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21248,7 +21263,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.10
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -21257,10 +21272,10 @@
 		 	], 
 		 	"taste": ["Sweet", "Blueberry", "Berry"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Nausea", "Pain", "Stress"],
-			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Drowsiness"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Drowsiness", "Long Lasting"],
 			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
-			 "descriptionDetailed": "This Blueberry is a dense and stout plant with red, purple and blue hues.  The finished product has a very fruity aroma and taste of blueberry.  The high is euphoric and Long Lasting.",
-			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry.",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry with a high that is euphoric and long lasting.",
 			 "tags": ["Blueberry", "Berry", "Sweet"],
 			 "imageUrl": "images/strains/dj-short-blueberry_100x100.jpg"
 			},
@@ -22638,15 +22653,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 25.00
+			 		"value": 24.73
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.85
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.07
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -22674,19 +22689,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.16
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.31
+			 		"value": 2.12
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.04
+			 		"value": 0.53
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.17
+			 		"value": 0.80
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -22730,7 +22745,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.54
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -22741,9 +22756,9 @@
 		 	 "conditions": ["Anxiety", "Insomnia", "Migraines", "Pain", "Stress"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
-			 "descriptionDetailed": "Its sativa parent may lend Afgoo some uplifting, creative qualities, but this strain undoubtedly takes after its indica parent as it primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
-			 "tags": ["Indica", "Afgooey", "Pain", "Stress"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/afgooey_100x100.jpg"
 			},
 			{"strainId": 154,
@@ -23778,15 +23793,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 19.51
+			 		"value": 13.20
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.14
+			 		"value": 0.39
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -23814,19 +23829,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.24
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.21
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -23870,7 +23885,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.29
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -23878,10 +23893,10 @@
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pungent", "Woody"],
-		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Appetite Loss"],
+		 	 "conditions": ["Stress", "Anxiety", "Pain", "Anorexia", "Insomnia", "Depression", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Uplifted", "Drowsiness"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
-			 "descriptionDetailed": "The buds give off a strong and heady high. White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies", "Drowsiness", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The buds give off a strong and heady high. White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-rhino_100x100.jpg"
@@ -24609,7 +24624,7 @@
 			 	{ 
 			 		"name": "Pulegone", 
 			 		"value": 0.00
-			 	},
+ 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
 			 		"value": 0.14
@@ -24690,15 +24705,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.14
+			 		"value": 18.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.41
+			 		"value": 0.50
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.08
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -24726,19 +24741,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.28
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.35
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 1.23
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.15
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -24746,7 +24761,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -24782,7 +24797,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.47
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -24790,12 +24805,12 @@
 				} 	
 		 	],
 		 	"taste": ["Blueberry", "Sweet", "Berry"],
-		 	 "conditions": ["Stress", "Pain", "Depression", "Headache", "Appetite Loss"],
+		 	 "conditions": ["Stress", "Pain", "Muscle Spasms","Insomnia", "Anxiety", "Depression", "Headache", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Headache"],
-			 "descriptionDetailed": "This strain is optimal for daytime and comes with little to no fatigue or increased appetite, making it a desirable option for medical marijuana patients.",
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid", "Headache", "Drowsiness"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This strain is optimal for daytime and comes with little to no fatigue or increased appetite, making it a desirable option for medical marijuana patients.",
-			 "tags": ["Hybrid", "Blue Diesel", "Stress"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/blue-diesel_100x100.jpg"
 			}, 
 			{"strainId": 172,
@@ -25032,15 +25047,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 14.29
+			 		"value": 21.90
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.09
+			 		"value": 0.32
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.58
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -25068,7 +25083,7 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
@@ -25076,11 +25091,11 @@
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.07
+			 		"value": 0.54
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.01
+			 		"value": 1.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -25088,7 +25103,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -25124,20 +25139,20 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 1.21
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.05
 				} 	
 		 	],   
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Insomnia", "Appetite Loss", "Pain", "Stress"],
 			 "positiveEffects": ["Happy", "Relaxed", "Drowsiness", "Hungry", "Euphoric"],
 			 "negativeEffects": ["Munchies", "Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
-			 "descriptionDetailed": "Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple. Its effects may begin focused in the head, but it isn't long before the buzz reaches the rest of the body.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A perfect go-to strain for evening relaxation, restful sleep, or a lazy weekend at home.",
-			 "tags": ["Indica", "Bubba Kush", "Kush", "Stress"],
+			 "tags": [""],
 			 "imageUrl": "images/strains/bubba-kush_100x100.jpg"
 			},
 			{"strainId": 175,
@@ -38708,19 +38723,19 @@
 			},
 			{"strainId": 293,
 			 "strainName": "White Skunk",
-			 "strainType": "Hybrid",
+			 "strainType": "Indica",
 			 "components": [
 			 	{ 
 			 		"name": "THC9",  
-			 		"value": 12.95
+			 		"value": 25.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.29
+			 		"value": 0.34
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.00
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -38748,19 +38763,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.10
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.72
+			 		"value": 0.85
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.28
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.65
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -38768,7 +38783,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.72
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -38804,7 +38819,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.39
+			 		"value": 0.21
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -38812,10 +38827,10 @@
 				}	
 		 	], 
 		 	"taste": ["Skunk", "Sour"],
-		 	 "conditions": ["Pain", "Headache", "Nausea", "Insomnia", "Anxiety"],
-			 "positiveEffects": ["Pain relief", "Drowsiness", "Balanced", "Mind + Body", "Relaxed"],
-			 "negativeEffects": ["Drowsiness"],
-			 "descriptionDetailed": "White Skunk delivers a sour, skunky flavor and a balance of effects that ease both mind and body into a relaxed state.",
+		 	 "conditions": ["Stress", "Pain", "Appetite Loss", "Depression", "Anorexia", "Headache", "Nausea", "Insomnia", "Anxiety"],
+			 "positiveEffects": ["Happy", "Pain relief", "Drowsiness", "Balanced", "Mind + Body", "Relaxed"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "White Skunk delivers a sour, skunky flavor and a balance of effects that ease both mind and body into a relaxed state.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-skunk.jpg"
@@ -44975,6 +44990,348 @@
 			 "descriptionAbbrev": "Indica heavy effects sneak up on you, hitting you out of nowhere with an intense body stone that relaxes every last muscle as it's narcotic and sedative effects melt away any aches or pains that may be slowing you down throughout the day or keeping you up during the night.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dreamweaver.jpg"
+			},
+			{"strainId": 348,
+			 "strainName": "Ogre",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.90
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 2.08
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.54
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Earthy", "Lemon"],
+		 	 "conditions": ["Stress", "Pain", "Appetite Loss", "Insomnia", "Fibromyalgia", "Arthritis", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Drowsiness", "Hungry", "Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Ogre has a pungent and lemony scent and provides a strong body high.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/ogre_100x100.jpg"
+			},
+			{"strainId": 349,
+			 "strainName": "SFV OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.83
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.02
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.84
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 2.18
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.66
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.09
+				}	
+		 	], 
+		 	"taste": ["Pine", "Sweet", "Earthy"],
+		 	 "conditions": ["Stress", "Pain", "Appetite Loss", "Nausea", "Headache", "Depression", "Anxiety", "Anorexia"],
+			 "positiveEffects": ["Happy", "Energetic", "Hungry", "Relaxed", "Uplifted", "Creative", "Euphoric"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Great for patients who need strong pain relief but don’t want to be stuck on the couch.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sfv-og_100x100.jpg"
+			},
+			{"strainId": 350,
+			 "strainName": "The Flav",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 26.72
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 1.40
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.50
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.53
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Flowery", "Pine", "Diesel"],
+		 	 "conditions": ["Stress", "Seizures", "Pain", "Appetite Loss", "Depression", "Anorexia"],
+			 "positiveEffects": ["Hungry", "Happy", "Uplifted", "Euphoric", "Energetic", "Relaxed"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Combines the oily, thick rich fruity taste of Romulan with the cherry goodness of Space Queen.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/the-flav_100x100.jpg"
 			}
 		];
 		
