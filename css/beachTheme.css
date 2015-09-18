@@ -147,7 +147,7 @@ html, body {
 	background-position:center;
 	border: none;
 	overflow: hidden;
-	padding-top: 50px;
+	padding-top: 45px;
 	margin-bottom: -20px;
 }
 
@@ -220,36 +220,15 @@ html, body {
 	position: relative;
 	text-decoration: none;
 }
-#mainView .active{
-	background: #DA9223;
-	color: #fff;	
+
+#mainView img{
+	max-width: 40%;
+	text-align: center;
+	color: #f00;
+    -webkit-filter: invert(0%);
+    filter: invert(0%);
 }
-#mainView .logo{
-	/**background: #DA9223;**/
-	color: #000;
-	font-size: 60px;
-	font-family: 'Cookie';
-	font-weight: normal;
-	line-height: 10px;
-	text-shadow: 0 3px 0 rgba(0,0,0,0.1);
-	border-radius: 30px;
-	padding: 10px 50px 20% 30px;
-	margin: 0px 0px 0px 40px;
-	text-align: left;
-}
-#mainView .tagline{
-	color: #fff;
-	font-size: 20px;
-	font-family: 'Cookie', cursive;
-	font-weight: normal;
-	text-shadow: 0 3px 0 rgba(0,0,0,0.1);
-	padding: 1px 1px 1px 1px;
-	margin: 0px 0px 0px 22px;
-	min-width:200px;
-	text-align: left;
-	position: relative;
-	top: 70px;	
-}
+
 /**----------Easy View---------------**/
 #easyView{
 	padding: 5px;

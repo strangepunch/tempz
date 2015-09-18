@@ -17,6 +17,7 @@
 		var vm = this;
 		$cookies.whereAmIFrom = "Rec";
 		$cookies.setDetail = "Flavor";
+
 		//set the ng-style of the mode selection
 		vm.styleMed={"font-size": "0.8em"};
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
@@ -246,7 +247,7 @@
 	     			vm.centerImage = vm.strainNames[i].imageUrl;
 	     		}
 	     	}
-	    }
+	    };
 	    //search and filter strains
 	    vm.searchAll = "";
     	$scope.searchStrain = function(name){
@@ -508,7 +509,7 @@
 					break;
     		}
    
-    	}
+    	};
 
     	//display more
     	$scope.goMore = function(mode){
@@ -531,7 +532,7 @@
 					break;
     		}
    
-    	}
+    	};
 
     	//the GO button
     	$scope.goEasy = function(mode){
@@ -548,8 +549,10 @@
 
     		//make sure user input a medical condition
     		if(vm.selectedSomething === 0){
+    			//alart message
+    			vm.alertMsg = "Please select something."
     			vm.alert = {"color":"red"};
-    			return vm.alertMsg = "Please select something.";
+    			return vm.alertMsg;
     		};
 
     		switch (mode){
@@ -697,7 +700,7 @@
 					break;
     		}
 
-    	}
+    	};
 
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){
@@ -721,7 +724,7 @@
 					vm.alertMsg = "";
 					break;
     		}
-		}
+		};
 
 		//researched javascript codes in dealing with arrays
     	//make array unique
