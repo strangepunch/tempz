@@ -190,17 +190,17 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					<bold>{{suggestedStrains.strainName}}</bold>
+					<bold ui-sref="strainDetails({strainId: suggestedStrains.strainId})">{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-3">
-							<div class="imgStrains"> 
+							<div class="imgStrains" ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								<img class="img-circle" ng-src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
 						<div class="col-xs-8">
-							<div> 
+							<div ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
@@ -249,17 +249,17 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					<bold>{{suggestedStrains.strainName}}</bold>
+					<bold ui-sref="strainDetails({strainId: suggestedStrains.strainId})">{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-3">
-							<div class="imgStrains"> 
+							<div class="imgStrains" ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								<img class="img-circle" ng-src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
 						<div class="col-xs-8">
-							<div> 
+							<div ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
@@ -291,17 +291,17 @@
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					<bold>{{suggestedStrains.strainName}}</bold>
+					<bold ui-sref="strainDetails({strainId: suggestedStrains.strainId})">{{suggestedStrains.strainName}}</bold>
 				</div>
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-3">
-							<div class="imgStrains"> 
+							<div class="imgStrains" ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								<img class="img-circle" ng-src="{{suggestedStrains.imageUrl}}"> 
 							</div>
 						</div>
 						<div class="col-xs-8">
-							<div> 
+							<div ui-sref="strainDetails({strainId: suggestedStrains.strainId})"> 
 								{{suggestedStrains.descriptionAbbrev}} 
 							</div>
 						</div>
