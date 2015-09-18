@@ -85,7 +85,7 @@
 				}
 				
 			}
-		}
+		};
 		
 		//name of the component(s) for selected temperature
 		vm.EffectsProductName = [];
@@ -164,7 +164,7 @@
 			}
 			//console.log("vm.EffectsProductName", vm.EffectsProductName);
 			//console.log("vm.effectProperty", vm.effectProperty);
-		}
+		};
 
 		//inititial list of condition names for selecting
 		effectResource.query(function(data){
@@ -187,7 +187,7 @@
 	     	vm.selectedCond = name;
 	     	vm.userSelect[0].condName = vm.selectedCond;
 	     	//console.log("vm.userSelect[0]", vm.userSelect);
-	    }
+	    };
 
 	    //inititial list of strain names for selecting
 	    strainNamesResource.query(function(data){
@@ -201,7 +201,7 @@
 	     	vm.selectedStrain = name;
 	     	vm.userSelect[0].strnName = vm.selectedStrain;
 			//console.log("vm.userSelect[0]", vm.userSelect);
-	    }
+	    };
 	    //search and filter strains
 	    vm.searchAll = "";
     	$scope.searchStrain = function(name){
@@ -312,11 +312,13 @@
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
     		vm.ShowStrains = false;
-    	}
+    	};
 
     	//the GO button
     	$scope.goEasy = function(){
     		//vm.showA1 = false;
+
+    		
 
     		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
@@ -332,8 +334,10 @@
     		
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
+    			//alart message
+    			vm.alertMsg = "Please select a medical condition."
     			vm.alert = {"color":"red"};
-    			return vm.alertMsg = "Please select a medical condition.";
+    			return vm.alertMsg;
     		}
 
     		//hide the question screen and display solution screen
@@ -479,7 +483,7 @@
     			$scope.loading = false;
     			return vm.hasEnterStrain = false;
     		}
-    	}
+    	};
     	//find effects treated for your condition in plain english
     	$scope.getEnglishEffect = function(effcArray){
     		var thisArray = [];
@@ -498,7 +502,7 @@
     		});
 
     		return thisArray;
-    	}
+    	};
     	//has to be equal length to begin with
     	/**
     	$scope.combineTwoEffectName = function(arr1, arr2){
@@ -559,7 +563,7 @@
     		//console.log("vm.userTempArrayU", vm.userTempArrayU)
     		//console.log("vm.userTempArrayUC", vm.userTempArrayU)
     		
-    	}
+    	};
 
     	//highlight the treated condition
     	$scope.thisCond = function(cond){
@@ -586,7 +590,7 @@
 				}
 			}
 	    	
-    	}
+    	};
 
     	$scope.getNextEffect = function(num,name){
     		vm.moreThanOne = false;
@@ -604,50 +608,58 @@
 			
     		$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 			vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
-    	}
+    	};
+
     	$scope.styleEffSelected = function(dex){
+    		//color setting
+    		vm.makeRed = {"color":"Red","font-size": "1.1em"};
+    		vm.makeNormal = {"font-size": "1.1em"};
+
     		switch (dex){
     			case 0:
 	    			if(vm.currentSelectEffNum === dex){
-	    				return {"color":"Red","font-size": "1.1em"};
+	    				return vm.makeRed;
 	    			}else{
-	    				return {"font-size": "1.1em"};
+	    				return vm.makeNormal;
 	    			}
 	    			break;
     			case 1:
 	    			if(vm.currentSelectEffNum === dex){
-	    				return {"color":"Red","font-size": "1.1em"};
+	    				return vm.makeRed;
 	    			}else{
-	    				return {"font-size": "1.1em"};;
+	    				return vm.makeNormal;
 	    			}
 	    			break;
     			case 2:
 	    			if(vm.currentSelectEffNum === dex){
-	    				return  {"color":"Red","font-size": "1.1em"};
+	    				return  vm.makeRed;
 	    			}else{
-	    				return  {"font-size": "1.1em"};
+	    				return  vm.makeNormal;
 	    			}
 	    			break;
 	    		default:
 	    			vm.currentSelectEffNum = 0;
-	    			return  {"font-size": "1.1em"};
+	    			return  vm.makeNormal;
 	    			break;
     		}
-    	}
+    	};
 
 //------find and suggest strains based one selected temp for the condition-------------//
 		//The button "Need A Strain" on the first page
     	$scope.goSuggest = function(){
+    		
     		//make sure user input a medical condition
     		if(vm.userSelect[0].condName===''){
+    			//alert message
+    			vm.alertMsg = "Please select a medical condition."
     			vm.alert = {"color":"red"};
-    			return vm.alertMsg = "Please select a medical condition.";
+    			return vm.alertMsg;
     		}
     		vm.suggested = true;
     		vm.ShowStrains = true; //show button on
     		vm.thereIsMore = false;
     		$scope.goEasy();
-    	}
+    	};
 
     	//The button "Show" in suggested strain in the second screen
     	vm.suggested = false;
@@ -725,7 +737,7 @@
 
     		//console.log("vm.suggestedStains", vm.suggestedStains);
     		//console.log("vm.finalSuggestedStrains",vm.finalSuggestedStrains);
-    	}
+    	};
 
     	//display more
     	//vm.thereIsMore = false;
@@ -746,7 +758,7 @@
 					break;
     		}
    
-    	}
+    	};
 
     	//filter the suggested strains
     	$scope.filterSuggestedStrains = function(choice){
@@ -867,7 +879,7 @@
 					break;
     		}
 
-    	}
+    	};
 
     	//toggle the questions display on/off
     	vm.toggleQuestion = function(choice){
@@ -887,7 +899,7 @@
 					vm.showA1 = !vm.showA1;
 					break;
     		}
-		}
+		};
 
 		//researched javascript codes in dealing with arrays
     	//make array unique
