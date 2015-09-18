@@ -223,6 +223,7 @@ html, body {
 
 #mainView img{
 	max-width: 40%;
+	margin-bottom: 10px;
 	text-align: center;
 	color: #f00;
     -webkit-filter: invert(0%);
