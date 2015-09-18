@@ -45698,7 +45698,7 @@
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
-			 "Property": ["Euphoriant", "Analgesic", "Antipyretic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Neurogenesis", "Antidiabetic"],
+			 "Property": ["Euphoriant", "Analgesic", "Antipyretic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Neurogenesis", "Antidiabetic", "Antispasmodic","Appetite Stimulant"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
 			 "lowTempC": 0,
@@ -45712,7 +45712,7 @@
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
-			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic"],
+			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic", "Antibacterial", "Antidiabetic", "Antiemetic", "Antiproliferative","Antipsoriatic", "Stimulates Bone Growth", "Immunosuppressant", "Intestinal anti-prokinetic", "Neuroprotective"],
 			 "lowTemp": 320,
 			 "highTemp": 356,
 			 "lowTempC": 160,
@@ -45726,7 +45726,7 @@
 			},
 			{"productId": 4,
 			 "productName": "CBN", //compName
-			 "Property": ["Oxidation", "Sedative", "Antibiotic", "Immunosuppressant"],
+			 "Property": ["Analgesic", "Oxidation", "Sedative", "Antibiotic", "Immunosuppressant", "Antispasmodic"],
 			 "lowTemp": 0,
 			 "highTemp": 365,
 			 "lowTempC": 0,
@@ -45740,7 +45740,7 @@
 			},
 			{"productId": 5,
 			 "productName": "CBC", //compName
-			 "Property": ["Antiinflammatory", "Antibiotic", "Antifungal", "Antiviral"],
+			 "Property": ["Analgesic", "Antiinflammatory", "Antibiotic", "Antiviral", "Antiproliferative", "Stimulates Bone Growth"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -45749,12 +45749,12 @@
 			 "tempC": "220",
 			 "descriptionDetailed": "Evidence has suggested that CBC may play a role in the anti-inflammatory and anti-viral effects of cannabis, and may contribute to the overall analgesic effects of medical cannabis.",
 			 "descriptionAbbrev":  "May contribute to the overall analgesic effects of medical cannabis.",
-			 "tags": ["Phytocannabinoid", "Antiinflammatory", "Antibiotic", "Antifungal"],
+			 "tags": [""],
 			 "imageUrl": "images/200px-Cannabichromene-skeletal.svg.png"
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
-			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic", "Antileishmanial"],
+			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic", "Antileishmanial", "Antiproliferative"],
 			 "lowTemp": 0,
 			 "highTemp": 126,
 			 "lowTempC": 0,
@@ -45768,7 +45768,7 @@
 			},
 			{"productId": 7,
 			 "productName": "THC8", //compName
-			 "Property": ["antiemetic", "anxiolytic", "Encourages appetite", "analgesic", "neuroprotective"],
+			 "Property": ["antiemetic", "anxiolytic", "Appetite Stimulant", "analgesic", "neuroprotective"],
 			 "lowTemp": 347,
 			 "highTemp": 352,
 			 "lowTempC": 175,
@@ -45782,7 +45782,7 @@
 			},
 			{"productId": 8,
 			 "productName": "THCA", //compName
-			 "Property": ["Antiinflammatory", "Encourages appetite", "Anti-tumor", "Sedative", "Antispasmodic", "Anti-prostate cancer", "Antiepileptic"],
+			 "Property": ["Antiinflammatory", "Antiproliferative", "Anti-tumor", "Sedative", "Antispasmodic", "Anti-prostate cancer", "Antiepileptic"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -45796,7 +45796,7 @@
 			},
 			{"productId": 9,
 			 "productName": "THCV", //compName
-			 "Property": ["Analgesic", "Euphoriant"],
+			 "Property": ["Analgesic", "Euphoriant", "Anorectic", "Antiepileptic", "Stimulates Bone Growth"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -45838,7 +45838,7 @@
 			},
 			{"productId": 12,
 			 "productName": "Limonene", //compName
-			 "Property": ["Anti gastric reflux", "Anti-fungal", "Antidepressant", "Anxiolytic", "Anti-tumor", "Immunostimulant", "Euphoriant"],
+			 "Property": ["Anti gastric reflux", "Antifungal", "Antidepressant", "Anxiolytic", "Anti-tumor", "Immunostimulant", "Euphoriant"],
 			 "lowTemp": 0,
 			 "highTemp": 351,
 			 "lowTempC": 0,
@@ -46147,7 +46147,7 @@
 			},
 			{"effectId": 20,
 			 "effectName": "Immunosuppressant", //compName
-			 "conditionsTreated": ["Psoriasis", "Arthritis", "Crohns Disease", "Cancer"],
+			 "conditionsTreated": ["Psoriasis", "Arthritis", "Crohns Disease", "Cancer", "Lupus", "Multiple Sclerosis"],
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
 			 "descriptionAbbrev":  "Treat autoimmune conditions",
 			 "tags": [""],
@@ -46338,7 +46338,7 @@
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
 			{"effectId": 44,
-			 "effectName": "Encourages appetite", //compName
+			 "effectName": "Appetite Stimulant", //compName
 			 "conditionsTreated": ["Anorexia", "Appetite Loss"],
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Stimulates Appetite",
@@ -46350,6 +46350,14 @@
 			 "conditionsTreated": ["Gastric reflux", "Heartburn"],
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Protects intestinal tract lining",
+			 "tags": [""],
+			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			}, 
+			{"effectId": 46,
+			 "effectName": "Anorectic", //compName
+			 "conditionsTreated": ["Weight Loss", "Appetite Suppression"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Helps with weight loss by suppressing appetite",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			}
