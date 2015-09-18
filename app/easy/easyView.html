@@ -180,17 +180,17 @@
 		<div class = "panel" ng-if="vm.hasMatches" ng-repeat = "suggestedStrains in vm.finalSuggestedStrains|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
-					<bold>{{suggestedStrains.strnData.strainName}}</bold> <!--has {{suggestedStrains.matches}} matches-->
+					<bold ui-sref="strainDetails({strainId: suggestedStrains.strnData.strainId})">{{suggestedStrains.strnData.strainName}}</bold> <!--has {{suggestedStrains.matches}} matches-->
 				</div>
 				<div class="panel-body">
 					<div class = "row">
 						<div class="col-xs-3">
-							<div class="imgStrains"> 
+							<div class="imgStrains" ui-sref="strainDetails({strainId: suggestedStrains.strnData.strainId})"> 
 								<img class="img-circle" ng-src="{{suggestedStrains.strnData.imageUrl}}"> 
 							</div>
 						</div>
 						<div class="col-xs-8">
-							<div> 
+							<div ui-sref="strainDetails({strainId: suggestedStrains.strnData.strainId})"> 
 								{{suggestedStrains.strnData.descriptionAbbrev}} 
 							</div>
 						</div>
