@@ -46227,7 +46227,7 @@
 			}, 
 			{"effectId": 30,
 			 "effectName": "Anti-tumor", //compName
-			 "conditionsTreated": ["Cancer"],
+			 "conditionsTreated": ["Cancer", "Prostate Cancer"],
  			 "descriptionDetailed": "High CBD strains of medical cannabis have been successfully used to stop abnormal tumor cell growth associated with some skin, brain and prostate cancers.",
 			 "descriptionAbbrev":  "Stop or slow tumor growth",
 			 "tags": [""],
@@ -46283,7 +46283,7 @@
 			}, 
 			{"effectId": 37,
 			 "effectName": "Antineoplastic", //compName
-			 "conditionsTreated": ["Cancer", "Prostate"],
+			 "conditionsTreated": ["Cancer", "Prostate Cancer"],
  			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
 			 "descriptionAbbrev":  "Slow down or inhibit tumors",
 			 "tags": [""],
@@ -46331,7 +46331,7 @@
 			}, 
 			{"effectId": 43,
 			 "effectName": "5-a-reductase inhibitor", //compName
-			 "conditionsTreated": ["Prostate"],
+			 "conditionsTreated": ["Prostate Cancer"],
  			 "descriptionDetailed": "Surpresses dihydrotestosterone, treats benign prostatic hyperplasia - prostate.",
 			 "descriptionAbbrev":  "Treat benign prostate conditions",
 			 "tags": [""],
