@@ -147,7 +147,7 @@ html, body {
 	background-position:center;
 	border: none;
 	overflow: hidden;
-	padding-top: 50px;
+	padding-top: 45px;
 	margin-bottom: -20px;
 }
 
@@ -222,6 +222,7 @@ html, body {
 }
 
 #mainView img{
+	max-width: 40%;
 	text-align: center;
 	color: #f00;
     -webkit-filter: invert(0%);
