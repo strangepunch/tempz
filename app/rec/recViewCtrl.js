@@ -512,13 +512,6 @@
 
     	//display more
     	$scope.goMore = function(mode){
-    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
-    		vm.active2 = '';
-    		vm.active3 = '';
-    		vm.active4 = '';
-    		vm.active5 = '';
-    		vm.active6 = '';
-
     		switch (mode){
     			case 'A1':
     				vm.MoreStrains = vm.originalData.length;
@@ -542,6 +535,14 @@
 
     	//the GO button
     	$scope.goEasy = function(mode){
+
+    		//set the color of which filter is selected first
+    		vm.active1 = {"font-weight": "bold", "color":"#009900"};
+    		vm.active2 = '';
+    		vm.active3 = '';
+    		vm.active4 = '';
+    		vm.active5 = '';
+    		vm.active6 = '';
 
     		vm.orderByValue = 'strainName';
 
