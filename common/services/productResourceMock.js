@@ -45691,10 +45691,10 @@
 			 "highTempC": 224,
 			 "temp": "435",
 			 "tempC": "224",
-			 "descriptionDetailed": "Pulegone is a naturally occurring organic compound obtained from the essential oils of a variety of plants such as catnip, Mentha piperita, and pennyroyal. It is classified as a monoterpene. Pulegone is a clear colorless oily liquid and has a pleasant odor similar to pennyroyal, peppermint and camphor. It is used in flavoring agents, in perfumery, and in aromatherapy.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Pulegone has a pleasant odor similar to peppermint.",
-			 "tags": ["Terpene","Terpinoid","peppermint", "sedative", "memory"],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
@@ -45705,10 +45705,10 @@
 			 "highTempC": 157,
 			 "temp": "315",
 			 "tempC": "157",
-			 "descriptionDetailed": "THC is the principal psychoactive constituent or cannabinoid of the Cannabis plant. THC appears to ease moderate pain (analgesic) and to be neuroprotective, while also offering the potential to reduce neuroinflammation and to stimulate neurogenesis. First isolated in 1964 by Israeli scientists Raphael Mechoulam and Yechiel Gaoni at the Weizmann Institute of Science. It is a water-clear glassy solid when cold, which becomes viscous and sticky if warmed.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The principal psychoactive constituent or cannabinoid of the Cannabis plant.",
-			 "tags": ["Phytocannabinoid", "Euphoriant", "Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic"],
-			 "imageUrl": "images/220px-Tetrahydrocannabinol.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
@@ -45719,10 +45719,10 @@
 			 "highTempC": 180,
 			 "temp": "320-356",
 			 "tempC": "160-180",
-			 "descriptionDetailed": "CBD is a major phytocannabinoid, accounting for up to 40% of the plant's extract. CBD is considered to have a wider scope of medical applications than THC.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "CBD is considered to have a wider scope of medical applications than THC.",
-			 "tags": ["Phytocannabinoid", "Euphoriant", "Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic"],
-			 "imageUrl": "images/230px-Cannabidiol.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 4,
 			 "productName": "CBN", //compName
@@ -45733,10 +45733,10 @@
 			 "highTempC": 185,
 			 "temp": "365",
 			 "tempC": "185",
-			 "descriptionDetailed": "CBN is a weak psychoactive cannabinoid found only in trace amounts in Cannabis sativa and Cannabis indica. It is used experimentally as an immunosuppressant.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Used experimentally as an immunosuppressant.",
-			 "tags": ["Phytocannabinoid", "Oxidation", "Sedative", "Antibiotic", "Immunosuppressant"],
-			 "imageUrl": "images/220px-Cannabinol.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 5,
 			 "productName": "CBC", //compName
@@ -45747,10 +45747,10 @@
 			 "highTempC": 220,
 			 "temp": "428",
 			 "tempC": "220",
-			 "descriptionDetailed": "Evidence has suggested that CBC may play a role in the anti-inflammatory and anti-viral effects of cannabis, and may contribute to the overall analgesic effects of medical cannabis.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "May contribute to the overall analgesic effects of medical cannabis.",
 			 "tags": [""],
-			 "imageUrl": "images/200px-Cannabichromene-skeletal.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
@@ -45761,10 +45761,10 @@
 			 "highTempC": 52,
 			 "temp": "125",
 			 "tempC": "52",
-			 "descriptionDetailed": "Cannabigerol is non psychoactive, and has been shown to stimulate the growth of new brain cells, including in the elderly; it should be noted that genuinely neurogenic compounds are extremely rare. CBG also stimulates bone growth, is antibacterial and anti-tumor, and combats insomnia.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Cannabigerol is non psychoactive, and has been shown to stimulate the growth of new brain cells.",
-			 "tags": ["Phytocannabinoid", "Cannabinoid", "Antiemetic", "Antibacterial", "Anti-tumor", "Sedative"],
-			 "imageUrl": "images/220px-Cannabigerol-skeletal.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 7,
 			 "productName": "THC8", //compName
@@ -45775,10 +45775,10 @@
 			 "highTempC": 178,
 			 "temp": "347-352F",
 			 "tempC": "175-178C",
-			 "descriptionDetailed": "Evidence has suggested that CBC may play a role in the anti-inflammatory and anti-viral effects of cannabis, and may contribute to the overall analgesic effects of medical cannabis.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "May contribute to the overall analgesic effects of medical cannabis.",
-			 "tags": ["Phytocannabinoid", "Cannabinoid", "Antiemetic"],
-			 "imageUrl": "images/200px-Cannabichromene-skeletal.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 8,
 			 "productName": "THCA", //compName
@@ -45789,10 +45789,10 @@
 			 "highTempC": 220,
 			 "temp": "428",
 			 "tempC": "220",
-			 "descriptionDetailed": "THCA is found in variable quantities in fresh, undried cannabis, but is progressively decarboxylated to THC with drying, and especially under intense heating such as when cannabis is smoked. THCA does not have any known psychoactive effects on humans in its own right. It does have antiinflammatory, neuroprotective, anti-vomitting and anti-prostate cancer effects. It is believed to be important in less-psychoactive preparations of cannabis used for medical use, such as cannabis tea.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "THCA is progressively decarboxylated to THC with drying, and especially under intense heating such as when cannabis is smoked.",
 			 "tags": [""],
-			 "imageUrl": "images/220px-Tetrahydrocannabinolicacid.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 9,
 			 "productName": "THCV", //compName
@@ -45803,10 +45803,10 @@
 			 "highTempC": 220,
 			 "temp": "428",
 			 "tempC": "220",
-			 "descriptionDetailed": "This terpeno-phenolic compound is found naturally in Cannabis, sometimes in significant amounts. Plants with elevated levels of propyl cannabinoids including THCV have been found in populations of Cannabis from China, India, Nepal, Thailand, Afghanistan, and Pakistan, as well as southern and western Africa.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Progressively decarboxylated to THC with drying, and especially under intense heating such as when cannabis is smoked.",
 			 "tags": [""],
-			 "imageUrl": "images/220px-Thcv.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 10,
 			 "productName": "Myrcene", //compName
@@ -45817,10 +45817,10 @@
 			 "highTempC": 168,
 			 "temp": "334",
 			 "tempC": "167",
-			 "descriptionDetailed": "Beta-Myrcene is found in fresh mango fruit, hops, bay leaves, eucalyptus, lemongrass and many other plants. Beta-Myrcene is known to be anti-tumor, anti-inflammatory, and used in the treatment of spasms. It is also used to treat insomnia, and pain. High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "High Beta-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
 			 "tags": [""],
-			 "imageUrl": "images/220px-Myrcene_beta_straight_acsv.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 11,
 			 "productName": "Caryophyllene", //compName
@@ -45831,10 +45831,10 @@
 			 "highTempC": 119,
 			 "temp": "246",
 			 "tempC": "119",
-			 "descriptionDetailed": "β-Myrcene is found fresh mango fruit, hops, bay leaves, eucalyptus, lemongrass and many other plants. β-Myrcene is known to be anti-tumor, anti-inflammatory, and used in the treatment of spasms. It is also used to treat insomnia, and pain. High β-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "High β-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
 			 "tags": [""],
-			 "imageUrl": "images/200px-Beta-Caryophyllen.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 12,
 			 "productName": "Limonene", //compName
@@ -45845,10 +45845,10 @@
 			 "highTempC": 177,
 			 "temp": "351",
 			 "tempC": "177",
-			 "descriptionDetailed": "Limonene takes its name from the lemon, as the rind of the lemon, like other citrus fruits, contains considerable amounts of this compound, which contributes to their odor. In natural and alternative medicine, d-limonene is marketed to relieve gastroesophageal reflux disease and heartburn.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Limonene takes its name from the lemon, as the rind of the lemon, like other citrus fruits, contains considerable amounts of this compound, which contributes to their odor.",
 			 "tags": [""],
-			 "imageUrl": "images/70px-Limonene-2D-skeletal.svg.png"
+			 "imageUrl": ""
 			},
 			{"productId": 13,
 			 "productName": "Linalool", //compName
@@ -45859,10 +45859,10 @@
 			 "highTempC": 198,
 			 "temp": "388",
 			 "tempC": "198",
-			 "descriptionDetailed": "Linalool is a naturally occurring terpene alcohol chemical found in many flowers and spice plants with many commercial applications, the majority of which based on its pleasant scent which is floral, with a touch of spiciness.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A naturally occurring terpene alcohol chemical found in many flowers and spice plants.",
-			 "tags": ["Terpene","Terpinoid","Sedative", "Antidepressant", "Anxiolytic", "Immune potentiator"],
-			 "imageUrl": "images/240px-Linalool-skeletal.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 14,
 			 "productName": "Eucalyptol", //compName
@@ -45873,10 +45873,10 @@
 			 "highTempC": 176,
 			 "temp": "349",
 			 "tempC": "176",
-			 "descriptionDetailed": "Eucalyptol has a fresh camphor-like smell and a spicy, cooling taste. It is an ingredient in many brands of mouthwash and cough suppressant. Eucalyptol is also used as an insecticide and insect repellent.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Eucalyptol has a fresh camphor-like smell and a spicy, cooling taste.",
-			 "tags": ["Terpene","Terpinoid","AChE inhibitor", "Increases cerebral blood flow", "Stimulant", "Antibiotic", "Antiviral", "Antiinflammatory", "Antinociceptive"],
-			 "imageUrl": "images/200px-Eucalyptol.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 15,
 			 "productName": "Pinene", //compName
@@ -45887,10 +45887,10 @@
 			 "highTempC": 156,
 			 "temp": "312",
 			 "tempC": "156",
-			 "descriptionDetailed": "At low exposure levels, alpha-Pinene is a bronchodilator in humans. It is found in the oils of many species of coniferous trees, notably the pine. It is also found in the essential oil of rosemary.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "At low exposure levels, alpha-Pinene is a bronchodilator in humans.",
-			 "tags": ["Terpene","Terpinoid","Antiinflammatory", "Bronchodilator", "Stimulant", "Antibiotic", "Antineoplastic", "AChE inhibitor"],
-			 "imageUrl": "images/220px-Alpha-Pinene_Isomers.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 16,
 			 "productName": "Terpineol", //compName
@@ -45901,10 +45901,10 @@
 			 "highTempC": 217,
 			 "temp": "423",
 			 "tempC": "217",
-			 "descriptionDetailed": "Terpineol has a pleasant odor similar to lilac and is a common ingredient in perfumes, cosmetics, and flavors. Alpha-Terpineol is one of the two most abundant aroma constituents of lapsang souchong tea, the A-terpineol originates in the pine smoke used to dry the tea.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Terpineol has a pleasant odor similar to lilac.",
-			 "tags": ["Terpene","Terpinoid","Sedative", "Antibiotic", "AChE inhibitor", "Antioxidant", "Antimalarial"],
-			 "imageUrl": "images/100px-Terpineol_alpha.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 17,
 			 "productName": "Terpineol-4", //compName
@@ -45915,10 +45915,10 @@
 			 "highTempC": 209,
 			 "temp": "408",
 			 "tempC": "209",
-			 "descriptionDetailed": "Terpineol-4-ol considered the primary active ingredient of tea tree oil.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Terpineol-4-ol considered the primary active ingredient of tea tree oil.",
-			 "tags": ["Terpene", "Terpinoid","AChE inhibitor", "Antibiotic"],
-			 "imageUrl": "images/100px-Terpinen-4-ol.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 18,
 			 "productName": "Cymene", //compName
@@ -45929,10 +45929,10 @@
 			 "highTempC": 177,
 			 "temp": "351",
 			 "tempC": "177",
-			 "descriptionDetailed": "It is a constituent of a number of essential oils, most commonly the oil of cumin and thyme. Significant amounts are formed in sulfite pulping process from the wood terpenes.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "It is a constituent of a number of essential oils, most commonly the oil of cumin and thyme.",
-			 "tags": ["Terpene", "Terpinoid", "AChE inhibitor", "Anticandidal"],
-			 "imageUrl": "images/100px-P-Cymol.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			}, 
 			{"productId": 19,
 			 "productName": "Apigenin", //compName
@@ -45943,10 +45943,10 @@
 			 "highTempC": 178,
 			 "temp": "352",
 			 "tempC": "178",
-			 "descriptionDetailed": "Apigenin is found in many fruits and vegetables, but parsley, celery, celeriac, and chamomile tea are the most common sources. Apigenin induces autophagy (a kind of cellular waste-recycling system) in leukemia cells, which may support a possible chemopreventive role.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Apigenin is found in many fruits and vegetables, but parsley, celery, celeriac, and chamomile tea are the most common sources.",
-			 "tags": ["Flavonoid","Anxiolytic", "Antiinflammatory", "Estrogenic"],
-			 "imageUrl": "images/200px-Apigenin.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 20,
 			 "productName": "Quercetin", //compName
@@ -45957,10 +45957,10 @@
 			 "highTempC": 250,
 			 "temp": "482",
 			 "tempC": "250",
-			 "descriptionDetailed": "Quercetin is a flavonoid widely distributed in nature. The name has been used since 1857, and is derived from quercetum meaning oak forest. It is a flavonol found in many fruits, vegetables, leaves and grains and can be used as an ingredient in supplements, beverages, or foods. Quercetin may also induce insulin secretion by activation of L-type calcium channels in the pancreatic β-cells.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Quercetin is a flavonoid widely distributed in nature.",
-			 "tags": ["Flavonoid","Antioxidant", "Antimutagenic", "Antiviral", "Antineoplastic"],
-			 "imageUrl": "images/250px-Quercetin.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
 			},
 			{"productId": 21,
 			 "productName": "Cannflavin A", //compName
@@ -45971,9 +45971,9 @@
 			 "highTempC": 182,
 			 "temp": "360",
 			 "tempC": "182",
-			 "descriptionDetailed": "A non-cannabinoid constituent isolated from a high potency Cannabis sativa displaying antimicrobial, antileishmanial, antimalarial and anti-oxidant activities.",
+			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A non-cannabinoid constituent isolated from a high potency Cannabis sativa.",
-			 "tags": ["Flavonoid","COX inhibitor", "LO inhibitor", "Antimicrobial", "Antileishmanial", "Antimalarial", "Anti-oxidant" ],
+			 "tags": ["" ],
 			 "imageUrl": "images/no-image-yet.png"
 			},
 			{"productId": 22,
