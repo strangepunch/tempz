@@ -5,6 +5,7 @@
       .controller("StrainDetailCtrl",
             ["$scope",
              "$cookies",
+             "localStorageService",
              "strain",
              "detailModeResource",
              "tasteResource", 
@@ -14,7 +15,7 @@
              "vTipResource",
               StrainDetailCtrl]);
   
-  function StrainDetailCtrl($scope,$cookies,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource,vTipResource){
+  function StrainDetailCtrl($scope,$cookies,localStorageService,strain,detailModeResource,tasteResource,recEffectResource,strainResource,vapeTempResource,vTipResource){
     var vm = this;
     
     //strain that is passed over
@@ -26,16 +27,35 @@
     vm.fromRec = false;
     vm.styleMed={"font-size": "0.8em"};
     vm.styleRec={"color":"Red", "font-size": "1.1em"};
-    if($cookies.whereAmIFrom === "Med"){
-      vm.fromMed = true;
-      vm.fromRec = false;
-      vm.styleMed={"color":"Red", "font-size": "1.1em"};
-      vm.styleRec={"font-size": "0.8em"};
-    }else if($cookies.whereAmIFrom === "Rec"){
-      vm.fromMed = false;
-      vm.fromRec = true;
-      vm.styleMed={"font-size": "0.8em"};
-      vm.styleRec={"color":"Red","font-size": "1.1em"};
+
+    if(localStorageService.isSupported) {
+      
+      if(localStorageService.get('whereAmIFrom') === "Med"){
+        vm.fromMed = true;
+        vm.fromRec = false;
+        vm.styleMed={"color":"Red", "font-size": "1.1em"};
+        vm.styleRec={"font-size": "0.8em"};
+      }else if(localStorageService.get('whereAmIFrom') === "Rec"){
+        vm.fromMed = false;
+        vm.fromRec = true;
+        vm.styleMed={"font-size": "0.8em"};
+        vm.styleRec={"color":"Red","font-size": "1.1em"};
+      }
+
+    }else{
+
+      if($cookies.whereAmIFrom === "Med"){
+        vm.fromMed = true;
+        vm.fromRec = false;
+        vm.styleMed={"color":"Red", "font-size": "1.1em"};
+        vm.styleRec={"font-size": "0.8em"};
+      }else if($cookies.whereAmIFrom === "Rec"){
+        vm.fromMed = false;
+        vm.fromRec = true;
+        vm.styleMed={"font-size": "0.8em"};
+        vm.styleRec={"color":"Red","font-size": "1.1em"};
+      }
+
     }
 
     //initiate center image for first time entry
@@ -48,72 +68,145 @@
 
     //initialize image for first screen
     vm.combineImgAndWords = [];
-    switch($cookies.setDetail){
-      case "Effect":
-            vm.Positive = true;
-            vm.Negative = false;
-            vm.Percent = false;
-            vm.Taste = false;
-            vm.Conditions = false;
-            vm.Vape = false;
-            vm.currentMode = 'Pos';
-            vm.selectedMode = "Positive effects";
-            recEffectResource.query(function(data){
-                vm.posEffImages = [];
-                vm.combineImgAndWords = [];
-                for(var i=0; i<vm.currentStrain.positiveEffects.length; i++){
-                  for(var x=0; x<data.length; x++){
-                    if(vm.currentStrain.positiveEffects[i] === data[x].recEffectName){
-                      vm.posEffImages[i] = data[x].imageUrl;
-                      vm.combineImgAndWords[i] = {"imageUrl":vm.posEffImages[i], "name":vm.currentStrain.positiveEffects[i]};
+    if(localStorageService.isSupported) {
+      switch(localStorageService.get('setDetail')){
+        case "Effect":
+              vm.Positive = true;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = false;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 'Pos';
+              vm.selectedMode = "Positive effects";
+              recEffectResource.query(function(data){
+                  vm.posEffImages = [];
+                  vm.combineImgAndWords = [];
+                  for(var i=0; i<vm.currentStrain.positiveEffects.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.positiveEffects[i] === data[x].recEffectName){
+                        vm.posEffImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.posEffImages[i], "name":vm.currentStrain.positiveEffects[i]};
+                      }
                     }
                   }
-                }
+                });
+              break;
+        case "Flavor":
+              vm.Positive = false;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = true;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 1;
+              vm.selectedMode = "Flavors you can expect";
+              tasteResource.query(function(data){
+                 vm.tasteImages = [];
+                 for(var i=0; i<vm.currentStrain.taste.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.taste[i] === data[x].taste){
+                        vm.tasteImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                      }
+                    }
+                 }
               });
-            break;
-      case "Flavor":
-            vm.Positive = false;
-            vm.Negative = false;
-            vm.Percent = false;
-            vm.Taste = true;
-            vm.Conditions = false;
-            vm.Vape = false;
-            vm.currentMode = 1;
-            vm.selectedMode = "Flavors you can expect";
-            tasteResource.query(function(data){
-               vm.tasteImages = [];
-               for(var i=0; i<vm.currentStrain.taste.length; i++){
-                  for(var x=0; x<data.length; x++){
-                    if(vm.currentStrain.taste[i] === data[x].taste){
-                      vm.tasteImages[i] = data[x].imageUrl;
-                      vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+              break;
+        default:
+              vm.Positive = false;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = true;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 1;
+              vm.selectedMode = "Flavors you can expect";
+              tasteResource.query(function(data){
+                 vm.tasteImages = [];
+                 for(var i=0; i<vm.currentStrain.taste.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.taste[i] === data[x].taste){
+                        vm.tasteImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                      }
+                    }
+                 }
+              });
+              break;
+      }
+
+    }else{
+      switch($cookies.setDetail){
+        case "Effect":
+              vm.Positive = true;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = false;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 'Pos';
+              vm.selectedMode = "Positive effects";
+              recEffectResource.query(function(data){
+                  vm.posEffImages = [];
+                  vm.combineImgAndWords = [];
+                  for(var i=0; i<vm.currentStrain.positiveEffects.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.positiveEffects[i] === data[x].recEffectName){
+                        vm.posEffImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.posEffImages[i], "name":vm.currentStrain.positiveEffects[i]};
+                      }
                     }
                   }
-               }
-            });
-            break;
-      default:
-            vm.Positive = false;
-            vm.Negative = false;
-            vm.Percent = false;
-            vm.Taste = true;
-            vm.Conditions = false;
-            vm.Vape = false;
-            vm.currentMode = 1;
-            vm.selectedMode = "Flavors you can expect";
-            tasteResource.query(function(data){
-               vm.tasteImages = [];
-               for(var i=0; i<vm.currentStrain.taste.length; i++){
-                  for(var x=0; x<data.length; x++){
-                    if(vm.currentStrain.taste[i] === data[x].taste){
-                      vm.tasteImages[i] = data[x].imageUrl;
-                      vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                });
+              break;
+        case "Flavor":
+              vm.Positive = false;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = true;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 1;
+              vm.selectedMode = "Flavors you can expect";
+              tasteResource.query(function(data){
+                 vm.tasteImages = [];
+                 for(var i=0; i<vm.currentStrain.taste.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.taste[i] === data[x].taste){
+                        vm.tasteImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                      }
                     }
-                  }
-               }
-            });
-            break;
+                 }
+              });
+              break;
+        default:
+              vm.Positive = false;
+              vm.Negative = false;
+              vm.Percent = false;
+              vm.Taste = true;
+              vm.Conditions = false;
+              vm.Vape = false;
+              vm.currentMode = 1;
+              vm.selectedMode = "Flavors you can expect";
+              tasteResource.query(function(data){
+                 vm.tasteImages = [];
+                 for(var i=0; i<vm.currentStrain.taste.length; i++){
+                    for(var x=0; x<data.length; x++){
+                      if(vm.currentStrain.taste[i] === data[x].taste){
+                        vm.tasteImages[i] = data[x].imageUrl;
+                        vm.combineImgAndWords[i] = {"imageUrl":vm.tasteImages[i], "name":vm.currentStrain.taste[i]};
+                      }
+                    }
+                 }
+              });
+              break;
+      }
+
     }
+
+    
 
     //Populate modes
     detailModeResource.query(function(data){
@@ -358,9 +451,10 @@
            }
         }
 
-        console.log("vm.currentCompLimited", vm.currentCompLimited);
+        //console.log("vm.currentCompLimited", vm.currentCompLimited);
        
       }
+
     };
 
 

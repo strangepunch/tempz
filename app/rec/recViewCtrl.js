@@ -4,6 +4,7 @@
 			.controller("RecViewCtrl",
 						["$scope",
 						 "$cookies",
+						 "localStorageService",
 						 "modeResource",
 						 "tasteResource",
 						 "recEffectResource",
@@ -13,11 +14,17 @@
 						 "ngProgress",
 							RecViewCtrl]);
 	
-	function RecViewCtrl($scope, $cookies, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
+	function RecViewCtrl($scope, $cookies, localStorageService, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
 		var vm = this;
-		$cookies.whereAmIFrom = "Rec";
-		$cookies.setDetail = "Flavor";
 
+		if(localStorageService.isSupported) {
+	    	localStorageService.set('whereAmIFrom', "Rec");
+	    	localStorageService.set('setDetail', "Flavor");
+	    }else{
+	    	$cookies.whereAmIFrom = "Rec";
+			$cookies.setDetail = "Flavor";
+	    }
+	    
 		//set the ng-style of the mode selection
 		vm.styleMed={"font-size": "0.8em"};
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
@@ -84,7 +91,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
-					$cookies.setDetail = "Flavor";
+					if(localStorageService.isSupported) {
+				    	localStorageService.set('setDetail', "Flavor");
+				    }else{
+						$cookies.setDetail = "Flavor";
+				    }
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
@@ -107,7 +118,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
-					$cookies.setDetail = "Effect";
+					if(localStorageService.isSupported) {
+				    	localStorageService.set('setDetail', "Effect");
+				    }else{
+						$cookies.setDetail = "Effect";
+				    }
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
@@ -130,7 +145,11 @@
     				vm.tasteTemp = -1;
     				vm.strainT = "";
 					vm.effectT="";
-					$cookies.setDetail = "Effect";
+					if(localStorageService.isSupported) {
+				    	localStorageService.set('setDetail', "Effect");
+				    }else{
+						$cookies.setDetail = "Effect";
+				    }
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";

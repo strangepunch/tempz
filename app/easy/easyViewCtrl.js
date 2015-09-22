@@ -4,6 +4,7 @@
 			.controller("EasyViewCtrl",
 						["$scope",
 						 "$cookies",
+						 "localStorageService",
 						 "tempResource",
 						 "strainNamesResource",
 						 "productResource",
@@ -12,10 +13,17 @@
 						 "ngProgress",
 							EasyViewCtrl]);
 	
-	function EasyViewCtrl($scope, $cookies, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
+	function EasyViewCtrl($scope, $cookies, localStorageService, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
 		var vm = this;
-		$cookies.whereAmIFrom = "Med";
-		$cookies.setDetail = "Effect";
+
+		if(localStorageService.isSupported) {
+	    	localStorageService.set('whereAmIFrom', "Med");
+	    	localStorageService.set('setDetail', "Effect");
+	    }else{
+	    	$cookies.whereAmIFrom = "Med";
+			$cookies.setDetail = "Effect";
+	    }
+
 		vm.userTempArrayU = [];
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
@@ -312,6 +320,11 @@
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
     		vm.ShowStrains = false;
+
+    		//sets the initial screen back to original setting
+    		vm.currentTemp = 'F';
+			vm.tempDisplay = 126;
+			vm.userTempArrayU = [];
     	};
 
     	//the GO button
@@ -516,30 +529,45 @@
 
     	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
+			if(localStorageService.isSupported) {
+				switch (localStorageService.get('myTheme')){
+			        case "css/beachTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/movieTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        case "css/khakiTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/app.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        default:
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+		        }
 
-    		switch ($cookies.myTheme){
-	          case "css/beachTheme.css":
-	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-	              break;
-	          case "css/movieTheme.css":
-	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	              break;
-	          case "css/khakiTheme.css":
-	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-	              break;
-	          case "css/app.css":
-	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	              break;
-	          default:
-	              vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	        }
-	        /**
-    		if($cookies.myTheme === "css/beachTheme.css"){
-    			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-    		}else{
-    			vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-    		}**/
-    		
+			} else{
+
+				switch ($cookies.myTheme){
+			        case "css/beachTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/movieTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        case "css/khakiTheme.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/app.css":
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        default:
+			            vm.hasTemp = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+		        }
+
+			}    		
+
     		if(vm.currentTemp === 'F'){
 	    		for(var i=0; i<vm.userTempArrayU.length; i++){
 	    			if(temp === vm.userTempArrayU[i]){
@@ -567,22 +595,44 @@
 
     	//highlight the treated condition
     	$scope.thisCond = function(cond){
-    		switch ($cookies.myTheme){
-	          case "css/beachTheme.css":
-	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-	              break;
-	          case "css/movieTheme.css":
-	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	              break;
-	          case "css/khakiTheme.css":
-	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
-	              break;
-	          case "css/app.css":
-	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	              break;
-	          default:
-	              vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
-	        }
+    		if(localStorageService.isSupported) {
+				switch (localStorageService.get('myTheme')){
+			        case "css/beachTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/movieTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        case "css/khakiTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/app.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        default:
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+		        }
+
+			} else{
+
+				switch ($cookies.myTheme){
+			        case "css/beachTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/movieTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        case "css/khakiTheme.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"red"};
+			            break;
+			        case "css/app.css":
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+			            break;
+			        default:
+			            vm.hasCond = {"font-weight":"bold","font-size":"1.1em","color":"yellow"};
+		        }
+
+			}
     		
 			for(var i=0; i<vm.effectsEnglish.length; i++){
 				if(cond === vm.effectsEnglish[i]){
