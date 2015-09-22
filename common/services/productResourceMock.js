@@ -446,7 +446,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "After you turn your Solo back on, if you hold the “down” button for a second it will go to last temperature setting you used before turning it off.",
+				 		"tipTxt": "After you turn your Solo back on, if you hold the down button for a second it will go to last temperature setting you used before turning it off.",
 				 		"TipImg" : "images/vapes/solo1.png"
 				 	},
 				 	{ 
@@ -5656,7 +5656,7 @@
 			 "positiveEffects": ["Long Lasting", "Uplifted", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Spicy sandalwood flavor combined with a Long Lasting and uplifting high make this the plant for those who like the best.",
+			 "descriptionAbbrev":  "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sage_100x100.jpg"
 			},
@@ -6112,7 +6112,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Calmness", "Mellow", "Energetic", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The indica element of this strain does provide Calmness, but many also find that this strain makes them energetic and productive.",
+			 "descriptionAbbrev":  "The indica element of this strain does provide calmness, but many also find that this strain makes them energetic and productive.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/papaya_100x100.jpg"
 			},
@@ -7480,7 +7480,7 @@
 			 "positiveEffects": ["Relaxed", "Calmness", "Mellow", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Stress-relieving qualities without the jarring paranoia, Strawbery is both comfortable and relaxing.",
+			 "descriptionAbbrev":  "Stress-relieving qualities without the jarring paranoia, Strawberry is both comfortable and relaxing.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/strawberry_100x100.jpg"
 			},
@@ -8392,7 +8392,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry Eyes", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Tests have put ACDC's CBD content as high as 19%, which helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
+			 "descriptionAbbrev":  "ACDC helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acdc_100x100.jpg"
 			},
@@ -9303,8 +9303,8 @@
 		 	 "conditions": ["ADD/ADHD","Anxiety","Bipolar", "Depression", "Migraines", "Headache", "Stress", "Insomnia", "Muscle Pain"],
 			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Drowsiness"],
-			 "descriptionDetailed": "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain. ",
-			 "descriptionAbbrev":  "",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 			},
@@ -9532,7 +9532,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Deep green leaf and a nice nearly lime green buds that have a hit of the foxtail calyx form.",
+			 "descriptionAbbrev":  "Deep green leaf and a nice nearly lime green buds that have a hint of the foxtail calyx form.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dutch-passion.JPG"
 			},
@@ -10444,7 +10444,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Euphoric", "Productive", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A sativa-dominant hybrid cross of Green Crack and Blue Dream. The green crack intensity and energetic buzz compliments the blue dreams soulfulness.",
+			 "descriptionAbbrev":  "The Green Crack intensity and energetic buzz compliments the Blue Dream's soulfulness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/green-dream_100x100.jpg"
 			},
@@ -12040,7 +12040,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Long Lasting", "Focused", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The high is Long Lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
+			 "descriptionAbbrev":  "The high is long lasting and physical, commonly beginning with hilarity, followed by extreme appetite stimulation then sedation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/moonshine-Deisel.jpg"
 			},
@@ -12382,7 +12382,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Mellow", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A Clear headed, happy high develops into a mellow contentment.",
+			 "descriptionAbbrev":  "A clear headed, happy high develops into a mellow contentment.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/platinum_trinity_kush.jpg"
 			},
@@ -13295,7 +13295,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Great for daytime use enabling you to get through your day with a super Cherry Smile on your face.",
+			 "descriptionAbbrev":  "Great for daytime use enabling you to get through your day with a super cherry smile on your face.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Sour_Cherry_Kush.jpg"
 			},
@@ -13523,7 +13523,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This is worthy of the name Super GDP. From the gorgeous crystal covered buds to the grape smell, the taste, and then the buzz…just a step above any other GDP.",
+			 "descriptionAbbrev":  "This is worthy of the name Super GDP. From the gorgeous crystal covered buds to the grape smell, the taste, and then the buzz, just a step above any other GDP.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Super_GDP.jpg"
 			},
@@ -15917,7 +15917,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The White strain is a 2009 IC420 cup winner named for the color of the buds when ripe.",
+			 "descriptionAbbrev":  "The superb muscle and nerve pain-relieving qualities of this strain are its lasting medical value.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/the-white_100x100.jpg"
 			},
@@ -17627,7 +17627,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual", "Euphoric", "Giggly", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Blue Moonshine is a Potent blueberry indica strain that provides a nice body high.",
+			 "descriptionAbbrev":  "Blue Moonshine is a potent blueberry indica strain that provides a nice body high.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
@@ -24353,7 +24353,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and Long Lasting.",
+			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
@@ -35981,7 +35981,7 @@
 			 "positiveEffects": ["Uplifted", "Pain relief", "Relaxed", "Drowsiness", "Hungry", "Tingly"],
 			 "negativeEffects": ["Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "This hybrid is sure to lift your mood and replace any stress you may have with smile on your face. ",
+			 "descriptionAbbrev": "This hybrid is sure to lift your mood and replace any stress you may have with a smile on your face. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-frost_100x100.jpg"
 			},
