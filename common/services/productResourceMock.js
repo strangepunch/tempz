@@ -1375,17 +1375,17 @@
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Use two screes to maximize clouds: Put the small screen at the bottom of the bowl. Use very fine ground up herb to fill the bowl to the top loosely packed. Put a normal size screen on top and push it down to get a tighter pack and to keep the herb from flying around the bowl and prevents it from going thru the straw. Vaporize at 375 F to get big clouds.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The tiny rubber seal in the bag that your Ascent arrived with can be placed around the top the mouthpiece and will prevent any vapor (and smell) from 'leaking'. A great find, if you ask me. Keeping this seal on will also eliminate the hygiene 'issue', as it makes the mouthpiece easier to lift by grabbing the rubber part.",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The motion sensitive auto shutdown is a great help in preserving battery power. Some testing showed that batteries easily last long enough for multiple sessions (6-8 at medium temperatures).",
 				 		"TipImg" : "images/vapes/ascent1.png"
 				 	}
 			 	]
@@ -2086,32 +2086,32 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Cloud EVO has an all glass air path running through the center of the vaporizer. The glass vapor path, nicknamed 'Bamboo', is not hidden and can be easily viewed through the top and bottom of the vaporizer. The Bamboo is not a straight tube but has some ridges in it, resembling stalks of bamboo. The Perputuheat System design creates turbulance and agitation of the air, allowing for better heat transfer and vaping at lower temperatures.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "A male 18.8mm ground glass joint tops the bamboo. This top piece serves as two functions: to hold the EZ Load Bowls and a place to attach the mouthpiece, Hydratube, or your own favorite water piece.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The EZ Load Bowls, or ELB, are used to hold the flower or dry leaf. The ELBs are made from a fine stainless steel mesh to ensure effective, even vaporization.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Dry Hydratube is an approximately 10 inch piece of curved borosilicate glass with a female 18.8mm opening to allow for attaching to the EVO to act as a mouthpiece.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Because the VapeXhale EVO does not need to be in the upright position to use, this allows one to use their favorite water piece in conjunction with the EVO.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The VapeXhale Cloud EVO's Perputuheat System is not affected by thermal degradation. This provides for full, tasty vapor clouds wether you inhale strong and fast or slow and steady.",
 				 		"TipImg" : "images/vapes/cloud-evo_thumb.png"
 				 	}
 			 	]
@@ -2518,47 +2518,47 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you happen to have a water piece handy the nano is AWESOME through water.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "To get a Solo-like experience. There are 2 basic techniques for E-Nano use: The first is to start the temp low, like 6.5, and just leave the stem on there for a bunch of hits. Then take it off, mix the material, and turn it up to 7, and leave the stem on for a few more hits.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The element really heats up when you leave it on. 7 may get you moderate clouds after a 2 or 3 minute heat-up, but if you leave the e-nano at 7 for an hour you'll notice that you're getting much more heat.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The stem can sit a bit looser, so there might be some play, your also going to want to use quite a bit less than the solo, and not grind it as much as you would with the solo.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The E-Nano itself never needs cleaning. You can wipe the outside with a damp cloth but never expose the wood to any product that contains alcohol or citrus as this could adversely affect the finish.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Clean the glass stem as often as possible to maintain the best taste from your E-nano. Simply put the stem back into the plastic container that the stem came packaged in, and pour 70-90% iso-alcohol (available at any drug store or super market) into the container. Be careful not to get any alcohol on wooden portion of the E-Nano itself. Put the top back on and soak the stem until it's clean. (15-20 minutes should be fine). Rinse the stem with water, dry, and you’re ready for your next session",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Grinding is not necessary. Load small nuggets of your favorite herb or leaf tobacco directly into the glass stem nearest the screen side. Only a small amount is necessary, less than .05g. will be fine.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After a few puffs, use the enclosed E-PIK to stir your herb up a little. NOTE: The end of the glass stem that comes in contact with the heater core will be HOT and could cause severe burns.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After your session is over turn the unit off. NOTE: Leaving the unit on will not harm the unit, but it is never a good idea to leave heated appliances on and unattended.",
 				 		"TipImg" : "images/vapes/Epic-Vape-E-Nano-Vape.png"
 				 	},
 				 	{ 
