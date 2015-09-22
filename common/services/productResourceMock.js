@@ -11014,7 +11014,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Uplifted", "Euphoric", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, Clear headed, and creative.",
+			 "descriptionAbbrev":  "Consumers typically describe this 55% sativa hybrid as blissful, clear headed, and creative.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/jack-herer_100x100.jpg"
 			},
@@ -28685,7 +28685,7 @@
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifting"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "Citrix entices the senses before drawing you into its active, Clear headed euphoria.",
+			 "descriptionAbbrev": "Citrix entices the senses before drawing you into its active, clear headed euphoria.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Citrix.jpg"
 			},
@@ -29255,7 +29255,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Euphoric", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "The effects are Clear headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
+			 "descriptionAbbrev": "The effects are clear headed and uplifting, perfect for building a positive mindset and stimulating creative energy.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cinex_100x100.jpg"
 			},
