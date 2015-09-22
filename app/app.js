@@ -9,6 +9,7 @@
 							 "ui.unique",
 							 "ngProgress",
 							 "ngCookies",
+							 "LocalStorageModule",
 							 "productResourceMock"]);
 	//error handling
 	app.config(function($provide){
