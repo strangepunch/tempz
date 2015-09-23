@@ -9,7 +9,7 @@
 	
 	function ThemeListCtrl($scope, $cookies, localStorageService){
 		  var vm = this;
-     
+      
       //sets your theme
       if(localStorageService.isSupported) {
         $scope.favoriteTheme = localStorageService.get('myTheme');

@@ -616,7 +616,7 @@
       vm.tempDisplay = 126;
       //set the ng-style of the temperature selection
       vm.styleF={"color":"Red","font-size": "1.2em"};
-      vm.styleC={"color":"white","font-size": "0.8em"};
+      vm.styleC={"font-size": "0.8em"};
 
     };
     //----------Back button for vape-----//
@@ -633,12 +633,12 @@
     $scope.selectTemp = function(name){
       vm.currentTemp = name;
       if(name === 'C'){
-        vm.styleF={"color":"white","font-size": "0.8em"};
+        vm.styleF={"font-size": "0.8em"};
         vm.styleC={"color":"Red","font-size": "1.2em"};
         vm.TempList = vm.TempCList;
       }else if(name === 'F'){
         vm.styleF={"color":"Red","font-size": "1.2em"};
-        vm.styleC={"color":"white","font-size": "0.8em"};
+        vm.styleC={"font-size": "0.8em"};
         vm.TempList = vm.TempFList;
       }
     }
