@@ -5428,7 +5428,7 @@
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Relaxed", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With effects that hit like a freight train, Trainwreck begins with a surge of euphoria, awakening creativity and happiness.",
+			 "descriptionAbbrev":  "They call it Trainwreck for a reason: First comes euphoria, then creativity and happiness. This train is leaving the station.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/trainwreck_100x100.jpg"
 			},
@@ -5542,7 +5542,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity.",
+			 "descriptionAbbrev":  "Great for conversations and feeling creative, you'll feel both energetic and uplifted with White Widow.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-widow_100x100.jpg"
 			},
@@ -5656,7 +5656,7 @@
 			 "positiveEffects": ["Long Lasting", "Uplifted", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Spicy sandalwood flavor combined with a long lasting and uplifting high make this the plant for those who like the best.",
+			 "descriptionAbbrev":  "Depression, stress and axiety will fade away with the spicy and sandalwood flavors of this long lasting strain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sage_100x100.jpg"
 			},
@@ -5770,7 +5770,7 @@
 			 "positiveEffects": ["Relaxed", "Mild tingling", "Numbness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Makes relaxation your only mission with strong body effects that include mild tingling and numbness.",
+			 "descriptionAbbrev":  "You'll be comfortably numb with a little tingle as you relax with the string body effects that Skywalker OG provides.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/skywalker-og_100x100.jpg"
 			},
@@ -5884,7 +5884,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Creative", "Euphoric", "Potent", "Balanced", "Pain relief"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Permafrost's relaxing effects are balanced between mind and body.",
+			 "descriptionAbbrev":  "An uplifting, creative balance between mind and body effects lead to a relaxing desire to rest with this potent strain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/permafrost_100x100.jpg"
 			},
@@ -5998,7 +5998,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Querkle has a fruity grape & berry scent",
+			 "descriptionAbbrev":  "Almost instantly you'll feel the creativity soar as your muscles relax into a grape and earthy flavored happiness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/querkle_100x100.jpg"
 			},
@@ -6112,7 +6112,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Creative", "Uplifted", "Calmness", "Mellow", "Energetic", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The indica element of this strain does provide calmness, but many also find that this strain makes them energetic and productive.",
+			 "descriptionAbbrev":  "Papaya will have you feeling energetic, calm, productive and mellow. With a taste of mango in the tropics, Papaya can lead you into creative endeavors while easing stress and pain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/papaya_100x100.jpg"
 			},
@@ -6226,7 +6226,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Pain relief", "Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
- 			 "descriptionAbbrev":  "Rich in the therapeutic compound CBD. Pennywise is especially effective in treating arthritis, PTSD, epilepsy, neurological disorders, and cancer symptoms.",
+ 			 "descriptionAbbrev":  "The CBD in Pennywise make it a popular treatment for arthritis, PTSD, cancer symptoms and neurological disorders like epilepsy. You can expect to feel clear headed, energetic, happy and focused.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 			},
@@ -6337,10 +6337,10 @@
 		 	],
 		 	"taste": ["Diesel", "Earthy", "Skunk"],   
 		 	 "conditions": ["Pain", "Stress"],
-			 "positiveEffects": ["Pain relief", "Relaxed", "Mellow",  "Conversational"],
+			 "positiveEffects": ["Long Lasting", "Potent", "Pain relief", "Relaxed", "Mellow", "Conversational"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This indica-dominant hybrid delivers a long-lasting sedative and trancey high, ideal for leisure and relaxation.",
+			 "descriptionAbbrev":  "With a long-lasting, somewhat sedative effect you can expect to feel relaxed, mellow and conversational with OG #18.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/og--18_100x100.jpg"
 			},
@@ -6454,7 +6454,7 @@
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifting", "Relaxed", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Euphoric and happy effects that combat stress and anxiety",
+			 "descriptionAbbrev":  "With it's well known Pine and Earthy flavors, OG Kush will have you feeling happy, uplifted and a bit hungry as you ease into a relaxed and restful mood.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/og-kush_100x100.jpg"
 			},
@@ -6568,7 +6568,7 @@
 			 "positiveEffects": ["Potent", "Clear headed", "Euphoric", "Drowsiness", "Pain relief", "Relaxed", "Mellow", "Hungry"],
 			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Because of its high-CBD profile, it delivers mellow effects with mental clarity.",
+			 "descriptionAbbrev":  "If you're looking for a high CBD strain, Canna-Tsu delivers. Mellow but potent effects bring mental clarity along with pain relief and a citrus, minty flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/canna-tsu_100x100.jpg"
 			},
@@ -6682,7 +6682,7 @@
 			 "positiveEffects": ["Intense", "Mind + Body", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A head and body buzz described as intense and almost psychedelic.",
+			 "descriptionAbbrev":  "You'll feel like you're in space with Nebula's intense head and body buzz that has been described as almost psychedelic.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/nebula_100x100.jpg"
 			},
@@ -6796,7 +6796,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Creative", "Hungry", "Conversational", "Therapeutic", "Energetic", "Relaxed", "Mellow"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Its therapeutic effects and enjoyable euphoric buzz are perfect for stimulating creativity and conversation.",
+ 			 "descriptionAbbrev":  "Combining therapeutic effects and good conversation, XJ-13 will make you feel creative and uplifted while stimulating your appetite as it relieves pain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/xj-13_100x100.jpg"
 			},
@@ -6910,7 +6910,7 @@
 			 "positiveEffects": ["Drowsiness", "Euphoric", "Relaxed", "Mellow",  "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Yumboldt is great at making you sleepy and content.",
+			 "descriptionAbbrev":  "You'll feel mellow, relaxed and content with an enhanced appetite just before you drift off into a refreshing bit of sleep with Yumboldt.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/yumboldt_100x100.jpg"
 			},
@@ -7024,7 +7024,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Will pull you into a whirling mass of euphoria like a cosmic riptide.",
+			 "descriptionAbbrev":  "Depression and fatigue will melt away into happiness and creativity with Vortex.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/vortex_100x100.jpg"
 			},
@@ -7138,7 +7138,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Tingly", "Uplifted", "Happy", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Headache", "Paranoid", "Dry Eyes"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Its stimulating, focused buzz sharpens the mind against inattention and boredom, and may help those struggling with ADD/ADHD.",
+			 "descriptionAbbrev":  "When you need to focus, Warlock will make those pesky distractions fade away with its stimulating and uplifting effects. Currently being used to treat patients with ADD/ADHD.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/warlock_100x100.jpg"
 			},
@@ -7252,7 +7252,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "An aura of euphoria that is sure to leave a smile on your face, it's a great solution for managing social anxieties",
+			 "descriptionAbbrev":  "If you're feeling anxious about social situations, Strawberry Cough will help with its energetic yet relaxing conversational effects. The sweet berry flavor is icing on the cake.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/strawberry-cough_100x100.jpg"
 			},
@@ -7366,7 +7366,7 @@
 			 "positiveEffects": ["Potent", "Uplifted", "Clear headed", "Energetic", "Productive", "Conversational", "Relaxed", "Long Lasting"],
 			 "negativeEffects": ["Energetic"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Earthy pine with sour notes of diesel color with uplifting effects may help patients treating stress, fatigue, and anxiety disorders.",
+			 "descriptionAbbrev":  "When you're stressed and feeling fatigued, Stardawg can help with its uplifting and energetic effects. You may also feel like talking so be sure to be around someone who likes to listen.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/stardawg_100x100.jpg"
 			},
@@ -7480,7 +7480,7 @@
 			 "positiveEffects": ["Relaxed", "Calmness", "Mellow", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Stress-relieving qualities without the jarring paranoia, Strawberry is both comfortable and relaxing.",
+			 "descriptionAbbrev":  "When you need to relax and relieve stress, Strawberry will bring calmness and a bit of drowsiness along with its refreshing berry flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/strawberry_100x100.jpg"
 			},
@@ -7594,7 +7594,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Relaxed",  "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
+			 "descriptionAbbrev":  "Known to be a popular choice among medical patients, Sour Diesel gives long-lasting relief from stress, pain and anxiety along with an enhanced appetite.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sour-diesel_100x100.jpg"
 			},
@@ -7708,7 +7708,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Energetic", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Gives patients a mellow lift and a strong body buzz that starts energetic and ends in comfortable laziness.",
+			 "descriptionAbbrev":  "Known to help with Glaucoma, you'll also feel a mellow lift with a strong body buzz that ends in a bit of relaxed inactivity.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Shipwreck_100x100.jpg"
 			},
@@ -7822,7 +7822,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Helps patients knock out pain and relax into sleep without being overly hazy or unfocused.",
+			 "descriptionAbbrev":  "When you need to relax and get some rest, Skywalker will deliver without making you feel too hazy or unfocused.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/skywalker_100x100.jpg"
 			},
@@ -7933,10 +7933,10 @@
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Woody"],
 		 	 "conditions": ["Stress", "Appetite Loss", "Anorexia", "Insomnia", "Pain", "Depression", "Nausea"],
-			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
+			 "positiveEffects": ["Potent", "Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A full body calm with heavily intoxicating properties.",
+			 "descriptionAbbrev":  "You'll be in the neutral zone but you won't mind. Heavily intoxicating effects with a full body calm are accompanied with a woody, pine flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/romulan_100x100.jpg"
 			},
@@ -8050,7 +8050,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Productive", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Relaxes the body but uplifting mentally. Active and motivating so you can stay productive if needed.",
+			 "descriptionAbbrev":  "Relieve pain and stress while staying active and productive. Taste the berry and pine combination with Purple Wreck and then taste everything in your fridge.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-wreck_100x100.jpg"
 			},
@@ -8160,11 +8160,11 @@
 				} 	
 		 	], 
 		 	"taste": ["Pineapple", "Sweet", "Tropical"],
-		 	 "conditions": ["PMS"],
-			 "positiveEffects": [""],
-			 "negativeEffects": [""],
-			 "descriptionDetailed": "A ",
-			 "descriptionAbbrev":  "Pronounced flavors of pineapple and diesel it's the perfect strain for stress relief, leaving you uplifted and relaxed.",
+		 	 "conditions": ["PMS", "Stress", "Pain", "Anxiety", "Nausea", "Depression", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Uplifted", "Conversational", "Creative", "Drowsiness"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Known to be effective for stress relief and anxiety, the distinctive tropical pineapple flavor starts out energetic, conversational and uplifting but you can plan on rest ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/pineapple_100x100.jpg"
 			},
@@ -8278,7 +8278,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Focused", "Relaxed", "Euphoric", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Purple Cheese delivers powerful full-body effects best suited for night owls or patients treating pain.",
+			 "descriptionAbbrev":  "Powerful full body effects will have you feeling creative and pain-free long into the night.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-cheese_100x100.jpg"
 			},
@@ -22529,7 +22529,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Focused", "Energetic", "Productive",  "Uplifted", "Giggly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is a heavy hitter that delivers a strong body without the full sedative effects.",
+			 "descriptionAbbrev":  "This strain is a heavy hitter that delivers a strong body high without the full sedative effects.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/afghani-bullrider_100x100.jpg"
 			},
