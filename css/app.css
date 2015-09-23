@@ -143,31 +143,6 @@ html, body {
   	color:#009900;
 }
 
-#mainView .btn-primary{
-	border-style: solid;
-	border-color: white;
-	color: white;
-	border-radius: 50%;
-	border-width: 2px;
-}
-
-#mainView ul{
-	vertical-align: bottom;
-}
-#mainView li a {
-	display: inline-block;
-	background: #000;
-	box-shadow: 0 3px 0 rgba(255,255,255,0.1);
-	color: #00A300;
-	line-height: 50px;
-	border-radius: 30px;
-	padding: 10px 400px 10px 10px;
-	margin: 10px;
-	text-align: center;
-	position: relative;
-	text-decoration: none;
-}
-
 #mainView img{
 	max-width: 40%;
 	margin-bottom: 10px;
@@ -280,7 +255,6 @@ html, body {
 	text-align: center;
     margin-left: auto;
     margin-right: auto;
-    /*background-color: #b0e0e6;*/
 }
 
 #easyView .imgStrains img {
@@ -324,11 +298,7 @@ html, body {
 #easyView .row-padding{
 	margin-left: 20px;
 }
-#easyView .btn-primary{
-	border-style: solid;
-	border-color: white;
-	color:white;
-}
+
 #easyView .btn input{
 	color:black;
 }
@@ -523,11 +493,6 @@ html, body {
 	margin-left: 20px;
 }
 
-#recView .btn-primary{
-	border-style: solid;
-	border-color: white;
-	color:white;
-}
 #recView .btn input{
 	color:black;
 }
@@ -566,7 +531,7 @@ html, body {
 
 /**--below are for detail mode--**/
 #recView .sizeImage img{
-	width: 35%;
+	width: 45%;
 	max-width: 150px;
 }
 #recView .adjust{
@@ -609,6 +574,7 @@ html, body {
 	margin-bottom: -10px;
 }
 
+/**the frog shaped components display**/
 #recView .compCircle{
 	background-image: url('../images/Rec/Happy.png');
 	background-size: contain;
@@ -620,6 +586,7 @@ html, body {
 	font-weight: bold;
 	color: black;
 }
+
 #recView .compCircle hh{
 	font-size: 1.4em;
 }
