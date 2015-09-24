@@ -330,8 +330,7 @@
     	//the GO button
     	$scope.goEasy = function(){
     		//vm.showA1 = false;
-
-    		
+    		ngProgress.start();
 
     		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
@@ -350,6 +349,7 @@
     			//alart message
     			vm.alertMsg = "Please select a medical condition."
     			vm.alert = {"color":"red"};
+    			ngProgress.complete();
     			return vm.alertMsg;
     		}
 
@@ -406,6 +406,7 @@
 				}
 
 			}else{
+				ngProgress.complete();
 				return vm.tempDisplay; //display does not change if there is no temp in array
 			}
 
@@ -420,13 +421,14 @@
     		//console.log("$scope.showAnswer",$scope.showAnswer)
 
     		//---for user selected strain---//
+    		
     		vm.hasEnterStrain = false;
     		if(vm.userSelect[0].strnName != ''){
     			vm.hasEnterStrain = true;
     			vm.yourStrain = [];
-    			$scope.loading = true;
+    			//$scope.loading = true;
     			strainResource.query(function(data){
-    				$scope.loading = false;
+    				//$scope.loading = false;
 					for(var i=0; i<data.length; i++){
 						if(vm.userSelect[0].strnName == data[i].strainName){
 							vm.yourStrain = data[i];
@@ -442,11 +444,11 @@
 				});
 
     		} else {
-    			$scope.loading = false;
+    			//$scope.loading = false;
     			vm.hasEnterStrain = false;
     			//return alert("Please select a strain for better info.");
     		}
-
+    		ngProgress.complete();
     		
 
     	};
@@ -482,7 +484,7 @@
     	//look for components from this selected temperature
     	vm.dataForYou = [];
     	$scope.selectedTempsComponent = function (eff, arr){
-    		$scope.loading = true;
+    		//$scope.loading = true;
     		if(vm.hasEnterStrain != false){
     			for(var i=0; i<arr.length; i++){
     				//console.log("eff",eff);
@@ -491,9 +493,9 @@
     					vm.dataForYou = arr[i];
     				}
     			}
-    			$scope.loading = false;
+    			//$scope.loading = false;
     		}else{
-    			$scope.loading = false;
+    			//$scope.loading = false;
     			return vm.hasEnterStrain = false;
     		}
     	};
@@ -715,7 +717,7 @@
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
     		ngProgress.start();
-    		$scope.loading = true;
+    		//$scope.loading = true;
 
     		//make sure somethings are hidden at the beginning
     		vm.ShowStrains = false; //show button off after it's pressed once
@@ -763,7 +765,7 @@
     					isMatch = 0;
     				}
     			}
-    			$scope.loading = false;
+    			//$scope.loading = false;
     			ngProgress.complete();
 
     			//decide if the "More" button will show or not

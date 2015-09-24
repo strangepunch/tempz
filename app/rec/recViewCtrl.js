@@ -346,9 +346,10 @@
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
 		//Flavor
 		$scope.searchForTaste = function (Flavor){
-			$scope.loading = true;
+			ngProgress.start();
+			//$scope.loading = true;
 			strainResource.query(function(data){
-				$scope.loading = false;
+				//$scope.loading = false;
 				ngProgress.complete();
 				
 				var num = 0;
@@ -374,9 +375,10 @@
 		};
 		//Effect
 		$scope.searchForFeel = function (Effect,Type){
-			$scope.loading = true;
+			ngProgress.start();
+			//$scope.loading = true;
 			strainResource.query(function(data){
-				$scope.loading = false;
+				//$scope.loading = false;
 				ngProgress.complete();
 				
 				var num = 0;
@@ -412,9 +414,10 @@
 		};
 		//Strain
 		$scope.searchForBud = function (Strain){
-			$scope.loading = true;
+			ngProgress.start();
+			//$scope.loading = true;
 			strainResource.query(function(data){
-				$scope.loading = false;
+				//$scope.loading = false;
 				ngProgress.complete();
 				
 				var num = 0;
@@ -576,21 +579,21 @@
 
     		switch (mode){
     			case 'Q1':
-    				ngProgress.start();
+    				//ngProgress.start();
     				vm.MoreStrains = 3;
     				$scope.showAnswer1 = true;
 					$scope.showQuestion1 = false;
 					$scope.searchForTaste(vm.selectedTaste);
 					break;
 				case 'Q2':
-					ngProgress.start();
+					//ngProgress.start();
 					vm.MoreStrains = 3;
 					$scope.showAnswer2 = true;
 					$scope.showQuestion2 = false;
 					$scope.searchForFeel(vm.selectedEffect,vm.selectedEffectType);
 					break;
 				case 'Q3':
-					ngProgress.start();
+					//ngProgress.start();
 					vm.MoreStrains = 3;
 					$scope.showAnswer3 = true;
 					$scope.showQuestion3 = false;
