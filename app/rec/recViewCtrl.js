@@ -11,12 +11,12 @@
 						 "strainNamesResource",
 						 "productResource",
 						 "strainResource",
-						 "ngProgress",
 							RecViewCtrl]);
 	
-	function RecViewCtrl($scope, $cookies, localStorageService, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource, ngProgress){
+	function RecViewCtrl($scope, $cookies, localStorageService, modeResource, tasteResource, recEffectResource, strainNamesResource, productResource, strainResource){
 		var vm = this;
 
+		//Store which page your where on, before going to details mode, in Local Storage/Cookie
 		if(localStorageService.isSupported) {
 	    	localStorageService.set('whereAmIFrom', "Rec");
 	    	localStorageService.set('setDetail', "Flavor");
@@ -346,11 +346,12 @@
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
 		//Flavor
 		$scope.searchForTaste = function (Flavor){
-			ngProgress.start();
+			//ngProgress.start();
+			//ngProgress.set(50);
 			//$scope.loading = true;
 			strainResource.query(function(data){
 				//$scope.loading = false;
-				ngProgress.complete();
+				//ngProgress.complete();
 				
 				var num = 0;
  				vm.strainSuggestions = [];
@@ -375,11 +376,12 @@
 		};
 		//Effect
 		$scope.searchForFeel = function (Effect,Type){
-			ngProgress.start();
+			//ngProgress.start();
+			//ngProgress.set(50);
 			//$scope.loading = true;
 			strainResource.query(function(data){
 				//$scope.loading = false;
-				ngProgress.complete();
+				//ngProgress.complete();
 				
 				var num = 0;
  				vm.strainSuggestions = [];
@@ -414,11 +416,12 @@
 		};
 		//Strain
 		$scope.searchForBud = function (Strain){
-			ngProgress.start();
+			//ngProgress.start();
+			//ngProgress.set(50);
 			//$scope.loading = true;
 			strainResource.query(function(data){
 				//$scope.loading = false;
-				ngProgress.complete();
+				//ngProgress.complete();
 				
 				var num = 0;
  				vm.strainSuggestions = [];

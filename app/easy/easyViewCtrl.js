@@ -10,12 +10,12 @@
 						 "productResource",
 						 "effectResource",
 						 "strainResource",
-						 "ngProgress",
 							EasyViewCtrl]);
 	
-	function EasyViewCtrl($scope, $cookies, localStorageService, tempResource, strainNamesResource, productResource, effectResource, strainResource, ngProgress){
+	function EasyViewCtrl($scope, $cookies, localStorageService, tempResource, strainNamesResource, productResource, effectResource, strainResource){
 		var vm = this;
 
+		//Store which page your where on, before going to details mode, in Local Storage/Cookie
 		if(localStorageService.isSupported) {
 	    	localStorageService.set('whereAmIFrom', "Med");
 	    	localStorageService.set('setDetail', "Effect");
@@ -27,6 +27,7 @@
 		vm.userTempArrayU = [];
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
+		vm.dataForYou = [];
 		
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
@@ -59,7 +60,7 @@
 			}
 		});
 
-		//change between F and C
+		//change temperature display numbers between F and C
 		vm.countF=0;
 		vm.countC=0;
 		$scope.selectTemp = function(name){
@@ -165,16 +166,15 @@
 				vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
 
 			}
+			//find out if there is more than one components listed for this temperature
 			if(vm.EffectsProductName.length>1){
 				vm.moreThanOne = true;
 			}else{
 				vm.moreThanOne = false;
 			}
-			//console.log("vm.EffectsProductName", vm.EffectsProductName);
-			//console.log("vm.effectProperty", vm.effectProperty);
 		};
-
-		//inititial list of condition names for selecting
+/**--------------Populate the first screen's two questions with selections-----------------**/
+		//inititial list of condition names for selection
 		effectResource.query(function(data){
 			vm.allEffects = data;
 
@@ -186,41 +186,33 @@
 					num++;
 				}
 			}
-			//console.log("list of conditions", vm.conditionNames);
 		});
 		//display and store the user selected condition name
 		$scope.selectCondition = function(name){
-	     	//console.log("selected condition name:", name);
 	     	vm.showQ1 = !vm.showQ1; //toggle the questions display off
 	     	vm.selectedCond = name;
 	     	vm.userSelect[0].condName = vm.selectedCond;
-	     	//console.log("vm.userSelect[0]", vm.userSelect);
 	    };
 
-	    //inititial list of strain names for selecting
+	    //inititial list of strain names for selection
 	    strainNamesResource.query(function(data){
 			vm.strainNames = data;
-			//console.log("list of strains", vm.strainNames);
 		});
 		//display and store the user selected strain name
 		$scope.selectStrain = function(name){
-	     	//console.log("selected strain name:", name);
 	     	vm.showQ2 = !vm.showQ2; //toggle the questions display off
 	     	vm.selectedStrain = name;
 	     	vm.userSelect[0].strnName = vm.selectedStrain;
-			//console.log("vm.userSelect[0]", vm.userSelect);
 	    };
-	    //search and filter strains
+	    //search and filter strain names for selection
 	    vm.searchAll = "";
     	$scope.searchStrain = function(name){
     		vm.searchAll = name;
-    	 	//console.log("search", name);
     	 	switch(name){
     	 		case 'All':
     	 			vm.searchAll = "";
     	 			strainNamesResource.query(function(data){
 						vm.strainNames = data;
-						//console.log("list of strains", vm.strainNames);
 					});
 					break;	
     	 		case 'Sativa':
@@ -234,7 +226,6 @@
     	 						num++;
     	 					}
     	 				}
-						//console.log("list of Sativa", vm.strainNames);
 					});
 					break;	   
 				case 'Indica':
@@ -248,7 +239,6 @@
     	 						num++;
     	 					}
     	 				}
-						//console.log("list of Indica", vm.strainNames);
 					});
 					break;	
 				case 'Hybrid':
@@ -262,7 +252,6 @@
     	 						num++;
     	 					}
     	 				}
-						//console.log("list of Hybrid", vm.strainNames);
 					});
 					break;	
 				default:
@@ -275,7 +264,6 @@
     	 						num++;
     	 					}
     	 				}
-						//console.log("list of Seached", vm.strainNames);
 					});
 					break;
     	 	} 
@@ -284,7 +272,7 @@
 	    $scope.clearSearch = function () {
 	        vm.searchAll = "";
 	    };
-
+/**----------------------------------------------------------------------------------------**/
 
 		//this sets the ng-class to active
 		$scope.active = function(item){
@@ -330,8 +318,8 @@
     	//the GO button
     	$scope.goEasy = function(){
     		//vm.showA1 = false;
-    		ngProgress.start();
-
+    		//ngProgress.start();
+    		//ngProgress.set(10);
     		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
     			vm.thereIsMore = false;
@@ -349,7 +337,7 @@
     			//alart message
     			vm.alertMsg = "Please select a medical condition."
     			vm.alert = {"color":"red"};
-    			ngProgress.complete();
+    			//ngProgress.complete();
     			return vm.alertMsg;
     		}
 
@@ -358,6 +346,7 @@
 			$scope.showQuestion = false;
 
 			//---for user selected condition---//
+			//ngProgress.set(20);
 
     		var num = 0;
     		vm.effectsNameArray = [];
@@ -369,7 +358,8 @@
     				}
     			}
     		}
-    		//console.log("vm.effectsNameArray", vm.effectsNameArray)
+    		
+    		//ngProgress.set(40);
 
     		var num2 = 0;
     		vm.productNameArray = [];
@@ -387,6 +377,8 @@
     		}
     		vm.userTempArrayU = vm.userTempArray.unique(); 
 			vm.productNameArrayU = vm.productNameArray.unique(); //used for suggest strains later
+			
+			//ngProgress.set(45);
 
 			//change the display to reflect the lowest temp value from the user's selected condition
 			if(vm.userTempArrayU != 0){
@@ -398,36 +390,33 @@
 					}
 
 					vm.tempDisplay = Array.min(vm.userTempArrayUC);
+					//ngProgress.set(40);
 					$scope.catching(vm.tempDisplay);
 
 				}else{
 					vm.tempDisplay = Array.min(vm.userTempArrayU);
+					//ngProgress.set(40);
 					$scope.catching(vm.tempDisplay);
 				}
 
 			}else{
-				ngProgress.complete();
+				//ngProgress.complete();
 				return vm.tempDisplay; //display does not change if there is no temp in array
 			}
 
-			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray);
-
-    		//console.log("vm.productNameArray", vm.productNameArray)
-    		//console.log("vm.productNameArrayU",vm.productNameArrayU)
-
-    		//console.log("vm.userTempArray", vm.userTempArray)
-    		//console.log("vm.userTempArrayU",vm.userTempArrayU)
-
-    		//console.log("$scope.showAnswer",$scope.showAnswer)
+			//user friendly names of effect(s) treated for the user's selected condition
+			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray); 
 
     		//---for user selected strain---//
-    		
+    		//ngProgress.start();
     		vm.hasEnterStrain = false;
     		if(vm.userSelect[0].strnName != ''){
+    			//ngProgress.set(50);
     			vm.hasEnterStrain = true;
     			vm.yourStrain = [];
     			//$scope.loading = true;
     			strainResource.query(function(data){
+
     				//$scope.loading = false;
 					for(var i=0; i<data.length; i++){
 						if(vm.userSelect[0].strnName == data[i].strainName){
@@ -435,20 +424,24 @@
 						}
 					}
 
-					//console.log(vm.yourStrain);
-					vm.withValue = $scope.getCompWithValue(vm.yourStrain.components);
+					//Get all components the strain you selected
 					vm.strainComp = $scope.getComp(vm.yourStrain.components);
-					//console.log('vm.withValue', vm.withValue);
+					//Get components with value over 0 for the strain you selected
+					vm.withValue = $scope.getCompWithValue(vm.yourStrain.components);
 
+					//ngProgress.set(55);
 					$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
+					//ngProgress.set(60);
 				});
+				//ngProgress.complete();
 
     		} else {
     			//$scope.loading = false;
     			vm.hasEnterStrain = false;
+    			//ngProgress.complete();
     			//return alert("Please select a strain for better info.");
     		}
-    		ngProgress.complete();
+    		//ngProgress.complete();
     		
 
     	};
@@ -482,21 +475,20 @@
 			return array;
     	};
     	//look for components from this selected temperature
-    	vm.dataForYou = [];
     	$scope.selectedTempsComponent = function (eff, arr){
     		//$scope.loading = true;
     		if(vm.hasEnterStrain != false){
     			for(var i=0; i<arr.length; i++){
-    				//console.log("eff",eff);
-    				//console.log("arr[i].name",arr[i].name);
     				if(eff === arr[i].name){
     					vm.dataForYou = arr[i];
     				}
     			}
     			//$scope.loading = false;
+    			return;
     		}else{
     			//$scope.loading = false;
-    			return vm.hasEnterStrain = false;
+    			vm.hasEnterStrain = false
+    			return;
     		}
     	};
     	//find effects treated for your condition in plain english
@@ -518,17 +510,7 @@
 
     		return thisArray;
     	};
-    	//has to be equal length to begin with
-    	/**
-    	$scope.combineTwoEffectName = function(arr1, arr2){
-    		var array=[];
-    		for(var i=0; i<arr1.length; i++){
-    			array[i] = arr1[i] + ' (' + arr2[i] + ')';
-    		}
-    		console.log('array', array);
-    		return array;
-    	}**/
-
+    	
     	//highlight only the temps that is used to treat your condition
     	$scope.thisTemp = function(temp){
 			if(localStorageService.isSupported) {
@@ -589,10 +571,6 @@
     			}
     		}
     		
-    		//console.log("selected temp", temp)
-    		//console.log("vm.userTempArrayU", vm.userTempArrayU)
-    		//console.log("vm.userTempArrayUC", vm.userTempArrayU)
-    		
     	};
 
     	//highlight the treated condition
@@ -644,10 +622,10 @@
 	    	
     	};
 
+    	//For when there is more than one components listed for the same temperature
     	$scope.getNextEffect = function(num,name){
     		vm.moreThanOne = false;
-    		//console.log("num", num);
-    		//console.log("name", name);
+ 
     		vm.currentSelectEffNum = num;
 			var tempArray=[];
 			for(var i=0; i<vm.products.length; i++){
@@ -655,13 +633,13 @@
 					  tempArray = vm.products[i].Property;
 				}
 			}
-			//console.log("tempArray", tempArray);
+			//Store the array of effects for selected component under same temperature
 			vm.effectProperty = tempArray;
 			
     		$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 			vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
     	};
-
+    	//Highlight the component that is active
     	$scope.styleEffSelected = function(dex){
     		//color setting
     		vm.makeRed = {"color":"Red","font-size": "1.1em"};
@@ -710,13 +688,14 @@
     		vm.suggested = true;
     		vm.ShowStrains = true; //show button on
     		vm.thereIsMore = false;
+
     		$scope.goEasy();
     	};
 
     	//The button "Show" in suggested strain in the second screen
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
-    		ngProgress.start();
+    		//ngProgress.start();
     		//$scope.loading = true;
 
     		//make sure somethings are hidden at the beginning
@@ -736,12 +715,17 @@
     		vm.active5 = '';
     		vm.active6 = '';
 
+    		//ngProgress.set(30);
+
     		//Find strains by using components from conditions search that would treat the conditions
     		var num = 0;
     		var isMatch = 0;
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
     		strainResource.query(function(data){
+    			
+    			//ngProgress.set(60);
+
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
     					for (var y=0; y < data[x].components.length; y++){
@@ -754,9 +738,8 @@
     					}
 
     				}
-    				//console.log("isMatch", isMatch);
+    				//If there is a match in the component(s) for each strain
     				if(isMatch != 0 && isMatch <= vm.productNameArrayU.length){
-    					//console.log("Yes", isMatch);
     					vm.suggestedStains[num] = data[x];
     					vm.finalSuggestedStrains[num] = {"matches":isMatch, "strnData":vm.suggestedStains[num]};
     					num++;
@@ -766,17 +749,15 @@
     				}
     			}
     			//$scope.loading = false;
-    			ngProgress.complete();
+    			//ngProgress.complete();
 
     			//decide if the "More" button will show or not
     			//display message for strains found or not
 	    		if(vm.finalSuggestedStrains.length > 3){
-	    			//console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
 	    			vm.hasMatches = true;
 					//vm.ShowStrains = true;
 					vm.thereIsMore = true;
 				}else if(vm.finalSuggestedStrains.length === 0){
-					//console.log("vm.finalSuggestedStrains.length", vm.finalSuggestedStrains.length);
 					vm.hasMatches = false;
 					vm.noMatchMSG = "Sorry. No matches found."
 					vm.thereIsMore = false;
@@ -787,8 +768,6 @@
 
     		});
 
-    		//console.log("vm.suggestedStains", vm.suggestedStains);
-    		//console.log("vm.finalSuggestedStrains",vm.finalSuggestedStrains);
     	};
 
     	//display more
@@ -818,7 +797,6 @@
     		var num = 0;
     		switch (choice){
     			case 's':
-    				//console.log('s');
     				for(var i=0;i<vm.originalData.length;i++){
     					if(vm.originalData[i].strnData.strainType === 'Sativa'){
     						sortedData[num] = vm.originalData[i];
@@ -827,7 +805,7 @@
     				}
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
-    				//console.log('sortedData', sortedData);
+    				//highlight the active filter
     				vm.active1 = '';
 		    		vm.active2 = {"font-weight": "bold", "color":"#009900"};
 		    		vm.active3 = '';
@@ -836,7 +814,6 @@
 		    		vm.active6 = '';
 					break;
 				case 'i':
-					//console.log('i');
 					for(var i=0;i<vm.originalData.length;i++){
     					if(vm.originalData[i].strnData.strainType === 'Indica'){
     						sortedData[num] = vm.originalData[i];
@@ -845,7 +822,7 @@
     				}
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
-    				//console.log('sortedData', sortedData);
+    				//highlight the active filter
     				vm.active1 = '';
 		    		vm.active2 = '';
 		    		vm.active3 = {"font-weight": "bold", "color":"#009900"};
@@ -854,7 +831,6 @@
 		    		vm.active6 = '';
 					break;
 				case 'h':
-					//console.log('h');
 					for(var i=0;i<vm.originalData.length;i++){
     					if(vm.originalData[i].strnData.strainType === 'Hybrid'){
     						sortedData[num] = vm.originalData[i];
@@ -863,7 +839,7 @@
     				}
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-matches';
-    				//console.log('sortedData', sortedData);
+    				//highlight the active filter
     				vm.active1 = '';
 		    		vm.active2 = '';
 		    		vm.active3 = '';
@@ -872,7 +848,6 @@
 		    		vm.active6 = '';
 					break;
 				case 'cbd':
-					//console.log('cbd');
 					for(var i=0;i<vm.originalData.length;i++){
     					if(vm.originalData[i].strnData.components[1].name === 'CBD' && vm.originalData[i].strnData.components[1].value > 0){
     						sortedData[num] = vm.originalData[i];
@@ -881,7 +856,7 @@
     				}
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-strnData.components[1].value';
-    				//console.log('sortedData', sortedData);
+    				//highlight the active filter
     				vm.active1 = '';
 		    		vm.active2 = '';
 		    		vm.active3 = '';
@@ -890,7 +865,6 @@
 		    		vm.active6 = '';
 					break;
 				case 'thc':
-					//console.log('thc');
 					for(var i=0;i<vm.originalData.length;i++){
     					if(vm.originalData[i].strnData.components[0].name === 'THC9' && vm.originalData[i].strnData.components[0].value > 0){
     						sortedData[num] = vm.originalData[i];
@@ -899,7 +873,7 @@
     				}
     				vm.finalSuggestedStrains = sortedData;
     				vm.orderByValue = '-strnData.components[0].value';
-    				//console.log('sortedData', sortedData);
+    				//highlight the active filter
     				vm.active1 = '';
 		    		vm.active2 = '';
 		    		vm.active3 = '';
@@ -908,9 +882,9 @@
 		    		vm.active6 = {"font-weight": "bold", "color":"#009900"};
 					break;
 				case 'all':
-					//console.log('all', vm.originalData);
 					vm.finalSuggestedStrains = vm.originalData;
 					vm.orderByValue = '-matches';
+					//highlight the active filter
 					vm.active1 = {"font-weight": "bold", "color":"#009900"};
 		    		vm.active2 = '';
 		    		vm.active3 = '';
@@ -919,9 +893,9 @@
 		    		vm.active6 = '';
 					break;
 				default:
-					//console.log('def', vm.finalSuggestedStrains);
 					vm.finalSuggestedStrains = vm.originalData;
 					vm.orderByValue = '-matches';
+					//highlight the active filter
 					vm.active1 = {"font-weight": "bold", "color":"#009900"};
 		    		vm.active2 = '';
 		    		vm.active3 = '';
@@ -937,17 +911,14 @@
     	vm.toggleQuestion = function(choice){
     		switch (choice){
     			case 'Q1':
-    				//console.log("Q1 A");
 					vm.showQ1 = !vm.showQ1;
 					vm.alert = "";
 					vm.alertMsg = "";
 					break;
 				case 'Q2':
-					//console.log("Q2");
 					vm.showQ2 = !vm.showQ2;
 					break;
 				case 'A1':
-					//console.log("Q2");
 					vm.showA1 = !vm.showA1;
 					break;
     		}

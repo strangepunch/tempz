@@ -7,7 +7,6 @@
 							 "ui.bootstrap",
 							 "ui.slider",
 							 "ui.unique",
-							 "ngProgress",
 							 "ngCookies",
 							 "LocalStorageModule",
 							 "productResourceMock"]);
