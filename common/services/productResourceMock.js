@@ -5770,7 +5770,7 @@
 			 "positiveEffects": ["Relaxed", "Mild tingling", "Numbness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "You'll be comfortably numb with a little tingle as you relax with the string body effects that Skywalker OG provides.",
+			 "descriptionAbbrev":  "You'll be comfortably numb with a little tingle as you relax with the strong body effects that Skywalker OG provides.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/skywalker-og_100x100.jpg"
 			},
@@ -6226,7 +6226,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Pain relief", "Psychoactive", "Therapeutic", "Relaxed", "Mellow", "Clear headed", "Euphoric"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
- 			 "descriptionAbbrev":  "The CBD in Pennywise make it a popular treatment for arthritis, PTSD, cancer symptoms and neurological disorders like epilepsy. You can expect to feel clear headed, energetic, happy and focused.",
+ 			 "descriptionAbbrev":  "The CBD in Pennywise makes it a popular treatment for arthritis, PTSD, cancer symptoms and neurological disorders like epilepsy. You can expect to feel clear headed, energetic, happy and focused.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/pennywise_100x100.jpg"
 			},
@@ -45471,7 +45471,7 @@
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
-			 "Property": ["Euphoriant", "Analgesic", "Antipyretic", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Neurogenesis", "Antidiabetic", "Antispasmodic","Appetite Stimulant"],
+			 "Property": ["Euphoriant", "Anxiolytic", "Analgesic", "Antipyretic", "Antihypoxia","Antiproliferative", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Neurogenesis", "Antidiabetic", "Antispasmodic","Appetite Stimulant", "Vasorelaxant", "Anti gastric reflux", "Treats IBS"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
 			 "lowTempC": 0,
@@ -45485,7 +45485,7 @@
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
-			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic", "Antibacterial", "Antidiabetic", "Antiemetic", "Antiproliferative","Antipsoriatic", "Stimulates Bone Growth", "Immunosuppressant", "Intestinal anti-prokinetic", "Neuroprotective"],
+			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Neurogenesis", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic", "Antibacterial", "Antidiabetic", "Antiemetic", "Antiproliferative","Antipsoriatic", "Stimulates Bone Growth", "Immunosuppressant", "Intestinal anti-prokinetic", "Neuroprotective"],
 			 "lowTemp": 320,
 			 "highTemp": 356,
 			 "lowTempC": 160,
@@ -45499,7 +45499,7 @@
 			},
 			{"productId": 4,
 			 "productName": "CBN", //compName
-			 "Property": ["Analgesic", "Oxidation", "Sedative", "Antibiotic", "Immunosuppressant", "Antispasmodic"],
+			 "Property": ["Analgesic", "Oxidation", "Sedative", "Antibiotic", "Immunosuppressant", "Antiepileptic"],
 			 "lowTemp": 0,
 			 "highTemp": 365,
 			 "lowTempC": 0,
@@ -45513,7 +45513,7 @@
 			},
 			{"productId": 5,
 			 "productName": "CBC", //compName
-			 "Property": ["Analgesic", "Antiinflammatory", "Antibiotic", "Antiviral", "Antiproliferative", "Stimulates Bone Growth"],
+			 "Property": ["Euphoriant","Analgesic","Anxiolytic", "Antiinflammatory", "Antibiotic", "Antiviral", "Antiproliferative", "Neurogenesis", "Stimulates Bone Growth"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -45527,7 +45527,7 @@
 			},
 			{"productId": 6,
 			 "productName": "CBG", //compName
-			 "Property": ["Stimulates Bone Growth", "Antibacterial", "Anti-tumor", "Sedative", "Neurogenesis", "Relieves Intraocular Pressure", "Treats IBS", "Antidiabetic", "Antileishmanial", "Antiproliferative"],
+			 "Property": ["Analgesic", "Antiinflammatory", "Antibacterial", "Anti-tumor", "Sedative", "Relieves Intraocular Pressure", "Stimulates Bone Growth", "Treats IBS", "Antidiabetic", "Antileishmanial", "Antiproliferative", "Neurogenesis", "Antiepileptic"],
 			 "lowTemp": 0,
 			 "highTemp": 126,
 			 "lowTempC": 0,
@@ -45569,7 +45569,7 @@
 			},
 			{"productId": 9,
 			 "productName": "THCV", //compName
-			 "Property": ["Analgesic", "Euphoriant", "Anorectic", "Antiepileptic", "Stimulates Bone Growth"],
+			 "Property": ["Analgesic", "Euphoriant","Antiinflammatory", "Anorectic", "Antiepileptic", "Stimulates Bone Growth", "Antiemetic"],
 			 "lowTemp": 0,
 			 "highTemp": 428,
 			 "lowTempC": 0,
@@ -45611,7 +45611,7 @@
 			},
 			{"productId": 12,
 			 "productName": "Limonene", //compName
-			 "Property": ["Anti gastric reflux", "Antifungal", "Antidepressant", "Anxiolytic", "Anti-tumor", "Immunostimulant", "Euphoriant"],
+			 "Property": ["Anti gastric reflux", "Antifungal", "Euphoriant", "Anxiolytic", "Anti-tumor", "Immunostimulant", "Euphoriant"],
 			 "lowTemp": 0,
 			 "highTemp": 351,
 			 "lowTempC": 0,
@@ -45625,7 +45625,7 @@
 			},
 			{"productId": 13,
 			 "productName": "Linalool", //compName
-			 "Property": ["Sedative", "Antidepressant", "Euphoriant", "Anxiolytic", "Immune potentiator", "Anesthetic", "Antispasmodic", "Analgesic"],
+			 "Property": ["Sedative", "Euphoriant", "Anxiolytic", "Immune potentiator", "Anesthetic", "Antispasmodic", "Analgesic"],
 			 "lowTemp": 0,
 			 "highTemp": 388,
 			 "lowTempC": 0,
@@ -45747,7 +45747,7 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "A non-cannabinoid constituent isolated from a high potency Cannabis sativa.",
 			 "tags": ["" ],
-			 "imageUrl": "images/no-image-yet.png"
+			 "imageUrl": ""
 			},
 			{"productId": 22,
 			 "productName": "Beta-sitosterol", //compName
@@ -45760,8 +45760,22 @@
 			 "tempC": "134",
 			 "descriptionDetailed": "β-sitosterol is being studied for its potential to reduce benign prostatic hyperplasia and blood cholesterol levels. β-Sitosterol supplements or enriched foods should be avoided during pregnancy and breast-feeding, since not enough is known about its effects on unborn and newborn children. High levels of β-sitosterol concentrations in blood have been correlated with increased severity of heart disease in men having previously suffered from heart attacks. It is found in pecans, avocados, pumpkin seeds, cashew fruit, rice bran, wheat germ, corn oils, soybeans and dandelion coffee.",
 			 "descriptionAbbrev":  "β-sitosterol is being studied for its potential to reduce benign prostatic hyperplasia and blood cholesterol levels.",
-			 "tags": ["Flavonoid","Antiinflammatory", "5-a-reductase inhibitor"],
-			 "imageUrl": "images/200px-Sitosterol_structure.svg.png"
+			 "tags": [""],
+			 "imageUrl": ""
+			},
+			{"productId": 23,
+			 "productName": "Humulene", //compName
+			 "Property": ["Antiinflammatory", "Anti-tumor", "Antibacterial", "Anorectic"],
+			 "lowTemp": 0,
+			 "highTemp": 388,
+			 "lowTempC": 0,
+			 "highTempC": 198,
+			 "temp": "399",
+			 "tempC": "198",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Humulene is anti-tumor, anti-bacterial, anti-inflammatory, and anorectic (suppresses appetite), It has commonly been blended with beta–caryophyllene and used as a major remedy for inflammation, and is well known to Chinese medicine.",
+			 "tags": [""],
+			 "imageUrl": ""
 			}			
 		];
 
@@ -45772,7 +45786,7 @@
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
 			 "descriptionAbbrev":  "Protect against nervous system degeneration",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 2,
 			 "effectName": "Antispasmodic", //compName
@@ -45780,7 +45794,7 @@
  			 "descriptionDetailed": "Medical cannabis strains high in CBD have been shown to relieve spasms and convulsions associated with Epilepsy and other nerve related conditions.",
 			 "descriptionAbbrev":  "Suppress muscle spasms",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 3,
 			 "effectName": "Antiemetic", //compName
@@ -45788,7 +45802,7 @@
  			 "descriptionDetailed": "Reduces vomiting and nausea",
 			 "descriptionAbbrev":  "Reduce vomiting and nausea",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 4,
 			 "effectName": "Analgesic", //compName
@@ -45796,7 +45810,7 @@
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
 			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["" ],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 5,
 			 "effectName": "Antioxidant", //compName
@@ -45804,7 +45818,7 @@
  			 "descriptionDetailed": "Antioxidants are widely used in dietary supplements and have been investigated for the prevention of diseases such as cancer, coronary heart disease and even altitude sickness among others.",
 			 "descriptionAbbrev":  "Fight free radicals",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 6,
 			 "effectName": "Neuropathic Analgesic", //compName
@@ -45812,7 +45826,7 @@
  			 "descriptionDetailed": "Reduces pain associated with nerve damage including spinal injuries",
 			 "descriptionAbbrev":  "Reduce nerve pain", 
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 7,
 			 "effectName": "Treats IBS", //compName
@@ -45820,7 +45834,7 @@
  			 "descriptionDetailed": "Irritable bowel syndrome commonly causes cramping, abdominal pain, bloating, gas, diarrhea and constipation. IBS is a chronic condition that you will need to manage long term.",
 			 "descriptionAbbrev":  "Treat IBS",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
@@ -45828,7 +45842,7 @@
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 9,
 			 "effectName": "Neurogenesis", //compName
@@ -45836,15 +45850,15 @@
  			 "descriptionDetailed": "Neurogenesis is the process by which neurons are generated from neural stem cells and progenitor cells. Recent studies suggest that stress-induced atrophy and loss of hippocampal neurons may contribute to the pathophysiology of depression.",
 			 "descriptionAbbrev":  "Grow new nerve tissue",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 10,
 			 "effectName": "Anxiolytic", //compName
-			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety", "Stress"],
+			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety", "Stress", "PTSD"],
  			 "descriptionDetailed": "Anxiolytic medications have been used for the treatment of anxiety and its related psychological and physical symptoms. ",
 			 "descriptionAbbrev":  "Reduce anxiety",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 11,
 			 "effectName": "Antiepileptic", //compName
@@ -45852,7 +45866,7 @@
  			 "descriptionDetailed": "Anti-epileptic drugs or AEDs are the main form of treatment for people with epilepsy. Certain compnonents in medical cannabis are being used as an effectve treatment for some forms of Epilepsy based on the relative strengths of components such as CBD and THC-A.",
 			 "descriptionAbbrev":  "Reduce seizures and convulsions",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 12,
 			 "effectName": "Vasorelaxant", //compName
@@ -45860,7 +45874,7 @@
  			 "descriptionDetailed": "Reduces tension in blood vessel walls resultig in lower blood pressure and enhanced bloodflow in arteries, capillaries and blood vessels.",
 			 "descriptionAbbrev":  "Lower Blood Pressure",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 13,
 			 "effectName": "Antiischemic", //compName
@@ -45868,7 +45882,7 @@
  			 "descriptionDetailed": "Reduces risk of artery blockage which could help prevent the conditions leading to coronary artery disease.",
 			 "descriptionAbbrev":  "Reduce risk of artery blockage",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 14,
 			 "effectName": "Antibacterial", //compName
@@ -45876,7 +45890,7 @@
  			 "descriptionDetailed": "Kills surface bacteria. Destroys bacteria or suppresses their growth or their ability to reproduce.",
 			 "descriptionAbbrev":  "Kill or slow bacteria growth",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 15,
 			 "effectName": "Antidiabetic", //compName
@@ -45884,7 +45898,7 @@
  			 "descriptionDetailed": "Helps reduce blood sugar levels.",
 			 "descriptionAbbrev":  "Lower blood sugar",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 16,
 			 "effectName": "Antipsoriatic", //compName
@@ -45892,7 +45906,7 @@
  			 "descriptionDetailed": "Helps relieve the symptoms of psoriasis.",
 			 "descriptionAbbrev":  "Treat psoriasis",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 17,
 			 "effectName": "Antipsychotic", //compName
@@ -45900,7 +45914,7 @@
  			 "descriptionDetailed": "Helps reduce psychosis including delusions or hallucinations",
 			 "descriptionAbbrev":  "Tranquilizing effect",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 18,
 			 "effectName": "Stimulates Bone Growth", //compName
@@ -45908,7 +45922,7 @@
  			 "descriptionDetailed": "promotes bone growth",
 			 "descriptionAbbrev":  "Promote bone growth",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 19,
 			 "effectName": "Intestinal anti-prokinetic", //compName
@@ -45916,7 +45930,7 @@
  			 "descriptionDetailed": "reduces contractions in the small intestine",
 			 "descriptionAbbrev":  "Reduce contractions in the small intestine",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 20,
 			 "effectName": "Immunosuppressant", //compName
@@ -45924,7 +45938,7 @@
  			 "descriptionDetailed": "Immunosuppressants are used to prevent rejection of a transplanted organ and to treat autoimmune diseases such as psoriasis, rheumatoid arthritis, and Crohn's disease. Some treatments for cancer act as immunosuppressants.",
 			 "descriptionAbbrev":  "Treat autoimmune conditions",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 21,
 			 "effectName": "Antiproliferative", //compName
@@ -45932,15 +45946,15 @@
  			 "descriptionDetailed": "Inhibits cancer cell growth",
 			 "descriptionAbbrev":  "Slow cancer cell growth",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 22,
 			 "effectName": "Vasoconstriction", //compName
-			 "conditionsTreated": ["Low Blood Pressure", "Hypotension"],
+			 "conditionsTreated": ["Glaucoma"],
  			 "descriptionDetailed": "Vasoconstriction is the narrowing of the blood vessels resulting from contraction of the muscular wall of the vessels, in particular the large arteries and small arterioles. The process is particularly important in staunching hemorrhage and acute blood loss.",
 			 "descriptionAbbrev":  "Raise blood pressure",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 23,
 			 "effectName": "Memory booster", //compName
@@ -45948,7 +45962,7 @@
  			 "descriptionDetailed": "helps memory conditions",
 			 "descriptionAbbrev":  "Help boost memory",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 24,
 			 "effectName": "AChE inhibitor", //compName
@@ -45956,7 +45970,7 @@
  			 "descriptionDetailed": "Typically used to increase neuromuscular transmission",
 			 "descriptionAbbrev":  "Increase neuromuscular transmission",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 25,
 			 "effectName": "Sedative", //compName
@@ -45964,7 +45978,7 @@
  			 "descriptionDetailed": "Helps you sleep as it induces sedation by reducing irritability or excitement.",
 			 "descriptionAbbrev":  "Tranquilizer and Sleep aid",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 26,
 			 "effectName": "Antipyretic", //compName
@@ -45972,15 +45986,15 @@
  			 "descriptionDetailed": "Some components in medical cannabis can be effectve in reducing or preventing fever. The most common antipyretics in the United States are ibuprofen and aspirin, which are used primarily as pain relievers.",
 			 "descriptionAbbrev":  "Reduce or prevent fever",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
-			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Hypertension", "Anxiety"],
+			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Anxiety"],
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.",
 			 "descriptionAbbrev":  "Treat depression",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 28,
 			 "effectName": "Antimalarial", //compName
@@ -45988,7 +46002,7 @@
  			 "descriptionDetailed": "Medical canabis has been used to prevent and treat malaria",
 			 "descriptionAbbrev":  "Treat Malaria",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 29,
 			 "effectName": "Antifungal", //compName
@@ -45996,7 +46010,7 @@
  			 "descriptionDetailed": "Medical cannabis has been used to treat and prevent fungal mycoses.",
 			 "descriptionAbbrev":  "Prevent fungal related conditions",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 30,
 			 "effectName": "Anti-tumor", //compName
@@ -46004,7 +46018,7 @@
  			 "descriptionDetailed": "High CBD strains of medical cannabis have been successfully used to stop abnormal tumor cell growth associated with some skin, brain and prostate cancers.",
 			 "descriptionAbbrev":  "Stop or slow tumor growth",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 31,
 			 "effectName": "Stimulates brain cell growth", //compName
@@ -46012,7 +46026,7 @@
  			 "descriptionDetailed": "helps stimulate brain cell growth and memory functions",
 			 "descriptionAbbrev":  "Stimulate brain cell growth and memory function",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 32,
 			 "effectName": "Anti-prostate cancer", //compName
@@ -46020,7 +46034,7 @@
  			 "descriptionDetailed": "Helps treat and prevent prostate cancer",
 			 "descriptionAbbrev":  "Treat prostate cancer",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 33,
 			 "effectName": "Antinociceptive", //compName
@@ -46028,7 +46042,7 @@
  			 "descriptionDetailed": "helps prevent the sensation of pain",
 			 "descriptionAbbrev":  "Increase pain tolerance",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 34,
 			 "effectName": "Antibiotic", //compName
@@ -46036,7 +46050,7 @@
  			 "descriptionDetailed": "destroys or slow down the growth of bacteria",
 			 "descriptionAbbrev":  "Destroy bacteria",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 35,
 			 "effectName": "Antimutagenic", //compName
@@ -46044,7 +46058,7 @@
  			 "descriptionDetailed": "Reduces or inhibits the rate of cell mutation",
 			 "descriptionAbbrev":  "Reduce cell mutation",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 36,
 			 "effectName": "Bronchodilator", //compName
@@ -46052,7 +46066,7 @@
  			 "descriptionDetailed": "decreases resistance in the respiratory airway and increases airflow to the lungs",
 			 "descriptionAbbrev":  "Decrease resistance in the respiratory airway",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 37,
 			 "effectName": "Antineoplastic", //compName
@@ -46060,7 +46074,7 @@
  			 "descriptionDetailed": "prevents, inhibits or halts the development of tumors",
 			 "descriptionAbbrev":  "Slow down or inhibit tumors",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 38,
 			 "effectName": "Relieves Intraocular Pressure", //compName
@@ -46068,7 +46082,7 @@
  			 "descriptionDetailed": "Left untreated, high eye pressure can cause glaucoma and permanent vision loss in some individuals.",
 			 "descriptionAbbrev":  "Treat Glaucoma by reducing eye pressure",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 39,
 			 "effectName": "Antileishmanial", //compName
@@ -46076,7 +46090,7 @@
  			 "descriptionDetailed": "Every year, more than 2 million people worldwide suffer from leishmaniasis, a neglected tropical disease present in 88 countries. The disease is caused by the single-celled protozoan parasite species of the genus Leishmania, which is transmitted to humans by the bite of the sandfly.",
 			 "descriptionAbbrev":  "Treat sand flea infection",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 40,
 			 "effectName": "Antiviral", //compName
@@ -46084,7 +46098,7 @@
  			 "descriptionDetailed": "Results suggest that modest cannabis use may offer symptomatic and virological benefit to some patients undergoing HCV treatment by helping them maintain adherence to the challenging medication regimen.",
 			 "descriptionAbbrev":  "Destroy viruses associated with HCV",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 41,
 			 "effectName": "Cytoprotective", //compName
@@ -46092,7 +46106,7 @@
  			 "descriptionDetailed": "Fights ulcers by increasing mucosal protection.",
 			 "descriptionAbbrev":  "Treat ulcers by increasing mucosal protection",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 42,
 			 "effectName": "LO inhibitor", //compName
@@ -46100,7 +46114,7 @@
  			 "descriptionDetailed": "Inhibits lipoxygenase enzyme, can help asthma.",
 			 "descriptionAbbrev":  "Treat asthma conditions",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 43,
 			 "effectName": "5-a-reductase inhibitor", //compName
@@ -46108,7 +46122,7 @@
  			 "descriptionDetailed": "Surpresses dihydrotestosterone, treats benign prostatic hyperplasia - prostate.",
 			 "descriptionAbbrev":  "Treat benign prostate conditions",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 44,
 			 "effectName": "Appetite Stimulant", //compName
@@ -46116,7 +46130,7 @@
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Stimulates Appetite",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			},
 			{"effectId": 45,
 			 "effectName": "Anti gastric reflux", //compName
@@ -46124,15 +46138,23 @@
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Protects intestinal tract lining",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
 			}, 
 			{"effectId": 46,
 			 "effectName": "Anorectic", //compName
 			 "conditionsTreated": ["Weight Loss", "Appetite Suppression"],
  			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Helps with weight loss by suppressing appetite",
+			 "descriptionAbbrev":  "Suppresses appetite",
 			 "tags": [""],
-			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
+			 "imageUrl": ""
+			}, 
+			{"effectId": 47,
+			 "effectName": "Antihypoxia", //compName
+			 "conditionsTreated": ["Coronary Heart Disease"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Protect heart cells",
+			 "tags": [""],
+			 "imageUrl": ""
 			}
 		];
 
