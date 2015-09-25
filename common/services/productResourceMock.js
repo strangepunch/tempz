@@ -3213,9 +3213,9 @@
 		{ 
 			"tasteId": 46,
 			"taste": "Apple",
-			"compound": "",
-			"tempF": "0",
-			"tempC": "0",			
+			"compound": "Terpinolene",
+			"tempF": "428",
+			"tempC": "220",			
 			"imageUrl": "images/Rec/Apple.png"
 		}
 
@@ -45774,6 +45774,20 @@
 			 "tempC": "198",
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Humulene is anti-tumor, anti-bacterial, anti-inflammatory, and anorectic (suppresses appetite), It has commonly been blended with beta–caryophyllene and used as a major remedy for inflammation, and is well known to Chinese medicine.",
+			 "tags": [""],
+			 "imageUrl": ""
+			},
+			{"productId": 24,
+			 "productName": "Terpinolene", //compName
+			 "Property": ["Antiproliferative", "Antioxidant","Antibacterial", "Antifungal", "Sedative"],
+			 "lowTemp": 365,
+			 "highTemp": 428,
+			 "lowTempC": 185,
+			 "highTempC": 220,
+			 "temp": "428",
+			 "tempC": "220",
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "It does help fight cancer like most other cannabinoids, and it is anti-fungal as well as anti-bacterial. Terpinolene is a sedative which may also be helpful in cancer treatment if patients have difficulty sleeping.",
 			 "tags": [""],
 			 "imageUrl": ""
 			}			
