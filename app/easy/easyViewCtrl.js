@@ -317,9 +317,7 @@
 
     	//the GO button
     	$scope.goEasy = function(){
-    		//vm.showA1 = false;
-    		//ngProgress.start();
-    		//ngProgress.set(10);
+
     		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
     			vm.thereIsMore = false;
@@ -337,7 +335,7 @@
     			//alart message
     			vm.alertMsg = "Please select a medical condition."
     			vm.alert = {"color":"red"};
-    			//ngProgress.complete();
+    		
     			return vm.alertMsg;
     		}
 
@@ -346,8 +344,6 @@
 			$scope.showQuestion = false;
 
 			//---for user selected condition---//
-			//ngProgress.set(20);
-
     		var num = 0;
     		vm.effectsNameArray = [];
     		for(var i=0; i < vm.allEffects.length; i++){
@@ -359,8 +355,6 @@
     			}
     		}
     		
-    		//ngProgress.set(40);
-
     		var num2 = 0;
     		vm.productNameArray = [];
     		vm.userTempArray = [];
@@ -377,8 +371,6 @@
     		}
     		vm.userTempArrayU = vm.userTempArray.unique(); 
 			vm.productNameArrayU = vm.productNameArray.unique(); //used for suggest strains later
-			
-			//ngProgress.set(45);
 
 			//change the display to reflect the lowest temp value from the user's selected condition
 			if(vm.userTempArrayU != 0){
@@ -390,17 +382,17 @@
 					}
 
 					vm.tempDisplay = Array.min(vm.userTempArrayUC);
-					//ngProgress.set(40);
+					
 					$scope.catching(vm.tempDisplay);
 
 				}else{
 					vm.tempDisplay = Array.min(vm.userTempArrayU);
-					//ngProgress.set(40);
+					
 					$scope.catching(vm.tempDisplay);
 				}
 
 			}else{
-				//ngProgress.complete();
+				
 				return vm.tempDisplay; //display does not change if there is no temp in array
 			}
 
@@ -408,16 +400,15 @@
 			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray); 
 
     		//---for user selected strain---//
-    		//ngProgress.start();
+    		
     		vm.hasEnterStrain = false;
     		if(vm.userSelect[0].strnName != ''){
-    			//ngProgress.set(50);
+    			
     			vm.hasEnterStrain = true;
     			vm.yourStrain = [];
-    			//$scope.loading = true;
+    			
     			strainResource.query(function(data){
 
-    				//$scope.loading = false;
 					for(var i=0; i<data.length; i++){
 						if(vm.userSelect[0].strnName == data[i].strainName){
 							vm.yourStrain = data[i];
@@ -429,20 +420,14 @@
 					//Get components with value over 0 for the strain you selected
 					vm.withValue = $scope.getCompWithValue(vm.yourStrain.components);
 
-					//ngProgress.set(55);
 					$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
-					//ngProgress.set(60);
+					
 				});
-				//ngProgress.complete();
 
     		} else {
-    			//$scope.loading = false;
+
     			vm.hasEnterStrain = false;
-    			//ngProgress.complete();
-    			//return alert("Please select a strain for better info.");
     		}
-    		//ngProgress.complete();
-    		
 
     	};
 
@@ -483,10 +468,8 @@
     					vm.dataForYou = arr[i];
     				}
     			}
-    			//$scope.loading = false;
     			return;
     		}else{
-    			//$scope.loading = false;
     			vm.hasEnterStrain = false
     			return;
     		}
@@ -495,7 +478,7 @@
     	$scope.getEnglishEffect = function(effcArray){
     		var thisArray = [];
     		var num = 0;
-    		//console.log("effcArray", effcArray)
+   
     		effectResource.query(function(data){
     			for(var i=0; i<effcArray.length; i++){
     				for(var x=0; x<data.length; x++){
@@ -505,7 +488,6 @@
     					}
     				}
     			}
-    			//console.log('thisArray', thisArray);
     		});
 
     		return thisArray;
@@ -695,9 +677,6 @@
     	//The button "Show" in suggested strain in the second screen
     	vm.suggested = false;
     	$scope.getSuggestStrain = function(){
-    		//ngProgress.start();
-    		//$scope.loading = true;
-
     		//make sure somethings are hidden at the beginning
     		vm.ShowStrains = false; //show button off after it's pressed once
     		vm.noMatchMSG = "";
@@ -715,8 +694,6 @@
     		vm.active5 = '';
     		vm.active6 = '';
 
-    		//ngProgress.set(30);
-
     		//Find strains by using components from conditions search that would treat the conditions
     		var num = 0;
     		var isMatch = 0;
@@ -724,8 +701,6 @@
     		vm.finalSuggestedStrains = [];
     		strainResource.query(function(data){
     			
-    			//ngProgress.set(60);
-
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
     					for (var y=0; y < data[x].components.length; y++){
@@ -748,8 +723,6 @@
     					isMatch = 0;
     				}
     			}
-    			//$scope.loading = false;
-    			//ngProgress.complete();
 
     			//decide if the "More" button will show or not
     			//display message for strains found or not
