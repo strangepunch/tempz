@@ -14,7 +14,7 @@
 	
 	function EasyViewCtrl($scope, $cookies, localStorageService, tempResource, strainNamesResource, productResource, effectResource, strainResource){
 		var vm = this;
-
+		
 		//Store which page your where on, before going to details mode, in Local Storage/Cookie
 		if(localStorageService.isSupported) {
 	    	localStorageService.set('whereAmIFrom', "Med");
