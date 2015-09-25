@@ -5315,6 +5315,11 @@
 			 	"strainName": "The Flav",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/the-flav_100x100.jpg"
+			},
+			{"strainId": 351,
+			 	"strainName": "God's Gift",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/god-s-gift_100x100.jpg"
 			}
 		]; 
 
@@ -5555,19 +5560,19 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.36
+			 		"value": 18.82
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.22
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.44
+			 		"value": 0.09
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.40
+			 		"value": 0.22
 			 	},
 			 	{ 
 			 		"name": "CBC", 
@@ -5655,9 +5660,9 @@
 				}
 		 	],
 		 	 "taste": ["Sage","Earthy","Woody"],   
-		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms", "Fibromyalgia"],
-			 "positiveEffects": ["Long Lasting", "Uplifted", "Happy"],
-			 "negativeEffects": [""],
+		 	 "conditions": ["Depression", "Anxiety", "Stress", "Pain", "Fatigue", "Muscle Spasms", "Fibromyalgia", "Appetite Loss"],
+			 "positiveEffects": ["Long Lasting", "Uplifted", "Pain relief", "Happy", "Hungry"],
+			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Depression, stress and axiety will fade away with the spicy and sandalwood flavors of this long lasting strain.",
 			 "tags": [""],
@@ -5669,23 +5674,23 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 18.36
+			 		"value": 26.88
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.22
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.03
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.50
+			 		"value": 0.40
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.10
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -5705,19 +5710,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 1.10
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.00
+			 		"value": 0.74
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.60
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.50
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -5725,7 +5730,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.50
+			 		"value": 0.70
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5761,7 +5766,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 3.12
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -5769,9 +5774,9 @@
 				} 	
 		 	],  
 		 	"taste": ["Earthy","Pungent", "Sweet"],
-		 	 "conditions": ["Tension", "Anxiety", "Stress", "Pain"],
-			 "positiveEffects": ["Relaxed", "Mild tingling", "Numbness"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+		 	 "conditions": ["Stress", "Pain", "Tension", "Anxiety", "Depression", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted","Hungry", "Tingly", "Pain relief"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "You'll be comfortably numb with a little tingle as you relax with the strong body effects that Skywalker OG provides.",
 			 "tags": [""],
@@ -5783,23 +5788,23 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.54
+			 		"value": 19.76
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.30
+			 		"value": 0.25
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.81
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.44
+			 		"value": 0.54
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -5819,11 +5824,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.07
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -5839,7 +5844,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.43
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -5875,7 +5880,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.37
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -7721,15 +7726,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 16.38
+			 		"value": 23.00
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.28
+			 		"value": 0.47
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.35
+			 		"value": 0.07
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -7757,11 +7762,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.12
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.91
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -7769,7 +7774,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.72
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -7777,7 +7782,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -7813,17 +7818,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.25
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.04
 				} 	
 		 	], 
 		 	"taste": ["Sweet", "Earthy", "Pungent"],
-		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia","Depression", "Anxiety"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness", "Focused"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Less Social"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "When you need to relax and get some rest, Skywalker will deliver without making you feel too hazy or unfocused.",
 			 "tags": [""],
@@ -11523,7 +11528,7 @@
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.997
+			 		"value": 1.99
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -15916,7 +15921,7 @@
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Pine", "Pungent"],
-		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Cancer", "Nausea", "Headache"],
+		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Cancer", "Nausea", "Migraines"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "",
@@ -16372,7 +16377,7 @@
 				} 	
 		 	],
 		 	"taste": ["Pungent", "Sweet", "Skunk"],
-		 	 "conditions": ["Stress", "Depression","Pain", "Fatigue", "Muscle Spasms", "Nausea", "Seizures", "Insomnia", "Hypertension", "HIV/AIDS", "Migraines" ],
+		 	 "conditions": ["Stress", "Depression","Pain", "Muscle Spasms", "Nausea", "Seizures", "Insomnia", "Hypertension", "HIV/AIDS", "Migraines"],
 			 "positiveEffects": ["Energetic", "Relaxed", "Happy", "Uplifted", "Euphoric", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Drowsiness"],
 			 "descriptionDetailed": "",
@@ -19336,9 +19341,9 @@
 				} 	
 		 	],
 		 	"taste": ["Pine", "Citrus", "Diesel"],
-		 	 "conditions": ["Migraines", "Headache", "Epilepsy"],
-			 "positiveEffects": ["Uplifted","Happy", "Relaxed", "Creative", "Euphoric"],
-			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Munchies"],
+		 	 "conditions": ["Stress", "Pain",  "Migraines", "Insomnia","Depression", "Epilepsy"],
+			 "positiveEffects": ["Uplifted","Happy", "Energetic", "Relaxed","Pain relief", "Creative", "Conversational","Drowsiness", "Euphoric"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Drowsiness", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The high is both cerebral and physical, with happy, calming effects and a creative euphoric boost.",
 			 "tags": [""],
@@ -21552,19 +21557,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 2.14
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.74
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.57
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -21608,16 +21613,16 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.63
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.09
 				} 	
 		 	],
 		 	"taste": ["Earthy", "Sweet", "Pungent"],
-		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Headache"],
-			 "positiveEffects": ["Relaxed", "Drowsiness","Euphoric", "Happy", "Tingly"],
+		 	 "conditions": ["Insomnia","Chronic Pain","Anxiety", "Stress","Nausea", "Pain"],
+			 "positiveEffects": ["Relaxed", "Drowsiness","Therapeutic", "Euphoric", "Happy", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
@@ -21666,19 +21671,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.45
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.15
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -21686,7 +21691,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.04
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21722,17 +21727,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.40
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	], 
 		 	"taste": ["Lavender", "Flowery", "Sweet"],
-		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Nausea", "Depression"],
+		 	 "conditions": ["Nausea", "Pain", "Stress", "Insomnia", "Nausea"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Paranoid"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious","Couch Lock","Drowsiness", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
 			 "tags": [""],
@@ -21858,15 +21863,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 21.00
+			 		"value": 16.70
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.35
+			 		"value": 0.27
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.12
+			 		"value": 0.103
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -21894,19 +21899,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 0.85
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 1.096
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 0.52
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -21914,7 +21919,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.06
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -21950,17 +21955,17 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.55
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.00
+			 		"value": 0.02
 				} 	
 		 	], 
 		 	"taste": ["Grape", "Pungent", "Sweet"],
-		 	 "conditions": ["Nausea", "Stress", "Pain", "Insomnia", "Appetite Loss"],
-			 "positiveEffects": ["Relaxed", "Drowsiness", "Headache", "Euphoric", "Happy", "Creative"],
-			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia","Depression","Anxiety", "Nausea", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Creative", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Munchies", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Purple Passion is great for unleashing your creative side.",
 			 "tags": [""],
@@ -45335,6 +45340,120 @@
 			 "descriptionAbbrev": "Combines the oily, thick rich fruity taste of Romulan with the cherry goodness of Space Queen.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/the-flav_100x100.jpg"
+			},
+			{"strainId": 351,
+			 "strainName": "God's Gift",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 24.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.90
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.42
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.79
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.24
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Woody"],
+		 	 "conditions": ["Stress", "Pain", "Muscle Spasms", "Insomnia", "Depression", "Appetite Loss","Arthritis", "Anxiety"],
+			 "positiveEffects": ["Relaxed","Happy", "Euphoric", "Psychoactive", "Energetic", "Pain relief", "Drowsiness", "Uplifted"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The effects from God's Gift are exactly as you would expect from a heavy indica-dominant hybrid: instant, full-bodied, and intense.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/god-s-gift_100x100.jpg"
 			}
 		];
 		
@@ -45544,13 +45663,13 @@
 			},
 			{"productId": 7,
 			 "productName": "THC8", //compName
-			 "Property": ["antiemetic", "anxiolytic", "Appetite Stimulant", "analgesic", "neuroprotective"],
+			 "Property": ["Antiemetic", "Anxiolytic", "Appetite Stimulant", "Analgesic", "Aeuroprotective"],
 			 "lowTemp": 347,
 			 "highTemp": 352,
 			 "lowTempC": 175,
 			 "highTempC": 178,
-			 "temp": "347-352F",
-			 "tempC": "175-178C",
+			 "temp": "351",
+			 "tempC": "177",
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "May contribute to the overall analgesic effects of medical cannabis.",
 			 "tags": [""],
@@ -45823,7 +45942,7 @@
 			},
 			{"effectId": 4,
 			 "effectName": "Analgesic", //compName
-			 "conditionsTreated": ["Pain", "Chronic Pain", "Fibromyalgia", "Arthritis"],
+			 "conditionsTreated": ["Pain", "Chronic Pain", "Chronic Back Pain", "Fibromyalgia", "Arthritis"],
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
 			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["" ],
