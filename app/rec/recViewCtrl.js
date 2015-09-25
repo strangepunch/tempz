@@ -346,9 +346,10 @@
 /**---------SEARCH FUNCTION for Flavor, Effect, Strain mode------------**/
 		//Flavor
 		$scope.searchForTaste = function (Flavor){
-
+			NProgress.start();
+			NProgress.set(0.4);
 			strainResource.query(function(data){
-				
+				NProgress.done();
 				var num = 0;
  				vm.strainSuggestions = [];
  				for(var i=0; i<data.length; i++){
@@ -372,9 +373,10 @@
 		};
 		//Effect
 		$scope.searchForFeel = function (Effect,Type){
-
+			NProgress.start();
+			NProgress.set(0.4);
 			strainResource.query(function(data){
-				
+				NProgress.done();
 				var num = 0;
  				vm.strainSuggestions = [];
  				if(Type === "N"){
@@ -408,9 +410,10 @@
 		};
 		//Strain
 		$scope.searchForBud = function (Strain){
-
+			NProgress.start();
+			NProgress.set(0.4);
 			strainResource.query(function(data){
-				
+				NProgress.done();
 				var num = 0;
  				vm.strainSuggestions = [];
  				for(var i=0; i<data.length; i++){

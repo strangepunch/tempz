@@ -7,7 +7,10 @@
 						["ngMockE2E"]);
 	
 	app.run(function ($httpBackend){
-		var temperatures = [126, 246, 313, 315, 334, 351, 356, 365, 388, 428];
+		var temperatures = [
+			{"F": [126, 246, 313, 315, 334, 351, 356, 365, 388, 428]},
+			{"C": [52, 119, 156, 157, 168, 177, 180, 185, 198, 220]}
+		   ];
 
 		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h', 'Hi', 'Md', 'Lo']; //Flavor, Effect, Buds, High, Mid, Low, indica, sativa, hybred
 		

@@ -52,17 +52,14 @@
 
 		//find and display selected temps
 		tempResource.query(function(data){
-			vm.Temps = data;
-			vm.TempsF = data;
-			vm.TempsC = [];
-			for(var i=0; i<data.length;i++){
-				vm.TempsC[i] = Math.round((data[i] - 32) * 5.0/9.0);
-			}
+			vm.Temps = data[0].F;
+			vm.TempsF = data[0].F;
+			vm.TempsC = data[1].C;
 		});
 
 		//change temperature display numbers between F and C
-		vm.countF=0;
-		vm.countC=0;
+		//vm.countF=0;
+		//vm.countC=0;
 		$scope.selectTemp = function(name){
 			vm.currentTemp = name;
 			if(name === 'C'){
@@ -71,13 +68,20 @@
 				vm.Temps = vm.TempsC;
 
 				var t = vm.tempDisplay;
-				var f = 0;
+				//var f = 0;
+				for(var i=0;i<vm.TempsF.length;i++){
+					if(t === vm.TempsF[i]){
+						vm.tempDisplay = vm.TempsC[i];
+						return;
+					}
+				}
+				/*
 				if (vm.countC < 1){
 					f = Math.round((t - 32) * 5.0/9.0);
 					vm.tempDisplay = f;
 					vm.countC=1;
 					vm.countF=0;
-				}
+				}*/
 			
 			}else if(name === 'F'){
 				vm.styleF={"color":"Red","font-size": "1.2em"};
@@ -85,13 +89,20 @@
 				vm.Temps = vm.TempsF;
 
 				var t = vm.tempDisplay;
-				var f = 0;
+				//var f = 0;
+				for(var i=0;i<vm.TempsC.length;i++){
+					if(t === vm.TempsC[i]){
+						vm.tempDisplay = vm.TempsF[i];
+						return;
+					}
+				}
+				/*
 				if (vm.countF < 1){
 					f = Math.round(t * 9.0 / 5.0 + 32);
 					vm.tempDisplay = f;
 					vm.countF=1;
 					vm.countC=0;
-				}
+				}*/
 				
 			}
 		};
@@ -173,6 +184,36 @@
 				vm.moreThanOne = false;
 			}
 		};
+
+		//this sets the active triangle direction for the temperature bars
+		$scope.active = function(item){
+			if(vm.currentTemp === 'F'){
+				switch(item) {
+				    case vm.tempDisplay:
+					    if(item < 351){
+					    	return "active";
+					    }else{
+					    	return "active2";
+					    }
+				        break;
+				    default:
+				        return "!active";
+				}
+			}else if(vm.currentTemp === 'C'){
+				switch(item) {
+				    case vm.tempDisplay:
+					    if(item < 177){
+					    	return "active";
+					    }else{
+					    	return "active2";
+					    }
+				        break;
+				    default:
+				        return "!active";
+				}
+			}
+    		
+    	};
 /**--------------Populate the first screen's two questions with selections-----------------**/
 		//inititial list of condition names for selection
 		effectResource.query(function(data){
@@ -273,24 +314,6 @@
 	        vm.searchAll = "";
 	    };
 /**----------------------------------------------------------------------------------------**/
-
-		//this sets the ng-class to active
-		$scope.active = function(item){
-
-    		switch(item) {
-			    case vm.tempDisplay:
-				    if(item < 351){
-				    	return "active";
-				    }else{
-				    	return "active2";
-				    }
-			        break;
-			    default:
-			        return "!active";
-			}
-			
-    	};
-
     	//go back a step by hiding the solution screen and displaying question screen
     	$scope.showAnswer = false;
     	$scope.showQuestion = true;
@@ -310,14 +333,17 @@
     		vm.ShowStrains = false;
 
     		//sets the initial screen back to original setting
-    		vm.currentTemp = 'F';
-			vm.tempDisplay = 126;
+    		if(vm.currentTemp === 'F'){
+    			vm.tempDisplay = 126;
+    		}else if(vm.currentTemp === 'C'){
+    			vm.tempDisplay = 52;
+    		}
 			vm.userTempArrayU = [];
     	};
 
     	//the GO button
     	$scope.goEasy = function(){
-
+    		NProgress.start();
     		//Hide or display the "more or less" button depend on if suggested strain button is pressed 
     		if(vm.suggested == false){
     			vm.thereIsMore = false;
@@ -392,12 +418,14 @@
 				}
 
 			}else{
-				
+				NProgress.done();
 				return vm.tempDisplay; //display does not change if there is no temp in array
 			}
 
 			//user friendly names of effect(s) treated for the user's selected condition
 			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray); 
+			
+			NProgress.done();
 
     		//---for user selected strain---//
     		
@@ -406,8 +434,12 @@
     			
     			vm.hasEnterStrain = true;
     			vm.yourStrain = [];
-    			
+
+    			NProgress.set(0.4);
+
     			strainResource.query(function(data){
+
+    				NProgress.done();
 
 					for(var i=0; i<data.length; i++){
 						if(vm.userSelect[0].strnName == data[i].strainName){
@@ -425,7 +457,7 @@
 				});
 
     		} else {
-
+    			NProgress.done();
     			vm.hasEnterStrain = false;
     		}
 
@@ -607,8 +639,8 @@
     	//For when there is more than one components listed for the same temperature
     	$scope.getNextEffect = function(num,name){
     		vm.moreThanOne = false;
- 
     		vm.currentSelectEffNum = num;
+
 			var tempArray=[];
 			for(var i=0; i<vm.products.length; i++){
 				if(name === vm.products[i].productName){
@@ -628,30 +660,11 @@
     		vm.makeNormal = {"font-size": "1.1em"};
 
     		switch (dex){
-    			case 0:
-	    			if(vm.currentSelectEffNum === dex){
-	    				return vm.makeRed;
-	    			}else{
-	    				return vm.makeNormal;
-	    			}
-	    			break;
-    			case 1:
-	    			if(vm.currentSelectEffNum === dex){
-	    				return vm.makeRed;
-	    			}else{
-	    				return vm.makeNormal;
-	    			}
-	    			break;
-    			case 2:
-	    			if(vm.currentSelectEffNum === dex){
-	    				return  vm.makeRed;
-	    			}else{
-	    				return  vm.makeNormal;
-	    			}
-	    			break;
+    			case vm.currentSelectEffNum:
+    				 return vm.makeRed;
+    				break;
 	    		default:
-	    			vm.currentSelectEffNum = 0;
-	    			return  vm.makeNormal;
+	    			 return  vm.makeNormal;
 	    			break;
     		}
     	};
@@ -699,7 +712,12 @@
     		var isMatch = 0;
     		vm.suggestedStains = [];
     		vm.finalSuggestedStrains = [];
+
+    		NProgress.inc(0.4);
+
     		strainResource.query(function(data){
+
+    			NProgress.done();
     			
     			for (var x=0; x < data.length; x++){
     				for(var i=0; i < vm.productNameArrayU.length; i++){
