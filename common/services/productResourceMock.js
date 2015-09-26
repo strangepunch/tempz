@@ -5424,6 +5424,21 @@
 			 	"strainName": "California Grapefruit",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/california-grapefruit_100x100.jpg"
+			}, 
+			{"strainId": 360,
+			 	"strainName": "Scott's OG",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/scott-s-og_100x100.jpg"
+			}, 
+			{"strainId": 361,
+			 	"strainName": "Hawaiian Sativa",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/hawaiian-sativa_100x100.jpg"
+			}, 
+			{"strainId": 362,
+			 	"strainName": "Hawaiian Sativa",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/wet-dream_100x100.jpg"
 			}
 		]; 
 
@@ -8157,7 +8172,7 @@
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Sweet", "Berry", "Pine"],
+		 	"taste": ["Sweet", "Berry", "Pine", "Tar"],
 		 	 "conditions": ["Pain", "Stress", "Insomnia", "Appetite Loss", "Depression"],
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Productive", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
@@ -8613,7 +8628,7 @@
 			 		"value": 0.09
 				} 	
 		 	],  
-		 	"taste": ["Sweet", "Skunk", "Pungent"],
+		 	"taste": ["Sweet", "Skunk", "Pungent", "Tobacco"],
 		 	 "conditions": ["Anorexia", "Anxiety", "Pain", "Asthma", "Depression", "Fibromyalgia", "Stress", "Appetite Loss", "Nausea"],
 			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Productive", "Hungry", "Euphoric", "Creative"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy"],
@@ -20698,7 +20713,7 @@
 			 		"value": 0.00
 				} 	
 		 	],
-		 	"taste": ["Berry", "Plum", "Spicy", "Herbal"],
+		 	"taste": ["Berry", "Plum", "Spicy", "Herbal", "Tar"],
 		 	 "conditions": ["ADD/ADHD","Anorexia","Anxiety","Arthritis","Inflammation","Seizures","Depression","Cramps", "Glaucoma","Appetite Loss", "Migraines", "Nausea", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Focused", "Relaxed", "Tingly", "Conversational"],
 			 "negativeEffects": ["Dizzy", "Dry Mouth", "Munchies"],
@@ -22066,7 +22081,7 @@
 			 		"value": 0.02
 				} 	
 		 	], 
-		 	"taste": ["Grape", "Pungent", "Sweet"],
+		 	"taste": ["Grape", "Pungent", "Sweet", "Tar"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia","Depression","Anxiety", "Nausea", "Appetite Loss"],
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Munchies", "Dizzy", "Paranoid"],
@@ -35404,7 +35419,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Sweet", "Berry", "Citrus"],
+		 	"taste": ["Sweet", "Berry", "Citrus", "Peach"],
 		 	 "conditions": ["Depression", "Stress", "Pain", "Fibromyalgia", "Insomnia", "Headache"],
 			 "positiveEffects": ["Uplifted", "Happy", "Giggly", "Euphoric", "Creative", "Psychoactive", "Drowsiness"],
 			 "negativeEffects": ["Couch Lock", "Dry Mouth", "Dry Eyes", "Dizzy", "Headache"],
@@ -39052,7 +39067,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Spicy", "Fruity"],
+		 	"taste": ["Spicy", "Fruity", "Tobacco"],
 		 	 "conditions": ["Depression", "Anxiety", "Fibromyalgia"],
 			 "positiveEffects": ["Creative", "Happy", "Energetic", "Long Lasting", "Relaxed", "Sexual"],
 			 "negativeEffects": ["Dry Eyes", "Paranoid"],
@@ -46470,6 +46485,348 @@
 			 "descriptionAbbrev": "Because of the heavy indica effects, California Grapefruit is an ideal strain for treating chronic pain, insomnia, nightmares, and muscle spasms.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/california-grapefruit_100x100.jpg"
+			},
+			{"strainId": 360,
+			 "strainName": "Scott's OG",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.22
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.27
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Honey", "Lemon", "Pine", "Peach"],
+		 	 "conditions": ["Anxiety", "Appetite Loss", "Insomnia", "Pain"],
+			 "positiveEffects": ["Intense", "Relaxed", "Pain relief", "Happy", "Euphoric","Uplifted", "Hungry", "Drowsiness"],
+			 "negativeEffects": ["Munchies", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Depending on when this plant is harvested, her effects range from psychedelic and spacey to mellow relaxation.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/scott-s-og_100x100.jpg"
+			},
+			{"strainId": 361,
+			 "strainName": "Hawaiian Sativa",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.30
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Peach", "Sweet"],
+		 	 "conditions": ["Stress", "Depression","Pain", "Migraines", "Glaucoma"],
+			 "positiveEffects": ["Pain relief", "Uplifted", "Happy", "Euphoric", "Energetic", "Relaxed"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Since its effects are so active, this strain is popular for daytime consumption and has shown effectiveness as a treatment for glaucoma patients.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/hawaiian-sativa_100x100.jpg"
+			},
+			{"strainId": 362,
+			 "strainName": "Wet Dream",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 8.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.34
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.88
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sage", "Pine", "Spicy","Woody", "Violet"],
+		 	 "conditions": ["Anxiety", "Fatigue", "Migraines", "Chronic Pain", "Stress"],
+			 "positiveEffects": ["Energetic", "Uplifted", "Pain relief", "Relaxed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The Blue Dream genetics bring a mellow, relaxing quality to the experience to help curb stress and anxiety.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/wet-dream_100x100.jpg"
 			} 
 		];
 		
