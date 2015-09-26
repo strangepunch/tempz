@@ -3220,6 +3220,70 @@
 			"tempF": "428",
 			"tempC": "220",			
 			"imageUrl": "images/Rec/Apple.png"
+		},
+		{ 
+			"tasteId": 47,
+			"taste": "Peach",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 48,
+			"taste": "Rose",
+			"compound": "Linalool",
+			"tempF": "388",
+			"tempC": "198",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 51,
+			"taste": "Violet",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 52,
+			"taste": "Tobacco",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 53,
+			"taste": "Pear",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 54,
+			"taste": "Tar",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 55,
+			"taste": "Blue Cheese",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
+		},
+		{ 
+			"tasteId": 56,
+			"taste": "Ammonia",
+			"compound": "",
+			"tempF": "0",
+			"tempC": "0",			
+			"imageUrl": "images/Rec/6.png"
 		}
 
 	];
@@ -5320,6 +5384,46 @@
 			 	"strainName": "God's Gift",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/god-s-gift_100x100.jpg"
+			}, 
+			{"strainId": 352,
+			 	"strainName": "Amnesia",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/amnesia_100x100.jpg"
+			}, 
+			{"strainId": 353,
+			 	"strainName": "A-Train",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/a-train_100x100.jpg"
+			}, 
+			{"strainId": 354,
+			 	"strainName": "Sugar Black Rose",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/sugar-black-rose_100x100.jpg"
+			}, 
+			{"strainId": 355,
+			 	"strainName": "Ice Queen",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/ice-queen_100x100.jpg"
+			}, 
+			{"strainId": 356,
+			 	"strainName": "Midnight Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/midnight_100x100.jpg"
+			}, 
+			{"strainId": 357,
+			 	"strainName": "Black Velvet",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/Black-Velvet_100x100.jpg"
+			},
+			{"strainId": 358,
+			 	"strainName": "Jamaican Dream",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/jamaican-dream_100x100.jpg"
+			}, 
+			{"strainId": 359,
+			 	"strainName": "California Grapefruit",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/california-grapefruit_100x100.jpg"
 			}
 		]; 
 
@@ -32450,7 +32554,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Coffee", "Blueberry", "Sweet", "Cheese"],
+		 	"taste": ["Coffee", "Blueberry", "Sweet", "Blue Cheese"],
 		 	 "conditions": ["Fibromyalgia","Stress", "Pain", "Depression", "Nausea", "Insomnia"],
 			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
@@ -37010,10 +37114,10 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Fruity", "Tea", "Flowery"],
+		 	"taste": ["Fruity", "Tea", "Flowery", "Apple", "Rose"],
 		 	 "conditions": ["Insomnia", "Stress", "Anxiety", "Depression"],
 			 "positiveEffects": ["Relaxed", "Calm", "Drowsiness", "Balanced"],
-			 "negativeEffects": ["Couch Lock"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "The combination of popular West Coast genetics brings on stimulating cerebral effects that weigh heavy on your eyes and slowly relax the body.",
 			 "tags": ["Drui"],
@@ -37124,10 +37228,10 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Grapefruit"],
-		 	 "conditions": ["Anxiety", "Stress", "Depression", "Appetite Loss", "Insomnia", "Nausea", "Pain"],
-			 "positiveEffects": ["Creative", "Energetic",  "Euphoric", "Happy", "Relaxed", "Pain relief"],
-			 "negativeEffects": ["Munchies", "Drowsiness"],
+		 	"taste": ["Grapefruit", "Pear", "Sweet", "Flowery", "Grape"],
+		 	 "conditions": ["Fatigue", "Migraines", "Anxiety", "Stress", "Depression", "Appetite Loss", "Insomnia", "Nausea", "Pain"],
+			 "positiveEffects": ["Creative", "Energetic",  "Euphoric", "Happy", "Giggly", "Relaxed", "Pain relief"],
+			 "negativeEffects": ["Munchies", "Drowsiness","Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "The taste has been described as light and sweet. This strain will have a more cerebral effect rather than body. ",
 			 "tags": [""],
@@ -43508,7 +43612,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Skunk", "Earthy", "Cheese", "Pungent"],
+		 	"taste": ["Skunk", "Earthy", "Blue Cheese", "Pungent"],
 		 	 "conditions": ["Fibromyalgia", "Chronic Pain", "Stress", "Anxiety", "Insomnia", "Depression", "PTSD"],
 			 "positiveEffects": ["Pain relief", "Relaxed", "Calmness", "Happy", "Drowsiness"],
 			 "negativeEffects": ["Couch Lock", "Drowsiness"],
@@ -45454,7 +45558,919 @@
 			 "descriptionAbbrev": "The effects from God's Gift are exactly as you would expect from a heavy indica-dominant hybrid: instant, full-bodied, and intense.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/god-s-gift_100x100.jpg"
-			}
+			},
+			{"strainId": 352,
+			 "strainName": "Amnesia",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.79
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.59	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.85
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.93
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Ammonia", "Earthy", "Pungent"],
+		 	 "conditions": [""],
+			 "positiveEffects": ["Intense", "Long Lasting", "Psychoactive", "Creative", "Giggly", "Conversational", "Relaxed"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This strain produces mellow smoke that leaves a fresh feeling in the sinuses and a slightly grassy taste on the center of the tongue. Like its name implies, you may not remember the details the next day.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/amnesia_100x100.jpg"
+			},
+			{"strainId": 353,
+			 "strainName": "A-Train",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.78
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.31	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.54
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.20
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Blueberry", "Pungent", "Sweet", "Ammonia"],
+		 	 "conditions": ["Pain", "Depression", "Stress", "Muscle Spasms", "Insomnia"],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Giggly", "Pain relief", "Drowsiness"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Dry Eyes", "Drowsiness", "Anxious", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Be ready for smiles and munchies when you jump on the A-Train.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/a-train_100x100.jpg"
+			},
+			{"strainId": 354,
+			 "strainName": "Sugar Black Rose",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 25.83
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.55	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.61
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.50
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Rose", "Earthy", "Sweet", "Coffee"],
+		 	 "conditions": ["Nausea", "Anxiety", "Muscle Pain", "Fibromyalgia", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Therapeutic", "Clear headed", "Mellow", "Hungry", "Drowsiness"],
+			 "negativeEffects": ["Munchies", "Dry Mouth", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "“Very heavy, lower your eyelids type high, yet motivating.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sugar-black-rose_100x100.jpg"
+			},
+			{"strainId": 355,
+			 "strainName": "Ice Queen",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.44
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.94	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 1.22
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.16
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.97
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.28
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Rose","Lavender", "Sweet", "Pepper"],
+		 	 "conditions": ["Depression"],
+			 "positiveEffects": ["Long Lasting", "Potent", "Uplifted", "Conversational", "Energetic", "Relaxed", "Productive"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "One whiff of Ice Queen fills your nose with a sweet bouquet of lavender and rose aromas accented by subtle pepper notes.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/ice-queen_100x100.jpg"
+			},
+			{"strainId": 356,
+			 "strainName": "Midnight Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.96
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.69	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.06 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.83
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 6.44
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.99
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Lavender", "Earthy", "Berry", "Rose"],
+		 	 "conditions": ["Pain", "Inflammation", "Indigestion", "Chronic Back Pain", "Anxiety"],
+			 "positiveEffects": ["Uplifted", "Energetic", "Mellow", "Sexual", "Relaxed", "Clear Headed"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Many medical marijuana patients say it is a great remedy for their chronic pain, insomnia, nausea (due to chemo), anorexia, anxiety, and depression.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/midnight_100x100.jpg"
+			},
+			{"strainId": 357,
+			 "strainName": "Black Velvet",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.15
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.17	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.45
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.41
+				}	
+		 	], 
+		 	"taste": ["Rose", "Flowery", "Blue Cheese", "Citrus"],
+		 	 "conditions": ["Pain", "Glaucoma", "Insomnia", "Stress", "Depression"],
+			 "positiveEffects": ["Drowsiness", "Relaxed", "Hungry", "Euphoric", "Energetic", "Balanced"],
+			 "negativeEffects": ["Drowsiness", "Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Black Velvet is optimal for intermediate to experienced patients and is favored for its well-balanced effects.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/Black-Velvet_100x100.jpg"
+			},
+			{"strainId": 358,
+			 "strainName": "Jamaican Dream",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.76
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 3.32	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.11 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 1.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Tropical", "Pear", "Earthy", "Apricot"],
+		 	 "conditions": ["Depression", "Fatigue", "PTSD"],
+			 "positiveEffects": ["Uplifted", "Long Lasting","Energetic", "Euphoric", "Productive", "Focused", "Conversational"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The effects are light enough to start your day with, making this strain ideal for early treatment of depression and fatigue.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/jamaican-dream_100x100.jpg"
+			},
+			{"strainId": 359,
+			 "strainName": "California Grapefruit",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 15.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pear", "Dank", "Earthy", "Citrus", "Orange"],
+		 	 "conditions": ["Chronic Pain", "Migraines", "Insomnia", "PTSD", "Muscle Spasms", "Depression"],
+			 "positiveEffects": ["Long Lasting", "Potent", "Drowsiness", "Pain relief"],
+			 "negativeEffects": ["Couch Lock", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Because of the heavy indica effects, California Grapefruit is an ideal strain for treating chronic pain, insomnia, nightmares, and muscle spasms.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/california-grapefruit_100x100.jpg"
+			} 
 		];
 		
 
@@ -45593,7 +46609,7 @@
 			},
 			{"productId": 2,
 			 "productName": "THC9", //compName
-			 "Property": ["Euphoriant", "Anxiolytic", "Analgesic", "Antipyretic", "Antihypoxia","Antiproliferative", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neuroprotective", "Neurogenesis", "Antidiabetic", "Antispasmodic","Appetite Stimulant", "Vasorelaxant", "Anti gastric reflux", "Treats IBS"],
+			 "Property": ["Euphoriant", "Neuroprotective", "Anxiolytic", "Analgesic", "Antipyretic","Relieve Behavioral Agitation", "Antihypoxia","Antiproliferative", "Inhibit Neural Plaques", "Neuropathic Analgesic", "Antiinflammatory", "Antioxidant", "Antiemetic", "Neurogenesis", "Antidiabetic", "Antispasmodic","Appetite Stimulant", "Vasorelaxant", "Anti gastric reflux", "Treats IBS"],
 			 "lowTemp": 0,
 			 "highTemp": 315,
 			 "lowTempC": 0,
@@ -45607,7 +46623,7 @@
 			},
 			{"productId": 3,
 			 "productName": "CBD", //compName
-			 "Property": ["Anxiolytic", "Analgesic", "Neuropathic Analgesic", "Neurogenesis", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic", "Antibacterial", "Antidiabetic", "Antiemetic", "Antiproliferative","Antipsoriatic", "Stimulates Bone Growth", "Immunosuppressant", "Intestinal anti-prokinetic", "Neuroprotective"],
+			 "Property": ["Anxiolytic", "Analgesic","Antiglutamatergic", "Neuropathic Analgesic", "Neurogenesis", "Antipsychotic", "Antiinflammatory", "Antioxidant", "Antispasmodic", "Antiepileptic", "Antiischemic", "Antibacterial", "Antidiabetic", "Antiemetic", "Antiproliferative","Antipsoriatic", "Stimulates Bone Growth", "Immunosuppressant", "Intestinal anti-prokinetic", "Neuroprotective"],
 			 "lowTemp": 320,
 			 "highTemp": 356,
 			 "lowTempC": 160,
@@ -45920,7 +46936,7 @@
 			 "effectName": "Neuroprotective", //compName
 			 "conditionsTreated": ["ADHD", "Alzheimers", "Dementia", "Memory"],
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
-			 "descriptionAbbrev":  "Protect against nervous system degeneration",
+			 "descriptionAbbrev":  "Nervous system protection",
 			 "tags": [""],
 			 "imageUrl": ""
 			},
@@ -45974,7 +46990,7 @@
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
-			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Diabetes", "Fibromyalgia", "Muscle Pain"],
+			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Diabetes", "Fibromyalgia", "Muscle Pain", "Alzheimers"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
@@ -46262,7 +47278,7 @@
 			},
 			{"effectId": 44,
 			 "effectName": "Appetite Stimulant", //compName
-			 "conditionsTreated": ["Anorexia", "Appetite Loss"],
+			 "conditionsTreated": ["Anorexia", "Appetite Loss", "Alzheimers"],
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Stimulates Appetite",
 			 "tags": [""],
@@ -46289,6 +47305,30 @@
 			 "conditionsTreated": ["Coronary Heart Disease"],
  			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "Protect heart cells",
+			 "tags": [""],
+			 "imageUrl": ""
+			},
+			{"effectId": 48,
+			 "effectName": "Inhibit Neural Plaques", //compName
+			 "conditionsTreated": ["Alzheimers"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Slow neural plaque buildup",
+			 "tags": [""],
+			 "imageUrl": ""
+			},
+			{"effectId": 49,
+			 "effectName": "Antiglutamatergic", //compName
+			 "conditionsTreated": ["Alzheimers"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Cerebroprotective benefits",
+			 "tags": [""],
+			 "imageUrl": ""
+			},
+			{"effectId": 50,
+			 "effectName": "Relieve Behavioral Agitation", //compName
+			 "conditionsTreated": ["Alzheimers"],
+ 			 "descriptionDetailed": "",
+			 "descriptionAbbrev":  "Relieve behavioral agitation",
 			 "tags": [""],
 			 "imageUrl": ""
 			}
