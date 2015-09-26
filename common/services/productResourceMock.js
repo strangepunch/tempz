@@ -45733,7 +45733,7 @@
 			},
 			{"productId": 12,
 			 "productName": "Limonene", //compName
-			 "Property": ["Anti gastric reflux", "Antifungal", "Euphoriant", "Anxiolytic", "Anti-tumor", "Immunostimulant", "Euphoriant"],
+			 "Property": ["Anti gastric reflux", "Antifungal", "Euphoriant", "Anxiolytic", "Anti-tumor", "Immunostimulant"],
 			 "lowTemp": 0,
 			 "highTemp": 351,
 			 "lowTempC": 0,
@@ -46126,7 +46126,7 @@
 			}, 
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
-			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Anxiety"],
+			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Anxiety", "PTSD"],
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.",
 			 "descriptionAbbrev":  "Treat depression",
 			 "tags": [""],
