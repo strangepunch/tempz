@@ -8,8 +8,8 @@
 	
 	app.run(function ($httpBackend){
 		var temperatures = [
-			{"F": [126, 246, 313, 315, 334, 351, 356, 365, 388, 428]},
-			{"C": [52, 119, 156, 157, 168, 177, 180, 185, 198, 220]}
+			{"F": [126, 266, 313, 315, 334, 351, 356, 365, 388, 428]},
+			{"C": [52, 130, 156, 157, 168, 177, 180, 185, 198, 220]}
 		   ];
 
 		var modes = [1, 2, 3, 'Hi', 'Md', 'Lo', 'i', 's', 'h', 'Hi', 'Md', 'Lo']; //Flavor, Effect, Buds, High, Mid, Low, indica, sativa, hybred
@@ -26,8 +26,8 @@
 			 "VManufacturer" : "Storz & Bickels",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
-			 "VTempsC": ["040","050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VTempsF": ["104","122", "266","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
+			 "VTempsC": ["040","050","130", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Crafty vaporizer packs the power of Storz & Bickels' German engineered heating technology into an uber portable vaping unit that can be controlled from your smartphone. Now you can enjoy the efficient herbal vaporizing experience the Volcano and Plenty are known for, on the go. Although the Crafty only has two temperature settings, with the free app you can set those temperatures to any two values you choose.", 
 			 "VImageUrl": "images/vapes/crafty1.png"
@@ -37,8 +37,8 @@
 			 "VManufacturer" : "Storz & Bickels",
 			 "VType": "Portable",
 			 "VTempType": "N",
-			 "VTempsF": ["104","122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
-			 "VTempsC": ["040","050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
+			 "VTempsF": ["104","122", "266","290", "313", "315", "334", "351", "356", "365", "388", "400", "410"],
+			 "VTempsC": ["040","050","130", "143", "156", "157", "168", "177", "180", "185", "198", "204", "210"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Mighty Vaporizer is the first of the portable vaporizers from German vaping masterminds Storz & Bickel, the same creators of the Volcano and Plenty vaporizers. Their German engineered heaters are the most efficient in the game, and that power is now available in the palm of your hand. The Mighty has an adjustable temperature range with a digital display allowing you to set it to any temp within its range. The temps below indicate that it is capable of low, medum and high temperatures.",
 			 "VImageUrl": "images/vapes/mighty1.png"
@@ -125,8 +125,8 @@
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["122", "250", "290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
-			 "VTempsC": ["050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VTempsF": ["122", "266", "290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
+			 "VTempsC": ["050","130", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "This is the Extreme-Q Vaporizer by Arizer. It is a dual purpose vaporizer or a combo vape because it can be used with a whip and it can also be used with a balloon.",
 			 "VImageUrl": "images/vapes/extremeq1.png"
@@ -136,8 +136,8 @@
 			 "VManufacturer" : "Arizer",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["122", "250","290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
-			 "VTempsC": ["050","121", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
+			 "VTempsF": ["122", "266","290", "313", "315", "334", "351", "356", "365", "388", "400", "428", "445", "500"],
+			 "VTempsC": ["050","130", "143", "156", "157", "168", "177", "180", "185", "198", "204", "220", "229", "260"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The V-Tower, by Canadian manufacturer Arizer, is a direct draw, simple to use, tabletop vaporizer. For efficient and user-friendly functionality, few vaporizers can compete with its high quality vapor production.",
 			 "VImageUrl": "images/vapes/Arizer-V-Tower-Vaporizer.png"
@@ -180,8 +180,8 @@
 			 "VManufacturer" : "DaVinci  Vaporizers",
 			 "VType": "Portable",
 			 "VTempType": "Y",
-			 "VTempsF": ["126", "246", "313", "315", "334", "351", "356", "365", "388", "428", "430"],
-			 "VTempsC": ["052", "119", "156", "157", "168", "177", "180", "185", "198", "220", "221"],
+			 "VTempsF": ["126", "266", "313", "315", "334", "351", "356", "365", "388", "428", "430"],
+			 "VTempsC": ["052", "130", "156", "157", "168", "177", "180", "185", "198", "220", "221"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Hi", "Hi", "Hi"],
 			 "descriptionAbbrev":  "The Ascent Vaporizer takes what barriers you think portable vaporizers might be restricted by and smashes through them with ease.",
 			 "VImageUrl": "images/vapes/ascent1.png"
@@ -312,8 +312,8 @@
 			 "VManufacturer" : "VapeXhale",
 			 "VType": "Desktop",
 			 "VTempType": "N",
-			 "VTempsF": ["250","290", "313", "315", "334", "351", "356", "365", "388", "400"],
-			 "VTempsC": ["121", "143", "156", "157", "168", "177", "180", "185", "198", "204"],
+			 "VTempsF": ["266","290", "313", "315", "334", "351", "356", "365", "388", "400"],
+			 "VTempsC": ["130", "143", "156", "157", "168", "177", "180", "185", "198", "204"],
 			 "VColors": ["Lo", "Lo", "Lo", "Lo", "Lo", "Lo", "Md", "Md", "Md", "Hi", "Hi"],
 			 "descriptionAbbrev": "The Aire allows users the option of three different settings, whip style, balloon bag and direct draw. The temperature control on this unit is also great as it allows you to vape at anywhere between 250 F and 400F.",
 			 "VImageUrl": "images/vapes/Herbal-Aire-1.png",
@@ -901,32 +901,32 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When turned on, the surface of the Life Saber Vaporizer becomes very hot so coming into contact with the heater could result in serious burns.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Never place the Life Saber Vaporizer near paper, plastics, fabrics or other flammable materials during use.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you find that your blend becomes discolored and appears black or a very deep shade of brown, turn down the heat or try inhaling more slowly.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Life Saber Vaporizer can double as a flameless, butane-free lighter: 1. Take off the glass heater cover (Use caution - this piece is very fragile). 2. Turn the Life Saber Vaporizer on and adjust the power to high heat for approximately two minutes. 3. Once the unit is preheated, hold it 1/4 inch away from the material to be heated using the lighter. 4. Turn off the vaporizer when you're finished.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "When it's time to replace the vaporizer screen: 1. Take the screen out of the transfer with the pick that comes included with the Life Saber Vaporizer. 2. Put the new screen on top of the transfer. 3. Use the pick to push the screen until you reach the bottom. 4. Flip the screen to attach it one side. 5. Push down the other side with the pick.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You need to stir your herbs at least once or twice during a session to ensure that it’s vaped evenly.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	}
 			 	]
@@ -982,17 +982,17 @@
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Magic-Flight recommends that people load it with unpacked material (finely ground but not powder) until it is level with the shoulder (i.e. do not fill the chamber) even though this might be more than you would normally need.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Filling ones lungs fully, drawing deeply all of the way in so as to get the vapor all of the way into the lower lungs is far more practical than holding a smaller volume of vapor only in the upper lungs and throat for any amount of time.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The ideal vapor density is exactly that which can be adsorbed by the lungs in a natural/comfortable interval of time, usually between 3 to 5 seconds.",
 				 		"TipImg" : "images/vapes/mflb1.png"
 				 	}
 			 	]
@@ -1038,27 +1038,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Before you start heating up the Arizer Extreme Q you want to always make sure your cyclone bowl is clean and there is no leftover material resting on the screen. Anything leftover in the bowl can create a bad tasting vapor if your new material is just placed over it.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "While the Q is heating up it is best to ground up your material and have it ready in the cyclone bowl ahead of time. Since you can pre pack the bowl it is always a good idea to do so. Doing this ahead of time is going to make sure you aren't wasting any heat what so ever when the vape reaches your desired temperature.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you are using the balloon inflation method you will also want to make sure the balloons are put together and ready to be filled. Fumbling around with balloons while the vape is already at your desired vaporizing temperature is something best avoided.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After each balloon you fill, or after every other pull you take from the whip, it is always recommended to use the included stir tool to stir up the material and make sure you are taking advantage of all the material and not just a percentage.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Once you are done you always want to dump out your used material and then use a brush, or even the stir tool, to get any leftover material sticking to the sides of the bowl off of there. Doing this ensures you don't eventually have a huge build up of leftover material that will later affect the taste. When using the stir tool just be extra careful you do not puncture the screen with the pointed end of the stir tool.",
 				 		"TipImg" : "images/vapes/extremeq1.png"
 				 	}
 			 	]
@@ -2889,8 +2889,8 @@
 			"tasteId": 4,
 			"taste": "Woody",
 			"compound": "Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Woody.png"
 		},
 		{ 
@@ -3017,8 +3017,8 @@
 			"tasteId": 20,
 			"taste": "Mint",
 			"compound": "Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Mint.png"
 		},
 		{ 
@@ -3033,8 +3033,8 @@
 			"tasteId": 22,
 			"taste": "Spicy",
 			"compound": "Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Spicy.png"
 		},
 		{ 
@@ -3057,8 +3057,8 @@
 			"tasteId": 25,
 			"taste": "Pepper",
 			"compound": "Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Pepper.png"
 		},
 		{ 
@@ -3089,8 +3089,8 @@
 			"tasteId": 29,
 			"taste": "Hash",
 			"compound": "Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Hash.png"
 		},
 		{ 
@@ -3144,9 +3144,9 @@
 		{ 
 			"tasteId": 36,
 			"taste": "Menthol",
-			"compound": "images/Rec/Caryophyllene",
-			"tempF": "246",
-			"tempC": "119",			
+			"compound": "Caryophyllene",
+			"tempF": "266",
+			"tempC": "130",			
 			"imageUrl": "images/Rec/Menthol.png"
 		},
 		{ 
@@ -3227,7 +3227,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Peach.png"
 		},
 		{ 
 			"tasteId": 48,
@@ -3235,7 +3235,7 @@
 			"compound": "Linalool",
 			"tempF": "388",
 			"tempC": "198",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Rose.png"
 		},
 		{ 
 			"tasteId": 51,
@@ -3243,7 +3243,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Violet.png"
 		},
 		{ 
 			"tasteId": 52,
@@ -3251,7 +3251,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Tobacco.png"
 		},
 		{ 
 			"tasteId": 53,
@@ -3259,7 +3259,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Pear.png"
 		},
 		{ 
 			"tasteId": 54,
@@ -3267,7 +3267,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Tar.png"
 		},
 		{ 
 			"tasteId": 55,
@@ -3275,7 +3275,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Bluecheese.png"
 		},
 		{ 
 			"tasteId": 56,
@@ -3283,7 +3283,7 @@
 			"compound": "",
 			"tempF": "0",
 			"tempC": "0",			
-			"imageUrl": "images/Rec/6.png"
+			"imageUrl": "images/Rec/Ammonia.png"
 		}
 
 	];
@@ -5436,7 +5436,7 @@
 			 	"imageUrl": "images/strains/hawaiian-sativa_100x100.jpg"
 			}, 
 			{"strainId": 362,
-			 	"strainName": "Hawaiian Sativa",
+			 	"strainName": "Wet Dream",
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/wet-dream_100x100.jpg"
 			}
@@ -35882,7 +35882,7 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "Great indica with a long lasting high, perfect for a nice mellow night of chilling with friends or watching movies.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/hollands-hope_100x100.jpg"
+			 "imageUrl": "images/strains/hollands-hope_100x100.jpg" 
 			},
 			{"strainId": 267,
 			 "strainName": "Black Cherry OG",
@@ -47094,11 +47094,11 @@
 			 "productName": "Caryophyllene", //compName
 			 "Property": ["Antiinflammatory", "Analgesic", "Anti gastric reflux", "Cytoprotective", "Antimalarial", "Antidiabetic"],
 			 "lowTemp": 0,
-			 "highTemp": 246,
+			 "highTemp": 266,
 			 "lowTempC": 0,
-			 "highTempC": 119,
-			 "temp": "246",
-			 "tempC": "119",
+			 "highTempC": 130,
+			 "temp": "266",
+			 "tempC": "130",
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "High β-Myrcene levels in cannabis result in the well known couch lock effect of classic Indica strains of cannabis.",
 			 "tags": [""],
@@ -47291,7 +47291,7 @@
 		var effects = [
 			{"effectId": 1,
 			 "effectName": "Neuroprotective", //compName
-			 "conditionsTreated": ["ADHD", "Alzheimers", "Dementia", "Memory"],
+			 "conditionsTreated": ["ADHD", "Alzheimers", "Dementia", "Memory", "Lyme Disease"],
  			 "descriptionDetailed": "Medical Cannabis has been shown to actually protect against nerve damage",
 			 "descriptionAbbrev":  "Nervous system protection",
 			 "tags": [""],
@@ -47307,7 +47307,7 @@
 			},
 			{"effectId": 3,
 			 "effectName": "Antiemetic", //compName
-			 "conditionsTreated": ["Chemotherapy", "Nausea", "Motion sickness"],
+			 "conditionsTreated": ["Chemotherapy", "Nausea", "Motion sickness", "Lyme Disease"],
  			 "descriptionDetailed": "Reduces vomiting and nausea",
 			 "descriptionAbbrev":  "Reduce vomiting and nausea",
 			 "tags": [""],
@@ -47315,7 +47315,7 @@
 			},
 			{"effectId": 4,
 			 "effectName": "Analgesic", //compName
-			 "conditionsTreated": ["Pain", "Chronic Pain", "Chronic Back Pain", "Fibromyalgia", "Arthritis"],
+			 "conditionsTreated": ["Pain", "Chronic Pain", "Chronic Back Pain", "Fibromyalgia", "Arthritis", "Lyme Disease"],
  			 "descriptionDetailed": "An analgesic, or painkiller, is any member of the group of drugs used to achieve analgesia — relief from pain.",
 			 "descriptionAbbrev":  "Relieve pain",
 			 "tags": ["" ],
@@ -47331,7 +47331,7 @@
 			},
 			{"effectId": 6,
 			 "effectName": "Neuropathic Analgesic", //compName
-			 "conditionsTreated": ["Chronic Back Pain", "Spinal Injuries", "Diabetes", "Arthritis", "Parkinsons"],
+			 "conditionsTreated": ["Chronic Back Pain", "Spinal Injuries", "Diabetes", "Arthritis", "Parkinsons", "Lyme Disease"],
  			 "descriptionDetailed": "Reduces pain associated with nerve damage including spinal injuries",
 			 "descriptionAbbrev":  "Reduce nerve pain", 
 			 "tags": [""],
@@ -47347,7 +47347,7 @@
 			},
 			{"effectId": 8,
 			 "effectName": "Antiinflammatory", //compName
-			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Diabetes", "Fibromyalgia", "Muscle Pain", "Alzheimers"],
+			 "conditionsTreated": ["Inflammation", "Chronic Inflammation Syndrome", "Coronary Heart Disease", "Diabetes", "Fibromyalgia", "Muscle Pain", "Alzheimers", "Lyme Disease"],
  			 "descriptionDetailed": "Reducing inflammation can result in prevention of various conditions including heart disease and type II diabetes and stroke",
 			 "descriptionAbbrev":  "Reduce inflammation",
 			 "tags": [""],
@@ -47363,7 +47363,7 @@
 			},
 			{"effectId": 10,
 			 "effectName": "Anxiolytic", //compName
-			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety", "Stress", "PTSD"],
+			 "conditionsTreated": ["Anxiety", "Bipolar", "Social Anxiety", "Separation Anxiety", "Stress", "PTSD", "Lyme Disease"],
  			 "descriptionDetailed": "Anxiolytic medications have been used for the treatment of anxiety and its related psychological and physical symptoms. ",
 			 "descriptionAbbrev":  "Reduce anxiety",
 			 "tags": [""],
@@ -47467,7 +47467,7 @@
 			},
 			{"effectId": 23,
 			 "effectName": "Memory booster", //compName
-			 "conditionsTreated": ["Memory", "Alzheimers"],
+			 "conditionsTreated": ["Memory", "Alzheimers", "Lyme Disease"],
  			 "descriptionDetailed": "helps memory conditions",
 			 "descriptionAbbrev":  "Help boost memory",
 			 "tags": [""],
@@ -47483,7 +47483,7 @@
 			}, 
 			{"effectId": 25,
 			 "effectName": "Sedative", //compName
-			 "conditionsTreated": ["Insomnia", "Hyperactivity", "Irritability", "PTSD"],
+			 "conditionsTreated": ["Insomnia", "Hyperactivity", "Irritability", "PTSD", "Lyme Disease"],
  			 "descriptionDetailed": "Helps you sleep as it induces sedation by reducing irritability or excitement.",
 			 "descriptionAbbrev":  "Tranquilizer and Sleep aid",
 			 "tags": [""],
@@ -47499,7 +47499,7 @@
 			}, 
 			{"effectId": 27,
 			 "effectName": "Euphoriant", //compName
-			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Anxiety", "PTSD"],
+			 "conditionsTreated": ["Depression", "Chronic Depression", "Stress", "Anxiety", "PTSD", "Lyme Disease"],
  			 "descriptionDetailed": "Many strains of medical cannabis produce a sense of well-being commonly called Euphoria. This produces the happy, peaceful effect associated with cannabis.",
 			 "descriptionAbbrev":  "Treat depression",
 			 "tags": [""],
@@ -47547,7 +47547,7 @@
 			}, 
 			{"effectId": 33,
 			 "effectName": "Antinociceptive", //compName
-			 "conditionsTreated": ["Pain", "Chronic Pain"],
+			 "conditionsTreated": ["Pain", "Chronic Pain","Lyme Disease"],
  			 "descriptionDetailed": "helps prevent the sensation of pain",
 			 "descriptionAbbrev":  "Increase pain tolerance",
 			 "tags": [""],
