@@ -5,7 +5,7 @@
 							 "ui.router",
 							 "ui.mask",
 							 "ui.bootstrap",
-							 "ui.slider",
+							 //"ui.slider",
 							 "ui.unique",
 							 "ngCookies",
 							 "LocalStorageModule",
@@ -16,7 +16,7 @@
 			["$delegate",
 				function ($delegate) {
 					return function (exception, cause) {
-						exception.message = "Please contact the help deak! \n Message: " + exception.message;
+						exception.message = "Please contact the help desk! \n Message: " + exception.message;
 
 						$delegate(exception, cause);
 						alert(exception.message);
