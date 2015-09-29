@@ -1099,32 +1099,32 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The V Tower vape couldn’t get any louder with its fondness of the whip system with its three-foot long medical grade tube, and that’s almost twice as long as that of its counterparts. So the result is more clearance space for the hot vapor to cool down as it passes along the tube.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Let’s say you wish to use the Cyclone bowl to add pleasant aroma to your room. All you have to do is to pack your ground material into the glass bowl, filling it up to half its maximum capacity. Then place the ground glass end of the bowl to the top of the vaporizer. Just leave it open to release all the fragrant vapors.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "After the vaping session, cleaning the glass bowl is actually a breeze because its smooth surface easily lets go of any residue when you throw the used up herb. But be careful with handling the Cyclone bowl as it could get too hot after a few minutes of use.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The undeniable quality of the V-Tower’s aluminum body, the ceramic heating element and the rest of the V tower parts make it one of the most formidable vapes when it comes to long-term use.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "There are also for rubber tips underneath the base to hold it in place especially on smooth surfaces. You’d begin to appreciate this humble feature especially when the vaporizer whip is pulled around more aggressively while socializing with your friends.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Some owners report the V-Tower works better with the elbow screen packed, as opposed to the glass bowl (creates a better vapor/air ratio). Also, if the glass parts are warmed up prior to use, the vaping process is expedited dramatically.",
 				 		"TipImg" : "images/vapes/Arizer-V-Tower-Vaporizer.png"
 				 	}
 			 	]
@@ -1175,22 +1175,22 @@
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Dont fill too much or you are wasting the goods. A thin light layer is all you need (just barely cover the screen).",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You'll always get the most vapor in the first bag, and the more you load, the more spent herb you'll be tasting while trying to get all the bowl vaped.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can put hash right on top of leaf, or you can vape straight hash with the little pad that looks like a small brillo. Just pop that in the bottom of the chamber and put your hash on top.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Hash has a higher melting point, so if you're vaping hash you need to get it to the higher numbers eventually.",
 				 		"TipImg" : "images/vapes/volcano2.png"
 				 	}
 			 	]
@@ -1241,17 +1241,17 @@
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You should start your first bag about 5 1/2 or so. Blow a bag or two, then raise it up 1 to 1/2 numbers for the next bag or two. Repeat until the taste/smell is like burnt popcorn. You may also want to stir your material in between bags, that will help.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you bought the easy-valve kit, you can go to a hardware store and buy 5/8 in. vinyl tubing and make a whip - get at least 5 feet of it, should cost you under 5 bucks. The tubing fits perfectly over the easy valve stem, just take off the blue rubber band.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The flavinoids are the first thing that gets boiled off, so the first couple bags SHOULD taste great, but they won't have quite the "kick" that later bags will. When you've reached that burnt popcorn taste/smell, it's time for a new bowl.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
@@ -1302,27 +1302,27 @@
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "This vape uses both conduction and convection to heat the herb, and it vapes the bud extremely evenly and effectively thanks its wide, shallow bowl.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
-				 	{ 
+				 	{
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Plenty comes with a liquid pad which is used for concentrates and also to use with smaller amounts of material, so that if you use it with less material you won't just get hot air when you hit it.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": " As for sharing, the herb chamber can hold over half a gram, which will easily get 3-4 people pretty stoned. It is wired, but the cord is about 10ft long.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "Secret Tip- Pure 100% Cotton. It doesn't burn until like 570 or something. You put the wax in a tiny bit of cotton)enough to absorb it when it melts in the chamber.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	},
 				 	{ 
 				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The liquid pad, included with the Plenty Vape is purported to be able to hold up to 10 drops of liquid. One or two drops seem to be OK, any more and the pad soon becomes clogged with dried liquid.",
 				 		"TipImg" : "images/vapes/plenty1.png"
 				 	}
 			 	]
@@ -1436,26 +1436,6 @@
 				 		"tipNum": "8", 
 				 		"tipTxt": "The white button you see on the front is your heat-preference light. Press to range between temperatures from 320 degrees to 415 degrees Fahrenheit.",
 				 		"TipImg" : "images/vapes/puffit1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/puffit1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/puffit1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/puffit1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/puffit1.png"
 				 	}
 			 	]
 			},
@@ -1563,31 +1543,6 @@
 				 		"tipNum": "7", 
 				 		"tipTxt": "It works like a charm when you pre heat for about 4 seconds and pull for about 8-10 seconds. Then you can let off the button and keep hitting this until you start to feel your lungs expand and the vapor heats your throat up.",
 				 		"TipImg" : "images/vapes/firefly1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/firefly1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/firefly1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/firefly1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/firefly1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/firefly1.png"
 				 	}
 			 	]
 			},
@@ -1633,26 +1588,6 @@
 				 	{ 
 				 		"tipNum": "8", 
 				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
-				 		"TipImg" : "images/vapes/hotbox1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/hotbox1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/hotbox1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/hotbox1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/hotbox1.png"
 				 	}
 			 	]
@@ -1700,26 +1635,6 @@
 				 		"tipNum": "8", 
 				 		"tipTxt": "If your herb isn't completely dry, it can take up to 5 minutes to get thick vapor.",
 				 		"TipImg" : "images/vapes/vapirrise1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/vapirrise1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/vapirrise1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/vapirrise1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/vapirrise1.png"
 				 	}
 			 	]
 			},
@@ -1756,36 +1671,6 @@
 				 		"tipNum": "6", 
 				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
 				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 	 	"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax1.png"
 				 	}
 			 	]
 			},
@@ -1821,36 +1706,6 @@
 				 	{ 
 				 		"tipNum": "6", 
 				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/pax2black.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/pax2black.png"
 				 	}
 			 	]
@@ -1892,31 +1747,6 @@
 				 	{ 
 				 		"tipNum": "7", 
 				 		"tipTxt": "Rubbing alcohol will clean the mouthpiece and the atomizer.",
-				 		"TipImg" : "images/vapes/phantom.png"
-				 	},
-				 	{ 
-				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/phantom.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/phantom.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/phantom.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/phantom.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
 				 		"TipImg" : "images/vapes/phantom.png"
 				 	}
 			 	]
@@ -1993,62 +1823,57 @@
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Vapium Summit is being marketed as a “rugged” vaporizer, hoping to appeal to the outdoors crowd.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "2", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The whole thing comes with a dry-bag, so you’re not going to soak your vapables when you accidentally tip your canoe.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "3", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Summit is pretty simple to use. Just hold down the power button, and that’s basically it. It will vibrate once when it first turns on, and it will vibrate a second time when it reaches your desired temperature.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "4", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The Vapium Summit typically takes two or three pulls after it reaches temp before it really starts delivering a nice, dense vapor.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "5", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "You can use the lanyard's attachment points as a point to connect the Summit to your backpack, harness or helmet.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "6", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you like tiny repetitive sips, just turn it down a bit.  The draw rate and temperature adjustment is so flexible - not something you see in many portables - you can easily find the perfect setup for your needs.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "There are 8 heat settings, which is fantastic if you have access to many different blends that all require a different sweet spot of flavor vs. vapor.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "8", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "The design is super-mindful of the situations where its going to be used.  Have gloves on? There’s a huge Power button and a rubberized grip to keep the Summit firmly planted in your hand.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "9", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "This vape was designed for those that love the outdoors and need a dependable long-lasting portable.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "10", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "If you find yourself lost in the woods at night or want to provide runway lights for a plane landing in the Amazonian jungle, your covered. The LEDs are bright.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "A Tip goes here",
-				 		"TipImg" : "images/vapes/summit-green-600x600.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "A Tip goes here",
+				 		"tipTxt": "With the dry bag's only internal seam being sealed with a roll top buckle closure, you can rest assured that your day on the water won’t put your vape at risk.",
 				 		"TipImg" : "images/vapes/summit-green-600x600.png"
 				 	}
 			 	]
@@ -8519,7 +8344,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Anxious", "Dizzy", "Dry Eyes", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "ACDC helps many patients treat pain, anxiety, epilepsy, multiple sclerosis, and the negative effects of chemotherapy, all without intoxication.",
+			 "descriptionAbbrev":  "If you're looking for therapeutic relief without intoxication, ACDC may be a good choice. Popular with patients seeking relief from pain, anxiety, mulitple sclerosis and negative side effects associated with chemotherapy.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acdc_100x100.jpg"
 			},
@@ -8633,7 +8458,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Pain relief", "Drowsiness", "Productive", "Hungry", "Euphoric", "Creative"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Has a fruity taste and carries intense stoney effects. If you suffer from chronic pains, experience depression, can't eat or have any other health issue, consider adding Shark Shock cannabis into your daily routine.",
+			 "descriptionAbbrev":  "Shark Shock tastes fruity and offers chronic pain relief as well as help with depression and lack of appetite. The effects can be a bit intense so it's best to use this when you don't mind getting some rest.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/shark-shock_100x100.jpg"
 			},
@@ -8747,7 +8572,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Drowsiness", "Euphoric", "Stimulate Hunger"],
 			 "negativeEffects": ["Munchies", "Drowsiness", "Couch Lock", "Dry Eyes", "Dry Mouth", "Dizzy", "Paranoid", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Provides a strong heavy body sensation and will put you to sleep in a hurry.",
+			 "descriptionAbbrev":  "If you need to rest quickly and don't mind a strong body sensation along with a bit of hunger,Superman OG is the strain for you. Also known to help with patients suffering from Asthma symptoms.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/superman-og_100x100.jpg"
 			},
@@ -8861,7 +8686,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Powerful full-body effect that gives this strain its sterling reputation.",
+			 "descriptionAbbrev":  "Also known as thin mint girl scout cookies, it's reputation is well deserved. Powerful full body effects provide relief from a variety of conditions including bipolar disorder, anorexia, insomia, athsma and more.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/thin-mint-girl-scout-cookies_100x100.jpg"
 			},
@@ -8975,7 +8800,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Banana Diesel is a potent appetite stimulant and stress combatant, suitable for either weight or mood disorders. A slightly energizing kick followed by intense focus makes this a perfect strain for daytime consumption.",
+			 "descriptionAbbrev":  "Great for daytime consumption, with Banana Diesel you'll get an energizing kick with enhanced ability to focus alogn with increased appetite and relaxation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/banana-diesel_100x100.jpg"
 			},
@@ -9089,7 +8914,7 @@
 			 "positiveEffects": ["Focused", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "When consuming or smoking this cannabis strain in larger amounts, patients can expect the effects to be much more powerful and sedative, making it a great strain for late-night medicating sessions. It is currently being used to naturally battle insomnia and sleep apnea in patients.",
+			 "descriptionAbbrev":  "A good choice for late night medication, patients report relief from insomnia and sleep apnea with Candy OG.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Candy-Og.jpg"
 			},
@@ -9203,7 +9028,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Creative", "Relaxed"],
 			 "negativeEffects": ["Dizzy", "Cotton Mouth", "Dry Eyes", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The taste was citrusy and fruity with a comfortable and well balanced high, while not overwhelmingly potent.",
+			 "descriptionAbbrev":  "Comfortable and well balanced, enjoy citrus and fruity flavors without being overwhelmed with Chem Valley Kush.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/chem-valley-kush_100x100.jpg"
 			},
@@ -9317,7 +9142,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Uplifted", "Conversational", "Creative"],
 			 "negativeEffects": ["Anxious", "Dry Mouth", "Dry Eyes", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This indica-dominant strain has been used to treat severe pain, insomnia, and lost appetite.",
+			 "descriptionAbbrev":  "With dominant Indica charactersitics, you can expect relief from severe pain, insomnia and appetite loss with Confidential Cheese.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/confidential-cheese_100x100.jpg"
 			},
@@ -9431,7 +9256,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Treats anxiety, depression, insomnia, loss of appetite, muscle and joint pain.",
+			 "descriptionAbbrev":  "Deadhead OG is known to treat anxiety, muscle and joint pain as well as insomnia. You'll have increased focus, but it might just be the couch.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/deadhead-og_100x100.jpg"
 			},
@@ -9545,7 +9370,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyess", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This indica has a purple hue, fruity and spicy flavors, and a THC content that tends to fall between 15-20 percent.",
+			 "descriptionAbbrev":  "If you're looking for relief from Migraines and a bit of rest, Diablo can help. With both fruity and spicy flavors, your headache and insomnia will fade into relaxation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/diablo_100x100.jpg"
 			},
@@ -9659,7 +9484,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Deep green leaf and a nice nearly lime green buds that have a hint of the foxtail calyx form.",
+			 "descriptionAbbrev":  "When you want to feel creative, focused and productive, Dutch Passion delivers.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dutch-passion.JPG"
 			},
@@ -9773,7 +9598,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Productive", "Sexual", "Relaxed", "Hungry"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This beauty has an almost immediate freight train-like effect to the head with the heavy body sink kinda sneaking up on you a little later.",
+			 "descriptionAbbrev":  "Eden OG hits like a freight train with a strong body effect in the caboose. Reported to treat impotence as well as migraines, appetite loss and even seizures, you'll feel relaxed yet productive with this strain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/eden.jpg"
 			},
@@ -9887,7 +9712,7 @@
 			 "positiveEffects": ["Euphoric", "Happy", "Uplifted", "Energetic", "Creative", "Conversational", "Drowsiness", "Pain relief"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Couch Lock"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Great for social anxiety, this strain performs just as expected and promotes a sense of well-being.",
+			 "descriptionAbbrev":  "You'll get a sense of well being and relief from social anxiety with Euphoria. Like its name implies, happiness and uplifted mood lead to enhanced conversations.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/euphoria_100x100.jpg"
 			},
@@ -10001,7 +9826,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Hungry", "Potent", "Drowsiness"],
 			 "negativeEffects": ["Munchies", "Couch Lock"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This plant is tall with resinous, fruity, potent buds.",
+			 "descriptionAbbrev":  "Fire Bomb starts with a rush of energy which follows through with a more relaxed, happy, chilled effect which smoulders on and on.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/fire_bomb.jpg"
 			},
