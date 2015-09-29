@@ -28,6 +28,7 @@
 		vm.userTempArrayUC = [];
 		vm.effectsEnglish = [];
 		vm.dataForYou = [];
+		vm.justThisCondEffect = [];
 		
 		//init stuff for temp display and bar and logic settings
 		vm.currentTemp = 'F';
@@ -138,6 +139,12 @@
 			var numX = 0;
 			vm.currentSelectEffNum = 0;
 
+			//when user want to see less of effects treated for this condition
+			//always start with more
+			vm.showMoreEff = false;
+	    	vm.BTNshowMoreEff = "more";
+	    	$scope.showMoreEffects();
+
 			//get component name and list of medical effects
 			if (vm.currentTemp === 'F'){
 
@@ -183,6 +190,7 @@
 			}else{
 				vm.moreThanOne = false;
 			}
+
 		};
 
 		//this sets the active triangle direction for the temperature bars
@@ -340,6 +348,7 @@
     		}
 			vm.userTempArrayU = [];
 			$scope.catching(vm.tempDisplay);
+			vm.justThisCondEffect = [];
     	};
 
     	//the GO button
@@ -409,7 +418,7 @@
 					}
 
 					vm.tempDisplay = Array.min(vm.userTempArrayUC);
-					
+
 					$scope.catching(vm.tempDisplay);
 
 				}else{
@@ -424,7 +433,7 @@
 			}
 
 			//user friendly names of effect(s) treated for the user's selected condition
-			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray); 
+			vm.effectsEnglish = $scope.getEnglishEffect(vm.effectsNameArray);
 			
 			NProgress.done();
 
@@ -461,7 +470,6 @@
     			NProgress.done();
     			vm.hasEnterStrain = false;
     		}
-
     	};
 
     	//grab the array of components from choosen strain array
@@ -636,6 +644,30 @@
 			}
 	    	
     	};
+    	//show more treatment effect for selected medical condition
+    	vm.showMoreEff = true;
+    	vm.BTNshowMoreEff = "show less";
+    	$scope.showMoreEffects = function(){
+    		vm.showMoreEff= !vm.showMoreEff;
+    		if(vm.BTNshowMoreEff === "show less"){
+    			vm.BTNshowMoreEff = "show more";
+    		}else{
+    			vm.BTNshowMoreEff = "show less";
+    		}
+    		$scope.justTheseEffects();  		   		
+    	};
+    	$scope.justTheseEffects = function(){
+    		var numThis = 0;
+    		vm.justThisCondEffect = [];
+		    for(var i=0; i<vm.effectsEnglish.length;i++){
+			    for(var x=0; x<vm.englishEffectName.length;x++){
+				    if(vm.englishEffectName[x] === vm.effectsEnglish[i]){
+				   		vm.justThisCondEffect[numThis] = vm.effectsEnglish[i];
+				   		numThis++;
+				   	}
+			    }
+		    }
+    	};
 
     	//For when there is more than one components listed for the same temperature
     	$scope.getNextEffect = function(num,name){
@@ -653,6 +685,13 @@
 			
     		$scope.selectedTempsComponent(vm.EffectsProductName[vm.currentSelectEffNum],vm.strainComp);
 			vm.englishEffectName = $scope.getEnglishEffect(vm.effectProperty);
+
+			//when user want to see less of effects treated for this condition
+			//always start with more
+			vm.showMoreEff = false;
+	    	vm.BTNshowMoreEff = "more";
+	    	$scope.showMoreEffects();
+	    	
     	};
     	//Highlight the component that is active
     	$scope.styleEffSelected = function(dex){

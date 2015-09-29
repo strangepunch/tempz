@@ -136,9 +136,15 @@
 						<span ng-if="vm.moreThanOne">They are</span> 
 						known to produce the following effects:
 					</div>
-					<div class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+					<div ng-if="!vm.showMoreEff" class="col-xs-12" ng-repeat = "name in vm.justThisCondEffect|unique:$index track by $index">
 						<li ng-style = "thisCond(name)">{{name}}</li>
 					</div>
+					<div ng-if="vm.showMoreEff" class="col-xs-12" ng-repeat = "name in vm.englishEffectName|unique:$index track by $index">
+						<li ng-style = "thisCond(name)">{{name}}</li>
+					</div>
+				</div>
+				<div class="panel-footer">
+					<div style="text-align:right; padding-right:10px;" ng-click="showMoreEffects()"> {{vm.BTNshowMoreEff}} </div>
 				</div> 
 			</div>
 		</div>
