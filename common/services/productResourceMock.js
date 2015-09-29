@@ -1251,7 +1251,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "11", 
-				 		"tipTxt": "The flavinoids are the first thing that gets boiled off, so the first couple bags SHOULD taste great, but they won't have quite the "kick" that later bags will. When you've reached that burnt popcorn taste/smell, it's time for a new bowl.",
+				 		"tipTxt": "The flavinoids are the first thing that gets boiled off, so the first couple bags should taste great, but they won't have quite the kick that later bags will. When you've reached that burnt popcorn taste/smell, it's time for a new bowl.",
 				 		"TipImg" : "images/vapes/volcano1.png"
 				 	},
 				 	{ 
