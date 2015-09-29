@@ -339,6 +339,7 @@
     			vm.tempDisplay = 52;
     		}
 			vm.userTempArrayU = [];
+			$scope.catching(vm.tempDisplay);
     	};
 
     	//the GO button
