@@ -646,13 +646,13 @@
     	};
     	//show more treatment effect for selected medical condition
     	vm.showMoreEff = true;
-    	vm.BTNshowMoreEff = "show less";
+    	vm.BTNshowMoreEff = "less";
     	$scope.showMoreEffects = function(){
     		vm.showMoreEff= !vm.showMoreEff;
-    		if(vm.BTNshowMoreEff === "show less"){
-    			vm.BTNshowMoreEff = "show more";
+    		if(vm.BTNshowMoreEff === "less"){
+    			vm.BTNshowMoreEff = "more";
     		}else{
-    			vm.BTNshowMoreEff = "show less";
+    			vm.BTNshowMoreEff = "less";
     		}
     		$scope.justTheseEffects();  		   		
     	};
