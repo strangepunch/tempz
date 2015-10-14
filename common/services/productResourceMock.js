@@ -9940,7 +9940,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Forum Cut Girl Scout Cookie is what the majority of medical patients consider true GSC.",
+			 "descriptionAbbrev":  "Considered by many to be the true Girl Scout Cookies, this hybrid will make you feel happy, creative and focused.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/forum_cookies.jpg"
 			},
@@ -10049,12 +10049,12 @@
 			 		"value": 0.00
 				} 	
 		 	],   
-		 	"taste": [""],
+		 	"taste": ["Cheese", "Cherry"],
 		 	 "conditions": ["ADD/ADHD", "Anorexia", "Anxiety",  "Bipolar", "Migraines", "Headache", "Hypertension", "Depression", "Glaucoma", "Appetite Loss", "Muscle Spasms", "Pain", "PMS", "Stress"],
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies", "Dry Eyes", "Dry Mouth"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Best used to treat physical symptoms, including inflammation, migraines, and chronic pain.",
+			 "descriptionAbbrev":  "Reported to treat both inflammation and migraines as well as chroninc pain, Gooey Wreck taste a bit like cherry cheesecake.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/gooey-wreck.jpg"
 			},
@@ -10168,7 +10168,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dizzy", "Dry Eyes", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A beautiful blend of fruity and spicy flavours with a very cerebral high.",
+			 "descriptionAbbrev":  "Both fruity and spicy, you'll experience a strong mental high with a creative boost of energy and happiness wth Grapefruit Haze.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/grapefruit-haze_100x100.jpg"
 			},
@@ -10282,7 +10282,7 @@
 			 "positiveEffects": ["Energetic", "Happy", "Uplifted", "Euphoric", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With an invigorating mental buzz that keeps you going throughout the day, it's the perfect daytime medication for patients treating fatigue, stress, and depression.",
+			 "descriptionAbbrev":  "Happy, creative and productive is how many describe the effects of Green Crack. Also known as Cush in many circles, you'll want to try this one during the day to keep anxiety and stress away.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/green-crack_100x100.jpg"
 			},
@@ -17465,7 +17465,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Energetic", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Blue Dream balances full-body relaxation with gentle cerebral invigoration.",
+			 "descriptionAbbrev":  "With parents like the popular Blue Dream and Green Crack you can expect Green Dream to satisfy. Add the intensity and energy of GC with the full body soulfulness and relaxation of  Blue Dream and you've got a winner.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-dream_100x100.jpg"
 			},
@@ -17579,7 +17579,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Sexual", "Euphoric", "Giggly", "Focused"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Blue Moonshine is a potent blueberry indica strain that provides a nice body high.",
+			 "descriptionAbbrev":  "For a sensual boost, Blue moonshine can also make you giggle and focused while it relaxes you. With both earthy and blueberry flavors, this indica can also help with insomnia, pain and anxiety.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-moonshine_100x100.jpg"
 			},
@@ -17693,7 +17693,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Conversational", "Creative", "Sexual"],
 			 "negativeEffects": ["Couch Lock", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Only takes a couple hits to get blazed for several hours.",
+			 "descriptionAbbrev":  "For a creative and talkative boost you may want to try Blueberry Trainwreck. Also reported to enhance sexuality you may want to share this with your special someone.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blueberry_100x100.jpg"
 			},
@@ -17807,7 +17807,7 @@
 			 "positiveEffects": ["Pain relief", "Relaxed", "Happy", "Focused", "Uplifted", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain with the high CBD level is a purely medical strain. With almost no head high it's perfect for people with stress, anxiety, pain without couch lock. The pain relief is great.",
+			 "descriptionAbbrev":  "Often used for medical patients because of the high cbd and low thc, Cannatonic #4 can help with inflammation, pain, and muscle spasms. With almost no couch lock effect, you can stay productive too.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cannatonic_100x100.jpg"
 			},
@@ -17921,7 +17921,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Creative", "Euphoric", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Patients typically appreciate Candy Jack's ability to counter stress, depression, and appetite loss.",
+			 "descriptionAbbrev":  "Counter lack of appetite with an energetic when you choose Candy Jack. With hints of sweet citrus and pine, say goodbye to anxiety and fatigue.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/candy-jack_100x100.jpg"
 			},
@@ -18035,7 +18035,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Energetic", "Conversational", "Creative", "Relaxed", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Strong sativa genetics give Candyland uplifting and stimulating effects, making it a perfect strain for social gatherings or creative passtimes.",
+			 "descriptionAbbrev":  "Get social and productive with Candyland. An uplifitng creative boost will follow it's sweet and spicy flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/candyland_100x100.jpg"
 			},
@@ -18149,7 +18149,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Creative", "Productive", "Uplifted", "Euphoric", "Relaxed"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is a great solution for fatigue and when struggling with appetite loss.",
+			 "descriptionAbbrev":  "Kiss fatigue goodbye with Cannalope Haze. Reported to help with anxiety and depression, you'll feel happy, creative and energetic.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cannalope-haze_100x100.jpg"
 			},
@@ -18263,7 +18263,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy", "Drowsiness", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The effect is good for pain, eating and sleep disorders, most describe Cataract as a creeper high that keeps on building long after you stop vaping.",
+			 "descriptionAbbrev":  "Reported to help with both sleeping and eating disorders you can expect to feel hungry and a bit drowsy with Cataract Kush. It can also be helpful with pain and stress.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cataract-kush_100x100.jpg"
 			},
@@ -18377,7 +18377,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
+			 "descriptionAbbrev":  "You'll feel creative and uplifted with Chemdawg. The Dieslel and Pungent flavors can also bring relief to arthritis, insomnia and Anorexia.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/chemdawg_100x100.jpg"
 			},
@@ -18491,7 +18491,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Energetic", "Euphoric", "Uplifted", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The effects have been known to come on in minutes and stick around for a couple hours.",
+			 "descriptionAbbrev":  "You can have your pie and eat it too with this potent hyrbrid. Boost your creative productivity while feeling relaxed and uplifted.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cherry-pie_100x100.jpg"
 			},
@@ -18605,7 +18605,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Uplifting"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The strain is renowned for potent cerebral effects, despite its spindly, skimpy appearance.",
+			 "descriptionAbbrev":  "Treat headaches, pain and appetite loss with this potent sativa. Reported to have a sweet coffee and earthy taste, Chocolate Thai provides an energeticm focused boost for your day.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/chocolate-thai_100x100.jpg"
 			},
@@ -18719,7 +18719,7 @@
 			 "positiveEffects": ["Potent", "Focused", "Relaxed", "Arousing"],
 			 "negativeEffects": ["Couch Lock", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Powerful and heavy, with a completely flooring knock down result that will reduce movement and cease productive action or thought.",
+			 "descriptionAbbrev":  "Think of how still a clear lake is and you'll get an idea of how still you will be with Clear Lake. Well known potency is reported to help treat pain, muscle spasms and asthma conditions.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/clear_lake.jpg"
 			},
@@ -18833,7 +18833,7 @@
 			 "positiveEffects": ["Creative", "Productive", "Euphoric", "Relaxed", "Hungry", "Energetic", "Happy", "Focused", "Balanced", "Calmness"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The effects are immediate and ever-present body high and a very peaceful, calming, centered emotional state, with creeping euphoria. Strong appetite stimulant.",
+			 "descriptionAbbrev":  "Sweet and fruity flavors bring peaceful and centered thoughts and and a healthy appetite. You may feel drowsy as well reportedly making Dubtech effective for anorexia and insomia patients.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dubtech.jpg"
 			},
@@ -18947,7 +18947,7 @@
 			 "positiveEffects": ["Potent", "Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Creative", "Productive"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Often described as simultaneously potent and non-intrusive, Ghost OG has won itself Cup awards and renown among consumers.",
+			 "descriptionAbbrev":  "Both potent and non-intrusive, Ghost OG brings an energetic boost with a conversational yet productive relaxation.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/ghost-og_100x100.jpg"
 			},
@@ -19061,7 +19061,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Very powerful and effective medication. Top shelf anywhere",
+			 "descriptionAbbrev":  "Paitents report good results treating conditions associated with Fibromyalgia, Glaucoma and Insomnia among others. A fruity grape flavor will also provide a relaxed happy mood.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/grape_Cookies.jpg"
 			},
@@ -19175,7 +19175,7 @@
 			 "positiveEffects": ["Happy", "Focused", "Relaxed", "Creative"],
 			 "negativeEffects": ["Couch Lock"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is indica dominant giving it relaxing properties but without that couch-locked feeling.",
+			 "descriptionAbbrev":  "Get creative without the couch lock. Grape Kool Aid has been known to effectively treat Anorexia, Arthritis and Hypertension among other conditions.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Purple Wreck-578x433.jpg"
 			},
@@ -19289,7 +19289,7 @@
 			 "positiveEffects": ["Uplifted","Happy", "Energetic", "Relaxed","Pain relief", "Creative", "Conversational","Drowsiness", "Euphoric"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Dizzy", "Drowsiness", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The high is both cerebral and physical, with happy, calming effects and a creative euphoric boost.",
+			 "descriptionAbbrev":  "Jupiter isn't that far away with this Indica. Euphoric and uplifiting energy is followed by creativity, conversation and drowsiness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/jupiter-kush_100x100.jpg"
 			},
@@ -19403,7 +19403,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "LA Confidential is a well-rounded strain that delivers a fast-approaching sensation that is both psychedelic and super calming on the mind and body",
+			 "descriptionAbbrev":  "With well-rounded effects, the pungent adnd pine flavors will produce a euphoric almost psychedelic mood that is uplifting and relaxing. Patients report effective treatment for Migraines, Insomnia and Anorexia among other conditions.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/la-confidential_100x100.jpg"
 			},
@@ -19517,7 +19517,7 @@
 			 "positiveEffects": ["Uplifted", "Energetic", "Conversational", "Happy", "Focused", "Productive", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Patients who suffer from headaches and fatigue tend to find relief with this strain, though it may not be the best choice for those who suffer from anxiety.",
+			 "descriptionAbbrev":  "With a tingly, energetic boost, this strain can be effective for both headaches and fatigue.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-jack_100x100.jpg"
 			},
@@ -19631,7 +19631,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Energetic", "Creative", "Productive", "Uplifted", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Lemon OG tends to feel more psychoactive than other members of the kush family, but still offers a heavy, medicated feel. Great for stress relief and increasing appetite.",
+			 "descriptionAbbrev":  "Sweet citrus flavors bring uplifting and creative effects to your day. You may also feel hungry and drowsy which makes it a good choice for those experiencing insomnia or lack of appetite.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-og-kush_100x100.jpg"
 			},
@@ -19745,7 +19745,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Mad Max OG has an earthy pine scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants.",
+			 "descriptionAbbrev":  "With the signature aroma of the OG Kush strains, Mad Max brings patients relief from Migraines, Arthritis and Anxiety with a focused boost of energy.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/MADMAX.jpg"
 			},
@@ -19859,7 +19859,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Euphoric"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Mafia is a beastly creature to be reckoned with, Well-known Hard hitting Indica with very quick flowing times.",
+			 "descriptionAbbrev":  "This Indica is well known for it's hard hitting effects. Say goodbye to pain associated with Fibromyalgia, Glaucoma and Migraines with Mafia OG.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mafia-og.jpg"
 			},
@@ -19973,7 +19973,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A flavorful mix of sweet mango and tropical flavors that invigorate the senses and uplift your mood.",
+			 "descriptionAbbrev":  "Get your mango on with this uplifting sativa. Tropical flavors bring energetic and conversational effects that melt away stress, pain and anxiety.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mango-maui-578x385.jpg"
 			},
@@ -20087,7 +20087,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Starts off energetic and then great for sleep and relaxing. Also helpful for Arthritis and Fibromyalgia.",
+			 "descriptionAbbrev":  "An energetic boost is followed by relaxing drowsiness with May Weather Kush. Patients report effective treatment for conditions related to Anorexia, Arthritis, Fybromyalgia and Insomnia.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/May-weather-kush.jpg"
 			},
@@ -20201,7 +20201,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Productive", "Creative", "Euphoric", "Pain relief"],
 			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Phantom OG is an indica-dominant strain that begins with heightened energy and ends with a crash of full-body relaxation.",
+			 "descriptionAbbrev":  "Like a phantom, your energetic, creative burst will fade into a relaxed drowsiness. Patients report effective treatment for Anorexia, MIgraines and Hypertension among other conditions.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/phantom-og_100x100.jpg"
 			},
@@ -20315,7 +20315,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Anxious", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The taste has been described as cheddar and provides a overall tingly mind and body high.",
+			 "descriptionAbbrev":  "Experience focused energy with both Pineapple and Cheese flavors. Patients report effective relief of conditions related to PMS, Nausea asnd Appetite Loss among others.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/hog-s-breath_100x100.jpg"
 			},
@@ -20429,7 +20429,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Hungry", "Drowsiness", "Tingly"],
 			 "negativeEffects": ["Munchies", "Dry Mouth", "Paranoid", "Dry Eyes", "Dizzy", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "For those struggling with insomnia and stress, Silverback Gorilla is a must-try strain.",
+			 "descriptionAbbrev":  "Bringing relief to patients experiencing insomnia, pain and appetite loss, Silverback Gorilla is a must try Indica with both sweet and pine flavors.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/silverback-gorilla_100x100.jpg"
 			},
@@ -20543,7 +20543,7 @@
 			 "positiveEffects": ["Happy", "Euphoric", "Energetic", "Uplifted", "Focused", "Relaxed", "Tingly", "Conversational"],
 			 "negativeEffects": ["Dizzy", "Dry Mouth", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Produces hard-hitting and long-lasting cerebral effects.",
+			 "descriptionAbbrev":  "Hard hitting and long-lasting, Sugar Plum will make you both conversational and energetic. It is known to help with Inflammation, Anorexia and Nausea.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sugar-plum_100x100.jpg"
 			},
@@ -20657,7 +20657,7 @@
 			 "positiveEffects": ["Happy","Uplifted","Euphoric","Energetic", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
+			 "descriptionAbbrev":  "Known to boost creativity and energy levels, Super Lemon Haze is also known to provided uplifting relief from Anorexia, Pain and Anxiety.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/super-lemon-haze_100x100.jpg"
 			},
@@ -20771,7 +20771,7 @@
 			 "positiveEffects": ["Euphoric", "Energetic", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The effects come on quick with a euphoric burst of heady energy that quickly levels off. ",
+			 "descriptionAbbrev":  "Quick energy alleviates depression and stress with flavors of lemon and pine.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/acapulco-gold_100x100.jpg"
 			},
@@ -20885,7 +20885,7 @@
 			 "positiveEffects": ["Uplifted", "Focused", "Conversational", "Creative"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Daytime use of this strain won't leave the consumer drowsy, making it a good choice for social and creative activities.",
+			 "descriptionAbbrev":  "A great choice for social activities during the day, White Fire OG brings uplifting focus with creativity.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-fire-og_100x100.jpg"
 			},
@@ -20999,7 +20999,7 @@
 			 "positiveEffects": ["Uplifted", "Happy", "Energetic", "Relaxed", "Productive", "Creative", "Hungry", "Drowsiness"],
 			 "negativeEffects": ["Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This Los Angeles native earned first place in the 2013 High Times Amsterdam Cannabis Cup and is cherished to this day for its ability to lift the mood with swiftness.",
+			 "descriptionAbbrev":  "For a quick mood lift, White Walker OG is an award winning hybrid that tastes both pungent and citrus.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/whitewalker-og_100x100.jpg"
 			},
@@ -21113,7 +21113,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Uplifted", "Productive", "Creative", "Euphoric"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The immediate effects are active and mentally alert that smooth into a more focused state that allows for normal activities and may even help you tackle that to-do list.",
+			 "descriptionAbbrev":  "Creative and productive are the effects reported by most people with Cherry Bomb. With both woody and berry flavors you may also notifce hints of pine and earthiness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/cherry-bomb_100x100.jpg"
 			},
@@ -21227,7 +21227,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Drowsiness", "Long Lasting"],
 			 "negativeEffects": ["Drowsiness", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "A very fruity aroma and taste of blueberry with a high that is euphoric and long lasting.",
+			 "descriptionAbbrev":  "Known for fruity taste and long-lasting effects, DJ Short Blueberry is known to treat Anorexia, Anxiety, Insomnia and Stress.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dj-short-blueberry_100x100.jpg"
 			},
@@ -21341,7 +21341,7 @@
 			 "positiveEffects": ["Relaxed", "Active", "Happy", "Creative", "Long Lasting", "Productive"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Literally means The Alchemist, this hybrid marijuana is the result of crossing the legendary Northern Lights with AK 47.",
+			 "descriptionAbbrev":  "Known for effectively treating nausea, you'll also experience a creative boost that is long-lasting and active.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/El-Alquimista.jpg"
 			},
@@ -21455,7 +21455,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry" ],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Often recommended for insomnia and pain due to its sedative indica properties.",
+			 "descriptionAbbrev":  "You can expect classic Indica effects with a Pungent and Pine flavor. Godfather OG brings pain relief with increased hunger and drowsiness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/godfather-og_100x100.jpg"
 			},
@@ -21569,7 +21569,7 @@
 			 "positiveEffects": ["Relaxed", "Drowsiness","Therapeutic", "Euphoric", "Happy", "Tingly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Anxious"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Provides great body-numbing effects to free you from pain, nice strain to smoke when chilling at home.",
+			 "descriptionAbbrev":  "Known to be helpful with Chronic Pain and Insomnia, this Indica is a good choice when relaxing at home.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/herijuana_100x100.jpg"
 			},
