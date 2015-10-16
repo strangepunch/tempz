@@ -21683,7 +21683,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious","Couch Lock","Drowsiness", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain, sometimes referred to as Lavender Kush, has dense buds that give off a floral and spicy aroma.",
+			 "descriptionAbbrev":  "Lift your mood as you relax with a floral and spicy aroma. Also known as Lavendar Kush.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/lavender_100x100.jpg"
 			},
@@ -21797,7 +21797,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With an energetic boost this grape tasting herb has also been known to help with stress, nausea and the pain associated with Fibromyalgia.",
+			 "descriptionAbbrev":  "The power of grape compels you. Get a boost of energy while muscle pain and stress fade away. Fibromyalgia patients have reported effective relief with this strain.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-coma.jpg"
 			},
@@ -21911,7 +21911,7 @@
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Creative", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Munchies", "Dizzy", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Purple Passion is great for unleashing your creative side.",
+			 "descriptionAbbrev":  "Deal with boredom by unleashing a creative mood that is both relaxing just might have you writing your next novel whether you're a writer or not. ",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-passion_100x100.jpg"
 			},
@@ -22025,7 +22025,7 @@
 			 "positiveEffects": ["Relaxed", "Uplifting"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "These sticky buds offer a sweet, fruity aroma with diesel undertones, and deliver relaxing, uplifting effects. ",
+			 "descriptionAbbrev":  "Get a sweet tase of relief while enjoying the diesel characteristics of Sour Bubble. Paitients report effectove relief from a wide range of conditions related to pain releif, muscle spasms and nausea.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sour-bubble_100x100.jpg"
 			},
@@ -22139,7 +22139,7 @@
 			 "positiveEffects": ["Energetic", "Happy", "Hungry", "Drowsiness"],
 			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Stoned on Arrival. Helps with appetite and sleep.",
+			 "descriptionAbbrev":  "It starts with energy and it ends with sleep. There was food in there somewhere. Then more food.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/SourDub.jpg"
 			},
@@ -22253,7 +22253,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Conversational", "Productive", "Creative", "Sexual"],
 			 "negativeEffects": ["Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Smells of fresh strawberries and will tickle your lungs. It'll make you feel like talking and you'll be both productive and creative.",
+			 "descriptionAbbrev":  "Talk up a storm with this strawberry sativa. It enhances both creativity and energy levels so you'll get some things done.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Kali-Mist-Bud-Closeup.jpg"
 			},
@@ -22367,7 +22367,7 @@
 			 "positiveEffects": ["Calmness", "Relaxed", "Hungry", "Long Lasting", "Potent"],
 			 "negativeEffects": ["Drowsiness", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "LA Chocolat has an intense aroma and flavor, with notes of chocolate, ground, and fruit. Its effect is powerful and relaxing, ideal to rest peacefully.",
+			 "descriptionAbbrev":  "With both chocolate and fruit flavors, this powerful strain will help you get some peaceful rest.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/DNA_Genetics_Seeds_-_LA_Chocolat.jpg"
 			},
@@ -22481,7 +22481,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Focused", "Energetic", "Productive",  "Uplifted", "Giggly"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is a heavy hitter that delivers a strong body high without the full sedative effects.",
+			 "descriptionAbbrev":  "This heavy hitter can tackle your pain or stress and help you enjoy a meal. Powerful and relaxing without heavy sedative effects.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/afghani-bullrider_100x100.jpg"
 			},
