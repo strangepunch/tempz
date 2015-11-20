@@ -119,9 +119,15 @@
 	border-left:10px solid black;
 }
 
+#easyView .btn-border{
+	background-color: rgba(102, 255, 255,0.2);
+	border-color: #66FFFF;
+}
+
 #easyView .btn input{
 	color:black;
 }
+
 #easyView .btn:hover {
   	color:#009900;
 }
