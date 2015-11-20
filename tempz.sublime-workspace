@@ -4,8 +4,56 @@
 		"selected_items":
 		[
 			[
+				"Di",
+				"Disease"
+			],
+			[
+				"depres",
+				"Depression"
+			],
+			[
+				"GRape",
+				"Grapefruit"
+			],
+			[
+				"Eu",
+				"Euphoric"
+			],
+			[
+				"head",
+				"headed"
+			],
+			[
+				"Inte",
+				"Intense"
+			],
+			[
+				"Se",
+				"Seizures"
+			],
+			[
+				"Terpin",
+				"Terpinolene"
+			],
+			[
+				"Terpi",
+				"Terpinolene"
+			],
+			[
+				"Anore",
+				"Anorectic"
+			],
+			[
 				"Anti",
-				"Anti-prostate"
+				"antiemetic"
+			],
+			[
+				"Neu",
+				"Neurogenesis"
+			],
+			[
+				"vaso",
+				"Vasorelaxant"
 			],
 			[
 				"Neur",
@@ -240,20 +288,12 @@
 				"Tingly"
 			],
 			[
-				"Di",
-				"Diesel"
-			],
-			[
 				"Eye",
 				"Eyes"
 			],
 			[
 				"clear",
 				"clear-headed"
-			],
-			[
-				"Se",
-				"Sexual"
 			],
 			[
 				"Cand",
@@ -474,46 +514,6 @@
 			[
 				"So",
 				"Social"
-			],
-			[
-				"Firo",
-				"Fibromyalgia"
-			],
-			[
-				"An",
-				"Anxious"
-			],
-			[
-				"PA",
-				"Paranoid"
-			],
-			[
-				"ene",
-				"Energetic"
-			],
-			[
-				"Spa",
-				"Spasms"
-			],
-			[
-				"Relaxed",
-				"Relaxed"
-			],
-			[
-				"eyes",
-				"Eyes"
-			],
-			[
-				"Sleep",
-				"Sleepy"
-			],
-			[
-				"In",
-				"Insomnia"
-			],
-			[
-				"Sp",
-				"spasms"
 			]
 		]
 	},
@@ -523,37 +523,15 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 1068152,
+				"buffer_size": 1043232,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 6248,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.00\n			 	}",
-			"settings":
-			{
-				"buffer_size": 61,
-				"line_ending": "Windows",
-				"name": "{"
-			}
-		},
-		{
-			"file": "text resources/condtions.txt",
-			"settings":
-			{
-				"buffer_size": 7619,
-				"line_ending": "Windows"
-			}
-		},
-		{
+			"contents": "{\"strainId\": 230,\n			 \"strainName\": \"Dr Who\",\n			 \"strainType\": \"Hybrid\",\n			 \"components\": [\n			 	{ \n			 		\"name\": \"THC9\",  \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBD\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBG\", \n			 		\"value\": 0.00	\n			 	},\n			 	{ \n			 		\"name\": \"CBC\", \n			 		\"value\": 0.00 \n			 	},\n			 	{ \n			 		\"name\": \"THCV\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"THCA\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"THC8\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Pulegone\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Myrcene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Limonene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Linalool\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Eucalyptol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Pinene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol-4\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Cymene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Apigenin\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Quercetin\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Cannflavin A\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Beta-sitosterol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBL\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Humulene\", \n			 		\"value\": 0.00\n				},\n				{ \n			 		\"name\": \"Terpinolene\", \n			 		\"value\": 0.00\n				}	\n		 	], \n		 	\"taste\": [\"\"],\n		 	 \"conditions\": [\"\"],\n			 \"positiveEffects\": [\"\"],\n			 \"negativeEffects\": [\"\"],\n			 \"descriptionDetailed\": \"\",\n			 \"descriptionAbbrev\": \"\",\n			 \"tags\": [\"\"],\n			 \"imageUrl\": \"images/strains/hawaiian-snow_100x100.jpg\"\n			}",
 			"file": "text resources/emptyStrain.js",
+			"file_size": 2013,
+			"file_write_time": 130871917046838255,
 			"settings":
 			{
 				"buffer_size": 1900,
@@ -617,6 +595,18 @@
 	],
 	"file_history":
 	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/grunt-angular-phonegap-example/package.json",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/conditions.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/js/ngprogress.min.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/js/ngProgress.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/StrangePunch/ng-bootstrap.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/js/angular-ui-router.min.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/app/app.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/common/services/common.services.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz - prod/common/services/chordResource.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/recEffects by component.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/devnotes/google-analytics.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/easy/easyViewCtrl.js",
@@ -625,7 +615,6 @@
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/details/strainDetail.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/rec/recViewCtrl.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/details/strainDetailCtrl.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/app/welcomeView.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/images/strains/dubtech.jpg",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/images/vapes/cloud-evo.png",
@@ -639,7 +628,6 @@
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/cannabinoid effect descriptions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.js",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.txt",
 		"/D/strange punch site assets/Sp2 site/index.html",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
@@ -734,17 +722,7 @@
 		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.R3.EQ.Native.VST.v1.6.1-AiR/air.nfo",
 		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Reverb.Native.VST.v1.0-AiR/air.nfo",
 		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.TransMod.Native.VST.v1.3.1-AiR/air.nfo",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/blackLight.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/appZhenSky.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/app_ZhenSky.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/app.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/welcomeView_before.html",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.24.1.txt",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/buttons.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app_ZhenSky.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.24.txt",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/themes/themeView.html",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/themes/themeListCtrl.js"
+		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/blackLight.css"
 	],
 	"find":
 	{
@@ -764,134 +742,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Browser",
-			"@@ function browser",
-			"analytics",
-			"$cookie",
-			"Appetite Stimulant",
-			"Anti-prostate cancer",
-			"prostate",
-			"Anti-prostate cancer",
-			"prostate",
-			"prostate cancer",
-			"CBD",
-			"Immunosuppressant",
-			"Stimulates Bone Growth",
-			"Promotes Bone Growth",
-			"encourages",
-			"Appetite Stimulant",
-			"Antispasmodic",
-			"Antipsoriatic",
-			"Antiproliferative",
-			"Anti-fungal",
-			"Antifungal",
-			"Antibacterial",
-			"Anorectic",
-			"Oxidation",
-			"Bronchodilator",
-			"Antiemetic",
-			"Memory",
-			"\n		",
-			"Antidepressant",
-			"Anti-depression",
-			"anxiety",
-			"anti-anxiety",
-			"Anti-anxiety",
-			"Anti gastric reflux",
-			"Antispasmodic",
-			"Sedative",
-			"sedative",
-			"Encourages appetite",
-			"Encourages Appetite",
-			"Encourages appetite",
-			"Memory booster",
-			"Reduces Neuroinflammation",
-			"Neuroprotective",
-			"Vasoconstriction",
-			"Hypo-tension",
-			"Hypotension",
-			"Vasoconstriction",
-			"Vaso-Constriction",
-			"VasoConstriction",
-			"Vasoconstriction",
-			"{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.00\n			 	}",
-			"master bubba",
-			"master bubba kush",
-			"{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.00\n			 	}",
-			"eden OG",
-			"blueberry trainwre",
-			"HARLEQuin",
-			"HARLEQin",
-			"acdc",
-			"deadhead",
-			"XJ",
-			"white walker OG",
-			"thin mint",
-			"The Flav",
-			"349",
-			"the flav",
-			"SUPERman og",
-			"SUPER SILVER HAZE",
-			"SUPER LEMON HAZE",
-			"sugaR PLUM",
-			"shark shock",
-			"349",
-			"348",
-			"SFV",
-			"romulan",
-			"Purple HAze",
-			"Pineapple Express",
-			"Pineapple express",
-			"phantom OG",
-			"347",
-			"348",
-			"Ogre",
-			"OG Kush",
-			"OG Cheese",
-			"NY Sour Die",
-			"Moonshine Diese",
-			"Mercury OG",
-			"Mecury OG",
-			"lemon kush",
-			"lemon haze",
-			"legend",
-			"Lamb's Bread",
-			"L.A. Confidential",
-			"kosher kush",
-			"green dream",
-			"grape cookie",
-			"Long Lasting",
-			"candy og",
-			"candy jack",
-			"afghani bullrider",
-			"afgani bullrider",
-			"cloud evo",
-			"alfa",
-			"thin mint",
-			"Superman og",
+			"Caryophyllene",
+			"tip goe",
+			"tip gore",
+			"purple cheese",
+			"tip goes",
+			"Alzheimers",
+			"cherry OG",
+			"cary",
+			"Wet Dream",
+			"Hawaiian Sativa",
+			"360",
+			"361",
+			"360",
+			"365",
+			"deadlock",
+			"Shark Shock",
 			"sugar plum",
+			"himalayan gold",
+			"360",
+			"Hawaiian Sativa",
+			"Heavy Duty Fruity",
+			"K2",
+			"Q3",
+			"cherry kol",
+			"silver",
+			"strawberry dream",
+			"strawberry drea",
+			"cheesewreck",
+			"Blueberry Cheesecake",
+			"black velvet",
+			"black vele",
+			"white dawg",
+			"California Grapefruit",
+			"358",
+			"Jamaican Dream",
+			"Afghan Diesel",
+			"Black Velvet",
+			"356",
+			"black velvet",
+			"Midnight Kush",
+			"355",
+			"354",
+			"rose",
+			"Ice Queen",
+			"Scooby Snacks",
+			"Sugar Black Rose",
+			"353",
+			"Clear headed",
+			"A-Train",
+			"352",
+			"351",
+			"Amnesia",
+			"350",
+			"amnesia",
+			"Anorectic",
+			"Behavioral Agitation",
+			"Appetite Stimulant",
+			"Inhibit Neural Plaques",
+			"Euphoriant",
+			"PTSD",
+			"god's",
+			"351",
+			"Gods Gift",
+			"forum",
+			"fire og",
+			"eden",
+			"deadhead",
+			"candy og",
+			"Berry white",
+			"alien og",
+			"afghani",
+			"707",
+			"sugar plum",
+			"mafia og",
+			"green thai",
+			"saturn og",
+			"pennywis",
+			"og cheese",
+			"lulu",
+			"afghani",
+			"707",
+			"the white",
+			"super lemon haze",
+			"stratos",
 			"sour tsunam",
-			"sour dub",
-			"regulator og",
-			"Pineapple Express",
+			"purple urkle",
 			"pennywise",
-			"Organic OG",
-			"organic og",
-			"OG Cheese",
-			"Moonshine Diesel",
-			"Moonshone DIESE",
-			"magic jack",
-			"jack here",
-			"harle-tsu",
-			"dreamweaver",
-			"346",
-			"dutch passion",
+			"moonshine ",
+			"lulu",
+			"lemon head og",
+			"jack chemdawg",
+			"grapefruit haze",
+			"eden",
+			"deadhead og",
+			"alien og",
+			"afghani",
+			"deadhead og",
+			"alien og",
+			"afghani",
+			"thin mint",
+			"sugar plum",
+			"shark shock",
+			"raskal",
+			"moonshine dies",
+			"mafia og",
+			"herojuana",
+			"hero",
+			"herojuana",
+			"green thai",
+			"eden og",
 			"dubtech",
-			"Diesel Cookies",
-			"Clinical OG",
-			"345",
-			"dreamweaver",
-			"diesel cookies"
+			"candy og",
+			"Caryophyllene",
+			"THCA",
+			"Pulegone",
+			"Apigenin",
+			"Terpineol",
+			"Eucalyptol",
+			"Analgesic",
+			"temps",
+			"temp",
+			"Caryophyllene",
+			"skywalker og",
+			"skywalker",
+			"Less Social",
+			"skywalker",
+			"skywalker og",
+			"apple"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1015,7 +993,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1024,15 +1002,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1068152,
+						"buffer_size": 1043232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1045653,
-								1045653
+								198829,
+								198829
 							]
 						],
 						"settings":
@@ -1040,102 +1018,15 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 1010969.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6248,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1807,
-								1807
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 409.0,
+						"translation.x": 82.0,
+						"translation.y": 120759.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 61,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								61
-							]
-						],
-						"settings":
-						{
-							"auto_name": "{",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "text resources/condtions.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7619,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2014,
-								2023
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3208.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "text resources/emptyStrain.js",
 					"semi_transient": false,
 					"settings":
@@ -1160,11 +1051,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 2,
 					"file": "common/services/emtpyTip.js",
 					"semi_transient": false,
 					"settings":
@@ -1189,7 +1080,7 @@
 						"translation.y": 590.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
