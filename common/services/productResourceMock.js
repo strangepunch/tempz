@@ -18,8 +18,8 @@
 
 		var detailModes = ['Pos','Per',1,'Neg','Med','Vap'];
 
-		/** VTempType is a flag that indicates when a vape has specific temps available - Y or has a variable range of temps - N  **/
-		/** When a variable range is available - N, the min and max temps are listed in VTempType **/
+		/** VTempType is a flag that indicates when a vape has specific temps available = Y or has a variable range of temps like a dial = N  **/
+		/** When a variable range is available - N, an additional graphic can be shown that visually indicates the approximate temp rage **/
 		var vapeTemps = [
 			{"VId": 1,
 			 "VName": "Crafty", 
@@ -22595,7 +22595,7 @@
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Euphoric", "Happy", "Energetic", "Productive", "Hungry" ],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
+			 "descriptionAbbrev":  "Preprare to munch on something and rest as you relax with with the pine and earthy flavors this Indica provides.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/afgoo_100x100.jpg"
 			},
@@ -22709,7 +22709,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Hungry", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Headache", "Dizzy", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Primarily delivers relaxing, sleepy effects alongside its earthy pine flavor.",
+			 "descriptionAbbrev":  "Like you would expect a good Indica to do, Afgooey delivers restful, relaxing drowsiness.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/afgooey_100x100.jpg"
 			},
@@ -22823,7 +22823,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Creative", "Uplifted", "Euphoric", "Hungry", "Conversational"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Delivers a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged.",
+			 "descriptionAbbrev":  "Known to be long lasting, AK-47 provides a cerebral effect that will keep you alert and creative.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/ak-47_100x100.jpg"
 			},
@@ -22937,7 +22937,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "AK-48 high leans more towards typical sativa effects.",
+			 "descriptionAbbrev":  "Ak-48 is reported to deliver typical sativa effects including an uplifting relaxation but also reportedly helps with appetite as well. It has a a sweet, earthy pine flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/ak-48_100x100.jpg"
 			},
@@ -23051,7 +23051,7 @@
 			 "positiveEffects": ["Clear headed", "Long Lasting", "Relaxed", "Creative", "Conversational"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Couch Lock"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Produces strong, long-lasting indica effects while maintaining a clear train of thought. Kalashnikova's aroma is a mixture of lemon, mango, and sweet honey.",
+			 "descriptionAbbrev":  "For a lasting Indica effect, Kalashnikova can make you conversational and creative with as taste of citrus and pine.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kalashnikova_100x100.jpg"
 			},
@@ -23165,7 +23165,7 @@
 			 "positiveEffects": ["Energetic", "Happy"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The striking and exotic taste generates a cerebral high that converts a smoker to a true believer.",
+			 "descriptionAbbrev":  "With an exotic flavor and an uplifting effect, Black Buddah will make relax you and give you a cerebral boost.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/Black-Budha.jpg"
 			},
@@ -23279,7 +23279,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive", "Hungry", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": " ",
-			 "descriptionAbbrev":  "A powerfully euphoric strain with a funky aroma somewhat similar to that of cheese.",
+			 "descriptionAbbrev":  "Described as powerfully euphoric, this citrus and cheese tasting strain offers relief for a number of conditions including anoriexia, anxiety and arthritis.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/og-cheese_100x100.jpg"
 			},
@@ -23393,7 +23393,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Conversational", "Tingly", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is favored for its powerful effects that provide clarity and heightened sensory perception",
+			 "descriptionAbbrev":  "Well known to be powerful, Mercury OG is reported to treat a number of conditions as it provides an energy boost with focus and clarity. Some users alaso report heightened sensory perception.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mercury-og_100x100.jpg"
 			},
@@ -23507,7 +23507,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Conversational", "Energetic", "Uplifted"],
 			 "negativeEffects": ["Paranoid", "Dry Mouth", "Anxious", "Dizzy", "Dry Eyes"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "This strain is very energetic and motivates many to check things off their lists or inspires talkative social activities.",
+			 "descriptionAbbrev":  "This hybrid has a citrus, flowery flavor and can make you quite energetic and productive as it treats many conditions including fibromylagia, arthritis and depression.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/silver-surfer_100x100.jpg"
 			},
@@ -23621,7 +23621,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Conversational", "Creative", "Productive", "Relaxed", "Euphoric"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Anxious", "Paranoid", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Great for chilling with friends and laughing, it provides a relaxing yet energetic experience.",
+			 "descriptionAbbrev":  "When you want to feel creative or conversational with a lot of laughs, Sour OG is a good choice.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/sour-og_100x100.jpg"
 			},
@@ -23735,7 +23735,7 @@
 			 "positiveEffects": ["Relaxed", "Uplifted", "Anxious", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Headache", "Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Munchies"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With a hearty, thick taste and pungent smell, Mars OG will take away your pains and easily put you to sleep.",
+			 "descriptionAbbrev":  "If you're dealing with appetitre loss or insomnia, Mars OG can be just what the doctor ordered. Reported to be great for pain relief as well.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mars-og_100x100.jpg"
 			},
@@ -23849,7 +23849,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Uplifted", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Munchies", "Drowsiness", "Headache", "Paranoid"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "The buds give off a strong and heady high. White Rhino is one of the best types of marijuana for medicinal use since it has such a high THC content.",
+			 "descriptionAbbrev":  "White Rhino typically has a high THC content making it helpful for pain relief and appetite loss. It's been described as strong and heady.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-rhino_100x100.jpg"
 			},
@@ -23963,7 +23963,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Uplifted", "Conversational", "Euphoric", "Drowsiness"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Anxious", "Headache", "Dizzy", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Green Queen is gold and yellow in color and known to provide a strong body buzz. Extremely stony but not lazy high at all. Great for a social meet up and just chillin as well.",
+			 "descriptionAbbrev":  "Great for a social meetup, Green Queen makes you feel conversational with a strong body buzz. Reported to be extremely stoney but not lazy, it is has been known to be effective treating pain, muscle spasms, depression and insomia.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/green-queen_100x100.jpg"
 			},
@@ -24077,7 +24077,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Smells like grapefruit and produces and thick and fruity smoke.",
+			 "descriptionAbbrev":  "With a grapefruit aroma and a fruity flavor, Green Dynamite can be effective for PMS, depression and insomnia as it lifts your mood and relaxes you.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/dynamite_100x100.jpg"
 			},
@@ -24191,7 +24191,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Focused", "Relaxed", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Best known for its strong, uplifting, clear headed buzz that allows for mobility.",
+			 "descriptionAbbrev":  "Known for its strong, energetic and creative effects that have also been described as clear headed, J! has been reported to be effective for ADD, Anorexia and Migraines.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/j1_100x100.jpg"
 			},
@@ -24305,7 +24305,7 @@
 			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache", "Munchies", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Capable of sending users into deep indica medicated state, the high can be almost immediate and long lasting.",
+			 "descriptionAbbrev":  "You'll find your Kryptonite with this powerful Indica. Reported to send patients into a deep Indica medicated state the effects are immediate and long lasting.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
@@ -24419,7 +24419,7 @@
 			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Drowsiness", "Uplifted"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With Master Kush, you can anticipate full-body relaxation coupled with sharpened sensory awareness that can bring out the best of any activity.",
+			 "descriptionAbbrev":  "This Indica proides full body relaxation with enhanced sensory awareness that can be effective for PMS, Appetite loss, Stress and Insomnia.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/master-kush_100x100.jpg"
 			},
@@ -24533,7 +24533,7 @@
 			 "positiveEffects": ["Relaxed", "Drowsiness"],
 			 "negativeEffects": ["Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  " If you can manage to stay awake, the body buzz is quite pleasant, and does tend to help with body aches and pains.",
+			 "descriptionAbbrev":  "Black Magic Kush has been reported to be effective for Body Aches and Pains as well as Insomnia. It typically has a sweet and fruity flavor.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/black-magic-kush.jpg"
 			},
@@ -24647,7 +24647,7 @@
 			 "positiveEffects": ["Happy", "Energetic", "Relaxed", "Productive", "Creative", "Drowsiness", "Euphoric", "Uplifted"],
 			 "negativeEffects": ["Munchies", "Dry Mouth", "Dry Eyes", "Headache", "Dizzy", "Paranoid", "Drowsiness"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "Often recommended for the treatment of pain thanks to its strong indica body effects.",
+			 "descriptionAbbrev":  "Most popular for its reputation as an effectve treatment for pain, this Indica proivides strong body effects with flavors ranging from lavender and grape to diesel with a hint of berries.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blackberry-kush_100x100.jpg"
 			},
