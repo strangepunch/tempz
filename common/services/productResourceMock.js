@@ -5264,6 +5264,56 @@
 			 	"strainName": "Wet Dream",
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/wet-dream_100x100.jpg"
+			},
+			{"strainId": 363,
+			 	"strainName": "Sublime",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/sublime_100x100_46fa.jpg"
+			},
+			{"strainId": 364,
+			 	"strainName": "Purple Voodoo",
+			 	"strainType": "hyrbrid",
+			 	"imageUrl": "images/strains/purple-voodoo_100x100_1bb5.jpg"
+			},
+			{"strainId": 365,
+			 	"strainName": "Fire Haze",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/fire-haze_100x100_0ff8.jpg"
+			},
+			{"strainId": 366,
+			 	"strainName": "Space Jill",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/space-jill_100x100_4026.jpg"
+			},
+			{"strainId": 367,
+			 	"strainName": "Maui Waui",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/maui-waui_100x100_89bb.jpg"
+			},
+			{"strainId": 368,
+			 	"strainName": "Golden Goat",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/hawaiian-snow_100x100.jpg"
+			},
+			{"strainId": 369,
+			 	"strainName": "Laughing Buddha",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/laughing-buddha_100x100_ebef.jpg"
+			},
+			{"strainId": 370,
+			 	"strainName": "Durban Poison",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/durban-poison_100x100_09a5.jpg"
+			},
+			{"strainId": 371,
+			 	"strainName": "Mob Boss",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/mob-boss_100x100_5cd4.jpg"
+			},
+			{"strainId": 372,
+			 	"strainName": "Banana Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/banana-kush_100x100_9b04.jpg"
 			}
 		]; 
 
@@ -47450,6 +47500,348 @@
 			 "descriptionAbbrev": "An earthy cross between Thai and Jamaican strains with a sweet, fruity smell.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/laughing-buddha_100x100_ebef.jpg"
+			},
+			{"strainId": 370,
+			 "strainName": "Durban Poison",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.49
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.20	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.18
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Pine"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Migraines"],
+			 "positiveEffects": ["Uplifted", "Energetic", "Happy", "Euphoric", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Anxious"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The perfect strain to help you stay productive through a busy day, when exploring the outdoors, or to lend a spark of creativity.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/durban-poison_100x100_09a5.jpg"
+			},
+			{"strainId": 371,
+			 "strainName": "Mob Boss",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 24.52
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Floral", "Pungent", "Skunky", "Citrus"],
+		 	 "conditions": ["Appetite Loss", "Stress", "Pain", "Anxiety", "PMS", "Fatigue"],
+			 "positiveEffects": ["Happy", "Giggly", "Conversational", "Euphoric", "Uplifted", "Energetic", "Focused"],
+			 "negativeEffects": ["Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Potent relief of muscle tension, mood elevation, and appetite stimulation.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/mob-boss_100x100_5cd4.jpg"
+			},
+			{"strainId": 372,
+			 "strainName": "Banana Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.06
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.53	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 1.10
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.30
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Tropical", "Tree Fruit"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Fatigue"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A great choice when dealing with stress or depression, Bannana Kush provides a relaxed sense of euphoria.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/banana-kush_100x100_9b04.jpg"
 			}
 		];
 		
