@@ -5314,6 +5314,26 @@
 			 	"strainName": "Banana Kush",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/banana-kush_100x100_9b04.jpg"
+			},
+			{"strainId": 373,
+			 	"strainName": "Black Widow",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/black-widow_100x100.jpg"
+			},
+			{"strainId": 374,
+			 	"strainName": "Jack the Ripper",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/jack-the-ripper_100x100.jpg"
+			},
+			{"strainId": 375,
+			 	"strainName": "Purple Thai",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/purple-thai_100x100.jpg"
+			}, 
+			{"strainId": 376,
+			 	"strainName": "Silver Haze",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/silver-haze_100x100.jpg"
 			}
 		]; 
 
@@ -6580,11 +6600,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 17.02
+			 		"value": 13.80
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.34
+			 		"value": 0.30
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -6592,11 +6612,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.08
+			 		"value": 0.99
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.05
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -6616,11 +6636,11 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 0.00
+			 		"value": 1.75
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.72
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -6628,7 +6648,7 @@
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.00
+			 		"value": 1.93
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -6636,7 +6656,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.68
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -6672,16 +6692,16 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.74
 				},
 				{ 
 			 		"name": "Terpinolene", 
 			 		"value": 0.00
 				} 	
 		 	], 
-		 	"taste": ["Honey", "Sweet", "Skunk"],
-		 	 "conditions": ["Stress", "Depression", "Nausea", "Pain", "Fatigue"],
-			 "positiveEffects": ["Intense", "Mind + Body", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow",  "Creative"],
+		 	"taste": ["Honey", "Sweet", "Flowery"],
+		 	 "conditions": ["Depression", "Stress", "Nausea", "Pain", "Fatigue", "Migraines"],
+			 "positiveEffects": ["Intense", "Mind + Body", "Euphoric", "Happy", "Uplifted", "Relaxed", "Mellow", "Creative", "Focused"],
 			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Headache", "Paranoid", "Dizzy"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "You'll feel like you're in space with Nebula's intense head and body buzz that has been described as almost psychedelic.",
@@ -10342,23 +10362,23 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 23.10
+			 		"value": 18.18
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.47
+			 		"value": 0.31
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.11
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.14
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -10378,19 +10398,19 @@
 			 	},
 			 	{ 
 			 		"name": "Myrcene", 
-			 		"value": 1.61
+			 		"value": 0.91
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 1.66
+			 		"value": 0.80
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
-			 		"value": 0.43
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "Linalool", 
-			 		"value": 0.16
+			 		"value": 2.05
 			 	},
 			 	{ 
 			 		"name": "Eucalyptol", 
@@ -10398,7 +10418,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.03
+			 		"value": 0.82
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -10434,11 +10454,11 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.52
+			 		"value": 0.38
 				},
 				{ 
 			 		"name": "Terpinolene", 
-			 		"value": 0.09
+			 		"value": 0.00
 				} 	
 		 	], 
 		 	"taste": ["Earthy", "Sweet", "Blueberry"], 
@@ -17515,7 +17535,7 @@
 			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Energetic", "Creative", "Productive"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev":  "With parents like the popular Blue Dream and Green Crack you can expect Green Dream to satisfy. Add the intensity and energy of GC with the full body soulfulness and relaxation of  Blue Dream and you've got a winner.",
+			 "descriptionAbbrev":  "With a sweet berry aroma redolent of its Blueberry parent, Blue Dream delivers swift symptom relief without heavy sedative effects.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/blue-dream_100x100.jpg"
 			},
@@ -29039,15 +29059,15 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 15.82
+			 		"value": 13.23
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.07
+			 		"value": 0.11
 			 	},
 			 	{ 
 			 		"name": "CBN", 
-			 		"value": 0.01
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "CBG", 
@@ -29055,7 +29075,7 @@
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.01
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -29079,7 +29099,7 @@
 			 	},
 			 	{ 
 			 		"name": "Caryophyllene", 
-			 		"value": 0.00
+			 		"value": 0.29
 			 	},
 			 	{ 
 			 		"name": "Limonene", 
@@ -29131,7 +29151,7 @@
 			 	},
 			 	{ 
 			 		"name": "Humulene", 
-			 		"value": 0.00
+			 		"value": 0.38
 				},
 				{ 
 			 		"name": "Terpinolene", 
@@ -29143,7 +29163,7 @@
 			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Energetic", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "The hefty sativa buds give earthy, sweet coffee flavors that provide a dreamy, cerebral effect.",
+			 "descriptionAbbrev": "Chocolope provides a strong, euphoric mental shift that is great when coping with depression or stress.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/chocolope_100x100.jpg"
 			},
@@ -47842,6 +47862,462 @@
 			 "descriptionAbbrev": "A great choice when dealing with stress or depression, Bannana Kush provides a relaxed sense of euphoria.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/banana-kush_100x100_9b04.jpg"
+			},
+			{"strainId": 373,
+			 "strainName": "Black Widow",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.35
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.72	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.44
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.53
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Berry", "Sweet"],
+		 	 "conditions": ["Stress", "Appetite Loss", "Depression", "Pain", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Giggly"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The evil sister of White Widow, the Black Widow strain maintains the family reputation for high natural THC levels.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/black-widow_100x100.jpg"
+			},
+			{"strainId": 374,
+			 "strainName": "Jack the Ripper",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.28
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.64	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.90
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.48
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.28
+				}	
+		 	], 
+		 	"taste": ["Lemon", "Citrus", "Pungent"],
+		 	 "conditions": ["Stress", "Depression", "Fatigue", "Pain", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Uplifted", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The strain produces strong and thought-provoking effects that will creep up on you and leave you feeling meditative.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/jack-the-ripper_100x100.jpg"
+			},
+			{"strainId": 375,
+			 "strainName": "Purple Thai",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 4.94
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 6.85
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.59	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.07 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 2.88
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 1.54
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.76
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.40
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Chestnut", "Coffee"],
+		 	 "conditions": ["Stress", "Social Anxiety", "Depression", "Fatigue"],
+			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Conversational", "Creative"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Try Purple Thai if you want to have a great time, thinking up new ideas, having fun and interesting conversations.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-thai_100x100.jpg"
+			}, 
+			{"strainId": 376,
+			 "strainName": "Silver Haze",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.76
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.28	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.55
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.23
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pungent", "Woody"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Euphoric", "Uplifted", "Relaxed", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Silver Haze maintains strong but clear-headed sativa effects while producing the standard Haze effects.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/silver-haze_100x100.jpg"
 			}
 		];
 		
