@@ -66,11 +66,11 @@
 				<div class="panel-body">
 
 					<div class="col-xs-6" ng-click = "vm.toggleQuestion('Q2')">
-						<SS> 2. </SS> Have a strain <span class="caret"></span>
+						<SS> 2. </SS> I have a strain <span class="caret"></span>
 						<div>{{vm.selectedStrain}}</div>
 					</div>
 					<div class="col-xs-6" ng-click = "goSuggest()">
-						 <SS> </SS> Need a strain<span class="caret-right"></span>
+						 <SS> </SS> I need a strain<span class="caret-right"></span>
 					</div>
 					<div ng-if = "vm.showQ2">
 						<div class = "row row-padding">
@@ -110,7 +110,7 @@
 		<div class = "panel">
 			<div class="row">
 				<div class="panel-body">
-					<div class="col-xs-12"> <bold>Your selection: </bold></div>
+					<div class="col-xs-12"> <bold>You selected: </bold></div>
 					<div class="col-xs-6"> {{vm.selectedCond}} </div>
 					<div class="col-xs-6" ng-if="vm.hasEnterStrain" ui-sref="strainDetails({strainId: vm.yourStrain.strainId})"> {{vm.selectedStrain}} <span class="glyphicon glyphicon-chevron-right"></span></div>
 				</div>
@@ -132,9 +132,9 @@
 			<div class="row">
 				<div class="panel-body">
 					<div class="col-xs-12">
-						<span ng-if="!vm.moreThanOne"><bold>{{vm.EffectsProductName[vm.currentSelectEffNum]}}</bold> is</span>
-						<span ng-if="vm.moreThanOne">They are</span> 
-						known to produce the following effects:
+						<span ng-if="!vm.moreThanOne"><bold>{{vm.EffectsProductName[vm.currentSelectEffNum]}}</bold> has been known to:</span>
+						<span ng-if="vm.moreThanOne">This temp should</span> 
+						produce the following effects:
 					</div>
 					<div ng-if="!vm.showMoreEff" class="col-xs-12" ng-repeat = "name in vm.justThisCondEffect|unique:$index track by $index">
 						<li ng-style = "thisCond(name)">{{name}}</li>

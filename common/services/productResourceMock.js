@@ -25966,7 +25966,7 @@
 			 		"value": 0.02
 				} 	
 		 	], 
-		 	"taste": ["Sweet", "Earthy", "Pungent"],
+		 	"taste": ["Sweet", "Earthy", "Chocolate", "Mint","Pungent"],
 		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Lack of Appetite", "Anxiety"],
 			 "positiveEffects": ["Happy", "Energetic", "Euphoric", "Relaxed", "Uplifted", "Productive", "Creative"],
 			 "negativeEffects": ["Dry Mouth", "Munchies", "Dry Eyes", "Drowsiness",  "Dizzy", "Paranoid",  "Headache"],
