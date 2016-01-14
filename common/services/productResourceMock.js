@@ -48,7 +48,7 @@
 			 "VManufacturer" : "Arizer",
 			 "VType": "Portable",
 			 "VTempType": "Y",
-			 "VTempsF": ["122", "365", "374", "383", "393", "401", "410"],
+			 "VTempsF": ["122", "365", "374", "383", "392", "401", "410"],
 			 "VTempsC": ["050", "185", "190", "195", "200", "205", "210"],
 			 "VColors": ["Lo", "Md", "Md", "Md", "Hi", "Hi", "Hi"],
  			 "descriptionAbbrev": "The Arizer Solo is a super efficient hand held portable vaporizer by Arizer Tech, the brilliant minds behind the Arizer Extreme Q.",
@@ -2471,6 +2471,42 @@
 				 		"TipImg" : "images/vapes/Underdog-001-225x300.png"
 				 	}
 			 	]
+			},
+			{
+				"VTipId": 35,
+				"VName": "Pax 2",
+				"VTipList": [
+				 	{ 
+				 		"tipNum": "1", 
+				 		"tipTxt": "One of the main things that affects how much vapor you get is how finely you grind your material and how you pack the oven. The grind consistency that everyone is used to from a common 2-piece or 4-piece grinder will work with most vaporizers, but if you really want maximum performance you need to grind your herbs even finer, almost to a powder or the consistency of coarse sand. If you have a coffee grinder lying around you could technically use that to try this out, but be sure to grind in short bursts.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	},
+				 	{ 
+				 		"tipNum": "2", 
+				 		"tipTxt": "The recommended way to use this vape for maximum vapor production is with a fully packed oven. Depending on how finely your material is ground up the amount needed to fill the chamber ranges from 0.3g to 0.4g. When you fully pack you can expect approximately 20 full draws before your herbs are spent.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	},
+				 	{ 
+				 		"tipNum": "3", 
+				 		"tipTxt": "The PAX's screen plays a critical role in the quality of your vapor. If you notice a change in the quality of your vapor, your screen is probably due for a cleaning.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	},
+				 	{ 
+				 		"tipNum": "4", 
+				 		"tipTxt": "Drawing a lot of air through the device won't create more vapor, you will just be inhaling hot air. Instead, allow the vapor to form in the oven to produce bigger clouds. Remember to give PAX a few seconds in between your next draw to heat your herb again and create more vapor in the oven.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	},
+				 	{ 
+				 		"tipNum": "5", 
+				 		"tipTxt": "Most PAXers like to start on the low or medium temperature setting and work their way up to the highest temperature before finishing.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	},
+				 	{ 
+				 		"tipNum": "6", 
+				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
+				 		"TipImg" : "images/vapes/pax1.png"
+				 	}
+			 	]
 			}
 
 		];  
@@ -4197,7 +4233,7 @@
 
 			}, 
 			{"strainId": 181,
-			 "strainName": "Girl Scout Cookies",
+			 "strainName": "G.S. Cookies",
 			 "strainType": "Hybrid",
 			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 
@@ -5334,6 +5370,16 @@
 			 	"strainName": "Silver Haze",
 			 	"strainType": "Sativa",
 			 	"imageUrl": "images/strains/silver-haze_100x100.jpg"
+			},
+			{"strainId": 377,
+			 	"strainName": "Northern Lights Blue",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/blue-lights_100x100.jpg"
+			},
+			{"strainId": 378,
+			 	"strainName": "Mango Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/mango-kush_100x100.jpg"
 			}
 		]; 
 
@@ -48318,6 +48364,234 @@
 			 "descriptionAbbrev": "Silver Haze maintains strong but clear-headed sativa effects while producing the standard Haze effects.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/silver-haze_100x100.jpg"
+			},
+			{"strainId": 377,
+			 "strainName": "Northern Lights Blue",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.73
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.21	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.25
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.98
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.67
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry","Sweet","Blueberry","Spicy"],
+		 	 "conditions": ["Migraines","Stress", "Depression", "Pain", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Uplifted", "Relaxed","Euphoric","Drowsiness","Potent"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Couch Lock", "Munchies"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This variety has a nice fragrance of wild berries giving a pleasant sensation of wellness and at the same time a sedative effect. An Indica with a great medical value to reduce pains and chronic illnesses.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/blue-lights_100x100.jpg"
+			},
+			{"strainId": 378,
+			 "strainName": "Mango Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.58
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.24
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.89
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Mango","Tropical","Pine"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Headache"],
+			 "positiveEffects": ["Happy", "Relaxed","Euphoric","Conversational"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The Mango Kush marijuana strain tastes similar to the the actual mango fruit, with a distinct kush flavor, and hints of pine on the exhale.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/mango-kush_100x100.jpg"
 			}
 		];
 		
