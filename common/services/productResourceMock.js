@@ -4233,7 +4233,7 @@
 
 			}, 
 			{"strainId": 181,
-			 "strainName": "G.S. Cookies",
+			 "strainName": "GirlScout Cookies",
 			 "strainType": "Hybrid",
 			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 
@@ -25908,7 +25908,7 @@
 			 "imageUrl": "images/strains/fire-og_100x100.jpg"
 			}, 
 			{"strainId": 180,
-			 "strainName": "Girl Scout Cookies",
+			 "strainName": "GirlScout Cookies",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
