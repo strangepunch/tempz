@@ -5380,6 +5380,11 @@
 			 	"strainName": "Mango Kush",
 			 	"strainType": "Hybrid",
 			 	"imageUrl": "images/strains/mango-kush_100x100.jpg"
+			},
+			{"strainId": 379,
+			 	"strainName": "Auto Diesel-Matic",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/auto-diesel-matic.jpg"
 			}
 		]; 
 
@@ -48591,8 +48596,122 @@
 			 "descriptionAbbrev": "The Mango Kush marijuana strain tastes similar to the the actual mango fruit, with a distinct kush flavor, and hints of pine on the exhale.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/mango-kush_100x100.jpg"
+			},
+			{"strainId": 379,
+			 "strainName": "Auto Diesel-Matic",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 12.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 8.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.200
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.89
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Fuel","Spicy","Fruity", "Hash"],
+		 	 "conditions": ["Stress", "Pain", "Anxiety"],
+			 "positiveEffects": ["Potent", "Relaxed","Hungry", "Creative", "Mind + Body", "Euphoric"],
+			 "negativeEffects": [""],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Diesel Matic is a cross of super-fast Skull Ryder and the multiple award winner NYCD (New York City Diesel). The Indica dominant genetics of Diesel Matic make for a fairly narcotic effect although it is not a total ‘couch-locker’ and allows the smoker to stay active.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/auto-diesel-matic.jpg"
 			}
-		];
+		]; 
 		
 
 		var taste = [
