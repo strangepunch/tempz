@@ -37076,7 +37076,7 @@
 		 	], 
 		 	"taste": ["Fruity", "Tea", "Flowery", "Apple", "Rose"],
 		 	 "conditions": ["Insomnia", "Stress", "Anxiety", "Depression"],
-			 "positiveEffects": ["Relaxed", "Calm", "Drowsiness", "Balanced"],
+			 "positiveEffects": ["Relaxed", "Calmness", "Drowsiness", "Balanced"],
 			 "negativeEffects": ["Couch Lock", "Drowsiness"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "The combination of popular West Coast genetics brings on stimulating cerebral effects that weigh heavy on your eyes and slowly relax the body.",
@@ -43344,7 +43344,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Pungent", "Sour", "Fuel"],
+		 	"taste": ["Pungent", "Sour", "Diesel"],
 		 	 "conditions": ["Fibromyalgia", "Muscle Spasms", "Nausea", "Appetite Loss"],
 			 "positiveEffects": ["Energetic", "Relaxed", "Creative", "Euphoric", "Hungry", "Pain relief"],
 			 "negativeEffects": ["Munchies"],
@@ -48702,7 +48702,7 @@
 			 		"value": 0.00
 				}	
 		 	], 
-		 	"taste": ["Fuel","Spicy","Fruity", "Hash"],
+		 	"taste": ["Diesel","Spicy","Fruity", "Hash"],
 		 	 "conditions": ["Stress", "Pain", "Anxiety"],
 			 "positiveEffects": ["Potent", "Relaxed","Hungry", "Creative", "Mind + Body", "Euphoric"],
 			 "negativeEffects": [""],
