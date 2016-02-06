@@ -108,15 +108,25 @@
 	<!--Med Answers-->
 	<div ng-show = "showAnswer">
 		<div class = "panel">
-			<div class="row">
+			
 				<div class="panel-body">
 					<div class="col-xs-12"> <bold>You selected: </bold></div>
 					<div class="col-xs-6"> {{vm.selectedCond}} </div>
 					<div class="col-xs-6" ng-if="vm.hasEnterStrain" ui-sref="strainDetails({strainId: vm.yourStrain.strainId})"> {{vm.selectedStrain}} <span class="glyphicon glyphicon-chevron-right"></span></div>
 				</div>
-			</div> 
+		
 		</div>
-
+		<div class="row">
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack()">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Try Another Condition 
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<!--If there was a strain provided by user-->
 		<div class = "panel" ng-if="vm.hasEnterStrain">
 			<div class="row">
@@ -205,15 +215,16 @@
 		</div>
 
 		<div class="row">
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons">
-					<div class="btn" ng-click="goBack()"> Back </div>
-				</div>
-			</div>
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
-					<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
-					<div class="btn" ng-click="goMore('A2')" ng-if="vm.MoreOrLess"> Less </div>
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack()"> 
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Back 
+					</div>
+					<div style="float:right" ng-if="vm.thereIsMore">
+						<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
+						<div class="btn" ng-click="goMore('A2')" ng-if="vm.MoreOrLess"> Less </div>
+					</div>
 				</div>
 			</div>
 		</div>

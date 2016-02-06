@@ -179,7 +179,16 @@
 				</div>
 			</div> 
 		</div>
-		
+		<div class="row">
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A1')">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Try Another Flavor
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
@@ -206,15 +215,16 @@
 			</div> 
 		</div>
 		<div class="row">
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons">
-					<div class="btn" ng-click="goBack('A1')"> Back </div>
-				</div>
-			</div>
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
-					<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
-					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A1')"> 
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Back 
+					</div>
+					<div style="float:right" ng-if="vm.thereIsMore">
+						<div class="btn" ng-click="goMore('A1')" ng-if="!vm.MoreOrLess"> More </div>
+						<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -238,7 +248,16 @@
 				</div>
 			</div> 
 		</div>
-		
+		<div class="row">
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A2')">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Try Another Effect
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:vm.orderByValue|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
@@ -265,15 +284,16 @@
 			</div> 
 		</div>
 		<div class="row">
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons">
-					<div class="btn" ng-click="goBack('A2')"> Back </div>
-				</div>
-			</div>
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
-					<div class="btn" ng-click="goMore('A2')" ng-if="!vm.MoreOrLess"> More </div>
-					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A2')"> 
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Back 
+					</div>
+					<div style="float:right" ng-if="vm.thereIsMore">
+						<div class="btn" ng-click="goMore('A2')" ng-if="!vm.MoreOrLess"> More </div>
+						<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -281,6 +301,16 @@
 
 	<!--Strain-->
 	<div ng-show = "showAnswer3">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A3')">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Try Another Strain 
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class = "panel" ng-repeat = "suggestedStrains in vm.strainSuggestions|orderBy:'strainName'|limitTo:vm.MoreStrains">
 			<div class="row">
 				<div class="panel-heading">
@@ -307,15 +337,16 @@
 			</div> 
 		</div>
 		<div class="row">
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons">
-					<div class="btn" ng-click="goBack('A3')"> Back </div>
-				</div>
-			</div>
-			<div class="col-xs-6">
-				<div class = "panel panel-buttons" ng-if="vm.thereIsMore">
-					<div class="btn" ng-click="goMore('A3')" ng-if="!vm.MoreOrLess"> More </div>
-					<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+			<div class="col-xs-12">
+				<div class = "panel">
+					<div class="btn" ng-click="goBack('A3')"> 
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+						Back 
+					</div>
+					<div style="float:right" ng-if="vm.thereIsMore">
+						<div class="btn" ng-click="goMore('A3')" ng-if="!vm.MoreOrLess"> More </div>
+						<div class="btn" ng-click="goMore()" ng-if="vm.MoreOrLess"> Less </div>
+					</div>
 				</div>
 			</div>
 		</div>
