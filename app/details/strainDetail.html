@@ -48,6 +48,17 @@
 			</table>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-xs-12">
+			<div class = "panel">
+				<div class="btn" ng-click="goBack()">
+					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+					<span ui-sref="easy" ng-show="vm.fromMed" ng-if="!vm.inVape"> Start Again </span>
+					<span ui-sref="rec" ng-show="vm.fromRec" ng-if="!vm.inVape"> Start Again </span>
+				</div>
+			</div>
+		</div>
+	</div>
 	<!--the temperature display end-->
 	
 	<!--Effect Positive-->
@@ -243,26 +254,15 @@
 
 	<!--back-->
 	<div class="row">
-		<div ng-show="vm.fromMed" class="col-xs-6" ng-if="!vm.inVape">
-			<div class = "panel panel-buttons">
-				<div class="btn" ui-sref="easy"> Clear </div>
-			</div>
-		</div>
-		<div ng-show="vm.fromRec" class="col-xs-6" ng-if="!vm.inVape">
-			<div class = "panel panel-buttons">
-				<div class="btn" ui-sref="rec"> Clear </div>
-			</div>
-		</div>
-		<div class="col-xs-6" ng-if="vm.inVape">
-			<div class = "panel panel-buttons">
-				<div class="btn" ng-click="backVape()"> Back </div>
-			</div>
-		</div>
-		<div class="col-xs-6" ng-if="vm.vapeSelected">
-			<div class = "panel panel-buttons">
-				<div class="btn" ng-click="goVape()"> Go </div>
+		<div class="col-xs-12" >
+			<div class = "panel">
+				<div class="btn" ui-sref="easy" ng-show="vm.fromMed" ng-if="!vm.inVape"> Clear </div>
+				<div class="btn" ui-sref="rec" ng-show="vm.fromRec" ng-if="!vm.inVape"> Clear </div>
+				<div class="btn" ng-click="backVape()" ng-if="vm.inVape" style="">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+				 Back </div>
+				<div class="btn" ng-click="goVape()" ng-if="vm.vapeSelected" style="float:right"> Go </div>
 			</div>
 		</div>
 	</div>
-
 </div>
