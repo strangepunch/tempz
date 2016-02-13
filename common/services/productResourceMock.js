@@ -5385,6 +5385,36 @@
 			 	"strainName": "Auto Diesel-Matic",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/auto-diesel-matic.jpg"
+			},
+			{"strainId": 380,
+			 	"strainName": "God's Bubba",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/godsgiftbubba0053.png"
+			}, 
+			{"strainId": 381,
+			 	"strainName": "White Smurf",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/white-smurf-6.jpg"
+			}, 
+			{"strainId": 382,
+			 	"strainName": "Humboldt Honey",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/humboldt_100x100_9e57.jpg"
+			},
+			{"strainId": 383,
+			 	"strainName": "UW Purple",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/uw_100x100_b444.jpg"
+			}, 
+			{"strainId": 384,
+			 	"strainName": "Sunset Sherbet",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
+			}, 
+			{"strainId": 385,
+			 	"strainName": "Purple Kush X",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/purple-kush_100x100.jpg"
 			}
 		]; 
 
@@ -23752,11 +23782,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9", 
-			 		"value": 22.90
+			 		"value": 18.17
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.46
+			 		"value": 0.03
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -23764,11 +23794,11 @@
 			 	},
 			 	{ 
 			 		"name": "CBG", 
-			 		"value": 0.00
+			 		"value": 0.56
 			 	},
 			 	{ 
 			 		"name": "CBC", 
-			 		"value": 0.00
+			 		"value": 0.02
 			 	},
 			 	{ 
 			 		"name": "THCV", 
@@ -23808,7 +23838,7 @@
 			 	},
 			 	{ 
 			 		"name": "Pinene", 
-			 		"value": 0.00
+			 		"value": 0.20
 			 	},
 			 	{ 
 			 		"name": "Terpineol", 
@@ -25570,7 +25600,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/diablo_100x100.jpg"
 			},
-			{"strainId": 177,
+			{"strainId": 178,
 			 "strainName": "Diamond OG",
 			 "strainType": "Indica",
 			 "components": [
@@ -25684,7 +25714,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/diamond-og_100x100.jpg"
 			},
-			{"strainId": 178,
+			{"strainId": 179,
 			 "strainName": "Grandaddy Purple",
 			 "strainType": "Indica",
 			 "components": [
@@ -25798,7 +25828,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/grandaddy-purple.jpg"
 			},
-			{"strainId": 179,
+			{"strainId": 180,
 			 "strainName": "Fire OG",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -25912,7 +25942,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/fire-og_100x100.jpg"
 			}, 
-			{"strainId": 180,
+			{"strainId": 181,
 			 "strainName": "GirlScout Cookies",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -26026,7 +26056,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/girl-scout-cookies_100x100.jpg"
 			},
-			{"strainId": 181,
+			{"strainId": 182,
 			 "strainName": "Grape Ape",
 			 "strainType": "Indica",
 			 "components": [
@@ -26140,7 +26170,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/grape-ape_100x100.jpg"
 			},
-			{"strainId": 182,
+			{"strainId": 183,
 			 "strainName": "Headband",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -26254,7 +26284,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/headband_100x100.jpg"
 			}, 
-			{"strainId": 183,
+			{"strainId": 184,
 			 "strainName": "Island Sweet Skunk",
 			 "strainType": "Sativa",
 			 "components": [
@@ -26368,7 +26398,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/island-sweet-skunk_100x100.jpg"
 			},
-			{"strainId": 184,
+			{"strainId": 185,
 			 "strainName": "LA Kush",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -26482,7 +26512,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/la-kush_100x100.jpg"
 			},
-			{"strainId": 185,
+			{"strainId": 186,
 			 "strainName": "Gorilla Glue",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -26596,7 +26626,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/gorilla-glue--4_100x100.jpg"
 			},
-			{"strainId": 186,
+			{"strainId": 187,
 			 "strainName": "Jack Frost",
 			 "strainType": "Hybrid",
 			 "components": [
@@ -26710,7 +26740,7 @@
 			 "tags": [],
 			 "imageUrl": "images/strains/jack-frost_100x100.jpg"
 			},
-			 	{"strainId": 187,
+			 {"strainId": 188,
 			 "strainName": "Kali Mist",
 			 "strainType": "Sativa",
 			 "components": [
@@ -26824,7 +26854,7 @@
 		 	"tags": [""],
 		 	"imageUrl": "images/strains/kali-mist_100x100.jpg"
 		},
-			 	{"strainId": 188,
+			 	{"strainId": 189,
 				 "strainName": "NY Sour Diesel",
 				 "strainType": "Hybrid",
 				 "components": [
@@ -26938,7 +26968,7 @@
 		 	"tags": [],
 		 	"imageUrl": "images/strains/nyc-sour-diesel.jpg"
 		},
-	 	{"strainId": 189,
+	 	{"strainId": 190,
 	 	"strainName": "Skunk #1",
 	 	"strainType": "Hybrid",
 	 	"components": [
@@ -27052,7 +27082,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/skunk--1_100x100.jpg"
 			},
-			{"strainId": 190,
+			{"strainId": 191,
 			 	"strainName": "Snowcap",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -27166,7 +27196,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/snowcap_100x100.jpg"
 			},
-			{"strainId": 191,
+			{"strainId": 192,
 			 	"strainName": "Super Silver Haze",
 			 	"strainType": "Sativa",
 			 	"components": [
@@ -27280,7 +27310,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/super-silver-haze_100x100.jpg"
 			},
-			{"strainId": 192,
+			{"strainId": 193,
 			 	"strainName": "Neptune OG",
 			 	"strainType": "Indica",
 			 	"components": [
@@ -27394,7 +27424,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/neptune-og_100x100.jpg"
 			},
-			{"strainId": 193,
+			{"strainId": 194,
 			 	"strainName": "Organic OG",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -27508,7 +27538,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/organic-og-kush.JPG"
 			},
-			{"strainId": 194,
+			{"strainId": 195,
 			 	"strainName": "Kandy Kush",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -27622,7 +27652,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/kandy-kush_100x100.jpg"
 			},
-			{"strainId": 195,
+			{"strainId": 196,
 			 	"strainName": "King Louis XIII",
 			 	"strainType": "Sativa",
 			 	"components": [
@@ -27736,7 +27766,7 @@
 			 "tags": ["Pine", "Pungent", "Earthy"],
 			 "imageUrl": "images/strains/king-louis-xiii_100x100.jpg"
 			},
-			{"strainId": 196,
+			{"strainId": 197,
 			 	"strainName": "White Kryptonite",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -27850,7 +27880,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/white-kryptonite_100x100.jpg"
 			},
-			{"strainId": 197,
+			{"strainId": 198,
 			 	"strainName": "Legend OG",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -27964,7 +27994,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/kryptonite_100x100.jpg"
 			},
-			{"strainId": 198,
+			{"strainId": 199,
 			 	"strainName": "Lemon Diesel",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -28078,7 +28108,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-diesel_100x100.jpg"
 			},
-			{"strainId": 199,
+			{"strainId": 200,
 			 	"strainName": "Lemon Kush",
 			 	"strainType": "Hybrid",
 			 	"components": [
@@ -28192,7 +28222,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/lemon-kush_100x100.jpg"
 			},
-			{"strainId": 200,
+			{"strainId": 201,
 			 	"strainName": "Blackwater",
 			 	"strainType": "Indica",
 			 	"components": [
@@ -28306,7 +28336,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/blackwater_100x100.jpg"
 			},
-			{"strainId": 201,
+			{"strainId": 202,
 			 	"strainName": "UltraViolet OG",
 			 	"strainType": "Indica",
 			 	"components": [
@@ -28420,7 +28450,7 @@
 			 "tags": [""],
 			 "imageUrl": "images/strains/UltravioletOG.jpg"
 			},
-			{"strainId": 202,
+			{"strainId": 203,
 			 	"strainName": "Face Off OG",
 			 	"strainType": "Indica",
 			 	"components": [
@@ -28533,120 +28563,6 @@
 			 "descriptionAbbrev": "Its crushing full-body effects make this strain a great choice for resolving severe pain or for relaxing on a lazy weekend.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/face-off-og_100x100.jpg"
-			},
-			{"strainId": 203,
-			 	"strainName": "Sunset Sherbet",
-			 	"strainType": "Hybrid",
-			 	"components": [
-			 	{ 
-			 		"name": "THC9", 
-			 		"value": 23.60
-			 	},
-			 	{ 
-			 		"name": "CBD", 
-			 		"value": 1.30
-			 	},
-			 	{ 
-			 		"name": "CBN", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBG", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBC", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCV", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THCA", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "THC8", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pulegone", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Myrcene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Caryophyllene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Limonene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Linalool", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Eucalyptol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Pinene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Terpineol-4", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cymene", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Apigenin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Quercetin", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Cannflavin A", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Beta-sitosterol", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "CBL", 
-			 		"value": 0.00
-			 	},
-			 	{ 
-			 		"name": "Humulene", 
-			 		"value": 0.00
-				},
-				{ 
-			 		"name": "Terpinolene", 
-			 		"value": 0.00
-				}	
-		 	], 
-		 	"taste": ["Citrus", "Sweet", "Berry", "Mint", "Fruity"],
-		 	 "conditions": ["Stress", "Hypertension", "Bipolar", "Anxiety"],
-			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Happy", "Uplifting"],
-			 "negativeEffects": ["Drowsiness"],
-			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
-			 "tags": [""],
-			 "imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
 			},
 			{"strainId": 204,
 			 	"strainName": "Citrix",
@@ -47459,7 +47375,7 @@
 			},
 			{"strainId": 369,
 			 "strainName": "Laughing Buddha",
-			 "strainType": "Sativa`",
+			 "strainType": "Sativa",
 			 "components": [
 			 	{ 
 			 		"name": "THC9",  
@@ -48710,6 +48626,690 @@
 			 "descriptionAbbrev": "Diesel Matic is a cross of super-fast Skull Ryder and the multiple award winner NYCD (New York City Diesel). The Indica dominant genetics of Diesel Matic make for a fairly narcotic effect although it is not a total ‘couch-locker’ and allows the smoker to stay active.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/auto-diesel-matic.jpg"
+			}, 
+			{"strainId": 380,
+			 "strainName": "God's Bubba",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Chocolate", "Grape", "Coffee", "Fruity", "Spicy", "Hash"],
+		 	 "conditions": ["Pain","Insomnia","Anxiety","Stress", "Appetite Loss", "Nausea"],
+			 "positiveEffects": ["Potent","Euphoric","Happy","Mind + Body","Hungry", "Drowsiness","Calmness"],
+			 "negativeEffects": ["Drowsiness", "Hungry"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The medicinal properties of this strain are seemingly endless. Indica lovers will appreciate the tranquilizing qualities God’s Bubba has to offer, especially those treating pain and insomnia. Effects are characterized by deep, bodily relaxation, easing one into a deep, meditative zone. The feeling is best described as a cerebral and physical 'warmth' that radiates outward.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/godsgiftbubba0053.png"
+			},
+			{"strainId": 381,
+			 "strainName": "Wnite Smurf",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 13.50
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.29
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.42	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.10 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.98
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 2.15
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.85
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Orange", "Pungent", "Peppermint"],
+		 	 "conditions": ["Appetite Loss", "Social Anxiety"],
+			 "positiveEffects": ["Creative", "Energetic", "Focused", "Hungry", "Conversational"],
+			 "negativeEffects": ["Hungry"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This strain is a great choice for social butterflies to lounge out to after a nice dinner.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/white-smurf-6.jpg"
+			},
+			{"strainId": 382,
+			 "strainName": "Humboldt Honey",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.59
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 1.06	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.13
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.03
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pine", "Pungent"],
+		 	 "conditions": ["Stress", "Pain", "Muscle Spasms", "Depression", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Giggly", "Uplifted", "Drowsiness"],
+			 "negativeEffects": ["Headache", "Dizzy", "Dry Eyes", "Dry Mouth", "Paranoid", "Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A good choice if you want to stay clear-headed, Humboldt’s aroma is floral and sweet and its high is uplifting and upbeat.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/humboldt_100x100_9e57.jpg"
+			}, 
+			{"strainId": 383,
+			 "strainName": "UW Purple",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.61
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.20
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.68	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.04
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Sweet", "Skunk"],
+		 	 "conditions": ["Pain", "Stress", "Insomnia", "Muscle Spasms", "Nausea"],
+			 "positiveEffects": ["Drowsiness", "Relaxed", "Happy", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Almost entirely indica, this strain’s powerful high is sedative and popular for pain relief and insomnia.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/uw_100x100_b444.jpg"
+			},
+			{"strainId": 384,
+			 	"strainName": "Sunset Sherbet",
+			 	"strainType": "Hybrid",
+			 	"components": [
+			 	{ 
+			 		"name": "THC9", 
+			 		"value": 23.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 1.30
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Sweet", "Berry", "Mint", "Fruity"],
+		 	 "conditions": ["Stress", "Hypertension", "Bipolar", "Anxiety"],
+			 "positiveEffects": ["Relaxed", "Energetic", "Euphoric", "Happy", "Uplifting"],
+			 "negativeEffects": ["Drowsiness"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Sunset Sherbet exhibits powerful full-body effects elevated by a jolt of cerebral energy.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/sunset-sherbet_100x100.jpg"
+			},
+			{"strainId": 385,
+			 "strainName": "Purple Kush X",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.31
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.27	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.47
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.75
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Grape", "Sweet"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Headache"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": " Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-kush_100x100.jpg"
 			}
 		]; 
 		
