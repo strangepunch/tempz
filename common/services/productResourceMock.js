@@ -901,7 +901,7 @@
 				 	},
 				 	{ 
 				 		"tipNum": "7", 
-				 		"tipTxt": "When turned on, the surface of the Life Saber Vaporizer becomes very hot so coming into contact with the heater could result in serious burns.",
+				 		"tipTxt": "When turned on, the Life Saber Vaporizer becomes very hot so coming into contact with the heater could result in serious burns.",
 				 		"TipImg" : "images/vapes/life-saber-vaporizer-lsv.png"
 				 	},
 				 	{ 
@@ -5415,6 +5415,106 @@
 			 	"strainName": "Purple Kush X",
 			 	"strainType": "Indica",
 			 	"imageUrl": "images/strains/purple-kush_100x100.jpg"
+			},
+			{"strainId": 386,
+			 	"strainName": "Pineapple Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/pineapple-kush_100x100.jpg"
+			},
+			{"strainId": 387,
+			 	"strainName": "Cherry Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/cherry-kush_100x100.jpg"
+			},
+			{"strainId": 388,
+			 	"strainName": "Dutch Treat",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/dutch-treat_100x100.jpg"
+			},
+			{"strainId": 389,
+			 	"strainName": "Strawberry Bannana",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/strawberry-banana_100x100.jpg"
+			}, 
+			{"strainId": 390,
+			 	"strainName": "9 Pound Hammer",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/9-pound-hammer_100x100.jpg"
+			}, 
+			{"strainId": 391,
+			 	"strainName": "Orange Kush",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/orange-kush_100x100.jpg"
+			}, 
+			{"strainId": 392,
+			 	"strainName": "Cookies Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/cookies-kush_100x100.jpg"
+			}, 
+			{"strainId": 393,
+			 	"strainName": "Purple Kush",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/purple-kush_100x100.jpg"
+			}, 
+			{"strainId": 394,
+			 	"strainName": "Ace of Spades",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/ace-of-spades_100x100.jpg"
+			}, 
+			{"strainId": 395,
+			 	"strainName": "Blackberry",
+			 	"strainType": "Indica",
+			 	"im0ageUrl": "images/strains/blackberry_100x100.jpg"
+			},
+			{"strainId": 396,
+			 	"strainName": "Plushberry",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/plushberry_100x100.jpg"
+			}, 
+			{"strainId": 397,
+			 	"strainName": "Agent Orange",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/agent-orange_100x100.jpg"
+			}, 
+			{"strainId": 398,
+			 	"strainName": "Lemon Skunk",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/lemon-skunk_100x100.jpg"
+			},
+			{"strainId": 399,
+			 	"strainName": "Space Bomb",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/space-bomb_100x100.jpg"
+			},
+			{"strainId": 400,
+			 	"strainName": "Critical Jack",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/critical-jack_100x100.jpg"
+			},
+			{"strainId": 401,
+			 	"strainName": "MK Ultra",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/mk-ultra_100x100.jpg"
+			},
+			{"strainId": 402,
+			 	"strainName": "Bay Dream",
+			 	"strainType": "Sativa",
+			 	"imageUrl": "images/strains/bay-dream_100x100.jpg"
+			},
+			{"strainId": 403,
+			 	"strainName": "True OG",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/true-og_100x100.jpg"
+			},
+			{"strainId": 404,
+			 	"strainName": "Juicy Fruit",
+			 	"strainType": "Hybrid",
+			 	"imageUrl": "images/strains/juicy-fruit_100x100.jpg"
+			},
+			{"strainId": 405,
+			 	"strainName": "Snow Monster",
+			 	"strainType": "Indica",
+			 	"imageUrl": "images/strains/snow-monster_100x100.jpg"
 			}
 		]; 
 
@@ -6477,7 +6577,7 @@
 			 	},
 			 	{ 
 			 		"name": "THCA", 
-			 		"value": 0.0
+			 		"value": 0.00
 			 	},
 			 	{ 
 			 		"name": "THC8", 
@@ -39513,11 +39613,11 @@
 			 "components": [
 			 	{ 
 			 		"name": "THC9",  
-			 		"value": 0.00
+			 		"value": 1.02
 			 	},
 			 	{ 
 			 		"name": "CBD", 
-			 		"value": 0.00
+			 		"value": 15.07
 			 	},
 			 	{ 
 			 		"name": "CBN", 
@@ -49310,6 +49410,2286 @@
 			 "descriptionAbbrev": " Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-kush_100x100.jpg"
+			},
+			{"strainId": 386,
+			 "strainName": "Pineapple Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.22
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.21
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.15	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.18
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.42
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.18
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pineapple", "Sweet", "Citrus"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Nausea", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Happy", "Uplifted", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The flavor is described as a subtle sweet pineapple taste with a mint undertone. With a THC content of up to 15% and CBD of 0.14%, the buzz is commonly described as cerebral, with a light body sensation.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/pineapple-kush_100x100.jpg"
+			},
+			{"strainId": 387,
+			 "strainName": "Cherry Kush",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 16.81
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.19
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.13	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Citrus"],
+		 	 "conditions": ["Pain", "Stress", "Depression", "Fatigue", "Insomnia"],
+			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Creative", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Cherry Kush produces full-body effects and is generally a favorite among cannabis consumers.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cherry-kush_100x100.jpg"
+			},
+			{"strainId": 388,
+			 "strainName": "Dutch Treat",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.22
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.01
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.34	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Pine", "Earthy"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed","Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The cerebral high comes on quick and leaves consumers feeling uplifted and euphoric while reducing stress and relaxing the mind.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/dutch-treat_100x100.jpg"
+			},
+			{"strainId": 389,
+			 "strainName": "Strawberry Bannana",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.38
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.31
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.19
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Strawberry", "Sweet", "Berry"],
+		 	 "conditions": ["Pain", "Stress", "Depression", "Appetite Loss", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mpouth"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Known for its heavy resin production and high THC content, Strawberry Banana produces happy, peaceful effects that sharpen creativity and sensory awareness.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/strawberry-banana_100x100.jpg"
+			}, 
+			{"strainId": 390,
+			 "strainName": "9 Pound Hammer",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.49
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.46	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.35
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.08
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Grape", "Earthy"],
+		 	 "conditions": ["Insomnia", "Stress", "Pain", "Appetite Loss", "Depression"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Hungry", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dizzy", "Anxious", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Offering sweet grape and lime flavors, she's true to her indica dominance with effects that are heavy and long-lasting, useful for pain and stress relief.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/9-pound-hammer_100x100.jpg"
+			},
+			{"strainId": 391,
+			 "strainName": "Orange Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 21.18
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.97	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.40
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.14
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Orange", "Citrus", "Sweet"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Headache", "Depression"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Dry Mouth", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Orange Kush eases the body into relaxation while lifting moods with a sweet and tangy citrus flavor.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/orange-kush_100x100.jpg"
+			},
+			{"strainId": 392,
+			 "strainName": "Cookies Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.11
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.40	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.28
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.62
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Earthy", "Pungent"],
+		 	 "conditions": ["Stress", "Insomnia", "Depression", "Pain", "Muscle Spasms"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Drowsiness", "Happy", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Cookies combines Girl Scout Cookies with the Rolex phenotype of OG Kush, resulting in a potent indica cross worthy of 1st place in High Times' 2014 Amsterdam Cannabis Cup in the Best Coffeeshop Strain category.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/cookies-kush_100x100.jpg"
+			},
+			{"strainId": 393,
+			 "strainName": "Purple Kush",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.02
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.12
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.18	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.08
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.67
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.23
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Grape", "Earthy", "Sweet"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia"],
+			 "positiveEffects": ["Relaxed", "Sleepy", "Happy", "Euphoric", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/purple-kush_100x100.jpg"
+			},
+			{"strainId": 394,
+			 "strainName": "Ace of Spades",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 17.51
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.11	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.03
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Earthy"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Insomnia", "Appetite Loss"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Drowsiness", "Uplifted"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache","Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "A crossbreed of Black Cherry Soda and Jack the Ripper, this strain has an earthy berry and citrus smell that carries over into the taste with distinctly lemony flavors.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/ace-of-spades_100x100.jpg"
+			},
+			{"strainId": 395,
+			 "strainName": "Blackberry",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 19.59
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.05 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.10
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.23
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry", "Sweet", "Earthy"],
+		 	 "conditions": ["Pain", "Stress", "Depression", "Insomnia", "Headache"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Drowsiness", "Uplifted" ],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Known for its balance of an active sativa buzz and high yields, Blackbery has strong smoke that can have a fuel smell, but it is dominantly fruity.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/blackberry_100x100.jpg"
+			},
+			{"strainId": 396,
+			 "strainName": "Plushberry",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.08
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.06
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Berry","Earthy", "Sweet"],
+		 	 "conditions": ["Pain", "Stress", "Depression", "Insomnia", "Fatigue"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Plushberry induces a deep relaxation in the mind and body, with calming qualities that melt away stress.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/plushberry_100x100.jpg"
+			}, 
+			{"strainId": 397,
+			 "strainName": "Agent Orange",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.60
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.09
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.16
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Citrus", "Orange", "Sweet"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Headache"],
+			 "positiveEffects": ["Happy", "Uplifted", "Relaxed", "Energetic", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Headache", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Wonderful smells of oranges and fresh-cut citrus fruit and effects that are uplifting and motivating, Agent Orange serves as a great mood enhancer if you are feeling lethargic or depressed.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/agent-orange_100x100.jpg"
+			},
+			{"strainId": 398,
+			 "strainName": "Lemon Skunk",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.24
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.14
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.70
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.50
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.44
+				}	
+		 	], 
+		 	"taste": ["Lemon", "Citrus", "Skunk"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Fatigue", "Appetite Loss"],
+			 "positiveEffects": ["Happy", "Uplifted", "Euphoric", "Relaxed", "Energetic"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The skunky, citrus flavor draws you in immediately, and the happy, energetic buzz will shake you out of any funk.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/lemon-skunk_100x100.jpg"
+			},
+			{"strainId": 399,
+			 "strainName": "Space Bomb",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 14.89
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.11
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Skunk", "Berry"],
+		 	 "conditions": ["Pain", "Stress", "Headaches", "Muscle Spasms", "Depression"],
+			 "positiveEffects": ["Relaxed", "Uplifted", "Happy", "Focused", "Hungry"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "This 60% sativa strain is a cross between the clone-only Tiny Bomb and Space Queen and was bred at least in part to produce the qualities of Tiny Bomb in seed form. Placed in the Top 10 at the 2009 High Times Cannabis Cup.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/space-bomb_100x100.jpg"
+			}, 
+			{"strainId": 400,
+			 "strainName": "Critical Jack",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 23.71
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.05
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.34	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Pine", "Citrus", "Earthy"],
+		 	 "conditions": ["Stress", "Depression", "Fatigue", "Pain", "Appetite Loss"],
+			 "positiveEffects": ["Uplifted", "Focused", "Happy", "Euphoric", "Energetic"],
+			 "negativeEffects": ["Dry Eyes", "Dry Mouth", "Anxious", "Dizzy", "Headache"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": " Critical Jack is a popular daytime remedy for depression, appetite loss, and headaches. Effects are light on the body and stimulating to the mind, allowing one to fixate their attention strongly on whatever task is at hand.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/critical-jack_100x100.jpg"
+			},
+			{"strainId": 401,
+			 "strainName": "MK Ultra",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.77
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.16
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.03 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.04
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.17
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.47
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.18
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pungent", "Flowery"],
+		 	 "conditions": ["Stress", "Pain", "Insomnia", "Depression", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Happy", "Drowsiness", "Uplifted", "Euphoric"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Paranoid", "Anxious"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "MK Ultra is renowned for its 'hypnotic' effects that are fast-acting and best used when strong medication is desired. As evidenced by its collection of awards, this indica is one of the strongest in the world.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/mk-ultra_100x100.jpg"
+			},
+			{"strainId": 402,
+			 "strainName": "Bay Dream",
+			 "strainType": "Sativa",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 22.63
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.26
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.02 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.03
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.23
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.10
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Citrus", "Earthy"],
+		 	 "conditions": ["Stress", "Depression", "Fatigue", "Pain", "Nausea"],
+			 "positiveEffects": ["Happy", "Euphoric", "Relaxed", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Paranoid", "Anxious", "Dizzy"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "The effects are fast-paced and active, so Bay Dream may not be the best choice for anxiety-prone consumers.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/bay-dream_100x100.jpg"
+			},
+			{"strainId": 403,
+			 "strainName": "True OG",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 24.97
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.69
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.00	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.04 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.22
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.39
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.58
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.27
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.41
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Earthy", "Pungent", "Citrus"],
+		 	 "conditions": ["Stress", "Pain", "Depression", "Insomnia", "Nausea"],
+			 "positiveEffects": ["Relaxed", "Happy", "Euphoric", "Uplifted", "Focused"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "True OG is potent enough for mellow, lasting effects combined with a more focused head high. Flowers have a pungent, crisp citrus and evergreen scent.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/true-og_100x100.jpg"
+			},
+			{"strainId": 404,
+			 "strainName": "Juicy Fruit",
+			 "strainType": "Hybrid",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 18.62
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.07
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.04	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 0.00
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Sweet", "Berry", "Citrus"],
+		 	 "conditions": ["Stress", "Depression", "Pain", "Nausea", "Fatigue"],
+			 "positiveEffects": ["Happy", "Relaxed", "Euphoric", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Dizzy", "Headache", "Paranoid"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Smells are described as ranging from tangy and sweet, sort of like fruit punch and lemons, to a blend of piña colada and plums. The effects begin with a dizzy, light-headed feeling and can last up to 3 hours.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/juicy-fruit_100x100.jpg"
+			},
+			{"strainId": 405,
+			 "strainName": "Snow Monster",
+			 "strainType": "Indica",
+			 "components": [
+			 	{ 
+			 		"name": "THC9",  
+			 		"value": 20.74
+			 	},
+			 	{ 
+			 		"name": "CBD", 
+			 		"value": 0.15
+			 	},
+			 	{ 
+			 		"name": "CBN", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "CBG", 
+			 		"value": 0.23	
+			 	},
+			 	{ 
+			 		"name": "CBC", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "THCV", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THCA", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "THC8", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pulegone", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Myrcene", 
+			 		"value": 0.06
+			 	},
+			 	{ 
+			 		"name": "Caryophyllene", 
+			 		"value": 0.37
+			 	},
+			 	{ 
+			 		"name": "Limonene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Linalool", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Eucalyptol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Pinene", 
+			 		"value": 0.45
+			 	},
+			 	{ 
+			 		"name": "Terpineol", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Terpineol-4", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cymene", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Apigenin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Quercetin", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Cannflavin A", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Beta-sitosterol", 
+			 		"value": 0.00 
+			 	},
+			 	{ 
+			 		"name": "CBL", 
+			 		"value": 0.00
+			 	},
+			 	{ 
+			 		"name": "Humulene", 
+			 		"value": 1.35
+				},
+				{ 
+			 		"name": "Terpinolene", 
+			 		"value": 0.00
+				}	
+		 	], 
+		 	"taste": ["Blue Cheese", "Earthy", "Woody"],
+		 	 "conditions": ["Pain", "Insomnia", "Stress", "Headache", "Inflammation"],
+			 "positiveEffects": ["Relaxed", "Euphoric", "Happy", "Uplifted", "Creative"],
+			 "negativeEffects": ["Dry Mouth"],
+			 "descriptionDetailed": "",
+			 "descriptionAbbrev": "Snow Monster from Exotic Genetix is a 70/30 indica-dominant cross between The White and Starfighter.",
+			 "tags": [""],
+			 "imageUrl": "images/strains/snow-monster_100x100.jpg"
 			}
 		]; 
 		
