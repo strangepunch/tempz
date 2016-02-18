@@ -2609,7 +2609,7 @@
 			 "recEffectName": "Mind + Body",  
 			 "recEffectType": "P",
 			 "recEffectTempRange" : "Hi",
-			 "imageUrl": "images/Rec/mindandbodyBuzz.png"
+			 "imageUrl": "images/rec/mindandbodybuzz.png"
 			},
 			{"recEffectId": 17,
 			 "recEffectName": "Conversational",  
@@ -48842,7 +48842,7 @@
 			 "imageUrl": "images/strains/godsgiftbubba0053.png"
 			},
 			{"strainId": 381,
-			 "strainName": "Wnite Smurf",
+			 "strainName": "White Smurf",
 			 "strainType": "Hybrid",
 			 "components": [
 			 	{ 
@@ -49407,7 +49407,7 @@
 			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Drowsiness", "Munchies", "Dry Eyes", "Dry Mouth", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": " Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
+			 "descriptionAbbrev": "Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/purple-kush_100x100.jpg"
 			},
@@ -50316,7 +50316,7 @@
 		 	], 
 		 	"taste": ["Grape", "Earthy", "Sweet"],
 		 	 "conditions": ["Stress", "Pain", "Insomnia"],
-			 "positiveEffects": ["Relaxed", "Sleepy", "Happy", "Euphoric", "Hungry"],
+			 "positiveEffects": ["Relaxed", "Drowsiness", "Happy", "Euphoric", "Hungry"],
 			 "negativeEffects": ["Dry Mouth", "Dry Eyes", "Paranoid", "Dizzy", "Headache"],
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
