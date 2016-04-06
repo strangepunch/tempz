@@ -37,6 +37,7 @@
 						.state("home", {
 							url: "/",
 							templateUrl: "app/welcomeView.html",
+							controller: "ThemeListCtrl as vm"
 						})
 
 						//Simple
@@ -72,10 +73,10 @@
 							
 						})
 						
-						//Theme
-						.state("themes", {
-							url: "/themes",
-							templateUrl: "app/themes/themesView.html",
+						//Disclaimer
+						.state("disclaimer", {
+							url: "/disclaimer",
+							templateUrl: "app/welcomeView.html",
 						})
 
 				}]

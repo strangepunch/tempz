@@ -3,18 +3,39 @@
       .module("productManagement")
       .controller("ThemeListCtrl",
 						["$scope",
+             "$location",
              "$cookies",
              "localStorageService",  
 							ThemeListCtrl]);
 	
-	function ThemeListCtrl($scope, $cookies, localStorageService){
+	function ThemeListCtrl($scope, $location, $cookies, localStorageService){
 		  var vm = this;
       
-      //sets your theme
+      //initialize your selection
       if(localStorageService.isSupported) {
         $scope.favoriteTheme = localStorageService.get('myTheme');
+        $scope.theAgreement = localStorageService.get('myAgreement');
+        $scope.lastView = localStorageService.get('whereAmIFrom');
+        //check if user selected agreement and redirect them
+        if($scope.theAgreement != null && $scope.theAgreement == "I Agree"){
+          if($scope.lastView == "Med"){
+            $location.path("/easy");
+          }else{
+            $location.path("/rec");
+          }
+        }
       }else{
         $scope.favoriteTheme = $cookies.myTheme;
+        $scope.theAgreement = $cookies.myAgreement;
+        $scope.lastView = localStorageService.get('whereAmIFrom');
+        //check if user selected agreement and redirect them
+        if($scope.theAgreement != null && $scope.theAgreement == "I Agree"){
+          if($scope.lastView == "Med"){
+            $location.path("/easy");
+          }else{
+            $location.path("/rec");
+          }
+        }
       }
 
       $scope.selectTheme = function(item){
@@ -64,6 +85,21 @@
 
           }
         
+      }
+      //Keep logs of user selected agreement
+      vm.checkAgreement = function(item){
+        console.log("item", item);
+
+        if(localStorageService.isSupported) {
+
+          localStorageService.set('myAgreement', item);
+
+        }else {
+
+          $cookies.theAgreement = item;
+
+        }
+
       }
      
   }
