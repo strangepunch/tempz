@@ -144,12 +144,12 @@ html, body {
 }
 
 #mainView img{
-	max-width: 40%;
+	max-width: 50%;
 	margin-bottom: 10px;
 	text-align: center;
 	color: #f00;
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
+    /**-webkit-filter: invert(100%);
+    filter: invert(100%);**/
 }
 
 /**----------Easy View---------------**/

@@ -51,8 +51,8 @@
 }
 
 #mainView img{
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
+    /**-webkit-filter: invert(100%);
+    filter: invert(100%);**/
 }
 /**----------Easy View---------------**/
 #easyView .panel {
