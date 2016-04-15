@@ -247,6 +247,7 @@ html, body {
 	margin-bottom: 10px;
 	margin-top: 10px;
 	color: white;
+	z-index: 1000;
 }
 #easyView .tCircle span{
 	font-size: 3em;
@@ -442,6 +443,7 @@ html, body {
 	margin-bottom: 10px;
 	margin-top: 10px;
 	color: white;
+	z-index: 1000;
 }
 #recView .tCircle span{
 	font-size: 3em;

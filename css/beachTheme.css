@@ -109,6 +109,7 @@
 	border-color: black;
 	background-color:rgba(102, 255, 255,0.8);
 	color: black;
+	z-index: 1000;
 }
 
 #easyView .active{
@@ -171,6 +172,7 @@
 	border-color: black;
 	background-color:rgba(102, 255, 255,0.8);
 	color: black;
+	z-index: 1000;
 }
 
 #recView .active{
