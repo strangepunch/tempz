@@ -236,6 +236,8 @@ html, body {
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
     border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
 	padding: 20px;
 	width: 200px;
 	height: 205px;
@@ -248,7 +250,19 @@ html, body {
 	margin-top: 10px;
 	color: white;
 	z-index: 1000;
+
 }
+#easyView .tCircle ::before{
+	border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+}
+#easyView .tCircle ::after{
+	border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+}
+
 #easyView .tCircle span{
 	font-size: 3em;
 }
@@ -432,6 +446,8 @@ html, body {
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
     border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
 	padding: 20px;
 	width: 200px;
 	height: 205px;
@@ -445,6 +461,17 @@ html, body {
 	color: white;
 	z-index: 1000;
 }
+#recView .tCircle ::before{
+	border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+}
+#recView .tCircle ::after{
+	border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+}
+
 #recView .tCircle span{
 	font-size: 3em;
 }

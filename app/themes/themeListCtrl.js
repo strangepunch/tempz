@@ -10,7 +10,8 @@
 	
 	function ThemeListCtrl($scope, $location, $cookies, localStorageService){
 		  var vm = this;
-      
+
+      vm.OK = false;
       //initialize your selection
       if(localStorageService.isSupported) {
         $scope.favoriteTheme = localStorageService.get('myTheme');
@@ -18,6 +19,7 @@
         $scope.lastView = localStorageService.get('whereAmIFrom');
         //check if user selected agreement and redirect them
         if($scope.theAgreement != null && $scope.theAgreement == "I Agree"){
+          vm.OK = true;
           if($scope.lastView == "Med"){
             $location.path("/easy");
           }else{
@@ -30,6 +32,7 @@
         $scope.lastView = localStorageService.get('whereAmIFrom');
         //check if user selected agreement and redirect them
         if($scope.theAgreement != null && $scope.theAgreement == "I Agree"){
+          vm.OK = true;
           if($scope.lastView == "Med"){
             $location.path("/easy");
           }else{
