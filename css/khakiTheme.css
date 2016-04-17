@@ -87,6 +87,10 @@
 	color: black;
 }
 
+#easyView .panel-text{
+	background-color:rgba(255, 230, 178,0.7);
+}
+
 #easyView .panel-heading {
 	background-color: rgba(255, 230, 178,0.2);
 	color: black;

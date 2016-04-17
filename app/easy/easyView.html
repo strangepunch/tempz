@@ -112,9 +112,20 @@
 				<div class="panel-body">
 					<div class="col-xs-12"> <bold>You selected: </bold></div>
 					<div class="col-xs-6"> {{vm.selectedCond}} </div>
-					<div class="col-xs-6" ng-if="vm.hasEnterStrain" ui-sref="strainDetails({strainId: vm.yourStrain.strainId})"> {{vm.selectedStrain}} <span class="glyphicon glyphicon-chevron-right"></span></div>
+					<!-- <div class="col-xs-6" ng-if="vm.hasEnterStrain" ui-sref="strainDetails({strainId: vm.yourStrain.strainId})"> {{vm.selectedStrain}} <span class="glyphicon glyphicon-chevron-right"></span></div> -->
 				</div>
-		
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class = "panel panel-image" ng-if="vm.hasEnterStrain" 
+					 ui-sref="strainDetails({strainId: vm.yourStrain.strainId})" 
+				     style="background-image:url({{vm.bgImage}})">
+					<span class="panel-text">
+						{{vm.selectedStrain}}
+						<span class="glyphicon glyphicon-chevron-right"></span>
+					</span> 
+				</div>
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-xs-12">

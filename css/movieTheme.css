@@ -60,6 +60,10 @@
 	color: white;
 }
 
+#easyView .panel-text{
+	background-color:rgba(1,43,2,0.2);
+}
+
 #easyView .panel-heading {
 	background-color: rgba(1,43,2,0.2);
 	color: white;

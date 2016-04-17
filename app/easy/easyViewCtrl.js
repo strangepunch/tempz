@@ -252,6 +252,13 @@
 	     	vm.showQ2 = !vm.showQ2; //toggle the questions display off
 	     	vm.selectedStrain = name;
 	     	vm.userSelect[0].strnName = vm.selectedStrain;
+
+	     	for(var i=0; i<vm.strainNames.length; i++){
+	     		if(vm.strainNames[i].strainName === name){
+	     			//vm.strainT = vm.strainNames[i].strainType;
+	     			vm.bgImage = vm.strainNames[i].imageUrl;
+	     		}
+	     	}
 	    };
 	    //search and filter strain names for selection
 	    vm.searchAll = "";
