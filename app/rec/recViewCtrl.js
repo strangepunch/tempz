@@ -30,7 +30,7 @@
 		vm.styleRec={"color":"Red","font-size": "1.1em"};
 
 		//initiate center image for first time entry
-		vm.centerImage = "images/Rec/1.png";
+		vm.centerImage = "images/rec/1.png";
 		vm.modeName = "Flavor";
 		vm.discMode = "Taste";
 		vm.taste = true;

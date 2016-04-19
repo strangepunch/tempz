@@ -246,6 +246,8 @@ html, body {
 #easyView .tCircle {
 	border-style: solid;
 	border-color: white;
+	-webkit-border-style:none;
+	-webkit-border:none;
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
     border-radius: 50%;
@@ -493,11 +495,25 @@ html, body {
 #recView .tCircle {
 	border-style: solid;
 	border-color: white;
+	-webkit-border-style:none;
+	-webkit-border:none;
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
-    border-radius: 50%;
+   	border-radius: 50%;
+    border-top-left-radius: 50%; 
+	border-top-right-radius: 50%; 
+	border-bottom-left-radius: 50%; 
+	border-bottom-right-radius: 50%;
     -webkit-border-radius:50%;
+    -webkit-border-top-left-radius: 50%; 
+	-webkit-border-top-right-radius: 50%; 
+	-webkit-border-bottom-left-radius: 50%; 
+	-webkit-border-bottom-right-radius: 50%;
     -moz-border-radius:50%;
+    -moz-border-top-left-radius: 50%; 
+	-moz-border-top-right-radius: 50%; 
+	-moz-border-bottom-left-radius: 50%; 
+	-moz-border-bottom-right-radius: 50%;
 	padding: 20px;
 	width: 200px;
 	height: 205px;
@@ -513,13 +529,37 @@ html, body {
 }
 #recView .tCircle ::before{
 	border-radius: 50%;
+    border-top-left-radius: 50%; 
+	border-top-right-radius: 50%; 
+	border-bottom-left-radius: 50%; 
+	border-bottom-right-radius: 50%;
     -webkit-border-radius:50%;
+    -webkit-border-top-left-radius: 50%; 
+	-webkit-border-top-right-radius: 50%; 
+	-webkit-border-bottom-left-radius: 50%; 
+	-webkit-border-bottom-right-radius: 50%;
     -moz-border-radius:50%;
+    -moz-border-top-left-radius: 50%; 
+	-moz-border-top-right-radius: 50%; 
+	-moz-border-bottom-left-radius: 50%; 
+	-moz-border-bottom-right-radius: 50%;
 }
 #recView .tCircle ::after{
 	border-radius: 50%;
+    border-top-left-radius: 50%; 
+	border-top-right-radius: 50%; 
+	border-bottom-left-radius: 50%; 
+	border-bottom-right-radius: 50%;
     -webkit-border-radius:50%;
+    -webkit-border-top-left-radius: 50%; 
+	-webkit-border-top-right-radius: 50%; 
+	-webkit-border-bottom-left-radius: 50%; 
+	-webkit-border-bottom-right-radius: 50%;
     -moz-border-radius:50%;
+    -moz-border-top-left-radius: 50%; 
+	-moz-border-top-right-radius: 50%; 
+	-moz-border-bottom-left-radius: 50%; 
+	-moz-border-bottom-right-radius: 50%;
 }
 
 #recView .tCircle span{

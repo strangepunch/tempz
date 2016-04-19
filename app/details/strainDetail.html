@@ -8,7 +8,7 @@
 						<div ng-repeat="mode in vm.ModeA|limitTo:3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li ng-click="selectMode(mode)"> 
-								<img ng-src="images/Rec/{{mode}}.png"> 
+								<img ng-src="images/rec/{{mode}}.png"> 
 							</li>
 						</div>
 					</td>
@@ -38,7 +38,7 @@
 						<div ng-repeat="mode in vm.ModeB|limitTo:3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  ng-click="selectMode(mode)" style="text-align:right">
-								<img ng-src="images/Rec/{{mode}}.png">
+								<img ng-src="images/rec/{{mode}}.png">
 							</li>	
 						</div>
 
@@ -177,7 +177,7 @@
 					<div class = "row center">
 						<div class="col-xs-11">
 							<div class="sizeImage adjust">
-								<img ng-src="images/Rec/painrelief.png"> 
+								<img ng-src="images/rec/painrelief.png"> 
 								<div>{{list}}</div>
 							</div>
 						</div>
@@ -244,7 +244,7 @@
 						<span ng-style="vm.styleF" ng-click="selectTemp('F')">F</span>/<span ng-style="vm.styleC" ng-click="selectTemp('C')">C</span>
 					</div>
 					<div class="col-xs-12 vapeDetail" ng-repeat="tempList in vm.TempList|orderBy:'-temp'">
-						<img ng-src="images/Rec/{{tempList.image}}.png">
+						<img ng-src="images/rec/{{tempList.image}}.png">
 						{{tempList.temp}}
 					</div>
 				</div>
