@@ -198,14 +198,14 @@
 			 "VImageUrl": "images/vapes/puffit1.png"
 			},
 			{"VId": 17,
-			 "VName": "Haze", 
+			 "VName": "Haze V3", 
 			 "VManufacturer" : "Haze Vaporizers",
 			 "VType": "Portable",
 			 "VTempType": "Y",
 			 "VTempsF": ["365", "380", "390", "415"],
 			 "VTempsC": ["185", "193", "198", "212"],
 			 "VColors": ["Md", "Md", "Hi", "Hi"],
-			 "descriptionAbbrev":  "Haze is the first portable vaporizer with dual chambers, allowing vaporization of dried blends, solid concentrates, and liquids interchangeably and simultaneously.",
+			 "descriptionAbbrev":  "The Haze Dual V3 is a dual chamber portable vaporizer by Haze technologies that offers both conduction and convection heating methods for your dry herbs and can also vape your e-liquids, concentrates and waxes. This is a versatile vaping device for those who want a solid all-in-one vaporizer, without breaking the bank.",
 			 "VImageUrl": "images/vapes/haze1.png"
 			},
 			{"VId": 18,
@@ -394,17 +394,6 @@
 			 "VColors": ["Hi"],
 			 "descriptionAbbrev": "The Underdog has a stainless steel heating core. Air is drawn into the Underdog, around the heating core, and up through the herbs in the stem. You should use a voltage regulator is you would like control over a wide range of temperatures.",
 			 "VImageUrl": "images/vapes/Underdog-001-225x300.png",
-			},
-			{"VId": 35,
-			 "VName": "Haze 2", 
-			 "VManufacturer" : "Haze Vaporizers",
-			 "VType": "Portable",
-			 "VTempType": "Y",
-			 "VTempsF": ["365", "380", "390", "415"],
-			 "VTempsC": ["185", "193", "198", "212"],
-			 "VColors": ["Md", "Md", "Hi", "Hi"],
-			 "descriptionAbbrev":  "The latest Haze portable vaporizer with dual chambers. Great at solid and liquid concentrates as well as herb.",
-			 "VImageUrl": "images/vapes/haze1.png"
 			}
 		];
 
@@ -1452,7 +1441,7 @@
 			},
 			{
 				"VTipId": 17,
-				"VName": "Haze",
+				"VName": "Haze V3",
 				"VTipList": [
 				 	{ 
 				 		"tipNum": "1", 
@@ -2518,74 +2507,8 @@
 				 		"TipImg" : "images/vapes/pax1.png"
 				 	}
 			 	]
-			},
-			{
-				"VTipId": 36,
-				"VName": "Haze 2",
-				"VTipList": [
-				 	{ 
-				 		"tipNum": "1", 
-				 		"tipTxt": "The Haze is designed to allow you to enjoy both concentrates and dry herbs with it's two chambers. You can also use dry herb for both chambers if you like extending your session and giving you the option of more tastes and effects with less hassle.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "2", 
-				 		"tipTxt": "Haze Technologies helped ease the pain of not winning an Oscar by including the Haze vaporizer in the ACADEMY AWARDS Oscar Nominees gift bags.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "3", 
-				 		"tipTxt": "Vapor is not smoke, so it's ok to hold in.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "4", 
-				 		"tipTxt": "Bring an extra battery and you ve got 2+ hours before needing to charge.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "5", 
-				 		"tipTxt": "At the size and weight of a flask of whiskey, this vaporizer is more suited to a bag, purse or jacket pocket rather than your pants pocket.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "6", 
-				 		"tipTxt": "The best way to clean the path is with alcohol soaked Q-tip. Simply remove the mouthpiece and insert the alcohol soaked Q-tip into the air path. It will clean all residue within seconds.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "7", 
-				 		"tipTxt": "Haze is using a controlled system for temperatures. The approximate temperatures range 250-275 , 350 – 370, 375- 410, 410-470F. When there is wax content with cans, the system uses a higher value for heating. With conduction screen at low temperature, you will experience the lower end of the range.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "8", 
-				 		"tipTxt": "If you put the unit down without activity (no draws), the unit will shut itself off.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "9", 
-				 		"tipTxt": "The Haze heating element is stainless steel. All metal parts inside and accessories are surgical grade stainless steel (the most expensive and high end steel version). Including the cans, screens, mouthpiece, bowls etc.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "10", 
-				 		"tipTxt": "Convection screen will give you a taste, will medicate you 100% without much physical or visible vapor output at setting 3. This setting may be a bit low for some people, at setting 4 the haze will give you more visible vapor.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "11", 
-				 		"tipTxt": "If you use the conduction screens (the open side ones) at setting 3, you will see that it is the optimum temperature setting for the dry herb for most people. The conduction screen with setting 4 will produce much thicker vapor, but can be a bit on the hot side for some people.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	},
-				 	{ 
-				 		"tipNum": "12", 
-				 		"tipTxt": "Most people use these cans to pre-pack the dry herb and take several cans out to concerts parks etc and they love the performance. So they don't have to deal with prep, dump, grind when they are out.",
-				 		"TipImg" : "images/vapes/haze1.png"
-				 	}
-			 	]
 			}
-
+			
 		];  
 
 		/**var temperatures = [126, 246, 273, 313, 315, 334, 349, 351, 352, 356, 360, 365, 388, 408, 423, 428, 435, 482]**/
@@ -48800,7 +48723,7 @@
 			 "positiveEffects": ["Potent", "Relaxed","Hungry", "Creative", "Mind + Body", "Euphoric"],
 			 "negativeEffects": [""],
 			 "descriptionDetailed": "",
-			 "descriptionAbbrev": "Diesel Matic is a cross of super-fast Skull Ryder and the multiple award winner NYCD (New York City Diesel). The Indica dominant genetics of Diesel Matic make for a fairly narcotic effect although it is not a total ‘couch-locker’ and allows the smoker to stay active.",
+			 "descriptionAbbrev": "Diesel Matic is a cross of super-fast Skull Ryder and the multiple award winner NYCD (New York City Diesel). The Indica dominant genetics of Diesel Matic make for a fairly narcotic effect although it is not a total 'couch-locker' and allows the smoker to stay active.",
 			 "tags": [""],
 			 "imageUrl": "images/strains/auto-diesel-matic.jpg"
 			}, 

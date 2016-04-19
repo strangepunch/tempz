@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"chees",
+				"Cheesecake"
+			],
+			[
 				"Di",
 				"Disease"
 			],
@@ -510,10 +514,6 @@
 			[
 				"Isom",
 				"Insomnia"
-			],
-			[
-				"So",
-				"Social"
 			]
 		]
 	},
@@ -523,27 +523,24 @@
 			"file": "common/services/productResourceMock.js",
 			"settings":
 			{
-				"buffer_size": 1043232,
+				"buffer_size": 1149107,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "{\"strainId\": 230,\n			 \"strainName\": \"Dr Who\",\n			 \"strainType\": \"Hybrid\",\n			 \"components\": [\n			 	{ \n			 		\"name\": \"THC9\",  \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBD\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBN\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBG\", \n			 		\"value\": 0.00	\n			 	},\n			 	{ \n			 		\"name\": \"CBC\", \n			 		\"value\": 0.00 \n			 	},\n			 	{ \n			 		\"name\": \"THCV\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"THCA\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"THC8\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Pulegone\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Myrcene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Caryophyllene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Limonene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Linalool\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Eucalyptol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Pinene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Terpineol-4\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Cymene\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Apigenin\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Quercetin\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Cannflavin A\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Beta-sitosterol\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"CBL\", \n			 		\"value\": 0.00\n			 	},\n			 	{ \n			 		\"name\": \"Humulene\", \n			 		\"value\": 0.00\n				},\n				{ \n			 		\"name\": \"Terpinolene\", \n			 		\"value\": 0.00\n				}	\n		 	], \n		 	\"taste\": [\"\"],\n		 	 \"conditions\": [\"\"],\n			 \"positiveEffects\": [\"\"],\n			 \"negativeEffects\": [\"\"],\n			 \"descriptionDetailed\": \"\",\n			 \"descriptionAbbrev\": \"\",\n			 \"tags\": [\"\"],\n			 \"imageUrl\": \"images/strains/hawaiian-snow_100x100.jpg\"\n			}",
-			"file": "text resources/emptyStrain.js",
-			"file_size": 2013,
-			"file_write_time": 130871917046838255,
+			"file": "/C/Users/shane/Documents/2GeeseFlying/website/original_site/index.html",
 			"settings":
 			{
-				"buffer_size": 1900,
+				"buffer_size": 19176,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "common/services/emtpyTip.js",
+			"file": "/C/Users/shane/Desktop/tempz_prod/tempz/www/index.html",
 			"settings":
 			{
-				"buffer_size": 1387,
-				"line_ending": "Windows"
+				"buffer_size": 2069,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -595,6 +592,29 @@
 	],
 	"file_history":
 	[
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/emptyStrain.js",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/emtpyTip.js",
+		"/C/Users/shane/Documents/strange punch/Tracy/website/Aspen/index.html",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd_old/platforms/android/AndroidManifest.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/gradlew.bat",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd_old/config.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/src/com/tempz/tempzProd/MainActivity.java",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/project.properties",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/build/outputs/apk/manifest-merger-debug-report.txt",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/platforms.json",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/npm-debug.log",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/config.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/AndroidManifest.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/src/com/2gf/tempzProd/MainActivity.java",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/tempzProd/platforms/android/src/com/2GF/tempzProd/MainActivity.java",
+		"/C/Users/shane/Documents/strange punch/424all/apps/tempz_keystore/keystore generation command.txt",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/platforms/android/ant.properties",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/config.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/fakeActivityExt.java",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/platforms/android/src/org/apache/cordova/whitelist/WhitelistPlugin.java",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/platforms/android/AndroidManifest.xml",
+		"/C/Users/shane/Documents/strange punch/424all/apps/TProd/TempzProd/platforms/android/project.properties",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/index.html",
 		"/C/Users/shane/Documents/strange punch/424all/grunt-angular-phonegap-example/package.json",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/condtions.txt",
@@ -630,7 +650,6 @@
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/strainTastes.txt",
 		"/D/strange punch site assets/Sp2 site/index.html",
-		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/common/services/productResourceMock.js",
 		"/C/Users/shane/Documents/strange punch/424all/apps/tempz/text resources/recEffects.js",
 		"/C/Users/shane/Documents/strange punch/Multivision/server.js",
 		"/C/Users/shane/Documents/strange punch/Multivision/server/views/index.jade",
@@ -700,29 +719,7 @@
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/app_new.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/sunSet.css",
 		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.29.txt",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.min.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/beachVacation.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/js/ng-audio.min.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/blackLight_before.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipViewCtrl.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/tips/tipListCtrl.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/devnotes/Uke-2.28.txt",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/improv/improv1View.html",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/beatResource.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/productResource.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/common.services.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/common/services/chordService.js",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/puebloClay.css",
-		"/C/Users/shane/Documents/strange punch/zhenQ/uke/app/welcomeView.html",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Inflator.Native.VST.v1.5.1-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Limiter.Native.VST.v1.1.1-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.R3.Dynamics.Native.VST.v1.3.1-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.R3.EQ.Native.VST.v1.6.1-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Reverb.Native.VST.v1.0-AiR/air.nfo",
-		"/D/tools/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.Native.VST.Plugins.Pack-AiR/Sonnox.Oxford.TransMod.Native.VST.v1.3.1-AiR/air.nfo",
-		"/C/Users/shane/Documents/strange punch/zhenQ/xparent nav buttons/css/blackLight.css"
+		"/C/Users/shane/Documents/strange punch/zhenQ/uke/css/ng-audio.css"
 	],
 	"find":
 	{
@@ -742,6 +739,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"black buddah",
+			"afghani bull",
+			"LA Chocolat",
+			"L.A. Chocolat",
+			"heri",
+			"\n			 ",
+			"blue dream",
+			"Fire bomb",
 			"Caryophyllene",
 			"tip goe",
 			"tip gore",
@@ -861,15 +866,7 @@
 			"Terpineol",
 			"Eucalyptol",
 			"Analgesic",
-			"temps",
-			"temp",
-			"Caryophyllene",
-			"skywalker og",
-			"skywalker",
-			"Less Social",
-			"skywalker",
-			"skywalker og",
-			"apple"
+			"temps"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -993,7 +990,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1002,36 +999,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1043232,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								198829,
-								198829
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 82.0,
-						"translation.y": 120759.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "text resources/emptyStrain.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1900,
+						"buffer_size": 1149107,
 						"regions":
 						{
 						},
@@ -1039,7 +1007,7 @@
 						[
 							[
 								0,
-								1900
+								0
 							]
 						],
 						"settings":
@@ -1048,7 +1016,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/shane/Documents/2GeeseFlying/website/original_site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2276,
+								2276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 555.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1056,31 +1052,30 @@
 				},
 				{
 					"buffer": 2,
-					"file": "common/services/emtpyTip.js",
+					"file": "/C/Users/shane/Desktop/tempz_prod/tempz/www/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1387,
+						"buffer_size": 2069,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								1387
+								2069,
+								2069
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 590.0,
+						"translation.y": 203.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

@@ -38,21 +38,21 @@
 						<div ng-if="vm.taste" ng-repeat="mode in vm.ModeT|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  style="text-align:right">
-								<img ng-src="images/Rec/{{mode}}.png">
+								<img ng-src="images/rec/{{mode}}.png">
 							</li>	
 						</div>
 					<!--for Effect mode-->
 						<div ng-if="vm.effect" ng-repeat="mode in vm.ModeE|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  style="text-align:right">
-								<img ng-src="images/Rec/{{mode}}.png">
+								<img ng-src="images/rec/{{mode}}.png">
 							</li>	
 						</div>
 					<!--for Strain mode-->
 						<div ng-if="vm.strain" ng-repeat="mode in vm.ModeS|limitTo:-3 track by $index">
 							<div ng-class="active(mode)"></div>
 							<li  style="text-align:right">
-								<img ng-src="images/Rec/{{mode}}.png">
+								<img ng-src="images/rec/{{mode}}.png">
 							</li>	
 						</div>
 						

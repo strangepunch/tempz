@@ -72,7 +72,7 @@
 			switch(mode) {
 			    case 1:
 			    	vm.modeName = "Flavor";
-			    	vm.centerImage = "images/Rec/1.png";
+			    	vm.centerImage = "images/rec/1.png";
 			    	vm.discMode = "Taste";
 			    	vm.taste = true;
 					vm.strain = false;
@@ -99,7 +99,7 @@
 			        break;
 			    case 2:
 			    	vm.modeName = "Effect";
-			    	vm.centerImage = "images/Rec/2.png";
+			    	vm.centerImage = "images/rec/2.png";
 			    	vm.discMode = "Feel";
 			    	vm.taste = false;
 					vm.strain = false;
@@ -126,7 +126,7 @@
 			        break;
 			    case 3:
 			    	vm.modeName = "Buds";
-			    	vm.centerImage = "images/Rec/3.png";
+			    	vm.centerImage = "images/rec/3.png";
 			    	vm.discMode = "Strain";
 			    	vm.taste = false;
 					vm.strain = true;
@@ -153,7 +153,7 @@
 			        break;
 			    default:
 			        vm.modeName = "Select Mode";
-			        vm.centerImage = "images/Rec/1.png";
+			        vm.centerImage = "images/rec/1.png";
 			        vm.discMode = "Select Mode";
 			        vm.thereIsMore = false;
 			        vm.MoreOrLess = false;
@@ -501,7 +501,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
-    				vm.centerImage = "images/Rec/1.png";
+    				vm.centerImage = "images/rec/1.png";
 					break;
 				case 'A2':
 					$scope.showAnswer2 = false;
@@ -511,7 +511,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
-    				vm.centerImage = "images/Rec/2.png";
+    				vm.centerImage = "images/rec/2.png";
 					break;
 				case 'A3':
 					$scope.showAnswer3 = false;
@@ -521,7 +521,7 @@
     				vm.strainSuggestions=[];
     				vm.MoreOrLess = false;
     				vm.thereIsMore = false;
-    				vm.centerImage = "images/Rec/3.png";
+    				vm.centerImage = "images/rec/3.png";
 					break;
     		}
    
