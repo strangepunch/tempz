@@ -246,8 +246,6 @@ html, body {
 #easyView .tCircle {
 	border-style: solid;
 	border-color: white;
-	-webkit-border-style:none;
-	-webkit-border:none;
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
     border-radius: 50%;
@@ -495,8 +493,6 @@ html, body {
 #recView .tCircle {
 	border-style: solid;
 	border-color: white;
-	-webkit-border-style:none;
-	-webkit-border:none;
 	background-color:rgba(0,0,0,0.2);
     border-width: 5px;
    	border-radius: 50%;
