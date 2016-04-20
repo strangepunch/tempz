@@ -696,7 +696,7 @@ html, body {
 
 /**the frog shaped components display**/
 #recView .compCircle{
-	background-image: url('../images/Rec/Happy.png');
+	background-image: url('../images/rec/happy.png');
 	background-size: contain;
 	width: 130px;
 	height: 130px;

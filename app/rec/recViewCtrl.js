@@ -61,6 +61,7 @@
 		modeResource.query(function(data){
 			vm.Modes = data;
 			vm.ModeT = [data[3],data[4],data[5]];
+
 			vm.ModeS = [data[6],data[7],data[8]];
 			vm.ModeE = [data[9],data[10],data[11]];
 			vm.currentMode = vm.Modes[0]; //initiate mode
@@ -205,6 +206,9 @@
 					vm.effectT = vm.recEffectList[i].recEffectTempRange;
 					vm.selectedEffectType = vm.recEffectList[i].recEffectType;
 					//console.log("vm.effectT", vm.effectT)
+					console.log("vm.modeName", vm.modeName)
+					console.log("vm.effectT", vm.effectT)
+					console.log("vm.selectedEffectType", vm.selectedEffectType)
 				}
 			};
 			vm.selectedSomething = 1;
