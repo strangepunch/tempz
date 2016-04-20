@@ -3587,7 +3587,7 @@
 			{"strainId": 73,
 			 "strainName": "Tangerine", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/tangerine_100x100jpg"
+			 "imageUrl": "images/strains/tangerine_100x100.jpg"
 
 			},
 			{"strainId": 74,
@@ -3689,7 +3689,7 @@
 			{"strainId": 90,
 			 "strainName": "Master Bubba", 
 			 "strainType": "Hybrid",
-			 "imageUrl": "images/strains/master-bubba_100x100jpg"
+			 "imageUrl": "images/strains/master-bubba_100x100.jpg"
 
 			},
 			{"strainId": 91,
@@ -5464,7 +5464,7 @@
 			{"strainId": 395,
 			 	"strainName": "Blackberry",
 			 	"strainType": "Indica",
-			 	"im0ageUrl": "images/strains/blackberry_100x100.jpg"
+			 	"imageUrl": "images/strains/blackberry.jpg"
 			},
 			{"strainId": 396,
 			 	"strainName": "Plushberry",
@@ -13842,7 +13842,7 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "The fruity tangerine aroma is accompanied with notes of mango and pineapple. Helps with Fibromyalgia, PMS and Impotence.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/tangerine_100x100jpg"
+			 "imageUrl": "images/strains/tangerine_100x100.jpg"
 			},
 			{"strainId": 74,
 			 "strainName": "Tangilope", 
@@ -15780,7 +15780,7 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev":  "This strain can be very potent, making it best in the evening or as a nightcap.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/master-bubba_100x100jpg"
+			 "imageUrl": "images/strains/master-bubba_100x100.jpg"
 			},
 			{"strainId": 91,
 			 "strainName": "Pineapple Thai", 
@@ -50549,7 +50549,7 @@
 			 "descriptionDetailed": "",
 			 "descriptionAbbrev": "Known for its balance of an active sativa buzz and high yields, Blackbery has strong smoke that can have a fuel smell, but it is dominantly fruity.",
 			 "tags": [""],
-			 "imageUrl": "images/strains/blackberry_100x100.jpg"
+			 "imageUrl": "images/strains/blackberry.jpg"
 			},
 			{"strainId": 396,
 			 "strainName": "Plushberry",

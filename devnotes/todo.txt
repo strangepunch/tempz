@@ -1,0 +1,18 @@
+todo
+4/19/2016
+
+1. find each path for missing images in app and verify lowercase
+	x initial balanced img on welcome view
+	x low, med, hi temp indicators in plant detail mode 
+	x component percentages
+	x main Rec screen - negative, medical and vape images
+2. research and add neuropathy as a condition (possibly a portion of diabetes, muscle pain or )
+3.  x find out where to add the actual app files in xcode for a cordova build (and add them)
+4. x find out if we have enough certs etc to publish locally
+5. list steps needed to "release" an app to the App store
+6. find out and list what steps are needed to release an app on the google play store 
+7. be sure the layout of each vape description and tip section is readable and typo free
+8. start collecting search history to compile list of references 
+9. get legal agreement verified as effective and complete protection from lawsuits
+10. x fix iOS build resolution bug
+11. fix missing strain images bug
