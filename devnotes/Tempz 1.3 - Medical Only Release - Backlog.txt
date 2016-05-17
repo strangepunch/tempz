@@ -1,0 +1,17 @@
+Tempz 1.3 - Medical Only
+Changes that need to made before App store submission in two weeks:
+
+1. Comment out all links providing access to Rec mode
+-index.html - comment out reference to Rec and changed Med Mode to "Home"
+-easyView.html - comment out div including Med/Rec control and increase font size of cannabinoid to 1.0em
+
+
+2. Remove "Rec Mode" from left hand nav
+3. Change "Med Mode" to Home or remove completely and place the frog icon there
+4. Change online app store description to medical description
+5. Update google play store build and test on android
+6. Update version at Google Play store including graphics and text description
+7. Change website and support page to relfect health benefits not recreational use
+8. Change facebook text description to focus on health benefits
+9. Update online graphics at app store and play store to reflect only medical mode screens
+10. 

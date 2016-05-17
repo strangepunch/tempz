@@ -48,11 +48,11 @@
 						})
 
 						//Simple Rec
-						.state("rec", {
+						/**.state("rec", {
 							url: "/rec",
 							templateUrl: "app/rec/recView.html",
 							controller: "RecViewCtrl as vm"
-						})
+						}) **/
 
 						//Strains - detailed
 						.state("strainDetails", {
